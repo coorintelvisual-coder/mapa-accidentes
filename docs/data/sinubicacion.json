@@ -1,5 +1,328 @@
 [
  {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Trasladan a hospitales de la capital de Campeche a dos heridos de bala en Sabancuy; uno está crítico",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/12/trasladan-hospitales-capital-campeche-heridos-bala-sabancuy-critico.html"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_campeche"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Refrescos de la Pepsi quedan regados tras volcadura de tráiler en la carretera Mérida-Motul",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/12/refrescos-pepsi-quedan-regados-volcadura-trailer-carretera-merida-motul.html"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_merida"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Choque de un zopilote contra cables provocó apagón en el Centro Histórico de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0M3SzFLREptMkh2SWloUkdoclNlSDhDNjNHZEhsVkh4bjM2Rm52d2ZFbUpXTWUteGVTOVFEYjBSSWpPTmhMejhmMnlYenltQzgxVzI4cVRXRWNwVTkwemhCa3lQYkZaLTFLVlFORjg2SU9Fa0xYS1huZzFtOHVQUmV3eFR3LWdMTFF0OGVpUEtES2xCOGFOU00zU3I0TnRaSVRNQk96S1Y0eFJHbTkwZS1hMEhEX2fSAbwBQVVfeXFMTUNIMjRfb3VoR1NVeXY5YXVjVWRoR0RxZk5xY2dsb2gxQ1ZpcEFNYXFOS1FkZTRwNVlTc3k5Zkdsa091ejVnUld6VmxHYmZqcGdWaEUxUEREVEo0dUxLcjlmM0MzOG5PTDVjVFhKNk4yVVhMc1htZ280eTJhdy14RlplSlB6T1FpWjdVeDR5Zjh0YkRjUUExdURFdUxMWGJKZ1oxT0JqeXh1WTBzUmhpMk4xTUdNYnFxZVZ0YnY?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_merida-2"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "¡Caos vial tras fuerte accidente! ⚠️💥 ⁣ ⁣ Tráiler con doble remolque vuelca en el kilómetro 12, a la altura de",
+  "p": "Conkal",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ueXV2MGxoZkVLaV9KU0RFVDY4UDBXdi03b1BBMEpRa1NnQkNoU1Q1emZBTkhpeTN1c3ZyNmdFVTdRM0pXM1lva09mTnBuQ2hIelE?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_conkal"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Volcadura de tráiler derrama miles de litros de refresco",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHVoVk1yVkF4dm8tTGhuOHFYdVp2VkxPWlpSaVNZRndxbUx3TFpaMkVRQWNCRkhndy1OS1hYbHY2N0ZsZ3A4V1FGMFVWSWl4ZVVGT0pFQmh3bzJ4QzE3RXk3Y1dva1RmX01oZXVwT294VUdydnZGOVNMTEo5UEh1WlhqQVdEdUM0LTJicQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_volcadura-de-trailer-derrama-miles-de-litros-de"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "ÚLTIMA HORA: Reportan CIERRE de la Mérida - Motul; hay un TRÁILER VOLCADO, el accidente fue APARATOSO",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZkRfcTlwcmZVVy1Jc21XWUpEeXgxbnRMcDhkUW9UX3FELTRmNnpaZlV6R0tlQ3RNd3p6cFJfM1lwdHF5LWI3c08yRW1ONHBhSGpsM2Y2Unp3bVNDOVRqU0oxakJrZkEzdlE4VVlxanpMem9CMmpQX3NKY2RCYncyblczQ1B0d1YyVG5qQzAtNlFLblRSbTk5OExvN2JlUi1GOERKZURYeHIwemMxMlpMSW1NVElpNUVFX19yZWNQc1BvSjl2MU51dEJEVXJkWnJ1Tnc?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_merida-3"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Tráiler volcado paraliza el tránsito en la carretera Mérida-Motul",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZwbXRhS3hKd3JrbGpxNG53UGFnX2puZGpRWkRTaURsVzVZeTJqSmlZcnIwLVA5Szdvc3cyYWJXS1pITVRNclhBbC1naDY4M1VSNEtVMWpMVU5zal9vQjNfLVkzejlhTWZCN0tEcnZUZ1NzMElhdEN6YjNZR0xvN1dxaHpJdm9GU3dNTTJKX2I4eDNrRjZmU3NKaXZLQzMxdVFEd3RUX05FcjQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_merida-4"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Ataque armado en la carretera Sabancuy-Chicbul deja un muerto y dos heridos graves",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/12/ataque-armado-carretera-sabancuy-chicbul-deja-muerto-heridos-graves.html"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_cancun"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Automóvil vuelca tras choque en la avenida Andrés Q. Roo de Cancún; conductora fue trasladada al hospital",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/automovil-vuelca-choque-avenidas-andres-q-roo-chac-mool-cancun-conductora-trasladada-hospital.html"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_cancun-2"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "¡Alerta vial! Fuerte choque sobre la avenida Andrés Quintana Roo en Benito Juárez",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/noticias/alerta-vial-fuerte-choque-sobre-la-avenida-andres-quintana-roo-en-benito-juarez-hoy-12-de-octubre/"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_cancun-3"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Tulum reporta menos accidentes viales y lesionados durante el tercer trimestre de 2026",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Jornada Maya",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYURXVzNmOE1xUFRfbmFncjlFZWE5cU0xMlpXOXhzQ1lXWGdLU0JvYklic0VWeVM4RGhWWnZ0aGFVcFg4LU9xSHpHRVZicG1qZDB0ZVBSMEJRTlk1aG1nOER6elZCT1lxdnR0TjJ2Z0V0RHJna2h2akRFQnItXy1kbG5RREZfVlNET2Z6YnVad3dFZFhXMlEwWnlSZjNfOGJCZVd0R3RnTVBPbHBfSV9TUFdqM0w2YWstOWpwLU51dVktcmR2SHdBbnVwN3c1dUZl?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-12_tulum"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-06:00",
+  "t": "Choque entre taxi y vehículo particular provoca daños materiales en el puente Nichupté",
+  "p": "Ticul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/cancun/choque-entre-taxi-y-vehiculo-particular-provoca-danos-materiales-en-el-puente-nichupte/"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_ticul"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-06:00",
+  "t": "Hombre muere tras sufrir presunto infarto durante una fiesta en Sihochac, Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/11/hombre-muere-sufrir-presunto-infarto-fiesta-sihochac-campeche.html"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_campeche"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-06:00",
+  "t": "Familia pierde la vida dentro de su vivienda en Tabasco",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZWRaMWswc0VScXFVR2pCQXFVT2ZEVDZudVlKNE1fdEttOWdkLWpVaFA3YWhvVTVXUlQ4d3FIZlJQYjhkODh3MVNwcEVVYUpDN0xmTXY5WGFOcGF2b1Z1OW1Eek9YZHBJRkJ1ZEhTTGFfXy1ma2w2NDRVSm9VbHBSRFBsQjJ6NHdhREpQNkdReC0wNDRfUDhWV1JhTlJrQjFHUl94T29qU3FvUWxRWC14TnprSE91OTcwMlNzbG1FUW5UbmJZUlE?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_familia-pierde-la-vida-dentro-de-su-vivienda-en"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-06:00",
+  "t": "Hombre pierde la vida en plena fiesta en Sihochac en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnF4ckd0cXpBX09vMW1OTTBFSHRiOGtBQy1qMGp1eFN5MHg1XzhneVhwUldlTXJfVFU5MXhnbWZnVlhWSlpDMjdvVTJRY0NCcHNUX0hVR0NXb0dJeGt0VXVzQTNnNlVxdUdSeGxrTF9PUk94U1d0S1BHdnhueWdNbVFLcWhTQjcxeW5DRVRkN3VHbXduRVBJa0I1UzAwajBxZEJ6cXkwWTNBWGcyQjFHMW83Y0tlZ1RYVERnS2gzUERkMTJtd3hpSkpicVpRRDU1WGc?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_campeche-2"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-06:00",
+  "t": "Menor pierde la vida tras beber una malteada, esto se sabe",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0IwYzUyMmFfV1ViWG5fcVBFcjVnOEx0QldZZERsd2RGenlQMUgwNjZmSmZyMGVPX1oySWh0cklENjFFV3ZyLUtFRm82UnhZa2ZCeU1ELUxRekVpYmZYX0s5TW5qNXpjdnlZdF9tdVd2ZDg4UGstTVdNZmwtT2stbGJKVlZrMkVHZzRTVGlkRDBKd0NONU1PQnZFNTljeGZEYVUtR2RkR2tkdjBWRVJsTF9CaTNnY2psN3FzTWNhbHNRamhGSHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_menor-pierde-la-vida-tras-beber-una-malteada-est"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-05:00",
+  "t": "Muere integrante de la Guardia Nacional en accidente de motocicleta en Quintana Roo",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaHBPZFh2cnlxd0dMTjBqRUo2U1lzV1ZnakNla29QeEpKYkI0azZJWnoyMWI3QVNHRldVbDhjZGxTLWh0TDV3RG52SnlLdVBsYkhkTWg5UDlGYVNkUlFqS3NzdXlKeTNFMTZLaUU2Wk9hNGNveFAzWi0zaHRWWGZzMFpZa0xRREM4QlBCanFQV1lpRmdjVTVZUjFPMzZoOTNLNjJTSEg4Z2ZUc1VJeDhr0gG3AUFVX3lxTE9wbUViZXdScUsyd3lJOVcya211ajhPU0VXTjBINGNJNExvWHlmTHZwZXF0N0ZJTUpJVnZDVmd4azZIRU1EZ0VacHpjSGZELUFRcUFYUkpuSTRUeDU5Q0R2R0xGVzVHckFBNGlSZTQ2Q1dvaUtJVW9PY0NuQkYzUFBSUE9XZnYxZ3lkLW1QWmlEUXpSWGMxcFZ1cHdOZGlsMFZHSm90QnJVaU9hNVZNTXZ0MU90Q3hzTQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_muere-integrante-de-la-guardia-nacional-en-accid"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-05:00",
+  "t": "Choque entre motoneta y mototaxi genera alarma en la Región 234",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0dhSlVyUXV5TXh6MFhPVVJvLThyS1k0SE5sYnR6V2R0ekcyV09EZUE5ck12a3BWRTlMdTdKbFl6bDRTWFZjWHBXRGJqNzU3T1VGc2JxNlM3WXVTdEZPVzVBQUpiR2tIWnluQUFKMnZscktNVlVTXzluSGI4TUFUODA2bzg3aXA3NlRWZHFuZzlPeWdkOVVCNlF1UEbSAZwBQVVfeXFMTmtHYUpVclF1eU14ejBYT1VSby04cktZNEhObGJ0eldkdHpHMldPRGVBOXJNdmtwVkU5THU3SmxZemw0U1hWY1hwV0Riajc1N09VRnNicTZTN1l1U3RGT1c1QUFKYkdrSFp5bkFBSjJ2bHJLTVZVU185bkhiOE1BVDgwNm84N2lwNzZUVmRxbmc5T3lnZDlVQjZRdVBG?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_choque-entre-motoneta-y-mototaxi-genera-alarma-e"
+ },
+ {
+  "d": "2026-10-11",
+  "h": "",
+  "ts": "2026-10-11T12:00:00-05:00",
+  "t": "Brutal choque carretero deja un lesionado sobre la carretera federal de Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVG1oQm9aZzRzWkhHSTdmZ0lWc1lDQVVvNUNYR2VkZWpUUDRiOGxqbWR3enFrTFJNdk9MY0JkMmQ4a214aXVWbV9BeGlwd2ExNzhxOEZxaW5mbDM3QUVOZXI0SlpxRVV3eXlYQVVLZFY4MmZFYktjNV91OGVkQTJHbU1BT0VpQWpBWkx0dzU4RmJtQU5vTzBzbU1UNlNFS1VEWDljdDk5bW4yVWRfMVhlVS1Fc2duMUh5cmRMb2JyV0VhMFc2N0dNeWZKUUdKNHfSAc8BQVVfeXFMTVRtaEJvWmc0c1pIR0k3ZmdJVnNZQ0FVbzVDWEdlZGVqVFA0Yjhsam1kd3pxa0xSTXZPTGNCZDJkOGtteGl1Vm1fQXhpcHdhMTc4cThGcWluZmwzN0FFTmVyNEpacUVVd3l5WEFVS2RWODJmRWJLYzVfdThlZEEyR21NQU9FaUFqQVpMdHc1OEZibUFOb08wc21NVDZTRUtVRFg5Y3Q5OW1uMlVkXzFYZVUtRXNnbjFIeXJkTG9icldFYTBXNjdHTXlmSlFHSjR3?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:08:18Z",
+  "id": "2026-10-11_playa-del-carmen"
+ },
+ {
   "creado": "2026-10-09T14:20:00Z",
   "d": "2026-10-09",
   "h": "madrugada",

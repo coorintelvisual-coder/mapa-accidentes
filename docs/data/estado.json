@@ -1,10 +1,10 @@
 {
- "ultimaRevision": "2026-10-12T19:48:58Z",
+ "ultimaRevision": "2026-10-12T20:08:18Z",
  "intervaloMin": 60,
- "resultado": "sin novedades; 40 notas con error",
+ "resultado": "19 nuevos (Yuc 9, Camp 3, QRoo 7)",
  "fuentes": [
   "medios de la península",
   "Google Noticias"
  ],
- "metodo": "Claude"
+ "metodo": "palabras clave"
 }
