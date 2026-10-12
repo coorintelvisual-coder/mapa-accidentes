@@ -17,12 +17,21 @@ def sin_acentos(s):
     return "".join(c for c in unicodedata.normalize("NFD", s or "") if unicodedata.category(c) != "Mn").lower()
 
 
+def contiene(texto, palabra):
+    """Busca la palabra como palabra completa (no dentro de otra: 'Ticul' no está en 'artículo')."""
+    return re.search(r"(?<![a-z0-9])" + re.escape(sin_acentos(palabra)), texto) is not None
+
+
 def parece_accidente(nota):
+    titulo = sin_acentos(nota.get("titulo", ""))
     txt = sin_acentos(nota.get("titulo", "") + " " + nota.get("resumen", "")[:400])
     if not any(sin_acentos(k) in txt for k in config.CLAVE_ACCIDENTE):
         return False
-    titulo = sin_acentos(nota.get("titulo", ""))
-    if any(sin_acentos(k) in titulo for k in config.CLAVE_EXCLUIR):
+    if any(sin_acentos(k) in txt for k in config.CLAVE_EXCLUIR):
+        return False
+    if any(sin_acentos(k) in titulo for k in config.CLAVE_NO_HECHO):
+        return False
+    if any(contiene(titulo, e) for e in config.OTROS_ESTADOS):
         return False
     return True
 
@@ -74,24 +83,63 @@ def con_claude(nota, registrados):
 
 
 # ---------------------------------------------------------------------------
+LUGAR_RX = re.compile(
+    r"\b(?:en|sobre|de)\s+(?:la|el|los)?\s*"
+    r"((?:avenida|av\.|calle|carretera|colonia|col\.|fraccionamiento|fracc\.|regi[oó]n|supermanzana|sm|"
+    r"bulevar|boulevard|perif[eé]rico|puente|glorieta|libramiento|tramo)\s+[^,;:!?()]{2,60})",
+    re.I)
+
+
+def lugar_de(texto):
+    """Extrae una referencia de lugar del texto: 'avenida Andrés Quintana Roo', 'carretera Mérida-Motul'."""
+    m = LUGAR_RX.search(texto or "")
+    if not m:
+        return ""
+    lugar = re.sub(r"\bQ\.\s*Roo\b", "Quintana Roo", m.group(1), flags=re.I)
+    lugar = re.split(r"\.(?:\s|$)", lugar, maxsplit=1)[0]          # fin de oración
+    # cortar antes de verbos o conectores que ya no son parte del nombre
+    lugar = re.split(r"\s+(?:deja|dejó|provoca|provocó|genera|tras|luego|donde|cuando|que|y|con|a la altura|en|de la ciudad|del municipio|esta|este|hoy)\b",
+                     lugar, maxsplit=1, flags=re.I)[0]
+    lugar = lugar.strip(" -")
+    for c in sorted(config.CIUDADES, key=len, reverse=True):     # "... de Cancún" -> "..."
+        lugar = re.sub(rf"\s+(?:de|del|en)\s+{re.escape(c)}$", "", lugar, flags=re.I)
+    return lugar.strip(" -")
+
+
+CRUCE_RX = re.compile(r"\bcalle\s+(\d{1,3}[a-z]?)\s+(?:x|por|y|esquina con)\s+(?:calle\s+)?(\d{1,3}[a-z]?)\b", re.I)
+COLONIA_RX = re.compile(r"\b(?:colonia|col\.|fraccionamiento|fracc\.|del)\s+([A-ZÁÉÍÓÚÑ][\wáéíóúñ]+(?:\s+[A-ZÁÉÍÓÚÑ0-9][\wáéíóúñ]*){0,3})")
+
+
 def con_reglas(nota):
-    txt = sin_acentos(nota.get("titulo", "") + " " + nota.get("resumen", ""))
+    titulo = nota.get("titulo", "")
+    txt = sin_acentos(titulo + " " + nota.get("resumen", ""))
     tipo = "vial"
     for t, palabras in config.TIPOS_PALABRAS:
         if any(sin_acentos(p) in txt for p in palabras):
             tipo = t
             break
     ciudad, estado = "", ""
-    # la ciudad mencionada primero (en título y luego en texto)
-    for parte in (sin_acentos(nota.get("titulo", "")), txt):
-        hallazgos = [(parte.find(sin_acentos(c)), c) for c in config.CIUDADES if sin_acentos(c) in parte]
+    # la ciudad mencionada primero, como palabra completa (primero en el título, luego en el texto)
+    for parte in (sin_acentos(titulo), txt):
+        hallazgos = []
+        for c in config.CIUDADES:
+            m = re.search(r"(?<![a-z0-9])" + re.escape(sin_acentos(c)) + r"(?![a-z0-9])", parte)
+            if m:
+                hallazgos.append((m.start(), -len(c), c))
         if hallazgos:
-            ciudad = min(hallazgos)[1]
+            ciudad = min(hallazgos)[2]
             estado = config.CIUDADES[ciudad][0]
+            break
+    # el estado nombrado explícitamente manda sobre la ciudad
+    for e in config.ESTADOS:
+        if contiene(sin_acentos(titulo), e) and not (e == "Campeche" and ciudad == "Campeche"):
+            if estado and estado != e:
+                ciudad = ""
+            estado = e
             break
     if not estado:
         for e in config.ESTADOS:
-            if sin_acentos(e) in txt:
+            if contiene(txt, e):
                 estado = e
                 break
     if not estado and "poresto.com/" in nota["url"]:
@@ -100,24 +148,45 @@ def con_reglas(nota):
                 estado = e
     if not estado:
         return {"es_accidente": False}
-    # Notas de medios desconocidos (p.ej. por Google Noticias) solo si nombran el estado:
-    # evita confundir Mérida (España/Venezuela) o Campeche con otros lugares.
+    # Notas de medios desconocidos (p.ej. por Google Noticias) solo si nombran el estado o una ciudad
     conocidos = set(config.DOMINIOS.values()) | config.CONFIRMADORAS
-    if nota.get("fuente") not in conocidos and not any(sin_acentos(e) in txt for e in config.ESTADOS + ["Q. Roo", "Quintana"]):
+    if nota.get("fuente") not in conocidos and not ciudad and not any(contiene(txt, e) for e in config.ESTADOS):
         return {"es_accidente": False}
     sev = "sd"
     if re.search(r"muer|fallec|sin vida|pierde la vida|perdio la vida|cadaver|deceso", txt):
         sev = "fatal"
     elif re.search(r"lesionad|herid|hospital|policontundid|trasladad|paramedic", txt):
         sev = "les"
-    f = nota.get("fecha")
+    lugar = lugar_de(titulo) or lugar_de(nota.get("resumen", "")[:600])
+    if lugar and ciudad and sin_acentos(ciudad) not in sin_acentos(lugar):
+        p = f"{lugar[0].upper()}{lugar[1:]}, {ciudad}"
+    else:
+        p = (lugar[0].upper() + lugar[1:]) if lugar else ciudad
+    es_carretera = bool(re.match(r"(carretera|tramo|libramiento|perif)", sin_acentos(lugar)))
+    geo = {"modo": "ninguno", "municipio": ciudad}
+    cruce = CRUCE_RX.search(lugar or "")
+    if cruce and ciudad:
+        col = COLONIA_RX.search(lugar)
+        geo = {"modo": "cruce", "calle_a": f"Calle {cruce.group(1)}", "calle_b": f"Calle {cruce.group(2)}",
+               "colonia": col.group(1) if col else "", "municipio": ciudad}
+    elif lugar and ciudad and not es_carretera:
+        geo = {"modo": "lugar", "lugar": lugar, "municipio": ciudad}
+    t = re.sub(r"\s+", " ", re.sub(r"[^\w\s,.;:¡!¿?()\"'%-]", "", titulo)).strip()
+    if t.isupper() or sum(1 for w in t.split() if len(w) > 3 and w.isupper()) >= 2:
+        t = t.capitalize()
     return {
         "es_accidente": True, "tipo": tipo, "estado": estado,
-        "d": "", "h": "", "t": nota.get("titulo", "")[:110],
-        "p": ciudad, "sev": sev,
-        "geo": {"modo": "ninguno", "municipio": ciudad},
-        "duplicado_de": None,
+        "d": "", "h": "", "t": t[:110],
+        "p": p, "sev": sev, "geo": geo,
+        "duplicado_de": None, "clave_lugar": clave_lugar(lugar) if lugar else "",
     }
+
+
+def clave_lugar(lugar):
+    """Forma normalizada del lugar para detectar el mismo accidente contado por varios medios."""
+    s = sin_acentos(lugar)
+    s = re.sub(r"\b(la|el|de|del|los|las|avenida|av|calle|carretera|colonia|col|fraccionamiento|fracc|tramo)\b", " ", s)
+    return " ".join(re.findall(r"[a-z0-9]+", s))
 
 
 def clasificar(nota, registrados):

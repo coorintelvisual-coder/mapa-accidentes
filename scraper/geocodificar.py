@@ -116,9 +116,11 @@ class Geo:
             nombre = g.get("lugar") or g.get("colonia")
             p = self.buscar(f"{nombre}, {muni}" if muni else nombre, estado)
             if p:
-                es_colonia = bool(re.match(r"(col(onia)?\.?|fracc(ionamiento)?\.?|barrio|sm|supermanzana|región)\b",
-                                           nombre, re.I))
-                return p[0], p[1], "colonia" if es_colonia else "lugar"
+                if re.match(r"(col(onia)?\.?|fracc(ionamiento)?\.?|barrio|sm|supermanzana|regi[oó]n)\b", nombre, re.I):
+                    return p[0], p[1], "colonia"
+                if re.match(r"(avenida|av\.?|calle|bulevar|boulevard|perif[eé]rico)\b", nombre, re.I):
+                    return p[0], p[1], "tramo"     # punto aproximado sobre la vía
+                return p[0], p[1], "lugar"
             return None
         if modo == "tramo":
             if dentro(g.get("lat"), g.get("lon")):

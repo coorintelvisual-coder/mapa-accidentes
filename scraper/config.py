@@ -122,9 +122,24 @@ CLAVE_ACCIDENTE = [
 ]
 # Si aparece alguna de estas, casi seguro NO es un accidente (hecho intencional)
 CLAVE_EXCLUIR = [
-    "asesin", "homicid", "balead", "balacera", "disparo", "apuñal", "riña", "pelea",
-    "asalto", "asaltan", "robo", "roban", "feminicid", "suicid", "se quita la vida",
-    "ahorcad", "ejecutad", "secuestr", "agresión", "golpean", "detienen a presunto",
+    "asesin", "homicid", "balead", "balacera", "disparo", "de bala", "balazo", "arma de fuego",
+    "ataque armado", "armados", "apuñal", "riña", "pelea", "asalto", "asaltan", "robo", "roban",
+    "feminicid", "suicid", "se quita la vida", "ahorcad", "ejecutad", "secuestr", "agresión",
+    "golpean", "detienen a presunto", "infarto", "muerte natural", "malteada", "envenen",
+]
+# Notas que no hablan de un accidente concreto (estadísticas, campañas, avisos)
+CLAVE_NO_HECHO = [
+    "trimestre", "estadística", "cifras", "reporta menos", "reporta más", "disminuy", "aumentan los",
+    "campaña", "prevención", "recomendaciones", "operativo", "simulacro", "capacitación", "en lo que va del año",
+    "esto se sabe", "qué hacer", "cómo actuar", "apagón",
+]
+# Otros estados: si el título los menciona, la nota no es de la península
+OTROS_ESTADOS = [
+    "Tabasco", "Veracruz", "Chiapas", "Oaxaca", "Puebla", "Jalisco", "Nuevo León", "Ciudad de México", "CDMX",
+    "Guerrero", "Michoacán", "Sonora", "Chihuahua", "Coahuila", "Tamaulipas", "Sinaloa", "Hidalgo",
+    "Guanajuato", "Querétaro", "Morelos", "Zacatecas", "Durango", "Baja California", "Nayarit", "Colima",
+    "Aguascalientes", "San Luis Potosí", "Tlaxcala", "Estado de México", "Edomex", "España", "Venezuela",
+    "Extremadura", "Badajoz", "Guatemala", "Belice",
 ]
 
 TIPOS_PALABRAS = [  # en orden: la primera que coincide gana (solo modo sin Claude)
@@ -158,4 +173,13 @@ CIUDADES = {
     "Puerto Morelos": ("Quintana Roo", 20.847, -86.875), "Isla Mujeres": ("Quintana Roo", 21.232, -86.731),
     "José María Morelos": ("Quintana Roo", 19.748, -88.708), "Kantunilkín": ("Quintana Roo", 21.100, -87.487),
     "Puerto Aventuras": ("Quintana Roo", 20.497, -87.229),
+    "Benito Juárez": ("Quintana Roo", 21.161, -86.851), "Nichupté": ("Quintana Roo", 21.120, -86.780),
+    "Sabancuy": ("Campeche", 18.973, -91.177), "Sihochac": ("Campeche", 19.494, -90.580),
+    "Holbox": ("Quintana Roo", 21.522, -87.379), "Mahahual": ("Quintana Roo", 18.713, -87.709),
+    "Kanasin": ("Yucatán", 20.934, -89.558), "Caucel": ("Yucatán", 21.012, -89.712),
+    "Celestún": ("Yucatán", 20.858, -90.400), "Sisal": ("Yucatán", 21.165, -90.030),
+    "Telchac": ("Yucatán", 21.341, -89.263), "Dzilam": ("Yucatán", 21.390, -88.894),
+    "Río Lagartos": ("Yucatán", 21.597, -88.158), "Maxcanú": ("Yucatán", 20.585, -90.000),
+    "Acanceh": ("Yucatán", 20.815, -89.452), "Tekit": ("Yucatán", 20.533, -89.333),
+    "Seybaplaya": ("Campeche", 19.643, -90.693), "Xpujil": ("Campeche", 18.509, -89.394),
 }

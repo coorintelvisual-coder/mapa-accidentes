@@ -62,6 +62,18 @@ def main():
     vistos = cargar(f"{priv}/vistos.json", {})          # url -> fecha ISO en que se revisó
     geocache = cargar(f"{priv}/geocache.json", {})
     geo = Geo(geocache)
+
+    # Limpieza única: la corrida de prueba del 12-oct-2026 20:08 UTC usó filtros viejos que dejaban
+    # pasar hechos intencionales y repetidos. Se quitan y sus notas se vuelven a revisar.
+    PRUEBA_VIEJA = "2026-10-12T20:08:18Z"
+    for lista in (acc, sin):
+        quitar = [a for a in lista if a.get("creado") == PRUEBA_VIEJA]
+        for a in quitar:
+            lista.remove(a)
+            for s_ in a.get("src", []):
+                vistos.pop(s_.get("u"), None)
+        if quitar:
+            log(f"Limpieza: se quitaron {len(quitar)} registros de la prueba anterior")
     modo_ia = bool(os.environ.get("ANTHROPIC_API_KEY"))
     log(f"Inicio {AHORA.isoformat()} · clasificación con {'Claude' if modo_ia else 'reglas de palabras clave'}")
 
@@ -133,9 +145,12 @@ def main():
             if posible in por_id:
                 existente = por_id[posible]
         if not existente and not modo_ia:
-            # sin IA: misma ciudad, mismo día y título muy parecido
+            # sin IA: mismo estado, mismo día (±1) y mismo lugar o título parecido
             for a in recientes:
-                if a.get("d") == d and a.get("estado") == info["estado"] and parecido(a.get("t", ""), info.get("t", "")):
+                if a.get("estado", "Yucatán") != info["estado"] or abs((ts_de(a) - ts_de({"d": d})).days) > 1:
+                    continue
+                misma_clave = info.get("clave_lugar") and info["clave_lugar"] == a.get("clave_lugar")
+                if misma_clave or parecido(a.get("t", ""), info.get("t", "")):
                     existente = a
                     break
         if existente:
@@ -159,7 +174,10 @@ def main():
             "p": info.get("p") or "", "estado": info["estado"],
             "tipo": info.get("tipo") if info.get("tipo") in ("vial", "laboral", "hogar", "incendio", "agua", "otro") else "otro",
             "src": [fuente], "creado": AHORA.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "metodo": metodo,
         }
+        if info.get("clave_lugar"):
+            doc["clave_lugar"] = info["clave_lugar"]
         base = f"{d}_{slug(doc['p'] or doc['t'])}"
         doc_id, k = base, 2
         while doc_id in por_id:
@@ -218,7 +236,10 @@ def clasificarlas_parece(n):
 def parecido(a, b):
     pa = set(re.findall(r"[a-z0-9]{4,}", clasificar.sin_acentos(a)))
     pb = set(re.findall(r"[a-z0-9]{4,}", clasificar.sin_acentos(b)))
-    return bool(pa and pb) and len(pa & pb) / min(len(pa), len(pb)) >= 0.6
+    comunes = {"choque", "accidente", "vuelca", "volcadura", "tras", "deja", "sobre", "entre", "carretera",
+               "avenida", "fuerte", "alerta", "vial", "reportan", "ultima", "hora", "lesionado", "lesionados"}
+    pa, pb = pa - comunes, pb - comunes
+    return bool(pa and pb) and len(pa & pb) / min(len(pa), len(pb)) >= 0.5
 
 
 if __name__ == "__main__":
