@@ -1,9 +1,10 @@
 {
- "ultimaRevision": "2026-10-09T21:11:00Z",
+ "ultimaRevision": "2026-10-12T19:48:58Z",
  "intervaloMin": 60,
- "resultado": "datos migrados del mapa anterior",
+ "resultado": "sin novedades; 40 notas con error",
  "fuentes": [
   "medios de la península",
   "Google Noticias"
- ]
+ ],
+ "metodo": "Claude"
 }
