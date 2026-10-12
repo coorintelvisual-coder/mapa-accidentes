@@ -1,5 +1,54 @@
 [
  {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "¡alerta vial! fuerte choque en la av. alemán dejó severos daños materiales tras el impacto entre dos vehículos",
+  "p": "Av, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00QTBKS0VMMWt3ZVI3Rm00ai1pX05nUnhOTXQxcTB1Z2NvdzZqQVhSX2lqWlVZU3pWS1Z3aWRlZ0hxUXFpUzB5SGNFQTh2UFhMdkE?oc=5"
+   }
+  ],
+  "creado": "2026-10-12T20:16:45Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_av-merida",
+  "lat": 20.967076,
+  "lon": -89.62374,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Automóvil vuelca tras choque en la avenida Andrés Q. Roo de Cancún; conductora fue trasladada al hospital",
+  "p": "Avenida Andrés Quintana Roo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/automovil-vuelca-choque-avenidas-andres-q-roo-chac-mool-cancun-conductora-trasladada-hospital.html"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/noticias/alerta-vial-fuerte-choque-sobre-la-avenida-andres-quintana-roo-en-benito-juarez-hoy-12-de-octubre/"
+   }
+  ],
+  "creado": "2026-10-12T20:16:45Z",
+  "metodo": "reglas",
+  "clave_lugar": "andres quintana roo",
+  "id": "2026-10-12_avenida-andres-quintana-roo-cancun",
+  "lat": 21.147232,
+  "lon": -86.868473,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "creado": "2026-10-09T16:15:42Z",
   "d": "2026-10-09",
   "estado": "Campeche",
