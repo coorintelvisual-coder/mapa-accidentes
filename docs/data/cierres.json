@@ -1,0 +1,90 @@
+[
+ {
+  "creado": "2026-10-09T17:05:00Z",
+  "d": "2026-10-09",
+  "estado": "Campeche",
+  "h": "",
+  "hasta": "",
+  "lat": 18.3549,
+  "lon": -90.6311,
+  "motivo": "clima",
+  "nivel": "parcial",
+  "p": "Camino de acceso a Isla Paraíso, Candelaria",
+  "pr": "lugar",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://tribunacampeche.com/09/alerta-en-candelaria-acceso-a-isla-paraiso-esta-inundado-y-pone-en-riesgo-a-usuarios/757760/"
+   }
+  ],
+  "t": "Camino de acceso a Isla Paraíso permanece inundado; piden evitar la zona",
+  "ts": "2026-10-09T12:00:00-06:00",
+  "id": "2026-10-09_acceso-a-isla-paraiso-candelaria"
+ },
+ {
+  "creado": "2026-10-09T17:05:00Z",
+  "d": "2026-10-09",
+  "estado": "Campeche",
+  "h": "04:50",
+  "hasta": "",
+  "lat": 19.362,
+  "lon": -90.713,
+  "motivo": "accidente",
+  "nivel": "parcial",
+  "p": "Carretera federal Champotón–Campeche, cerca del entronque de Moquel, Champotón",
+  "pr": "tramo",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/9/vuelca-trailer-carretera-champoton-campeche-madrugada.html"
+   }
+  ],
+  "t": "Paso abanderado por la volcadura de un tráiler mientras lo retira una grúa",
+  "ts": "2026-10-09T04:50:00-06:00",
+  "id": "2026-10-09_champoton-campeche-entronque-de-moquel"
+ },
+ {
+  "creado": "2026-10-09T17:05:00Z",
+  "d": "2026-10-07",
+  "estado": "Campeche",
+  "h": "",
+  "hasta": "",
+  "lat": 18.6625,
+  "lon": -91.828,
+  "motivo": "clima",
+  "nivel": "total",
+  "p": "Malecón Costero a la altura del km 650, hacia Paseo del Mar, Ciudad del Carmen",
+  "pr": "colonia",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://tribunacampeche.com/07/cierran-tramo-del-malecon-costero-por-inclemencias-del-tiempo/757574/"
+   }
+  ],
+  "t": "Cierran un tramo del Malecón Costero por el mal tiempo",
+  "ts": "2026-10-07T12:00:00-06:00",
+  "id": "2026-10-07_malecon-costero-km-650-paseo-del-mar-carmen"
+ },
+ {
+  "creado": "2026-10-09T17:05:00Z",
+  "d": "2026-09-01",
+  "estado": "Yucatán",
+  "h": "",
+  "hasta": "2026-11-01",
+  "lat": 21.258,
+  "lon": -89.664,
+  "motivo": "obra",
+  "nivel": "parcial",
+  "p": "Carretera Mérida–Progreso km 34.1, del distribuidor de acceso al puerto a la conexión con Chelem, Progreso",
+  "pr": "tramo",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/2026/8/31/anuncian-cierres-y-desvios-en-la-meridaprogreso-por-trabajos-de-reconstruccion.html"
+   }
+  ],
+  "t": "Cerrado el carril Progreso→Mérida por reconstrucción del puente del km 34.1; doble sentido en el cuerpo A",
+  "ts": "2026-09-01T12:00:00-06:00",
+  "id": "2026-09-01_merida-progreso-km-34-puente-cuerpo-b"
+ }
+]

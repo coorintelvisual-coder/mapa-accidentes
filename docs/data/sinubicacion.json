@@ -1,0 +1,174 @@
+[
+ {
+  "creado": "2026-10-09T14:20:00Z",
+  "d": "2026-10-09",
+  "h": "madrugada",
+  "p": "Periférico Norte, km 26",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1600301880981326/"
+   }
+  ],
+  "t": "Camioneta se estrella contra un árbol y queda atravesada en la lateral",
+  "tipo": "vial",
+  "ts": "2026-10-09T00:04:00-06:00",
+  "id": "2026-10-09_periferico-norte-km-26",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T14:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "p": "Carretera Mérida–Progreso, sin tramo",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1665162898570693/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/9/fuerte-choque-merida-progreso-lanza-motociclista-aire-video-muestra-accidente.html"
+   }
+  ],
+  "t": "Motociclista sale proyectado tras ser impactado por un auto al cambiar de carril (video)",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_merida-progreso-sin-tramo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-08T22:20:00Z",
+  "d": "2026-10-07",
+  "h": "noche",
+  "p": "Carretera Mérida–Cancún, cerca de la gasolinera San Ildefonso",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/reportan-fuerte-accidente-en-la-merida-cancun-3-vehiculos-involucrados-y-ambulancias-en-el-lugar/"
+   }
+  ],
+  "t": "Choque de tres vehículos en la Mérida–Cancún; acuden ambulancias",
+  "tipo": "vial",
+  "ts": "2026-10-07T20:00:00-06:00",
+  "id": "2026-10-07_merida-cancun-gasolinera-san-ildefonso",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-07",
+  "estado": "Yucatán",
+  "h": "",
+  "p": "Carretera Tizimín–Río Lagartos, sin tramo",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/registran-aparatosa-volcadura-de-trailer-en-tizimin-rio-lagartos-video/"
+   }
+  ],
+  "t": "Vuelca tráiler en la carretera Tizimín–Río Lagartos; carga esparcida en la maleza",
+  "tipo": "vial",
+  "ts": "2026-10-07T12:00:00-06:00",
+  "id": "2026-10-07_tizimin-rio-lagartos-sin-tramo"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-30",
+  "h": "10:29",
+  "p": "Sin ubicación en la publicación",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Conductor se pasa el alto y manda a un motociclista al hospital",
+  "ts": "2026-09-30T10:29:00-06:00",
+  "id": "2026-09-30_sin-ubicacion-en-la-publicacion",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-27",
+  "h": "02:39",
+  "p": "Periférico, km 30",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1634507928162206/"
+   }
+  ],
+  "t": "Conductora en presunto estado de ebriedad choca en un retén",
+  "ts": "2026-09-27T02:39:00-06:00",
+  "id": "2026-09-27_periferico-km-30",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-26",
+  "h": "",
+  "p": "Periférico, km 34 / entrada a Tamarindo",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Peugeot vuelca y derriba un árbol",
+  "ts": "2026-09-26T12:00:00-06:00",
+  "id": "2026-09-26_periferico-km-34-entrada-a-tamarindo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-26",
+  "h": "04:31",
+  "p": "Periférico, sin tramo",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1069825452630689/"
+   }
+  ],
+  "t": "Jugaban carreritas en estado de ebriedad y se estrellan; dos detenidos",
+  "ts": "2026-09-26T04:31:00-06:00",
+  "id": "2026-09-26_periferico-sin-tramo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "",
+  "p": "Calle 15 x 24, colonia no indicada",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Cables semicolgados tras una poda provocan un accidente",
+  "ts": "2026-09-23T12:00:00-06:00",
+  "id": "2026-09-23_calle-15-x-24-colonia-no-indicada",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "08:48",
+  "p": "Periférico Sur, sin tramo",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Fuerte accidente de un Tiida; buscan a familiares del conductor",
+  "ts": "2026-09-23T08:48:00-06:00",
+  "id": "2026-09-23_periferico-sur-sin-tramo",
+  "estado": "Yucatán"
+ }
+]

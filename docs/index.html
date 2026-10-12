@@ -1,0 +1,935 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Accidentes Península de Yucatán</title><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+
+
+.leaflet-pane,
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-tile-container,
+.leaflet-pane > svg,
+.leaflet-pane > canvas,
+.leaflet-zoom-box,
+.leaflet-image-layer,
+.leaflet-layer {
+	position: absolute;
+	left: 0;
+	top: 0;
+	}
+.leaflet-container {
+	overflow: hidden;
+	}
+.leaflet-tile,
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	-webkit-user-select: none;
+	   -moz-user-select: none;
+	        user-select: none;
+	  -webkit-user-drag: none;
+	}
+
+.leaflet-tile::selection {
+	background: transparent;
+}
+
+.leaflet-safari .leaflet-tile {
+	image-rendering: -webkit-optimize-contrast;
+	}
+
+.leaflet-safari .leaflet-tile-container {
+	width: 1600px;
+	height: 1600px;
+	-webkit-transform-origin: 0 0;
+	}
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+	display: block;
+	}
+
+
+.leaflet-container .leaflet-overlay-pane svg {
+	max-width: none !important;
+	max-height: none !important;
+	}
+.leaflet-container .leaflet-marker-pane img,
+.leaflet-container .leaflet-shadow-pane img,
+.leaflet-container .leaflet-tile-pane img,
+.leaflet-container img.leaflet-image-layer,
+.leaflet-container .leaflet-tile {
+	max-width: none !important;
+	max-height: none !important;
+	width: auto;
+	padding: 0;
+	}
+
+.leaflet-container img.leaflet-tile {
+	
+	mix-blend-mode: plus-lighter;
+}
+
+.leaflet-container.leaflet-touch-zoom {
+	-ms-touch-action: pan-x pan-y;
+	touch-action: pan-x pan-y;
+	}
+.leaflet-container.leaflet-touch-drag {
+	-ms-touch-action: pinch-zoom;
+	
+	touch-action: none;
+	touch-action: pinch-zoom;
+}
+.leaflet-container.leaflet-touch-drag.leaflet-touch-zoom {
+	-ms-touch-action: none;
+	touch-action: none;
+}
+.leaflet-container {
+	-webkit-tap-highlight-color: transparent;
+}
+.leaflet-container a {
+	-webkit-tap-highlight-color: rgba(51, 181, 229, 0.4);
+}
+.leaflet-tile {
+	filter: inherit;
+	visibility: hidden;
+	}
+.leaflet-tile-loaded {
+	visibility: inherit;
+	}
+.leaflet-zoom-box {
+	width: 0;
+	height: 0;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	z-index: 800;
+	}
+
+.leaflet-overlay-pane svg {
+	-moz-user-select: none;
+	}
+
+.leaflet-pane         { z-index: 400; }
+
+.leaflet-tile-pane    { z-index: 200; }
+.leaflet-overlay-pane { z-index: 400; }
+.leaflet-shadow-pane  { z-index: 500; }
+.leaflet-marker-pane  { z-index: 600; }
+.leaflet-tooltip-pane   { z-index: 650; }
+.leaflet-popup-pane   { z-index: 700; }
+
+.leaflet-map-pane canvas { z-index: 100; }
+.leaflet-map-pane svg    { z-index: 200; }
+
+.leaflet-vml-shape {
+	width: 1px;
+	height: 1px;
+	}
+.lvml {
+	behavior: none;
+	display: inline-block;
+	position: absolute;
+	}
+
+
+
+
+.leaflet-control {
+	position: relative;
+	z-index: 800;
+	pointer-events: visiblePainted; 
+	pointer-events: auto;
+	}
+.leaflet-top,
+.leaflet-bottom {
+	position: absolute;
+	z-index: 1000;
+	pointer-events: none;
+	}
+.leaflet-top {
+	top: 0;
+	}
+.leaflet-right {
+	right: 0;
+	}
+.leaflet-bottom {
+	bottom: 0;
+	}
+.leaflet-left {
+	left: 0;
+	}
+.leaflet-control {
+	float: left;
+	clear: both;
+	}
+.leaflet-right .leaflet-control {
+	float: right;
+	}
+.leaflet-top .leaflet-control {
+	margin-top: 10px;
+	}
+.leaflet-bottom .leaflet-control {
+	margin-bottom: 10px;
+	}
+.leaflet-left .leaflet-control {
+	margin-left: 10px;
+	}
+.leaflet-right .leaflet-control {
+	margin-right: 10px;
+	}
+
+
+
+
+.leaflet-fade-anim .leaflet-popup {
+	opacity: 0;
+	-webkit-transition: opacity 0.2s linear;
+	   -moz-transition: opacity 0.2s linear;
+	        transition: opacity 0.2s linear;
+	}
+.leaflet-fade-anim .leaflet-map-pane .leaflet-popup {
+	opacity: 1;
+	}
+.leaflet-zoom-animated {
+	-webkit-transform-origin: 0 0;
+	    -ms-transform-origin: 0 0;
+	        transform-origin: 0 0;
+	}
+svg.leaflet-zoom-animated {
+	will-change: transform;
+}
+
+.leaflet-zoom-anim .leaflet-zoom-animated {
+	-webkit-transition: -webkit-transform 0.25s cubic-bezier(0,0,0.25,1);
+	   -moz-transition:    -moz-transform 0.25s cubic-bezier(0,0,0.25,1);
+	        transition:         transform 0.25s cubic-bezier(0,0,0.25,1);
+	}
+.leaflet-zoom-anim .leaflet-tile,
+.leaflet-pan-anim .leaflet-tile {
+	-webkit-transition: none;
+	   -moz-transition: none;
+	        transition: none;
+	}
+
+.leaflet-zoom-anim .leaflet-zoom-hide {
+	visibility: hidden;
+	}
+
+
+
+
+.leaflet-interactive {
+	cursor: pointer;
+	}
+.leaflet-grab {
+	cursor: -webkit-grab;
+	cursor:    -moz-grab;
+	cursor:         grab;
+	}
+.leaflet-crosshair,
+.leaflet-crosshair .leaflet-interactive {
+	cursor: crosshair;
+	}
+.leaflet-popup-pane,
+.leaflet-control {
+	cursor: auto;
+	}
+.leaflet-dragging .leaflet-grab,
+.leaflet-dragging .leaflet-grab .leaflet-interactive,
+.leaflet-dragging .leaflet-marker-draggable {
+	cursor: move;
+	cursor: -webkit-grabbing;
+	cursor:    -moz-grabbing;
+	cursor:         grabbing;
+	}
+
+
+.leaflet-marker-icon,
+.leaflet-marker-shadow,
+.leaflet-image-layer,
+.leaflet-pane > svg path,
+.leaflet-tile-container {
+	pointer-events: none;
+	}
+
+.leaflet-marker-icon.leaflet-interactive,
+.leaflet-image-layer.leaflet-interactive,
+.leaflet-pane > svg path.leaflet-interactive,
+svg.leaflet-image-layer.leaflet-interactive path {
+	pointer-events: visiblePainted; 
+	pointer-events: auto;
+	}
+
+
+
+.leaflet-container {
+	background: #ddd;
+	outline-offset: 1px;
+	}
+.leaflet-container a {
+	color: #0078A8;
+	}
+.leaflet-zoom-box {
+	border: 2px dotted #38f;
+	background: rgba(255,255,255,0.5);
+	}
+
+
+
+.leaflet-container {
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-size: 0.75rem;
+	line-height: 1.5;
+	}
+
+
+
+
+.leaflet-bar {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
+	border-radius: 4px;
+	}
+.leaflet-bar a {
+	background-color: #fff;
+	border-bottom: 1px solid #ccc;
+	width: 26px;
+	height: 26px;
+	line-height: 26px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	}
+.leaflet-bar a,
+.leaflet-control-layers-toggle {
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	display: block;
+	}
+.leaflet-bar a:hover,
+.leaflet-bar a:focus {
+	background-color: #f4f4f4;
+	}
+.leaflet-bar a:first-child {
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	}
+.leaflet-bar a:last-child {
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border-bottom: none;
+	}
+.leaflet-bar a.leaflet-disabled {
+	cursor: default;
+	background-color: #f4f4f4;
+	color: #bbb;
+	}
+
+.leaflet-touch .leaflet-bar a {
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	}
+.leaflet-touch .leaflet-bar a:first-child {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	}
+.leaflet-touch .leaflet-bar a:last-child {
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	}
+
+
+
+.leaflet-control-zoom-in,
+.leaflet-control-zoom-out {
+	font: bold 18px 'Lucida Console', Monaco, monospace;
+	text-indent: 1px;
+	}
+
+.leaflet-touch .leaflet-control-zoom-in, .leaflet-touch .leaflet-control-zoom-out  {
+	font-size: 22px;
+	}
+
+
+
+
+.leaflet-control-layers {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+	background: #fff;
+	border-radius: 5px;
+	}
+.leaflet-control-layers-toggle {
+	background-image: none;
+	width: 36px;
+	height: 36px;
+	}
+.leaflet-retina .leaflet-control-layers-toggle {
+	background-image: none;
+	background-size: 26px 26px;
+	}
+.leaflet-touch .leaflet-control-layers-toggle {
+	width: 44px;
+	height: 44px;
+	}
+.leaflet-control-layers .leaflet-control-layers-list,
+.leaflet-control-layers-expanded .leaflet-control-layers-toggle {
+	display: none;
+	}
+.leaflet-control-layers-expanded .leaflet-control-layers-list {
+	display: block;
+	position: relative;
+	}
+.leaflet-control-layers-expanded {
+	padding: 6px 10px 6px 6px;
+	color: #333;
+	background: #fff;
+	}
+.leaflet-control-layers-scrollbar {
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding-right: 5px;
+	}
+.leaflet-control-layers-selector {
+	margin-top: 2px;
+	position: relative;
+	top: 1px;
+	}
+.leaflet-control-layers label {
+	display: block;
+	font-size: 13px;
+	font-size: 1.08333em;
+	}
+.leaflet-control-layers-separator {
+	height: 0;
+	border-top: 1px solid #ddd;
+	margin: 5px -10px 5px -6px;
+	}
+
+
+.leaflet-default-icon-path { 
+	background-image: none;
+	}
+
+
+
+
+.leaflet-container .leaflet-control-attribution {
+	background: #fff;
+	background: rgba(255, 255, 255, 0.8);
+	margin: 0;
+	}
+.leaflet-control-attribution,
+.leaflet-control-scale-line {
+	padding: 0 5px;
+	color: #333;
+	line-height: 1.4;
+	}
+.leaflet-control-attribution a {
+	text-decoration: none;
+	}
+.leaflet-control-attribution a:hover,
+.leaflet-control-attribution a:focus {
+	text-decoration: underline;
+	}
+.leaflet-attribution-flag {
+	display: inline !important;
+	vertical-align: baseline !important;
+	width: 1em;
+	height: 0.6669em;
+	}
+.leaflet-left .leaflet-control-scale {
+	margin-left: 5px;
+	}
+.leaflet-bottom .leaflet-control-scale {
+	margin-bottom: 5px;
+	}
+.leaflet-control-scale-line {
+	border: 2px solid #777;
+	border-top: none;
+	line-height: 1.1;
+	padding: 2px 5px 1px;
+	white-space: nowrap;
+	-moz-box-sizing: border-box;
+	     box-sizing: border-box;
+	background: rgba(255, 255, 255, 0.8);
+	text-shadow: 1px 1px #fff;
+	}
+.leaflet-control-scale-line:not(:first-child) {
+	border-top: 2px solid #777;
+	border-bottom: none;
+	margin-top: -2px;
+	}
+.leaflet-control-scale-line:not(:first-child):not(:last-child) {
+	border-bottom: 2px solid #777;
+	}
+
+.leaflet-touch .leaflet-control-attribution,
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	box-shadow: none;
+	}
+.leaflet-touch .leaflet-control-layers,
+.leaflet-touch .leaflet-bar {
+	border: 2px solid rgba(0,0,0,0.2);
+	background-clip: padding-box;
+	}
+
+
+
+
+.leaflet-popup {
+	position: absolute;
+	text-align: center;
+	margin-bottom: 20px;
+	}
+.leaflet-popup-content-wrapper {
+	padding: 1px;
+	text-align: left;
+	border-radius: 12px;
+	}
+.leaflet-popup-content {
+	margin: 13px 24px 13px 20px;
+	line-height: 1.3;
+	font-size: 13px;
+	font-size: 1.08333em;
+	min-height: 1px;
+	}
+.leaflet-popup-content p {
+	margin: 17px 0;
+	margin: 1.3em 0;
+	}
+.leaflet-popup-tip-container {
+	width: 40px;
+	height: 20px;
+	position: absolute;
+	left: 50%;
+	margin-top: -1px;
+	margin-left: -20px;
+	overflow: hidden;
+	pointer-events: none;
+	}
+.leaflet-popup-tip {
+	width: 17px;
+	height: 17px;
+	padding: 1px;
+
+	margin: -10px auto 0;
+	pointer-events: auto;
+
+	-webkit-transform: rotate(45deg);
+	   -moz-transform: rotate(45deg);
+	    -ms-transform: rotate(45deg);
+	        transform: rotate(45deg);
+	}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+	background: white;
+	color: #333;
+	box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+	}
+.leaflet-container a.leaflet-popup-close-button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: none;
+	text-align: center;
+	width: 24px;
+	height: 24px;
+	font: 16px/24px Tahoma, Verdana, sans-serif;
+	color: #757575;
+	text-decoration: none;
+	background: transparent;
+	}
+.leaflet-container a.leaflet-popup-close-button:hover,
+.leaflet-container a.leaflet-popup-close-button:focus {
+	color: #585858;
+	}
+.leaflet-popup-scrolled {
+	overflow: auto;
+	}
+
+.leaflet-oldie .leaflet-popup-content-wrapper {
+	-ms-zoom: 1;
+	}
+.leaflet-oldie .leaflet-popup-tip {
+	width: 24px;
+	margin: 0 auto;
+
+	-ms-filter: "progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678)";
+	filter: progid:DXImageTransform.Microsoft.Matrix(M11=0.70710678, M12=0.70710678, M21=-0.70710678, M22=0.70710678);
+	}
+
+.leaflet-oldie .leaflet-control-zoom,
+.leaflet-oldie .leaflet-control-layers,
+.leaflet-oldie .leaflet-popup-content-wrapper,
+.leaflet-oldie .leaflet-popup-tip {
+	border: 1px solid #999;
+	}
+
+
+
+
+.leaflet-div-icon {
+	background: #fff;
+	border: 1px solid #666;
+	}
+
+
+
+
+.leaflet-tooltip {
+	position: absolute;
+	padding: 6px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	border-radius: 3px;
+	color: #222;
+	white-space: nowrap;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: none;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+	}
+.leaflet-tooltip.leaflet-interactive {
+	cursor: pointer;
+	pointer-events: auto;
+	}
+.leaflet-tooltip-top:before,
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	position: absolute;
+	pointer-events: none;
+	border: 6px solid transparent;
+	background: transparent;
+	content: "";
+	}
+
+
+
+.leaflet-tooltip-bottom {
+	margin-top: 6px;
+}
+.leaflet-tooltip-top {
+	margin-top: -6px;
+}
+.leaflet-tooltip-bottom:before,
+.leaflet-tooltip-top:before {
+	left: 50%;
+	margin-left: -6px;
+	}
+.leaflet-tooltip-top:before {
+	bottom: 0;
+	margin-bottom: -12px;
+	border-top-color: #fff;
+	}
+.leaflet-tooltip-bottom:before {
+	top: 0;
+	margin-top: -12px;
+	margin-left: -6px;
+	border-bottom-color: #fff;
+	}
+.leaflet-tooltip-left {
+	margin-left: -6px;
+}
+.leaflet-tooltip-right {
+	margin-left: 6px;
+}
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+	top: 50%;
+	margin-top: -6px;
+	}
+.leaflet-tooltip-left:before {
+	right: 0;
+	margin-right: -12px;
+	border-left-color: #fff;
+	}
+.leaflet-tooltip-right:before {
+	left: 0;
+	margin-left: -12px;
+	border-right-color: #fff;
+	}
+
+
+
+@media print {
+	
+	.leaflet-control {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+		}
+	}
+
+/* Layout: mapa a la izquierda, bitácora a la derecha; en teléfono se apilan */
+:root{
+  --bg:#f3f4f2; --panel:#ffffff; --ink:#1d2328; --muted:#5d666d; --line:#d9dcd8;
+  --land:#e8e9e4; --road:#c3c6c0; --ring:#8d9298;
+  --accent:#e0a500; --fatal:#c62828; --les:#d97706; --sd:#5f7482;
+  --ok:#2e8b57; --cierre:#6d28d9;
+  --display:"Barlow Condensed","Arial Narrow",sans-serif;
+  --body:"Source Sans 3",system-ui,sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#14181b; --panel:#1b2024; --ink:#e7eae8; --muted:#9aa3a8; --line:#2c3338;
+  --land:#1a1f23; --road:#3a4248; --ring:#6c757c;
+  --accent:#f2bb1d; --ok:#4cc38a; --fatal:#ef5350; --les:#f59e0b; --sd:#8aa0ad; --cierre:#a78bfa; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#14181b; --panel:#1b2024; --ink:#e7eae8; --muted:#9aa3a8; --line:#2c3338;
+  --land:#1a1f23; --road:#3a4248; --ring:#6c757c;
+  --accent:#f2bb1d; --ok:#4cc38a; --fatal:#ef5350; --les:#f59e0b; --sd:#8aa0ad; --cierre:#a78bfa; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.45}
+.wrap{max-width:1280px;margin:0 auto;padding-inline:16px;padding-block:20px 32px}
+header{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:16px;padding-bottom:14px;border-bottom:3px solid var(--accent)}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(30px,5vw,44px);line-height:1;margin:0;letter-spacing:.01em;text-transform:uppercase;text-wrap:balance}
+.sub{color:var(--muted);margin:6px 0 0;max-width:62ch}
+.tally{display:flex;gap:18px;flex-wrap:wrap}
+.tally div{display:flex;flex-direction:column}
+.tally b{font-family:var(--display);font-size:34px;line-height:1;font-variant-numeric:tabular-nums}
+.tally span{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0 12px}
+.controls .lbl{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-right:4px}
+.chip{font:600 13px var(--body);border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:5px 11px;border-radius:999px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,.item:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block;flex:none}
+.grid{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:16px}
+@media (max-width:860px){.grid{grid-template-columns:1fr}}
+#map{height:min(72vh,680px);min-height:380px;border:1px solid var(--line);background:var(--land)}
+.leaflet-container{background:var(--land);font-family:var(--body)}
+.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--panel);color:var(--ink)}
+.leaflet-popup-content{margin:12px 14px;font-size:14px}
+.leaflet-bar a{background:var(--panel);color:var(--ink);border-color:var(--line)}
+.pop h3{font-family:var(--display);font-size:19px;line-height:1.1;margin:0 0 4px}
+.pop .meta{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.pop a{color:inherit}
+.lbl-town{font-family:var(--display);font-weight:600;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);white-space:nowrap;background:none;border:0;box-shadow:none}
+.log{display:flex;flex-direction:column;min-width:0;max-height:min(72vh,680px);overflow:auto;border:1px solid var(--line);background:var(--panel)}
+.day{font-family:var(--display);font-weight:700;text-transform:uppercase;letter-spacing:.06em;font-size:15px;padding:8px 14px;background:var(--bg);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:1}
+.item{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;padding:10px 14px;border-bottom:1px solid var(--line);cursor:pointer;text-align:left;background:none;border-left:0;border-right:0;border-top:0;color:inherit;font:inherit;width:100%}
+.item:hover{background:var(--bg)}
+.item .dot{margin-top:6px}
+.item .tt{font-weight:600}
+.item .pl{color:var(--muted);font-size:13px;grid-column:2}
+.tag{font-family:var(--mono);font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;border:1px solid var(--line);padding:1px 5px;border-radius:3px;color:var(--muted);margin-left:6px;white-space:nowrap}
+section.extra{margin-top:24px}
+h2{font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:22px;letter-spacing:.02em;margin:0 0 4px}
+.note{color:var(--muted);font-size:13.5px;max-width:75ch}
+.extra ul{list-style:none;padding:0;margin:10px 0 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}
+.extra li{border:1px solid var(--line);background:var(--panel);padding:10px 12px}
+.extra li .meta{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.extra a{color:inherit}
+footer{margin-top:24px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:12px}
+footer a{color:inherit}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto!important}}
+
+.live{display:flex;align-items:center;gap:8px;margin:8px 0 0;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.pulse{width:9px;height:9px;border-radius:50%;background:var(--ok);flex:none;box-shadow:0 0 0 0 var(--ok);animation:pulse 2s infinite}
+.live.stale .pulse{background:var(--les);animation:none}
+@keyframes pulse{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--ok) 60%,transparent)}70%{box-shadow:0 0 0 8px transparent}100%{box-shadow:0 0 0 0 transparent}}
+@media (prefers-reduced-motion: reduce){.pulse{animation:none}}
+.tag.ok{color:var(--ok);border-color:var(--ok)}
+.lbl-city{color:var(--ink);font-size:12px}
+.tag.tipo{color:var(--ink)}
+.tag.new{color:var(--accent);border-color:var(--accent)}
+.cz-ico{width:14px;height:14px;background:var(--cierre);border:2px solid var(--panel);transform:rotate(45deg);box-shadow:0 0 0 1px var(--cierre)}
+.cz-ico.parcial{background:repeating-linear-gradient(45deg,var(--cierre) 0 3px,var(--panel) 3px 5px)}
+.tag.cz{color:var(--cierre);border-color:var(--cierre)}
+.extra li.czi{border-left:4px solid var(--cierre)}
+.extra li button.go{font:600 12px var(--body);margin-top:6px;border:1px solid var(--line);background:var(--bg);color:var(--ink);padding:3px 9px;border-radius:999px;cursor:pointer}
+</style>
+
+<div class="wrap">
+  <header>
+    <div>
+      <h1>Accidentes · Península de Yucatán</h1>
+      <p class="sub">Accidentes viales, laborales, en el hogar, incendios y explosiones, en el agua y otros, además de calles cerradas y desvíos, reportados en Yucatán, Campeche y Quintana Roo. Un programa automático revisa los medios de la península cada hora y el mapa se actualiza solo, sin recargar la página.</p>
+      <p class="live" id="live"><span class="pulse" aria-hidden="true"></span><span id="liveTxt">Conectando con los datos…</span></p>
+    </div>
+    <div class="tally" id="tally"></div>
+  </header>
+
+  <div class="controls" id="rangeCtl"><span class="lbl">Periodo</span></div>
+  <div class="controls" id="sevCtl" style="margin-top:0"><span class="lbl">Gravedad</span></div>
+  <div class="controls" id="edoCtl" style="margin-top:0"><span class="lbl">Estado</span></div>
+  <div class="controls" id="tipoCtl" style="margin-top:0"><span class="lbl">Tipo</span></div>
+  <div class="controls" id="confCtl" style="margin-top:0"><span class="lbl">Confirmación</span></div>
+  <div class="controls" id="czCtl" style="margin-top:0"><span class="lbl">Calles cerradas</span></div>
+
+  <div class="grid">
+    <div id="map" role="region" aria-label="Mapa de accidentes"></div>
+    <div class="log" id="log" aria-label="Lista de accidentes"><p class="note" style="padding:14px">Cargando accidentes…</p></div>
+  </div>
+
+  <section class="extra">
+    <h2>Calles cerradas y desvíos</h2>
+    <p class="note">Cierres vigentes por obras, accidentes, bloqueos, eventos o clima. En el mapa aparecen como rombos morados (rayados si el cierre es parcial). Un cierre con fecha de término se muestra hasta ese día; uno sin fecha, durante 3 días desde que se reportó.</p>
+    <ul id="cz"></ul>
+  </section>
+
+  <section class="extra">
+    <h2>Sin ubicación precisa</h2>
+    <p class="note">Estos reportes no dicen dónde ocurrieron, o solo mencionan un tramo general del Periférico. Por eso no aparecen en el mapa.</p>
+    <ul id="sin"></ul>
+  </section>
+
+  <footer>
+    <p><b>Fuentes:</b> notas publicadas por <a href="https://www.facebook.com/md.eco.yucatan/" target="_blank" rel="noopener">ECO Yucatán</a>, <a href="https://www.facebook.com/sspyuc/" target="_blank" rel="noopener">SSP Yucatán</a>, <a href="https://www.facebook.com/PoliciaMeridaMx/" target="_blank" rel="noopener">Policía Municipal de Mérida</a>, <a href="https://www.yucatan.com.mx/etiqueta/accidentes-en-merida" target="_blank" rel="noopener">Diario de Yucatán</a>, <a href="https://www.poresto.com/yucatan/sucesos/" target="_blank" rel="noopener">Por Esto!</a>, <a href="https://www.facebook.com/NovedadesYucatan/" target="_blank" rel="noopener">Novedades Yucatán</a> <a href="https://www.lajornadamaya.mx/yucatan/" target="_blank" rel="noopener">La Jornada Maya</a>, <a href="https://yucatan.quadratin.com.mx/sucesos/" target="_blank" rel="noopener">Quadratín Yucatán</a> <a href="https://www.aztecayucatan.com/" target="_blank" rel="noopener">TV Azteca Yucatán</a>, Trecevisión, la Fiscalía y Protección Civil de Yucatán; en Campeche, Tribuna Campeche, Novedades Campeche, Quadratín Campeche, SSP, Fiscalía y Protección Civil del estado; en Quintana Roo, Novedades Quintana Roo, Quadratín Quintana Roo, Diario de Quintana Roo, Noticaribe, TV Azteca Quintana Roo, Noticias Cancún, Quintana Roo Hoy, SSC, Fiscalía y Protección Civil del estado; y en toda la península, Guardia Nacional (carreteras federales), Cruz Roja y cuerpos de bomberos. <b>Confirmado</b> = lo publicó una autoridad o un medio con redacción propia; <b>sin confirmar</b> = solo aparece en Accidentes Yucatán u otras páginas de reportes ciudadanos. Cuando un accidente aparece en varias fuentes se cuenta una sola vez. Los registros anteriores al 12 de octubre de 2026 incluyen además reportes de Facebook (Accidentes Yucatán, ECO Yucatán y SSP Yucatán) revisados a mano.</p>
+    <p><b>Precisión de la ubicación:</b> <span class="tag" style="margin:0">cruce</span> = esquina exacta según OpenStreetMap; <span class="tag" style="margin:0">colonia</span> = centro de la colonia; <span class="tag" style="margin:0">tramo</span> = punto aproximado sobre la vía. Calles y carreteras: © colaboradores de OpenStreetMap. La gravedad sale de lo que dice la publicación; "sin dato" significa que no se mencionaron heridos.</p>
+  </footer>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script>
+const ROADS = [[1,[881,575,867,617,842,624,628,512,461,363,284,68,259,47,17,-50,-223,-164,-509,-432]],[1,[1926,1150,1936,1150,2130,1011,2357,942,2466,923,2849,703,3034,657,3108,558,3128,547,3172,541]],[1,[-533,-458,-217,-162,23,-49,261,46,288,69,457,356,620,504,842,623,868,613,862,604,852,615]],[1,[1138,3035,1298,2079]],[1,[1138,3048,1300,2081]],[1,[3165,543,3110,558,3037,657,2839,710,2466,925,2352,945,2126,1013,1928,1157]],[2,[1335,1877,1385,1580]],[2,[1369,981,1139,979]],[2,[1104,1090,907,963,860,922,482,727,296,572,143,468,128,344]],[2,[128,344,87,352,119,414,120,474,156,499,182,499,303,579,489,733,858,923,906,964,1125,1106,1151,1133,1173,1176,1196,1353]],[2,[751,790,743,817]],[2,[1386,1563,1373,1571,1267,1572,1226,1531]],[2,[1597,1548,1746,1646,1816,1677,1880,1732,1933,1815]],[2,[1942,1819,2212,2099,2245,2119,2604,2221,2704,2420,2719,2437,2906,2515,3147,2549]],[2,[179,-14,160,120]],[2,[1139,979,1126,980,1104,1090]],[2,[1104,1090,1118,1002,1126,979,1139,979]],[2,[1226,1531,1211,1490]],[2,[1439,1589,1385,1580]],[2,[1332,1880,1325,1922]],[2,[1823,1198,1908,1163]],[2,[2369,1308,1813,1201]],[2,[1442,1587,1574,1570,1597,1548]],[2,[1327,1926,1307,2044]],[2,[688,1670,647,1694]],[2,[1682,1194,1823,1198]],[2,[1167,1371,872,1555]],[2,[870,1552,904,1532]],[2,[1214,1490,1226,1531]],[2,[2875,-258,2886,-197,2849,-80,2727,148,2703,207,2575,342,2573,423,2497,507,2491,530,2530,692,2614,805]],[2,[647,1694,686,1667]],[2,[128,344,157,145]],[2,[646,1694,561,1755,530,1759,140,1919,42,1937,-71,1939,-266,1971,-446,1973,-548,1961,-772,1905,-842,1895,-923,1869]],[2,[1385,1579,1387,1565,1373,1572,1268,1573,1226,1531]],[2,[697,1665,734,1641]],[2,[779,1610,863,1556]],[2,[3147,2550,2907,2517,2716,2436,2602,2221,2225,2113,1938,1822]],[2,[751,1394,723,1391,616,1433]],[2,[616,1433,656,1419,679,1401,700,1375,702,1356]],[2,[691,1660,635,1560]],[2,[782,1820,696,1667]],[2,[1653,1484,1599,1548]],[2,[1198,1353,1180,1194,1167,1157,1135,1114,1104,1090]],[2,[1683,1207,1690,1337,1684,1349,1617,1383]],[2,[1626,1405,1617,1383]],[2,[2175,2063,2051,2303,2049,2332,2143,2512,2267,2604,2277,2620,2263,2951,2298,3195]],[2,[627,1557,567,1450]],[2,[1537,949,1592,999,1670,1004,1683,1207]],[2,[690,1671,776,1822]],[2,[783,1824,892,2019]],[2,[1935,1813,1881,1733,1839,1694,1811,1673,1724,1633,1599,1548]],[2,[745,850,743,817]],[2,[743,817,738,815,719,844]],[2,[2892,1354,2666,1324,2415,1315]],[2,[1682,1194,1813,1201]],[2,[735,1637,776,1611]],[2,[-491,1474,-444,1481,-250,1480,-113,1527,-65,1551,-12,1559,31,1547,204,1471,496,1465,616,1433]],[2,[1626,1405,1624,1416,1663,1471]],[2,[1682,1194,1668,1002,1590,1000,1536,949]],[2,[1307,2046,1300,2081]],[2,[1167,1371,996,1475]],[2,[1167,1371,1196,1353]],[2,[904,1532,996,1475]],[2,[2369,1308,2413,1315]],[2,[2892,1354,2942,1361]],[2,[2942,1361,2990,1367,3008,1378,3036,1420]],[2,[160,120,157,145]],[0,[697,1284,684,1257,637,1194,588,1126,586,1074,618,1018,645,970,677,915,706,864,734,816,762,769,795,713,827,656,858,604,898,560,956,532,1019,526,1091,547,1176,592,1227,617,1291,651,1342,681,1376,701,1413,727,1449,754,1500,792,1526,810,1556,833,1575,847,1607,870,1628,886,1661,910,1690,931,1714,948,1748,974,1769,990,1793,1008,1829,1032,1864,1059,1892,1082,1912,1111,1923,1152,1930,1201,1934,1226,1942,1278,1951,1341,1957,1384,1963,1419,1968,1457,1977,1525,1984,1571,1990,1615,1988,1655,1974,1714,1957,1781,1943,1811,1898,1855,1862,1887,1820,1906,1759,1928,1711,1945,1668,1961,1627,1976,1572,1995,1520,2015,1488,2029,1426,2062,1372,2087,1315,2086,1258,2080,1218,2074,1160,2068,1103,2053,978,1761,964,1724,944,1677,927,1645,904,1611,875,1567,860,1544,835,1505,811,1471,786,1430,740,1355,697,1284]]];
+const SEV = {fatal:{n:"Con fallecidos",v:"--fatal"},les:{n:"Con lesionados",v:"--les"},sd:{n:"Sin dato de heridos",v:"--sd"}};
+const TOWNS = [["Kanasín",20.928,-89.556],["Umán",20.880,-89.745],["Conkal",21.081,-89.522],["Komchén",21.112,-89.680],["Caucel",21.012,-89.712],["Acanceh",20.815,-89.452]];
+const CITIES = [["Mérida",20.975,-89.640],["Progreso",21.283,-89.663],["Valladolid",20.690,-88.202],["Tizimín",21.143,-88.152],["Ticul",20.400,-89.534],["Campeche",19.845,-90.524],["Cd. del Carmen",18.649,-91.822],["Champotón",19.350,-90.722],["Escárcega",18.609,-90.743],["Calkiní",20.371,-90.051],["Cancún",21.161,-86.851],["Playa del Carmen",20.629,-87.073],["Tulum",20.211,-87.465],["Cozumel",20.509,-86.950],["F. Carrillo Puerto",19.580,-88.045],["Bacalar",18.677,-88.393],["Chetumal",18.500,-88.296]];
+const STATES = {"Yucatán":[[2593,3849,2621,3848,2613,3556,2659,3554,2665,3576,2665,3541,2771,3544,2766,3470,2815,3461,2814,3437,2868,3443,2933,3425,2958,3466,2996,3487,3162,3287,3128,3288,3124,3253,3159,3251,3154,3210,3197,3202,3206,3136,3252,3179,3401,2998,3395,2938,3413,2920,3413,2874,3474,2776,3524,2771,3521,2741,3508,2742,3532,2700,3552,2698,3588,2649,3703,2551,3780,2608,3777,2637,3810,2633,3811,2644,3855,2637,3850,2581,3891,2582,3892,2612,3866,2615,3877,2703,3964,2678,3969,2709,4002,2705,4005,2727,3951,2721,3975,2777,3996,2772,4001,2798,4026,2818,4056,2813,4055,2792,4070,2791,4089,2801,4100,2861,4121,2862,4120,2878,4174,2880,4171,2906,4183,2904,4216,3008,4300,3010,4309,3090,4423,3148,4492,3143,4498,3190,4480,3192,4557,3238,4597,3239,4591,3252,4691,3254,4733,3269,4735,3290,4864,3281,5007,3418,5005,3447,5037,3447,5256,3654,5467,4000,5465,4490,5262,4530,5037,4610,4863,4625,4730,4556,4677,4550,4623,4568,4384,4522,4305,4451,4159,4398,3336,4288,3329,4346,3319,4349,3330,4285,3155,4251,3008,4178,2905,4156,2682,4024,2635,3964,2593,3849]],"Campeche":[[531,1650,534,1617,574,1558,585,1488,635,1464,641,1445,677,1473,690,1455,824,1458,827,1275,817,1274,851,1210,836,1198,839,1155,878,1102,918,1085,960,1098,958,1078,1021,1044,1033,1016,1100,1012,1238,939,1240,957,1361,874,1367,905,1387,913,1375,949,1389,1095,1428,1142,1420,1158,1465,1146,1490,1171,1498,1156,1485,1155,1483,1131,1496,1117,1615,1064,1673,1063,1782,975,1855,975,1849,963,1867,958,1870,982,1886,976,1880,963,2012,962,2012,815,3848,816,3848,954,3794,954,3793,993,3793,1021,3837,1019,3837,1058,3855,1058,3856,1082,3798,1083,3800,1145,3857,1146,3857,1224,3842,1221,3848,1294,3868,1293,3862,1386,3879,1386,3875,1451,3850,1451,3844,1753,3856,1756,3864,2132,3853,2133,3853,2424,3523,2711,3508,2742,3521,2741,3524,2771,3474,2776,3413,2874,3413,2920,3395,2938,3401,2998,3252,3179,3206,3136,3197,3202,3154,3210,3159,3251,3124,3253,3128,3288,3162,3287,2996,3487,2958,3466,2933,3425,2868,3443,2814,3437,2815,3461,2766,3470,2771,3544,2665,3541,2665,3576,2659,3554,2613,3556,2621,3848,2595,3847,2586,3819,2593,3768,2546,3703,2558,3680,2547,3613,2498,3495,2498,3472,2525,3471,2504,3454,2508,3406,2521,3412,2503,3341,2511,3216,2519,3210,2522,3205,2523,3184,2505,3161,2524,3110,2509,3061,2538,3014,2530,2984,2553,2960,2491,2867,2471,2866,2478,2858,2339,2759,2330,2719,2288,2672,2314,2627,2288,2562,2294,2461,2277,2358,2238,2303,2099,2182,1880,2031,1604,1890,1501,1790,1257,1679,1159,1664,1149,1656,1145,1651,1144,1611,1089,1638,1048,1693,1020,1699,531,1650]],"Quintana Roo":[[3703,2551,3853,2424,3853,2133,3864,2132,3856,1756,3844,1753,3850,1451,3875,1451,3879,1386,3862,1386,3868,1293,3848,1294,3842,1221,3857,1224,3857,1146,3800,1145,3798,1083,3856,1082,3855,1058,3837,1058,3837,1019,3793,1021,3794,954,3848,954,3848,940,3868,972,3963,1005,3999,985,4013,947,4055,959,4086,911,4140,894,4141,925,4215,980,4231,1031,4284,1061,4281,1109,4320,1160,4303,1182,4384,1223,4394,1292,4455,1360,4448,1375,4481,1461,4523,1494,4552,1475,4598,1496,4620,1479,4673,1490,4750,1473,4750,1416,4970,1415,4969,1168,5067,1167,5087,1150,5134,1199,5150,1185,5175,1320,5236,1418,5238,1498,5259,1539,5286,1705,5328,1756,5372,1938,5451,2086,5463,2210,5555,2312,5511,2326,5444,2296,5431,2278,5413,2265,5405,2253,5394,2247,5388,2240,5399,2248,5400,2235,5377,2196,5380,2186,5362,2177,5330,2187,5314,2220,5326,2228,5309,2228,5339,2261,5330,2297,5365,2374,5446,2427,5465,2429,5452,2421,5460,2419,5459,2400,5452,2396,5439,2394,5427,2398,5428,2395,5455,2392,5474,2395,5560,2470,5589,2592,5545,2648,5555,2623,5538,2607,5549,2600,5545,2595,5520,2588,5495,2590,5490,2576,5510,2570,5486,2563,5475,2540,5468,2562,5462,2557,5450,2566,5390,2554,5349,2505,5342,2500,5330,2501,5336,2529,5313,2531,5330,2538,5323,2569,5298,2550,5292,2573,5251,2600,5258,2663,5350,2689,5340,2634,5311,2626,5332,2616,5347,2650,5358,2689,5439,2805,5466,2796,5503,2807,5530,2780,5526,2817,5570,2886,5522,3006,5522,3078,5577,3226,5632,3286,5718,3446,5901,3593,5990,3702,6037,3730,6060,3782,6126,3847,6186,4020,6204,4038,6220,4031,6229,4083,6259,4135,6212,4144,6193,4179,6199,4238,6184,4283,6209,4345,6205,4409,6204,4386,6192,4411,6173,4414,6189,4407,6175,4410,6205,4374,6207,4345,6163,4272,6176,4244,6149,4255,6111,4407,6046,4489,6047,4515,6024,4548,6015,4542,6025,4541,6030,4530,6026,4510,5989,4558,5932,4571,5915,4589,5871,4554,5901,4532,5888,4471,5842,4463,5812,4440,5784,4443,5768,4419,5726,4443,5728,4432,5659,4432,5569,4469,5527,4457,5512,4485,5465,4490,5467,4000,5256,3654,5037,3447,5005,3447,5007,3418,4864,3281,4735,3290,4733,3269,4691,3254,4591,3252,4597,3239,4557,3238,4480,3192,4498,3190,4492,3143,4423,3148,4309,3090,4300,3010,4216,3008,4183,2904,4171,2906,4174,2880,4120,2878,4121,2862,4100,2861,4089,2801,4070,2791,4055,2792,4056,2813,4026,2818,4001,2798,3996,2772,3975,2777,3951,2721,4005,2727,4002,2705,3969,2709,3964,2678,3877,2703,3866,2615,3892,2612,3891,2582,3850,2581,3855,2637,3811,2644,3810,2633,3777,2637,3780,2608,3703,2551],[5646,4538,5668,4552,5710,4511,5738,4530,5789,4520,5831,4555,5845,4558,5848,4557,5847,4560,5852,4561,5851,4564,5870,4568,5889,4594,5787,4545,5714,4541,5665,4564,5646,4538],[5975,3367,5983,3299,6012,3272,6101,3345,6169,3438,6205,3463,6277,3591,6210,3556,6177,3554,6127,3548,6143,3546,6135,3537,6103,3566,6073,3551,5994,3433,5975,3367]]};
+const RANGES = [["24h","Últimas 24 h",1],["7d","Últimos 7 días",7],["30d","Últimos 30 días",30]];
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const DAYS = ["dom","lun","mar","mié","jue","vie","sáb"];
+const MES = ["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const fmtDay = iso => { const [y,m,d]=iso.split("-").map(Number); const dt=new Date(y,m-1,d); return DAYS[dt.getDay()]+" "+d+" "+MES[m-1]; };
+const esc = s => String(s ?? "").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const srcLinks = src => (Array.isArray(src)?src:[]).filter(s=>s && /^https:\/\//.test(s.u)).map(s=>`<a href="${esc(s.u)}" target="_blank" rel="noopener">${esc(s.n)}</a>`).join(" · ");
+const sevOf = a => SEV[a.sev] ? a.sev : "sd";
+const TIPOS = {vial:"Vial",laboral:"Laboral",hogar:"En el hogar",incendio:"Incendio o explosión",agua:"En el agua",otro:"Otro"};
+const tipoOf = a => TIPOS[a.tipo] ? a.tipo : "vial";
+const EDOS = ["Yucatán","Campeche","Quintana Roo"];
+const edoOf = a => EDOS.includes(a.estado) ? a.estado : "Yucatán";
+const tipoTag = a => `<span class="tag tipo">${TIPOS[tipoOf(a)]}</span>`;
+const CONFIRMAN = ["SSP Yucatán","Policía Municipal de Mérida","Diario de Yucatán","Por Esto!","Novedades Yucatán","La Jornada Maya","Quadratín Yucatán","TV Azteca Yucatán","Trecevisión","Fiscalía de Yucatán","Protección Civil Yucatán","ECO Yucatán","Tribuna Campeche","Novedades Campeche","Quadratín Campeche","SSP Campeche","Fiscalía de Campeche","Protección Civil Campeche","Novedades Quintana Roo","Quadratín Quintana Roo","Diario de Quintana Roo","Noticaribe","SSC Quintana Roo","Fiscalía de Quintana Roo","Protección Civil Quintana Roo","TV Azteca Quintana Roo","Noticias Cancún","Quintana Roo Hoy","Guardia Nacional","Cruz Roja","Bomberos"];
+const isConf = a => (Array.isArray(a.src)?a.src:[]).some(s=>s && CONFIRMAN.includes(s.n));
+const confTag = a => isConf(a) ? '<span class="tag ok">confirmado</span>' : '<span class="tag">sin confirmar</span>';
+const MOTIVOS = {obra:"Obra",accidente:"Por accidente",bloqueo:"Bloqueo o protesta",evento:"Evento",clima:"Clima"};
+const hoyMerida = () => new Date().toLocaleDateString("en-CA",{timeZone:"America/Merida"});
+const czVigente = c => c.hasta ? c.hasta >= hoyMerida() : (Date.parse(c.ts || (c.d+"T12:00:00-06:00"))||0) >= Date.now()-3*864e5;
+const czTags = c => `<span class="tag cz">${esc(MOTIVOS[c.motivo]||"Cierre")}</span><span class="tag">${c.nivel==="parcial"?"parcial":"total"}</span>`;
+const czFechas = c => "desde "+fmtDay(c.d)+(c.h?" · "+esc(c.h):"")+(c.hasta?" · hasta "+fmtDay(c.hasta):"");
+const tsOf = a => Date.parse(a.ts || (a.d+"T12:00:00-06:00")) || 0;
+
+const state = {edo:new Set(["Yucatán","Campeche","Quintana Roo"]), tipo:new Set(["vial","laboral","hogar","incendio","agua","otro"]), conf:"all", range:"7d", sev:new Set(Object.keys(SEV)), acc:[], sin:[], cz:[], showCz:true, estado:null, loaded:false};
+
+// controles
+function chip(parent,label,pressed,onclick,dotVar){ const b=document.createElement("button"); b.className="chip"; b.type="button"; b.setAttribute("aria-pressed",pressed); b.innerHTML=(dotVar?`<span class="dot" style="background:var(${dotVar})"></span>`:"")+label; b.onclick=()=>onclick(b); parent.appendChild(b); return b; }
+const rangeBtns=[];
+RANGES.forEach(([k,l])=>rangeBtns.push([k,chip(document.getElementById("rangeCtl"),l,k===state.range,()=>{state.range=k; rangeBtns.forEach(([kk,bb])=>bb.setAttribute("aria-pressed",kk===k)); render();})]));
+Object.entries(TIPOS).forEach(([k,l])=>chip(document.getElementById("tipoCtl"),l,true,b=>{ state.tipo.has(k)?state.tipo.delete(k):state.tipo.add(k); b.setAttribute("aria-pressed",state.tipo.has(k)); render(); }));
+EDOS.forEach(k=>chip(document.getElementById("edoCtl"),k,true,b=>{ state.edo.has(k)?state.edo.delete(k):state.edo.add(k); b.setAttribute("aria-pressed",state.edo.has(k)); render(); }));
+const confBtns=[];
+[["all","Todos"],["conf","Solo confirmados"]].forEach(([k,l])=>confBtns.push([k,chip(document.getElementById("confCtl"),l,k==="all",()=>{state.conf=k; confBtns.forEach(([kk,bb])=>bb.setAttribute("aria-pressed",kk===k)); render();})]));
+chip(document.getElementById("czCtl"),"Mostrar en el mapa",true,b=>{ state.showCz=!state.showCz; b.setAttribute("aria-pressed",state.showCz); render(); },"--cierre");
+Object.entries(SEV).forEach(([k,s])=>chip(document.getElementById("sevCtl"),s.n,true,b=>{ state.sev.has(k)?state.sev.delete(k):state.sev.add(k); b.setAttribute("aria-pressed",state.sev.has(k)); render(); },s.v));
+
+// mapa
+let map=null, roadLayer=null, mLayer=null; const markers=new Map();
+const toLL=(x,y)=>[20.84+y/1e4,-89.76+x/1e4];
+function drawRoads(){
+  if(!roadLayer) return; roadLayer.clearLayers();
+  ROADS.forEach(([c,f])=>{ const pts=[]; for(let i=0;i<f.length;i+=2) pts.push(toLL(f[i],f[i+1]));
+    L.polyline(pts,{color:css(c===0?"--ring":"--road"),weight:c===0?3.5:c===1?3:1.8,opacity:1,interactive:false}).addTo(roadLayer); });
+  Object.values(STATES).forEach(ps=>ps.forEach(f=>{ const pts=[]; for(let i=0;i<f.length;i+=2) pts.push([17+f[i+1]/1e3,-93+f[i]/1e3]);
+    L.polygon(pts,{color:css("--ring"),weight:1.5,fill:false,dashArray:"4 4",interactive:false}).addTo(roadLayer); }));
+  CITIES.forEach(([n,la,lo])=>{ L.circleMarker([la,lo],{radius:2.5,weight:0,fillColor:css("--muted"),fillOpacity:1,interactive:false}).addTo(roadLayer);
+    L.marker([la,lo],{interactive:false,icon:L.divIcon({className:"lbl-town lbl-city",html:n,iconSize:null,iconAnchor:[-6,8]})}).addTo(roadLayer); });
+  if(map && map.getZoom()>=10) TOWNS.forEach(([n,la,lo])=>L.marker([la,lo],{interactive:false,icon:L.divIcon({className:"lbl-town",html:n,iconSize:null})}).addTo(roadLayer));
+}
+if(window.L){
+  map=L.map("map",{zoomSnap:0.25}).setView([19.75,-89.55],7);
+  const PEN=[[17.85,-92.4],[21.65,-86.75]]; const fitPen=()=>{ const el=document.getElementById("map"); if(el.clientWidth>50&&el.clientHeight>50){ map.invalidateSize(); map.fitBounds(PEN); } };
+  setTimeout(fitPen,300); setTimeout(fitPen,1500); let _rf=null; addEventListener("resize",()=>{ clearTimeout(_rf); _rf=setTimeout(()=>map.invalidateSize(),200); });
+  let _z=map.getZoom(); map.on("zoomend",()=>{ const z=map.getZoom(); if((z>=10)!==(_z>=10)) drawRoads(); _z=z; });
+  map.attributionControl.setPrefix(false).addAttribution("Vías © OpenStreetMap");
+  roadLayer=L.layerGroup().addTo(map); mLayer=L.layerGroup().addTo(map); drawRoads();
+} else { document.getElementById("map").innerHTML='<p class="note" style="padding:14px">No se pudo cargar el mapa. La lista de la derecha sigue funcionando.</p>'; }
+
+function inRange(a){ const days=RANGES.find(r=>r[0]===state.range)[2]; return tsOf(a) >= Date.now()-days*864e5; }
+function visible(a){ return inRange(a) && state.edo.has(edoOf(a)) && state.tipo.has(tipoOf(a)) && state.sev.has(sevOf(a)) && (state.conf!=="conf" || isConf(a)); }
+
+function popupHtml(a){ return `<div class="pop"><div class="meta">${fmtDay(a.d)}${a.h?" · "+esc(a.h):""} · ${esc(SEV[sevOf(a)].n)}</div><h3>${esc(a.t)}</h3><div>${esc(a.p)}, ${esc(edoOf(a))} <span class="tag">${esc(a.pr)}</span>${tipoTag(a)}${confTag(a)}</div><div class="meta" style="margin-top:6px">${srcLinks(a.src)}</div></div>`; }
+
+function renderTally(){
+  const r=state.acc.filter(inRange), s=state.sin.filter(inRange);
+  document.getElementById("tally").innerHTML =
+    `<div><b>${r.length+s.length}</b><span>reportes</span></div>`+
+    `<div><b style="color:var(--fatal)">${r.filter(a=>sevOf(a)==="fatal").length}</b><span>con fallecidos</span></div>`+
+    `<div><b style="color:var(--les)">${r.filter(a=>sevOf(a)==="les").length}</b><span>con lesionados</span></div>`+
+    `<div><b>${r.length}</b><span>en el mapa</span></div>`+
+    `<div><b style="color:var(--ok)">${r.filter(isConf).length}</b><span>confirmados</span></div>`+
+    `<div><b style="color:var(--cierre)">${state.cz.filter(czVigente).length}</b><span>calles cerradas</span></div>`;
+}
+function render(){
+  renderTally();
+  const vis=state.acc.filter(a=>visible(a) && isFinite(a.lat) && isFinite(a.lon)).sort((x,y)=>tsOf(y)-tsOf(x));
+  if(mLayer){ mLayer.clearLayers();
+    vis.forEach(a=>{ let m=markers.get(a.id);
+      if(!m){ m=L.circleMarker([a.lat,a.lon],{radius:7,weight:2}); markers.set(a.id,m); }
+      m.setLatLng([a.lat,a.lon]).setRadius(sevOf(a)==="fatal"?9:7).setStyle({color:css("--panel"),fillColor:css(SEV[sevOf(a)].v),fillOpacity:.95});
+      m.bindPopup(popupHtml(a)); m.addTo(mLayer); });
+    if(state.showCz) state.cz.filter(c=>czVigente(c) && state.edo.has(edoOf(c)) && isFinite(c.lat) && isFinite(c.lon)).forEach(c=>{ const k="cz:"+c.id; let m=markers.get(k);
+      if(!m){ m=L.marker([c.lat,c.lon]); markers.set(k,m); }
+      m.setLatLng([c.lat,c.lon]).setIcon(L.divIcon({className:"",html:`<div class="cz-ico ${c.nivel==="parcial"?"parcial":""}"></div>`,iconSize:[18,18],iconAnchor:[9,9]}));
+      m.bindPopup(`<div class="pop"><div class="meta">${czFechas(c)}</div><h3>${esc(c.t)}</h3><div>${esc(c.p)}, ${esc(edoOf(c))} ${czTags(c)}</div><div class="meta" style="margin-top:6px">${srcLinks(c.src)}</div></div>`); m.addTo(mLayer); }); }
+  const log=document.getElementById("log"); log.innerHTML="";
+  if(!state.loaded){ log.innerHTML='<p class="note" style="padding:14px">Cargando accidentes…</p>'; }
+  else if(!vis.length){ log.innerHTML='<p class="note" style="padding:14px">'+(state.acc.length?"Ningún accidente coincide con estos filtros.":"Todavía no hay accidentes registrados. Aparecerán aquí después de la próxima revisión.")+'</p>'; }
+  let cur=null;
+  vis.forEach(a=>{
+    if(a.d!==cur){ cur=a.d; const h=document.createElement("div"); h.className="day"; h.textContent=fmtDay(a.d); log.appendChild(h); }
+    const b=document.createElement("button"); b.className="item"; b.type="button";
+    const nuevo = state.estado && a.creado && Date.parse(a.creado) >= Date.parse(state.estado.ultimaRevision||0)-60000 ? '<span class="tag new">nuevo</span>' : '';
+    b.innerHTML=`<span class="dot" style="background:var(${SEV[sevOf(a)].v})"></span><span class="tt">${esc(a.t)}${nuevo}</span><span class="pl">${a.h?esc(a.h)+" · ":""}${esc(a.p)}<span class="tag">${esc(a.pr)}</span>${tipoTag(a)}${confTag(a)}</span>`;
+    b.onclick=()=>{ if(!map) return; map.flyTo([a.lat,a.lon],Math.max(map.getZoom(),14),{duration:matchMedia("(prefers-reduced-motion: reduce)").matches?0:.6}); markers.get(a.id)?.openPopup(); if(innerWidth<=860) document.getElementById("map").scrollIntoView({block:"start"}); };
+    log.appendChild(b);
+  });
+  const czs=state.cz.filter(c=>czVigente(c) && state.edo.has(edoOf(c))).sort((x,y)=>(y.d||"").localeCompare(x.d||""));
+  const czUl=document.getElementById("cz");
+  czUl.innerHTML = czs.length ? czs.map(c=>`<li class="czi"><div class="meta">${czFechas(c)}</div><div style="font-weight:600">${esc(c.t)}</div><div class="note">${esc(c.p)}, ${esc(edoOf(c))} ${czTags(c)}</div><div class="meta" style="margin-top:4px">${srcLinks(c.src)}</div>${isFinite(c.lat)&&isFinite(c.lon)?`<button class="go" type="button" data-id="${esc(c.id)}">Ver en el mapa</button>`:""}</li>`).join("") : '<li class="note">'+(state.loaded?"No hay cierres vigentes reportados.":"Cargando…")+'</li>';
+  czUl.querySelectorAll("button.go").forEach(b=>b.onclick=()=>{ const c=state.cz.find(x=>x.id===b.dataset.id); if(!c||!map) return; map.flyTo([c.lat,c.lon],Math.max(map.getZoom(),14),{duration:matchMedia("(prefers-reduced-motion: reduce)").matches?0:.6}); markers.get("cz:"+c.id)?.openPopup(); document.getElementById("map").scrollIntoView({block:"start"}); });
+  const sin=state.sin.filter(inRange).sort((x,y)=>tsOf(y)-tsOf(x));
+  document.getElementById("sin").innerHTML = sin.length ? sin.map(s=>`<li><div class="meta">${fmtDay(s.d)}${s.h?" · "+esc(s.h):""}</div><div style="font-weight:600">${esc(s.t)}</div><div class="note">${esc(s.p)}</div><div class="meta" style="margin-top:4px">${srcLinks(s.src)}</div></li>`).join("") : '<li class="note">Ninguno en este periodo.</li>';
+}
+
+// estado "en vivo"
+function ago(ms){ const m=Math.round(ms/60000); if(m<1) return "hace un momento"; if(m<60) return `hace ${m} min`; const h=Math.floor(m/60); return `hace ${h} h ${m%60} min`; }
+function renderLive(){
+  const el=document.getElementById("liveTxt"), wrap=document.getElementById("live");
+  const e=state.estado; if(!e||!e.ultimaRevision){ return; }
+  const last=Date.parse(e.ultimaRevision), next=last+(e.intervaloMin||60)*60000, late=Date.now()-next>45*60000;
+  wrap.classList.toggle("stale",late);
+  const hh=new Date(last).toLocaleTimeString("es-MX",{hour:"2-digit",minute:"2-digit",timeZone:"America/Merida"});
+  let txt=`Última revisión ${hh} (${ago(Date.now()-last)})`;
+  if(e.resultado) txt+=` · ${e.resultado}`;
+  txt += late ? " · la revisión automática se retrasó" : (next>Date.now()? ` · próxima en ~${Math.max(1,Math.round((next-Date.now())/60000))} min` : " · revisión en curso");
+  el.textContent=txt;
+}
+setInterval(renderLive,30000);
+setInterval(()=>{ if(state.loaded) render(); },10*60000);
+
+// datos: archivos JSON que el programa automático actualiza cada hora
+async function cargarDatos(){
+  const get = async n => { const r = await fetch(`data/${n}.json?v=${Date.now()}`, {cache:"no-store"}); if(!r.ok) throw new Error(n); return r.json(); };
+  try{
+    const [acc, sin, cz, est] = await Promise.all([get("accidentes"), get("sinubicacion"), get("cierres").catch(()=>[]), get("estado").catch(()=>null)]);
+    state.acc = acc; state.sin = sin; state.cz = cz; state.estado = est; state.loaded = true;
+    renderLive(); render();
+  }catch(e){
+    state.loaded = true; render();
+    document.getElementById("liveTxt").textContent = "No se pudieron cargar los datos. Recarga la página en unos minutos.";
+  }
+}
+cargarDatos();
+setInterval(cargarDatos, 5*60000);
+
+const recolor=()=>{ drawRoads(); render(); };
+matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change",recolor);
+new MutationObserver(recolor).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
+</script>
+
+
+</body></html>

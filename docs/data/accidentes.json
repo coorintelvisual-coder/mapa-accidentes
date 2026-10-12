@@ -1,0 +1,1283 @@
+[
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-09",
+  "estado": "Campeche",
+  "h": "",
+  "lat": 19.8505,
+  "lon": -90.533,
+  "p": "Av. Pedro Sáinz de Baranda x Av. Adolfo Ruiz Cortines (malecón), San Francisco de Campeche",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/9/choque-camioneta-moto-bicicleta-deja-heridos-malecon-campeche.html"
+   }
+  ],
+  "t": "Choque entre camioneta, moto y bicicleta en el malecón deja dos lesionados",
+  "tipo": "vial",
+  "ts": "2026-10-09T12:00:00-06:00",
+  "id": "2026-10-09_av-pedro-sainz-de-baranda-x-ruiz-cortines-campeche"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-09",
+  "estado": "Yucatán",
+  "h": "",
+  "lat": 20.9169,
+  "lon": -89.9472,
+  "p": "Calles de Kinchil, Yucatán",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/reel/2049432789045018/"
+   }
+  ],
+  "t": "Menor pierde el control de un mototaxi y termina contra un muro",
+  "tipo": "vial",
+  "ts": "2026-10-09T12:00:00-06:00",
+  "id": "2026-10-09_kinchil"
+ },
+ {
+  "creado": "2026-10-09T18:25:00Z",
+  "d": "2026-10-09",
+  "estado": "Yucatán",
+  "h": "",
+  "lat": 20.9941,
+  "lon": -89.5776,
+  "p": "Calle 24 x 21 y 26 Diagonal, Brisas, Mérida",
+  "pr": "colonia",
+  "sev": "fatal",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/posts/pfbid05m4SxeAhKxZkgi8xn18bJpowfKEgJ5wfP6k9QXRq7ukHxEvekSj3YCvP8djdt2H2l"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/fuerte-movilizacion-reportan-fuerte-ataque-de-abejas-hoy-viernes-en-calles-de-brisas/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/9/abejas-atacan-personas-fraccionamiento-brisas-merida-mujer-vida.html"
+   }
+  ],
+  "t": "Ataque de abejas durante una poda deja una mujer sin vida y dos personas afectadas en Brisas",
+  "tipo": "otro",
+  "ts": "2026-10-09T12:00:00-06:00",
+  "id": "2026-10-09_col-brisas-merida"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-09",
+  "estado": "Yucatán",
+  "h": "",
+  "lat": 20.9505,
+  "lon": -89.5555,
+  "p": "Carretera Mérida–Valladolid km 1, antes del puente de San Pedro Nohpat, Mérida",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1084270924610111/"
+   }
+  ],
+  "t": "Nueva carambola en la Mérida–Valladolid antes del puente de San Pedro Nohpat; motociclista lesionado",
+  "tipo": "vial",
+  "ts": "2026-10-09T12:00:00-06:00",
+  "id": "2026-10-09_merida-valladolid-km-1-puente-de-san-pedro-nohpat"
+ },
+ {
+  "creado": "2026-10-09T21:11:00Z",
+  "d": "2026-10-09",
+  "estado": "Quintana Roo",
+  "h": "",
+  "lat": 19.5862,
+  "lon": -88.0635,
+  "p": "Av. Lázaro Cárdenas x 78 y 80, col. Francisco May, Felipe Carrillo Puerto",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/fuga-gas-tortilleria-movilizo-cuerpos-emergencia-francisco-may-felipe-carrillo-puerto.html"
+   }
+  ],
+  "t": "Fuga de gas en una tortillería obliga a evacuar trabajadores y negocios cercanos; bomberos la controlan",
+  "tipo": "incendio",
+  "ts": "2026-10-09T12:00:00-05:00",
+  "id": "2026-10-09_av-lazaro-cardenas-x-78-y-80-francisco-may-fcp"
+ },
+ {
+  "creado": "2026-10-09T19:10:00Z",
+  "d": "2026-10-09",
+  "estado": "Quintana Roo",
+  "h": "",
+  "lat": 21.1983,
+  "lon": -86.8364,
+  "p": "Calle 130 x 14, Supermanzana 236 (junto a la Secundaria General 20), Cancún",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/adolescente-anos-resulta-lesionada-choque-supermanzana-cancun.html"
+   }
+  ],
+  "t": "Adolescente de 14 años en moto choca contra una camioneta frente a una secundaria; resulta lesionada",
+  "tipo": "vial",
+  "ts": "2026-10-09T12:00:00-05:00",
+  "id": "2026-10-09_calle-130-x-14-sm-236-cancun"
+ },
+ {
+  "creado": "2026-10-09T19:10:00Z",
+  "d": "2026-10-09",
+  "estado": "Quintana Roo",
+  "h": "",
+  "lat": 20.572,
+  "lon": -87.14,
+  "p": "Carretera federal 307 Playa del Carmen–Puerto Aventuras, a la altura del puente Calica, Solidaridad",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/conductor-queda-prensado-chocar-poste-cfe-carretera-federal.html"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/fuerte-accidente-en-la-carretera-federal-307-volcadura-deja-a-persona-atrapada-en-el-interior-de-un-coche/"
+   }
+  ],
+  "t": "Auto se sale de la carretera 307 y choca contra un poste de CFE; conductor queda prensado y es rescatado",
+  "tipo": "vial",
+  "ts": "2026-10-09T12:00:00-05:00",
+  "id": "2026-10-09_carretera-307-puente-calica-playa-del-carmen"
+ },
+ {
+  "creado": "2026-10-09T20:11:00Z",
+  "d": "2026-10-09",
+  "estado": "Quintana Roo",
+  "h": "09:40",
+  "lat": 19.043,
+  "lon": -88.115,
+  "p": "Carretera 307, tramo Limones–Noh Bec, Bacalar",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/coche-incendia-carretera-limones-noh-bec-salvan-personas.html"
+   }
+  ],
+  "t": "Auto se incendia en plena carretera Limones–Noh Bec; sus dos ocupantes salen ilesos",
+  "tipo": "incendio",
+  "ts": "2026-10-09T09:40:00-05:00",
+  "id": "2026-10-09_carretera-307-tramo-limones-noh-bec"
+ },
+ {
+  "creado": "2026-10-09T14:05:00Z",
+  "d": "2026-10-09",
+  "h": "",
+  "lat": 21.0338,
+  "lon": -89.6555,
+  "p": "Periférico bajo el puente de Dzityá / Francisco de Montejo, Mérida",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/photo/?fbid=1132423679312942"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/precaucion-reportan-fuerte-carambola-en-periferico-de-merida-hay-lesionados/"
+   }
+  ],
+  "t": "Carambola bajo el puente de Dzityá: auto se estrella contra vehículos y una moto en el semáforo; tres lesionados",
+  "tipo": "vial",
+  "ts": "2026-10-09T06:00:00-06:00",
+  "id": "2026-10-09_periferico-bajo-el-puente-de-dzitya",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-09",
+  "estado": "Campeche",
+  "h": "04:50",
+  "lat": 19.362,
+  "lon": -90.713,
+  "p": "Carretera federal Champotón–Campeche, cerca del entronque de Moquel (zona de cocteleros), Champotón",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/9/vuelca-trailer-carretera-champoton-campeche-madrugada.html"
+   }
+  ],
+  "t": "Vuelca tráiler bajo la lluvia en la carretera Champotón–Campeche; solo daños materiales",
+  "tipo": "vial",
+  "ts": "2026-10-09T04:50:00-06:00",
+  "id": "2026-10-09_champoton-campeche-entronque-de-moquel"
+ },
+ {
+  "creado": "2026-10-09T19:10:00Z",
+  "d": "2026-10-08",
+  "estado": "Yucatán",
+  "h": "18:00",
+  "lat": 21.102,
+  "lon": -88.312,
+  "p": "Carretera Sucilá–Espita km 6, Sucilá",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/camionetas-vuelcan-tras-aparatoso-accidente-en-la-carretera-sucila-espita-esto-se-sabe/"
+   }
+  ],
+  "t": "Vuelcan dos camionetas tras chocar en la carretera Sucilá–Espita; un conductor policontundido",
+  "tipo": "vial",
+  "ts": "2026-10-08T18:00:00-06:00",
+  "id": "2026-10-08_carretera-sucila-espita-km-6"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-08",
+  "estado": "Yucatán",
+  "h": "",
+  "lat": 20.6555,
+  "lon": -87.9373,
+  "p": "Chemax, Yucatán",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/8/polemica-chemax-funcionario-ayuntamiento-acusado-atropellar-comerciante.html"
+   }
+  ],
+  "t": "Funcionario del ayuntamiento atropella a un taquero y huye; lo detienen calles adelante",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_chemax"
+ },
+ {
+  "creado": "2026-10-08T22:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "lat": 21.098,
+  "lon": -89.641,
+  "p": "Mérida–Progreso, bajada del puente de Komchén",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/conductor-de-trailer-pierde-el-control-y-protagoniza-aparatoso-accidente-hoy-8-de-octubre-sobre-la-merida-progreso/"
+   }
+  ],
+  "t": "Tráiler pierde el control y choca contra la barra de contención; sin lesionados",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_merida-progreso-puente-de-komchen",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T14:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "lat": 20.8611,
+  "lon": -89.4314,
+  "p": "Entronque a la carretera Seyé–Acanceh, a la altura de Canicab (Acanceh)",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1697796681714545/"
+   }
+  ],
+  "t": "Perro suelto provoca accidente vial en el entronque hacia la carretera Seyé–Acanceh",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_entronque-seye-acanceh-canicab",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-08",
+  "estado": "Campeche",
+  "h": "",
+  "lat": 19.8447,
+  "lon": -90.4778,
+  "p": "Av. Ex Hacienda Kalá a la altura del Campus V, col. Siglo XXIII, San Francisco de Campeche",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/falla-mecanica-provoca-automovil-choque-arbol-campeche.html"
+   }
+  ],
+  "t": "Falla mecánica hace que un auto choque contra un árbol del camellón; sin lesionados",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_av-ex-hacienda-kala-campus-v-campeche"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-08",
+  "estado": "Campeche",
+  "h": "",
+  "lat": 18.662,
+  "lon": -91.819,
+  "p": "Av. Camarón x calle 60, col. Morelos, Ciudad del Carmen",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/grua-vuelta-termina-arrastrando-automovil-colonia-morelos-ciudad-carmen.html"
+   }
+  ],
+  "t": "Grúa golpea y arrastra un auto compacto al dar vuelta; termina sobre la banqueta",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_av-camaron-x-60-morelos-carmen"
+ },
+ {
+  "creado": "2026-10-08T22:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "lat": 20.99697,
+  "lon": -89.70087,
+  "p": "Calle 59 x 88, Ciudad Caucel",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/photo/?fbid=1645268770297918"
+   }
+  ],
+  "t": "Choque entre Kia y Mercedes-Benz en cruce de Caucel; conductor policontundido",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_calle-59-x-88-ciudad-caucel",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T14:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "lat": 20.9665,
+  "lon": -89.575,
+  "p": "Av. Fidel Velázquez",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Conductor presuntamente ebrio choca su camioneta contra un árbol y la abandona",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_av-fidel-velazquez",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-08T22:20:00Z",
+  "d": "2026-10-08",
+  "h": "",
+  "lat": 20.96,
+  "lon": -89.679,
+  "p": "Calle 61 x 22, Juan Pablo II",
+  "pr": "cruce",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/28584887154539112/"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/tragedia-perrito-mu3re-electrocutado-en-calles-de-juan-pablo-ii-alertan-por-cables/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/merida/2026/10/8/perro-muere-electrocutado-cable-caido-juan-pablo-ii-merida-2.html"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://www.yucatan.com.mx/merida/2026/10/08/perro-pierde-la-vida-electrocutado-con-un-cable-de-media-tension-de-la-cfe-comision-niega-que-tuviera-electricidad-pero-video-muestra-lo-contrario.html"
+   }
+  ],
+  "t": "Perrito muere electrocutado por un cable en la banqueta mojada",
+  "tipo": "otro",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_calle-61-x-22-juan-pablo-ii",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-08",
+  "estado": "Campeche",
+  "h": "",
+  "lat": 18.654,
+  "lon": -91.8077,
+  "p": "Av. Corregidora frente a plaza Zentralia, col. Asa Poniente, Ciudad del Carmen",
+  "pr": "lugar",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/compras-pavimento-jovencitas-chocan-taxi-frente-zentralia-ciudad-carmen.html"
+   }
+  ],
+  "t": "Dos jóvenes en moto chocan contra un taxi frente a plaza Zentralia; resultan lesionadas",
+  "tipo": "vial",
+  "ts": "2026-10-08T12:00:00-06:00",
+  "id": "2026-10-08_av-corregidora-frente-a-zentralia-carmen"
+ },
+ {
+  "creado": "2026-10-09T16:15:42Z",
+  "d": "2026-10-08",
+  "estado": "Quintana Roo",
+  "h": "noche",
+  "lat": 18.5125,
+  "lon": -88.3103,
+  "p": "Av. Sicilia entre Justo Sierra y Bugambilias, Chetumal",
+  "pr": "cruce",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/8/incendio-consume-inmueble-ubicado-cruce-avenida-sicilia-chetumal.html"
+   }
+  ],
+  "t": "Incendio consume una vivienda abandonada en la avenida Sicilia; sin lesionados",
+  "tipo": "incendio",
+  "ts": "2026-10-08T12:00:00-05:00",
+  "id": "2026-10-08_av-sicilia-x-justo-sierra-chetumal"
+ },
+ {
+  "creado": "2026-10-08T21:10:00Z",
+  "d": "2026-10-07",
+  "h": "",
+  "lat": 20.986,
+  "lon": -89.638,
+  "p": "Av. Cupules x calle 36, García Ginerés (una nota la ubica en Av. Miguel Hidalgo)",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/detienen-el-trafico-camion-de-va-y-ven-se-impacta-contra-un-vehiculo-compacto-en-merida/"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/reporte-vial-asi-fue-el-accidente-que-congestiono-hoy-la-av-cupules-merida/"
+   }
+  ],
+  "t": "Camión del Va y Ven choca contra un auto compacto; sin lesionados",
+  "tipo": "vial",
+  "ts": "2026-10-07T12:00:00-06:00",
+  "id": "2026-10-07_av-cupules-x-36-garcia-gineres",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-08T22:20:00Z",
+  "d": "2026-10-07",
+  "h": "",
+  "lat": 21.0129,
+  "lon": -89.6219,
+  "p": "Av. Tecnológico (calle 60 norte), zona norte",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/fuerte-choque-genera-caos-vial-en-la-av-tecnologico-de-merida-hay-lesionados/"
+   }
+  ],
+  "t": "Choque en Av. Tecnológico genera caos vial; solo daños materiales",
+  "tipo": "vial",
+  "ts": "2026-10-07T12:00:00-06:00",
+  "id": "2026-10-07_av-tecnologico-zona-norte",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-09T18:25:00Z",
+  "d": "2026-10-07",
+  "estado": "Quintana Roo",
+  "h": "",
+  "lat": 21.1186,
+  "lon": -86.8455,
+  "p": "Av. Huayacán, Cancún",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/se-registra-volcadura-en-la-av-huayacan-en-cancun-hoy-7-de-octubre-de-2026-que-ocurrio/"
+   }
+  ],
+  "t": "Auto vuelca sobre la Av. Huayacán por presunto exceso de velocidad; sin lesionados reportados",
+  "tipo": "vial",
+  "ts": "2026-10-07T12:00:00-05:00",
+  "id": "2026-10-07_av-huayacan-cancun"
+ },
+ {
+  "creado": "2026-10-09T18:25:00Z",
+  "d": "2026-10-07",
+  "estado": "Quintana Roo",
+  "h": "",
+  "lat": 20.1313,
+  "lon": -87.5826,
+  "p": "Carretera federal 307 FCP–Tulum, 2 km antes del acceso al aeropuerto, Tulum",
+  "pr": "tramo",
+  "sev": "fatal",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/quintanaroo/tulum/volcadura-de-autobus-en-tulum-deja-tres-fallecidos/"
+   }
+  ],
+  "t": "Vuelca autobús de pasajeros en la carretera 307 cerca del aeropuerto de Tulum; tres muertos y ocho heridos graves",
+  "tipo": "vial",
+  "ts": "2026-10-07T12:00:00-05:00",
+  "id": "2026-10-07_carretera-307-fcp-tulum-cerca-del-aeropuerto"
+ },
+ {
+  "creado": "2026-10-01T18:13:00Z",
+  "d": "2026-10-01",
+  "h": "12:00",
+  "lat": 20.9295,
+  "lon": -89.5155,
+  "p": "Mérida–Cancún, a la altura del Cedis de Walmart (Teya, Kanasín)",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/photo/?fbid=1638596740965121"
+   }
+  ],
+  "t": "Fuerte choque entre camiones en la Mérida–Cancún",
+  "ts": "2026-10-01T12:00:00-06:00",
+  "id": "2026-10-01_merida-cancun-a-la-altura-del-cedis-de-walmart",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T18:13:00Z",
+  "d": "2026-10-01",
+  "h": "11:55",
+  "lat": 20.99697,
+  "lon": -89.70087,
+  "p": "Ciudad Caucel",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1781004863049142/"
+   }
+  ],
+  "t": "Dos motociclistas lesionados en Ciudad Caucel",
+  "ts": "2026-10-01T11:55:00-06:00",
+  "id": "2026-10-01_ciudad-caucel",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T14:18:00Z",
+  "d": "2026-10-01",
+  "h": "madrugada",
+  "lat": 20.93535,
+  "lon": -89.60628,
+  "p": "Col. María Luisa",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/2179501419447076/"
+   }
+  ],
+  "t": "Motociclista lesionado tras impacto con una camioneta",
+  "ts": "2026-10-01T02:00:00-06:00",
+  "id": "2026-10-01_col-maria-luisa",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-30",
+  "h": "17:04",
+  "lat": 20.9941,
+  "lon": -89.5776,
+  "p": "Calle 16 x 35, 37 y 39, col. Brisas",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Volcadura de un Honda por presunta falla mecánica",
+  "ts": "2026-09-30T17:04:00-06:00",
+  "id": "2026-09-30_calle-16-x-35-37-y-39-col-brisas",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T18:13:00Z",
+  "d": "2026-09-30",
+  "h": "",
+  "lat": 20.94567,
+  "lon": -89.58572,
+  "p": "Av. 69 x 8A, San Antonio Kaua",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1119457220511940/"
+   }
+  ],
+  "t": "Motociclista arrolla a un ciclista; ambos terminan en el hospital",
+  "ts": "2026-09-30T12:00:00-06:00",
+  "id": "2026-09-30_av-69-x-8a-san-antonio-kaua",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-30",
+  "h": "03:52",
+  "lat": 21.0073,
+  "lon": -89.6322,
+  "p": "Chuburná de Hidalgo",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Motociclista accidentado; lo trasladan al Hospital O'Horán",
+  "ts": "2026-09-30T03:52:00-06:00",
+  "id": "2026-09-30_chuburna-de-hidalgo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-29",
+  "h": "21:36",
+  "lat": 21.074,
+  "lon": -89.533,
+  "p": "Entrada a Conkal",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1005514005906623/"
+   }
+  ],
+  "t": "Otro accidente en el cruce de la entrada a Conkal",
+  "ts": "2026-09-29T21:36:00-06:00",
+  "id": "2026-09-29_entrada-a-conkal",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-29",
+  "h": "noche",
+  "lat": 20.94905,
+  "lon": -89.62188,
+  "p": "Calle 52 x 89, Centro",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Choque entre dos motocicletas; varios lesionados",
+  "ts": "2026-09-29T21:00:00-06:00",
+  "id": "2026-09-29_calle-52-x-89-centro",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-29",
+  "h": "17:17",
+  "lat": 21.0275,
+  "lon": -89.6481,
+  "p": "Av. Francisco de Montejo",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1588778589661357/"
+   }
+  ],
+  "t": "Conductora choca contra una palmera",
+  "ts": "2026-09-29T17:17:00-06:00",
+  "id": "2026-09-29_av-francisco-de-montejo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T14:18:00Z",
+  "d": "2026-09-29",
+  "h": "",
+  "lat": 20.8836,
+  "lon": -89.7466,
+  "p": "Calle 38 x 38 y 40, fracc. Piedra de Agua, Umán",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/9/29/conductor-deja-sin-luz-y-agua-a-una-familia-en-uman-tras-estrellarse-contra-su-vivienda.html"
+   }
+  ],
+  "t": "Conductor pierde el control y se estrella contra una vivienda; la deja sin luz y agua",
+  "ts": "2026-09-29T12:00:00-06:00",
+  "id": "2026-09-29_calle-38-x-38-y-40-piedra-de-agua-uman",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-29",
+  "h": "10:39",
+  "lat": 20.97058,
+  "lon": -89.63492,
+  "p": "Calle 78 x 59-A, Centro",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1630700541791963/"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/precaucion-reportan-aparatoso-choque-hoy-martes-en-el-centro-de-merida-hay-lesionados/"
+   }
+  ],
+  "t": "KIA no respeta el alto y choca con un Mitsubishi",
+  "ts": "2026-09-29T10:39:00-06:00",
+  "id": "2026-09-29_calle-78-x-59-a-centro",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-28",
+  "h": "19:32",
+  "lat": 20.93,
+  "lon": -89.595,
+  "p": "Periférico Sur-Oriente, km 14",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/2226654614791410/"
+   }
+  ],
+  "t": "Mazda cae a la hondonada y termina contra un predio",
+  "ts": "2026-09-28T19:32:00-06:00",
+  "id": "2026-09-28_periferico-sur-oriente-km-14",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-28",
+  "h": "18:26",
+  "lat": 20.9914,
+  "lon": -89.5332,
+  "p": "Av. 149 x calle 2, Los Héroes",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/2341220636708011/"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/chofer-pierde-el-control-de-camioneta-de-gas-y-causa-severos-danos-en-los-heroes-hay-heridos/"
+   }
+  ],
+  "t": "Camioneta repartidora de gas pierde el control y cae a la hondonada",
+  "ts": "2026-09-28T18:26:00-06:00",
+  "id": "2026-09-28_av-149-x-calle-2-los-heroes",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T21:20:00Z",
+  "d": "2026-09-28",
+  "h": "",
+  "lat": 20.9918,
+  "lon": -89.6108,
+  "p": "Frente a un centro comercial, Itzimná",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/caos-vial-en-la-colonia-itzimna-por-choque-entre-dos-vehiculos-hay-heridos/"
+   }
+  ],
+  "t": "Camioneta impacta a un auto frente a un centro comercial en Itzimná",
+  "ts": "2026-09-28T12:00:00-06:00",
+  "id": "2026-09-28_itzimna-frente-a-centro-comercial",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-27",
+  "h": "",
+  "lat": 21.04219,
+  "lon": -89.67755,
+  "p": "Calle 49 x 88, Real Montejo",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Camioneta no respeta el disco y proyecta a una motociclista",
+  "ts": "2026-09-27T12:00:00-06:00",
+  "id": "2026-09-27_calle-49-x-88-real-montejo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-27",
+  "h": "11:23",
+  "lat": 20.8594,
+  "lon": -89.4869,
+  "p": "Mérida–Chetumal, tramo Tepich Carrillo–Petectunich (Acanceh)",
+  "pr": "tramo",
+  "sev": "fatal",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/noticias/tragedia-en-la-merida-chetumal-reportan-hombre-s1n-vida-tras-fuerte-choque-esto-se-sabe/"
+   }
+  ],
+  "t": "Muere mototaxista impactado por alcance; el conductor huye",
+  "ts": "2026-09-27T11:23:00-06:00",
+  "id": "2026-09-27_merida-chetumal-tramo-tepich-carrillo-petectunic",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-27",
+  "h": "03:27",
+  "lat": 21.0129,
+  "lon": -89.6062,
+  "p": "Av. Líbano, col. México Norte",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/2013554385972927/"
+   }
+  ],
+  "t": "Fuerte choque; la camioneta la conducía un menor de edad",
+  "ts": "2026-09-27T03:27:00-06:00",
+  "id": "2026-09-27_av-libano-col-mexico-norte",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-26",
+  "h": "13:11",
+  "lat": 21.128,
+  "lon": -89.6455,
+  "p": "Mérida–Progreso, bajo el puente de Xcunyá",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Motocicleta Kawasaki se impacta contra un Tsuru",
+  "ts": "2026-09-26T13:11:00-06:00",
+  "id": "2026-09-26_merida-progreso-bajo-el-puente-de-xcunya",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-10-01T21:20:00Z",
+  "d": "2026-09-26",
+  "h": "",
+  "lat": 21.0356,
+  "lon": -89.6445,
+  "p": "Calle 42 x 55 y 57, Francisco de Montejo",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://www.aztecayucatan.com/policiaca/camioneta-atropella-a-mujer-que-caminaba-sobre-paso-peatonal-en-francisco-de-montejo-esta-grave/"
+   }
+  ],
+  "t": "Camioneta atropella a una mujer en un paso peatonal",
+  "ts": "2026-09-26T12:00:00-06:00",
+  "id": "2026-09-26_calle-42-x-55-y-57-francisco-de-montejo",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-26",
+  "h": "10:04",
+  "lat": 20.995,
+  "lon": -89.738,
+  "p": "Mérida–Tetiz, km 4+500",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/videos/1714805562948087/"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://www.yucatan.com.mx/yucatan/2026/09/26/conductor-de-kinchil-vuelca-tras-dormitar-al-volante-en-la-merida-tetiz.html"
+   }
+  ],
+  "t": "Camioneta vuelca en una curva; el conductor se habría dormido",
+  "ts": "2026-09-26T10:04:00-06:00",
+  "id": "2026-09-26_merida-tetiz-km-4-500",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-26",
+  "h": "09:21",
+  "lat": 20.93812,
+  "lon": -89.61966,
+  "p": "Circuito Colonias x 50, Mercedes Barrera",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Choque de camioneta, auto y moto; una persona lesionada",
+  "ts": "2026-09-26T09:21:00-06:00",
+  "id": "2026-09-26_circuito-colonias-x-50-mercedes-barrera",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-25",
+  "h": "23:05",
+  "lat": 21.098,
+  "lon": -89.641,
+  "p": "Mérida–Progreso km 15, puente de Komchén",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1291693796374668/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://www.yucatan.com.mx/merida/2026/09/26/volcadura-en-la-merida-progreso-deja-a-dos-jovenes-lesionados.html"
+   }
+  ],
+  "t": "Volcadura; dos jóvenes lesionados",
+  "ts": "2026-09-25T23:05:00-06:00",
+  "id": "2026-09-25_merida-progreso-km-15-puente-de-komchen",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-25",
+  "h": "21:59",
+  "lat": 20.96015,
+  "lon": -89.57581,
+  "p": "Col. Nueva Chichén Itzá",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/1970384003655571/"
+   }
+  ],
+  "t": "Motociclista no respeta el alto de disco y termina en el hospital",
+  "ts": "2026-09-25T21:59:00-06:00",
+  "id": "2026-09-25_col-nueva-chichen-itza",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-25",
+  "h": "13:08",
+  "lat": 20.97765,
+  "lon": -89.62403,
+  "p": "Calle 64 x 43 y 45, Centro",
+  "pr": "cruce",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Jeep se pasa el alto, choca y abre un boquete en una vivienda",
+  "ts": "2026-09-25T13:08:00-06:00",
+  "id": "2026-09-25_calle-64-x-43-y-45-centro",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-25",
+  "h": "",
+  "lat": 20.99,
+  "lon": -89.68,
+  "p": "Ciudad Caucel, cerca del puente del Periférico",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Motociclista derrapa; la atienden paramédicos de la SSP",
+  "ts": "2026-09-25T12:00:00-06:00",
+  "id": "2026-09-25_ciudad-caucel-cerca-del-puente-del-periferico",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-24",
+  "h": "",
+  "lat": 20.9154,
+  "lon": -89.624,
+  "p": "Calle 145 x 48, San José Tecoh",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Motociclista ignora el alto y lo impacta un March; queda inconsciente",
+  "ts": "2026-09-24T12:00:00-06:00",
+  "id": "2026-09-24_calle-145-x-48-san-jose-tecoh",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-24",
+  "h": "11:24",
+  "lat": 20.97929,
+  "lon": -89.62095,
+  "p": "Calle 41 x 60, Centro",
+  "pr": "cruce",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1728866768343106/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Camioneta termina contra las oficinas de la ATY",
+  "ts": "2026-09-24T11:24:00-06:00",
+  "id": "2026-09-24_calle-41-x-60-centro",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-24",
+  "h": "09:49",
+  "lat": 20.94109,
+  "lon": -89.59599,
+  "p": "Circuito Colonias, frente al parque Kukulcán",
+  "pr": "tramo",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Choque entre un Va y Ven y un auto particular",
+  "ts": "2026-09-24T09:49:00-06:00",
+  "id": "2026-09-24_circuito-colonias-frente-al-parque-kukulcan",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-24",
+  "h": "madrugada",
+  "lat": 20.9643,
+  "lon": -89.54596,
+  "p": "Av. 65 x 8 y 2, Villas Oriente, Kanasín",
+  "pr": "colonia",
+  "sev": "sd",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   },
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/md.eco.yucatan/"
+   }
+  ],
+  "t": "Auto destroza la rosticería Los Flamboyanes y huye",
+  "ts": "2026-09-24T03:00:00-06:00",
+  "id": "2026-09-24_av-65-x-8-y-2-villas-oriente-kanasin",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-24",
+  "h": "madrugada",
+  "lat": 21.01171,
+  "lon": -89.61168,
+  "p": "Calle 33 x 26 (Quadratín indica 33 x 28), Emiliano Zapata Norte",
+  "pr": "colonia",
+  "sev": "fatal",
+  "src": [
+   {
+    "n": "ECO Yucatán",
+    "u": "https://www.facebook.com/reel/2581639112349794/"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://yucatan.quadratin.com.mx/sucesos/accidente-vial-en-la-emiliano-zapata-norte-cobra-la-vida-de-un-conductor/"
+   }
+  ],
+  "t": "Choque entre un Atos y otro auto deja un muerto",
+  "ts": "2026-09-24T03:00:00-06:00",
+  "id": "2026-09-24_calle-33-x-26-emiliano-zapata-norte",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "21:29",
+  "lat": 20.91517,
+  "lon": -89.62106,
+  "p": "Calle 153 x 50, Cinco Colonias",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/reel/1810063643338436/"
+   }
+  ],
+  "t": "Choque de camioneta y Chevrolet; un pasajero sale volando",
+  "ts": "2026-09-23T21:29:00-06:00",
+  "id": "2026-09-23_calle-153-x-50-cinco-colonias",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "20:49",
+  "lat": 20.96111,
+  "lon": -89.62428,
+  "p": "Calle 71 x 60 (reportado como col. Mil Piedras)",
+  "pr": "cruce",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Pareja en moto queda bajo un camión de materiales",
+  "ts": "2026-09-23T20:49:00-06:00",
+  "id": "2026-09-23_calle-71-x-60-reportado-como-col-mil-piedras",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "14:53",
+  "lat": 20.99037,
+  "lon": -89.60372,
+  "p": "Calle 21 x 28, Salvador Alvarado Oriente",
+  "pr": "colonia",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/videos/28434383749588986/"
+   }
+  ],
+  "t": "Motociclista sale volando tras un choque por alcance",
+  "ts": "2026-09-23T14:53:00-06:00",
+  "id": "2026-09-23_calle-21-x-28-salvador-alvarado-oriente",
+  "estado": "Yucatán"
+ },
+ {
+  "creado": "2026-09-30T23:00:00Z",
+  "d": "2026-09-23",
+  "h": "08:33",
+  "lat": 20.99,
+  "lon": -89.563,
+  "p": "Periférico, bajo el puente de Los Héroes",
+  "pr": "tramo",
+  "sev": "les",
+  "src": [
+   {
+    "n": "Accidentes Yucatán",
+    "u": "https://www.facebook.com/accidentesyucatan/"
+   }
+  ],
+  "t": "Tráiler atropella a un motociclista y sigue su camino",
+  "ts": "2026-09-23T08:33:00-06:00",
+  "id": "2026-09-23_periferico-bajo-el-puente-de-los-heroes",
+  "estado": "Yucatán"
+ }
+]
