@@ -95,15 +95,25 @@ def main():
 
     # 2. Clasificar y ubicar ---------------------------------------------------
     nuevos, confirmados, errores = [], 0, 0
+    problema_clave = None
     por_id = {a["id"]: a for a in acc + sin}
     for n in candidatas[:config.MAX_CLASIFICAR]:
         recientes = [a for a in acc + sin if ts_de(a) >= AHORA - timedelta(hours=72)]
         try:
             info, metodo = clasificar.clasificar(n, recientes)
         except Exception as e:
-            errores += 1
-            log(f"  ! error al clasificar {n['url']}: {e}")
-            continue          # no se marca como vista: se reintenta en la próxima corrida
+            codigo = getattr(getattr(e, "response", None), "status_code", None)
+            if codigo in (401, 403) and modo_ia:
+                # clave inválida o sin saldo/permiso: se detiene la clasificación sin marcar
+                # las notas como vistas, para procesarlas cuando la clave funcione
+                log(f"  !! La clave de Claude fue rechazada (error {codigo}). Revisa el secreto ANTHROPIC_API_KEY "
+                    "y el saldo en console.anthropic.com. Las notas se revisarán en la próxima corrida.")
+                problema_clave = codigo
+                break
+            else:
+                errores += 1
+                log(f"  ! error al clasificar {n['url'][:120]}: {e}")
+                continue      # no se marca como vista: se reintenta en la próxima corrida
         vistos[n["url"]] = AHORA.isoformat()
         if not info.get("es_accidente") or info.get("estado") not in config.ESTADOS:
             continue
@@ -187,6 +197,8 @@ def main():
         resultado += f", {confirmados} confirmado{'s' if confirmados != 1 else ''}"
     if errores:
         resultado += f"; {errores} notas con error"
+    if problema_clave:
+        resultado += "; la clave de Claude fue rechazada"
     estado = {"ultimaRevision": AHORA.strftime("%Y-%m-%dT%H:%M:%SZ"), "intervaloMin": 60, "resultado": resultado,
               "fuentes": ["medios de la península", "Google Noticias"],
               "metodo": "Claude" if modo_ia else "palabras clave"}

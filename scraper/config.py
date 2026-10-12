@@ -46,7 +46,7 @@ FUENTES = [
     {"n": "Quintana Roo Hoy", "tipo": "rss", "url": "https://quintanaroohoy.com/tag/accidente/feed/"},
     {"n": "Noticias Cancún", "tipo": "rss", "url": "https://noticiascancun.mx/feed/"},
     {"n": "TV Azteca Quintana Roo", "tipo": "html", "url": "https://www.aztecaquintanaroo.com/trafico"},
-    {"n": "Diario de Yucatán", "tipo": "html", "url": "https://www.yucatan.com.mx/etiqueta/accidentes-en-merida"},
+    # Diario de Yucatán bloquea a los servidores de GitHub (error 403); sus notas llegan por Google Noticias.
 ]
 
 # ---------------------------------------------------------------------------
