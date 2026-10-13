@@ -19,6 +19,10 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZwbXRhS3hKd3JrbGpxNG53UGFnX2puZGpRWkRTaURsVzVZeTJqSmlZcnIwLVA5Szdvc3cyYWJXS1pITVRNclhBbC1naDY4M1VSNEtVMWpMVU5zal9vQjNfLVkzejlhTWZCN0tEcnZUZ1NzMElhdEN6YjNZR0xvN1dxaHpJdm9GU3dNTTJKX2I4eDNrRjZmU3NKaXZLQzMxdVFEd3RUX05FcjQ?oc=5"
+   },
+   {
+    "n": "inspectornocturno.com.mx",
+    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EZk9ZRmFjUUE5bV9FQlN6MHFQMDlxZE1vRzc1TkxtOTZ4a0w1Z21uUk9fS0pCU1BROFg2XzNrZ2FYQUkwNGhXRXJOd0c1SHp6eUc4dg?oc=5"
    }
   ],
   "creado": "2026-10-12T20:16:45Z",
@@ -119,6 +123,61 @@
  {
   "d": "2026-10-12",
   "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "VIDEO: Se incendia vivienda en Ciudad del Carmen; una persona habría provocado las llamas",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXNkV0JRMlVQWTdndnRMT21Wa2wyWHE5d2gzQldMWkZPbl9RampJbnpKSy02VWpaeERRaTVJTXNMaTRrSFl5STBvV2tqeUEzbWxTR1gzTkZxU0xOVmRsVHAyd19JQ0E2UmFXYTY2SW8wUlpQOHctU0d4QzloU1JyQjNpUDB2eXJzVldpYU5SSWo5ZkNzazdzV05aMmxNaW1SckF4NEdGSVRDZ3ROazl0aW5velJ6S1RzUmpsajRVa1kwTkJ6Tmc?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T01:58:09Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Por querer pasarse el semáforo, conductor provoca fuerte accidente hoy en la av. yucatán y genera congestión v",
+  "p": "Av",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnVaR0xDby1iX05aQUcyYlduQk9LWmZQWFZHTjVMYzJ3T09GRktaLWROdVExZE00Wl9mT29ESEFzeWxETUg3OHpKUzZiMmx5blNYUFItLUJkS3VoOEl5UG83bkxxZEV6ZTVSQTA1NnNMbkU3OVFWOWJwRjEtMEowdGFhd3B4R2NmeGdIdlI4ekp5LXFjWkloN2pWTFIzbC1senpkLW9mOXlVU0NPV3lDeXNXdmI2X29WWmhYLWVXekRvdlE0azJqLVIwdW1uc2M1d2ZqYTJueWhLMElxOENMUmFVTzNmZnE4akQ5WG9RNEJaLWpfMGNIdDN3?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T01:58:09Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_av"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "ACTUALIZACIÓN: Así quedó el tráiler volcado sobre la Mérida - Conkal y el producto que transportaba derramado ",
+  "p": "Carretera TV Azteca Yucatán, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOVlIX2FDWHdsaDFkWUdZVmFQUUlvTmY5OXB4aDhVZ1d0NXJuYXpNTnJvamxybmRFT0FFUGNCYkZNRTNvNlNoM3lFZDBxNGNnOUJRRVJFdWU3aGc4eXBPMHVwemlGVTk4bzl2dElXZURfTnpjalVmWlFjT3p1NW9jaVhqT1NyN3ozMTV3NEVVQTVucmNwNlZ2azNPWVZnQ1NEUDFNTE0tWlZtcHc1MzQ1T0NRV0NpQ0x6cFlBZzdENXJmSktvbFZmRFpqbmExd3F5MV9jRFMyd3ZvZ2JVMmVqWEZNclJ0c3RxbC1qajJYTDRxdEwwRVlGaGI0QzZXX0ljZW5XMWMzbUNtQUNFNWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T01:58:09Z",
+  "metodo": "reglas",
+  "clave_lugar": "tv azteca yucatan",
+  "id": "2026-10-12_carretera-tv-azteca-yucatan-merida"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
   "ts": "2026-10-12T12:00:00-05:00",
   "t": "Choque entre automóvil y camioneta deja una persona lesionada en Chetumal",
   "p": "Chetumal",
@@ -200,6 +259,10 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcTNhMTVRcWsxdzVDTnVURnRjMnpaOHM1NjFkV0ROZHdzTEdPY09ZN185UEdMdjd5OG8tR1EwR0NKYlJ0SUZsQ2JMOHhSQkdoejZQUThZdTRxMzFid21lYllYamhWVnZRcnFRRkIxaE83Vy1XY3JoZWlfcVlCSnBPQmt6UmhWeUVKYW12QThJblNIT2lnMnlGNUpDY1p1bWR1S000aWpMZHpSQUV0Y0Vsd3RRZG9ybC1IaEctYk1CZEs4eGxadjl0c3ZsdjlURkU?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/muere-indigente-calle-colonia-fundador-playa-carmen.html"
    }
   ],
   "creado": "2026-10-12T23:03:53Z",
@@ -241,6 +304,43 @@
   "creado": "2026-10-12T23:03:53Z",
   "metodo": "reglas",
   "id": "2026-10-12_cancun-2"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Esta fue la última foto de Yatziri Jiménez, elemento de la Guardia Nacional que murió en accidente en Cancún",
+  "p": "Colonia ‘El Fundador’, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/foto-yatziri-jimenez-elemento-guardia-nacional-murio-accidente-quintana-roo.html"
+   }
+  ],
+  "creado": "2026-10-13T01:58:09Z",
+  "metodo": "reglas",
+  "clave_lugar": "fundador",
+  "id": "2026-10-12_colonia-el-fundador-cancun"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Conductor se pasa el alto y provoca carambola entre tres vehículos en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmJ1dlEwVm1OU3Q3QlFLYURXczhfQmg3OHFTMjVKbVVuVUc0SXlLOUlOY2xiZzJHX0Y0UzZnaUdpTUxXMnZfMWFTNHB0bHloVndPT2JwMzBLYlVCaUZHdWNwcTRzNkRhR2lqNHcybjVMcExYcURSZk4wNDUxeE9XMXM4Z0xNc01DT2dVeUVKUy1tem1TbENGQmRLZWZmZEZL?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T01:58:09Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_chetumal-4"
  },
  {
   "d": "2026-10-11",
