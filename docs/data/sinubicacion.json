@@ -19,6 +19,169 @@
   "id": "2026-10-13_carretera-panamericana-merida"
  },
  {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Chocan un auto en el estacionamiento de Plaza Patio en Mérida y huyen; el dueño busca al responsable",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/13/chocan-auto-estacionamiento-plaza-patio-merida-huyen-dueno-busca-responsable.html"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_merida"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Accidentes en Mérida: mujer trasladada al hospital y choque entre dos autos",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnhvbWl0Y09kSEZkMXBMVWp6ZjV5T1VNYmxta3o4NmpsOVVtWTJydm8xUldJLTVHXzlzU0tsMDNFTkRvd2FSR3pweTNvM2RwNHpJS3RwS3hEUzlXR2ctbFhZbm5TWnczWFFVdVlfUHBfZ2FzVHJuaVMtN1RFOWZDV1BYQTVLYzM2Ml85TWZmd0huTFFXa0FyWWxqMmNoLW9zUmFaZHpoZzlrM3loX0k4cy14TkdmQnJHSjBObi1lMXpaZw?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_merida-2"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Sofocan incendio y aparece una motocicleta en el basurero",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlMydFU2cF9JSkRLQk0zTktfX25ESFp0dDJmZF9YMldvN2xwOXY5XzZ3NWFaamJNeVI1SjREWGVYOGNRVi1aUGRreThsaE1kY3lSUV9COGhDcEFURmZFNU56cDhwV1RzZUtRdHBJc0FkcGxEM1NzS1dTbDRjZzg4dGE4MFByamM?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_sofocan-incendio-y-aparece-una-motocicleta-en-el"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "¡Riesgo latente en el norte de Mérida! Vecinos de Chuburná reportaron un poste de luz a punto de colapsar, fra",
+  "p": "Calle 13 entre la Av, Mérida",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jT0U5SG1Vc1l0OEZwQnBaSl9NdUQ5TFBiNzNqMEl2dkozNWFlcEIxVGRIUU1TNUNUcWFQa3RuWGg5MjA5ejBkd3JTWlY2N1dlaUFFMnhR?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "13 entre",
+  "id": "2026-10-13_calle-13-entre-la-av-merida"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Dos postes colapsan en Ciudad del Carmen y exhiben el riesgo de la infraestructura deteriorada de la CFE",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNemllVTg5UWFxc3AxUzZTVkxIRVpuM3ZpWlJVMTBldDlqSnlvTE5CdVBzTFJRc0x2NnU0WXFQc1A5ckVHQllXaWYwRms0a2RYMDdqQ0d3bWRBM2JWem9FM042VUVhcEg2bDZwVkIxNnZOelB2Z013T1pnNC1iaFBmZFlXWWpmZ255Mkd3eEY0RUR5VGwtZHQ5UWRhX254SXdWQVUzLTNjcWJuRW04VmRRM09ZRlBXVGEyTWwwZkFnUmNEVFZFMml6UmM5LWV2bmF6MjNpUk1iUFdHTDDSAdsBQVVfeXFMTXppZVU4OVFhcXNwMVM2U1ZMSEVabjN2aVpSVTEwZXQ5akp5b0xOQnVQc0xSUXNMdjZ1NFlxUHNQOXJFR0JZV2lmMEZrNGtkWDA3akNHd21kQTNiVnpvRTNONlVFYXBINmw2cFZCMTZ2TnpQdmdNd09aZzQtYmhQZmRZV1lqZmdueTJHd3hGNEVEeVRsLWR0OVFkYV9ueEl3VkFVMy0zY3FibkVtOFZkUTNPWUZQV1RhMk1sMGZBZ1JjRFRWRTJpelJjOS1ldm5hejIzaVJNYlBXR0ww?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Tras tragedia de unidad ocurrida cerca del aeropuerto de tulum: realizan nueva mesa de trabajo entre autoridad",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQQ2hFTGUzaGdYY3cxckczVGNoZFI1Zm82YUk1SFM3VVM5Q1V6eTNpblp1MGxOM2Z2U3NjSXpGN0VtOGhUTlVTSDhWNHNyMmk1cWJrbm5Ba3VHQ3hxNldZZGVaSnluZ3FmakhkdHlJb2FQdzZBb2JpQ21mdmdHLW5FeWIyZTJWdlAxTWJDQWNBNXM4Zms1cWZPMG9tc0tRMGE2YzVweFVRTWN2UHVkWkVyTGRHM2FxbGozaUVJbnlsSVo4QnFldE1jR3lVSmdxMGJoa3dZN0ZpMnhYY2U2NFYxdVA3OWdNSmpMcHJzUFpjVTRRMDQ5Q0MwMjVFeHVtSmdjb3JOd01BelBnNnFQRFhtZkZ0LWF1UWpjNkVnZVpBNk5xVmFPZUtMbDhlc1ZyQUhoQTZPOTc0eTgxTURWQjJzRFVWT2M5aFNTRnc?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_tulum"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Motociclista grave tras choque en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51Z004b29EdDZaNlNyTzl3R0VRbllWOXVrQm1oeTZpSzJRZng5WUhyZlA1MXRGbThLbjhrT0RTeFQxZGg1TFdJOWh4OVJWaURQNUp1aXl5LWc5YTVzZmhhOWNrcXI2U1pLdjhGRVFRNkNTYjJYdGVpctIBgAFBVV95cUxOT1NwVzN1ZnNUc0d6VUtfazJEYmdKbFhNZzNfbVlSMXVGZ0RjclFTVnpMbjJyRklqcTdjMV9BbDZ2aWRaRDllNmxqblJ4YWUxaFRxRlBsd2hpdlM4V3U1Tl9XcmszaHB6TFRZdUZzcXhybW5pLTR6WXVyNm1SLU9FUA?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_chetumal"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Choque entre pochi y Urvan deja a pasajera lesionada en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkFoZjg4TTFjdS1MQk9OaXRnLUlwMFNabklQdHduZ3hHME1UMGNiRzJwYTZZTVItYXAzTC1qa0ZOZzE3RElCRUhwcERLWHl1dXVMaGV4UHBLb24tM3N6VmgyUXhDRzl2a0Jwal9NdlJWVlptVXFRdGdRZ3laYzZySnNiQTBNNWs5bnc3UUJEOHpkdGlrNDNicDYzUnhMTFlNSENBTw?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_cancun"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "VIDEO: Hombre cae de un tercer piso en Cancún tras intentar escapar de una infidelidad; así ocurrió",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Azteca Bajío",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1ZDeHZ1SmVyYTZXdXA2QTdRelA2WlZRU1NGZDJYZEZJX1V3OVZ0RVBTMldkcWNjT3psVGhTN3VJQ3RQc2l1ZnlIQlRZN1k5NmJsWEs3SG5aRS0tQnZiZ0dHeDE4T3hmWTVaSEs0ZzBMd2N4UG41X2hjc1AtQ09OZWkzVjRkVTdaS0NOUGpFSTh1TThId1lmSHExV1o4QnlFU3N4ZlQwZnpFU3VDdDhXQWN5amtDTlR6TlBWSl9lb3Y4TXZCcXV5dm5IbUNjUDFDc3c?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_cancun-2"
+ },
+ {
   "d": "2026-10-12",
   "h": "",
   "ts": "2026-10-12T12:00:00-06:00",
@@ -507,6 +670,24 @@
   "creado": "2026-10-13T17:31:43Z",
   "metodo": "reglas",
   "id": "2026-10-12_cancun-3"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Imprudencia vial termina con una lesionada",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRzg2c1A1bE84UHljcFZoTHdKbU9wR1pidlVmYkNXOFd3b2pIWl9qSXJtVTFRQlMwLVNfSlpzQWxyR1BxWXFZSDlBWlJsdWFRR0QtT090eDBUUENvNnljdEVGSzlKc0UycFVSM0FNQUV4dHVIWkhwUtIBgAFBVV95cUxNanFXSWJxNm1VbGtoWThCNVNiVXZrYmJ0VXd3eFdSU3hsRWJqYVQ3MldzczU1NGRiSjBDUWQyS181NHBkUEwwYTg3M1lVYWtEVEhROGpkby0zeGQ1UHpGUnpRWmg5WWhjS3ZZME9MZko0dEU4NWVOTC1fZmVickdIUw?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T22:36:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_imprudencia-vial-termina-con-una-lesionada"
  },
  {
   "d": "2026-10-11",
