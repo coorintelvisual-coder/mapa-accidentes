@@ -178,6 +178,97 @@
  {
   "d": "2026-10-12",
   "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Muere pasajera de moto; el guiador resulta lesionado",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzE0amdGWUNLckZnOGJfcDg0N1RJMm5Tb2VmcDJCWHJiUWVfYkdYaDEwRnVCa3h3V1ByTlJOY2VITk1jamtrUEdFM3UzWHpZSWxBN2gzbmlMQnhfc2MxLUZvTkZaTVBic1BOMUZQcV92Q1F1eHNTY1BtOVdkM2NoR2lyM1prSGsyNHdOczZfQVVKZUlMa09xNDh2alRScnc1UnJleQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_muere-pasajera-de-moto-el-guiador-resulta-lesion"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Mujer muere atropellada en Umán: familia busca testigos y videos del hecho vial",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWxEMUxTNldveGZWSFNPa015WlZpcUZkbmpJbGhRcnNrT21IcXR1RldSNlV4SzdBVjROYl9hWVRlRGtGY3JadVowZnJPM0ZRYndZZ1RjSk4yWWVPaG1KcWhCdFpiUm9LakFfdGpVSHZQaW1XMVlIV040d1JzT216SFY4S01wa1hXblNYdVVyM3I1bEl5R3N1VzdSTDh0UGt3VkN4c04zcTF2Q2VGRnp3N9IBtgFBVV95cUxQalFESXFKZkVxdDhhT3ZjamI5OG5iRGVnbkI3N1pfYlFTUlBFRXZVRWJZUUJsbmVLMEJPUzlCVVUtQUlwX05kM0R1dEpackV0eTF4Z3VtNlZBT0wzckZhZTlRQW94a1Vpc1NaU2JsTGZmMFNQUGN1Rkh0Y0dRVXhrcjBTSkY1WFFISXM3bTBmaFFlUDJBTmRCOGFpZ3UzVFBUdFJFcXZNQ0pJSUhrZHFoZGFtc2Q3UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_uman"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Tráiler pierde el control y cae en la hondada del Periférico Sur",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFVOeDg5T0RSQi03NE5Ea2Y0MlJ1SjNNblRHWk53UkkzMVpLdlJMZTZNSnR6VU1Qc2RDZVp5YzFMMndaN1ZCU1lVTnJZLUZPVF9jTEdhVkp5NzRya3BFUTcyb205RVFLUTFKWmhWNFFRRXBwUlExX1NQbFVaT1JQRmNhWVBaLTQ0OTVXbE9GTXQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_trailer-pierde-el-control-y-cae-en-la-hondada-de"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Accidente sobre la carretera federal 295 Valladolid-Felipe Carrillo Puerto deja cuatro lesionados",
+  "p": "Carretera federal 295 Valladolid-Felipe Carrillo Puerto",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWd5WldoNzQtT2hseW0tV3VEWTRZeGRFRVJFbUh0c1ZoTHJncVM3enQtajA2VTRpR0hXSk1pZlZIVkpIYVM2SkFRamhNbEd4ZXE2RE1HaGprQzBIbzkzd2RVTkxmMFpOVFJ5XzFLZzZidVJDMWVtM2JXbVdiMm93eXB3WERlc0Q1TUZGSG1FUU9scXNXSWlya2VGOWJhN3QtRWJYVmNyRDZsdWgyTkRrSXlKSWU5WGlBMURlUl85eWdRSDBoWERHaGNn0gHPAUFVX3lxTE5sNjJ0RlZXQnZhazR4bDVWWG54cVVlSEpmamhLb1VQcUJjMmZOSFltNlNIZWE2NXRGV1ZzdzJpbUxBZFE0RE5xZ2lnTmRZWmVyVlpDQ3U2dzYyYzhBUmdiN0c2NmpxOGtLWWozRC03dGFWdG1kTDRnVk9Lczk4Z0pSM2dkaXZpanBZVXQ2V3BRNjdjaG5teW53WElJYzViREhWbGx4d3hydUU1alJzMU9WQTRFbS1iWk53dVBIUW02RFZMYl84QXdHN3VXREpCcw?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 295 valladolid felipe carrillo puerto",
+  "id": "2026-10-12_carretera-federal-295-valladolid-felipe-carrillo"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-06:00",
+  "t": "Colisión entre dos camiones dejó un muerto en el sector Caño Arenas del estado Mérida https:www.notitarde.com.",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Facebook",
+    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM202TFBQeDM3Ui14VEVVSmJudlo1NXdKUDZRWVpRUG92NzFiT1hGX19sWHFJZERJNjlxRlNheWt0TFlsRDRfcUhCS0FaRDVTN2hnaVpqMDVZZ0hyLXR4X0w2NEczQmNUeUYxT0xBTlFZSXYycDhOOWI1ellRaHRpbXJkR1BYRWRxTTJIc0xtSlJoamtMNUZQR3NoQm9hRUVhc3VxUnprbkVkR2FNY2dOb29DcmtDc1Iyemp6bFpIUjF4Z3Nka0NJb29Bazh2NE54TTNzajdfVG5qVGx4MW5JOF9hOGFuNVZQNmhkdGFzTQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_merida-3"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
   "ts": "2026-10-12T12:00:00-05:00",
   "t": "Choque entre automóvil y camioneta deja una persona lesionada en Chetumal",
   "p": "Chetumal",
@@ -336,11 +427,37 @@
    {
     "n": "DePeso",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmJ1dlEwVm1OU3Q3QlFLYURXczhfQmg3OHFTMjVKbVVuVUc0SXlLOUlOY2xiZzJHX0Y0UzZnaUdpTUxXMnZfMWFTNHB0bHloVndPT2JwMzBLYlVCaUZHdWNwcTRzNkRhR2lqNHcybjVMcExYcURSZk4wNDUxeE9XMXM4Z0xNc01DT2dVeUVKUy1tem1TbENGQmRLZWZmZEZL?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnhuSzJIaGZhQzY4bS11SEYzUXdUVkhDRGZDVDdGdVl4WjNxd1pQa1A3TTVlY0JSMUtxQmtDMDlHeUxwQndoYjlIUTVmNm1oa2NnVEhiUUtxLWJTSW1tczYxeGxnTnloclFzdThDcFJwV0hqZ2VvU1NDZmdZYWpTaDdLM1gyNXdGZ0t4Mmc5OTJRWjd5MEtDTmtidXhfcXVGbWFr?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWndiOHB6eDBQYWNfYmVZVEY4d25qcnVuSFBCRngxSG50RGQ0MkxsTUtyNHlzNFBlSmZxRnhKNDVfN2xCQ1RtQUdveDlTQm9TaVlZTTY3V0ZPUW1oNVh2YktNbzZMUlc0b0F4alFGLUNvNVdPOFFhdjBuN3VVNUxybmhqMVdNNFpGREgxeDJJbkJSa1hO?oc=5"
    }
   ],
   "creado": "2026-10-13T01:58:09Z",
   "metodo": "reglas",
   "id": "2026-10-12_chetumal-4"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Una mujer lesionada y daños materiales deja un choque en el centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkNVR3JkS1N5YVRNa0FBV05nM0tMa0t6UmRlc2trcWcxUlMxZVVIN3pldUVPRDZoZmdPWUE2N2N4cjZlTkVLT1RSd2dXZjFSYjBwWjhfUGJURm5qS2lhVkVjb0FwVjdrSGI2UGN6OUM0SWZkMDExRWI4dndzY0cwSXY5a3Jmb0hWTU9JWlhzcnktZlJqSXJfVzVVZ1JrSDJpOHk5dVk2V2RJZGVEUWVnRmkwaTgxNGJGanBCd1dnSDd2UdIBxwFBVV95cUxNaVVvRVk2V0dKU2tGNzZSTC1laEplRzNELV95cUc4X3RNeGdWd2QzUVYyMXBkZ1RuSVhtZW1ma0llV3o3MFU3cjM5V0xiS0xlcm5QM1l5TU1kbHptZFE2Qm1wNjhUWWlhNFFVUzA2WjZBRU5sbnNYNmpvRDYyRFJIcTFGSHM4aXI4VUVzb083WGRucXdSR2Q3ZnpyNmh1a2FCdzZacHR4ZkNZTXNCdjlXMXNXN204UUhINDhIMGNDYktHOXZpUE9v?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T09:17:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_chetumal-5"
  },
  {
   "d": "2026-10-11",
