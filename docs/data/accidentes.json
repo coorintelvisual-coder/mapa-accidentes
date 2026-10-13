@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Motociclista iba a trabajar y termina lesionado tras chocar frente a Walmart en Ciudad del Carmen",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/13/motociclista-iba-termina-lesionado-chocar-frente-walmart-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-13T17:31:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-10-13_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-12",
   "h": "",
   "ts": "2026-10-12T12:00:00-06:00",

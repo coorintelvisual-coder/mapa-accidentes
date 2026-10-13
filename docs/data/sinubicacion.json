@@ -1,5 +1,24 @@
 [
  {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Muere conductor tras trágico choque en la carretera Panamericana de Mérida",
+  "p": "Carretera Panamericana, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario La Calle",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaE0tcWZ6aU5KN2EtY2ZZdGVuTWtXWEFaRzF6VXlxR3FWZVBEaDE4OFAwSmpaVnI0ZW9aM3owa3lPU2lXcDBEdUcyUUZ4alBWZkJkMDg0S2dUQWZERnRmWmRzNXlQaldpNzJibHNLUFVRdWNxV00xMDRyN05XZ2h5aWhwN0U5WmN4YjVPVlJNcHJQczNwY0hMSnBmOVZlenM?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T17:31:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "panamericana",
+  "id": "2026-10-13_carretera-panamericana-merida"
+ },
+ {
   "d": "2026-10-12",
   "h": "",
   "ts": "2026-10-12T12:00:00-06:00",
@@ -260,6 +279,18 @@
    {
     "n": "Facebook",
     "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM202TFBQeDM3Ui14VEVVSmJudlo1NXdKUDZRWVpRUG92NzFiT1hGX19sWHFJZERJNjlxRlNheWt0TFlsRDRfcUhCS0FaRDVTN2hnaVpqMDVZZ0hyLXR4X0w2NEczQmNUeUYxT0xBTlFZSXYycDhOOWI1ellRaHRpbXJkR1BYRWRxTTJIc0xtSlJoamtMNUZQR3NoQm9hRUVhc3VxUnprbkVkR2FNY2dOb29DcmtDc1Iyemp6bFpIUjF4Z3Nka0NJb29Bazh2NE54TTNzajdfVG5qVGx4MW5JOF9hOGFuNVZQNmhkdGFzTQ?oc=5"
+   },
+   {
+    "n": "El Aragueño",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm5YV1k0TGllb3g1TUs2bTNsczhxVEh3T3N3a0V3SWMtWVhvVkNyemZ4NWxSZHF2UTdmbWVWLUh1QnZiX3pKNlJ2LW9pU3c1b1h4REhyVENkVFlwejNnNlY1X3J6VllyVlhJcF9LTGEwZFdVc0JNUHh1VGJqbjRvSkRtMThaUQ?oc=5"
+   },
+   {
+    "n": "diarioeloriental.com",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sbkJYdFJQTFE1WVBKU2tLdkdLc0Fja0o2ZW5mNG15MEU5VFhjWDdWX2VwQlllR0V0dUQwNHZXdExQUk9MRDhYSXhQcFB6YlBGaG1DUVpwbll4NkMtdFNwVnNGMTJia2gzZklhaGh4ZXRfeFdaV0ZKSXFUQ3BWQQ?oc=5"
+   },
+   {
+    "n": "El Regional del Zulia",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnQyMnI2VGRWUlNXUGY3c0JHWlhybjFPSzY0azFFZG9sa2otV1RQd3EzRVJfdW1WaEw1VFVsV29CRXN1MUkxeFRzQ2VOOGQzMG1aVzY5YVh2S19xZHlUMkRmeUQ0cksxTmZfM2Y2RWdfUWFrVmRNUzNQYTZ6a2dXQkRTdVpzcVFmNXJBUnBWa2ZsUGFUUDl5WERhUjdjbm4zLUxVTU1ON2M2UQ?oc=5"
    }
   ],
   "creado": "2026-10-13T09:17:21Z",
@@ -458,6 +489,24 @@
   "creado": "2026-10-13T09:17:21Z",
   "metodo": "reglas",
   "id": "2026-10-12_chetumal-5"
+ },
+ {
+  "d": "2026-10-12",
+  "h": "",
+  "ts": "2026-10-12T12:00:00-05:00",
+  "t": "Accidente involucra a vehículo eléctrico en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWJwU0dGMGxCRnJaUzZ6dnZ5eEJjZHoycGQxb1RCYlVfcS1OSGIwcFRfSzFnd2dPenFnSDN5OVJxNjZOUXA5VnNYbGxLVC1BRU5heXdiX1F4YWFuQkhMVUNWNmxZZjdIMVVEa2Vud1FKM2NVdDNRajZ4emIwNW5DUXd5RHpLWVhx0gGQAUFVX3lxTE5fX1MwUGUxekNvZ3RKbjJWTUFUSmY5OU9ObEcxUGhvR1ZxcmRibkktM242MVkwdDVROXpYOFNHTm5UTHprbDlOTEwwNGwzbUgxRlhtRTMtTTAxNmZmY2k2dGQ4WVk1QUVkNTQwZnc0cTAzZGF6S3p3US1fVG5mdVAwc01iWUUwQ3prR09kSER5UA?oc=5"
+   }
+  ],
+  "creado": "2026-10-13T17:31:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-12_cancun-3"
  },
  {
   "d": "2026-10-11",
