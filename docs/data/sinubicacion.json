@@ -2,6 +2,84 @@
  {
   "d": "2026-10-14",
   "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Tráiler derriba torreta de la Guardia Nacional en la carretera Campeche-Mérida",
+  "p": "Carretera Campeche-Mérida",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/14/trailer-derriba-torreta-guardia-nacional-carretera-campeche-merida.html"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche merida",
+  "id": "2026-10-14_carretera-campeche-merida"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Tres heridos deja fuerte choque de motocicletas en la colonia Venustiano Carranza de Champotón",
+  "p": "Colonia Venustiano Carranza, Champotón",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/14/heridos-deja-fuerte-choque-motocicletas-colonia-venustiano-carranza-champoton.html"
+   },
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xdTNOWGlsUzVsZnFRenMyVElzaC1xeXJkMThNWWpqdkxaal9mRURXUEhtUzhlR0tEdHpac0hGYVlmem5wTTRLQm5wMUZDdURCVmNyd2c3VzZRMk5BVmhpZTYwdWFqTjdVRm9uU1ZURVU?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "venustiano carranza",
+  "id": "2026-10-14_colonia-venustiano-carranza-champoton"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Autobús de la UNACAR sale de la carretera en Sabancuy; reportan varios lesionados",
+  "p": "Carretera, Sabancuy",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/14/autobus-unacar-sale-carretera-sabancuy-reportan-lesionados.html"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_carretera-sabancuy"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Conflicto sentimental desata incendio de pertenencias en calles de Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXlMQVlGaWFWQ1BhNVlkZ00yWEdtNC1VZHdRLWhEa3A1RXBPdzVpeXlNMTM0YTFoUEx4Q2xmSjdLc3prMDNXMHFjQUlRci14dnZXZWJVZEFMYTRZd0FmbG9SOVFhOVJjT21UXzgzakxONHVBdHBERFpacVpkLUw2dDZxZV82bFJPMTRSMFlfYTFCY0hDSldyN0l2al93WkFvZ0M1V1p6ZXpJUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_tizimin"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
   "ts": "2026-10-14T12:00:00-05:00",
   "t": "Jose luis chacón impulsa cultura vial entre jóvenes para prevenir accidentes en cozumel",
   "p": "Cozumel",
@@ -16,6 +94,83 @@
   "creado": "2026-10-14T13:36:59Z",
   "metodo": "reglas",
   "id": "2026-10-14_cozumel"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Cancún registra 2 mil 714 accidentes viales y 16 muertos en lo que va de 2026",
+  "p": "Supermanzana 215 de Cancún Un total de 2 mil 714 hechos de tránsito",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/14/cancun-registra-mil-accidentes-viales-muertos.html"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 215 cancun un total 2 mil 714 hechos transito",
+  "id": "2026-10-14_supermanzana-215-de-cancun-un-total-de-2-mil-714"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Policías rescatan a una familia de casa en llamas en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3BWcjAxMjV1bjFVTHZWRXhGME8zTThaV3NJaU5qZ1N5dWptUTd2bDlZRUQ2X3BEYl9CdVk5U3VkTGhNR3ZqeVUyUGVaU29XZjlaRmpKckFjcFNrZ19weVd5NlhJVmFlMGZkUGJwUUhNN0tnWkNUdDNwaDdTbXFBMEExclhzS0R1ZHY2QmpBT0FiakdGSnNjNjVXNXFYQQ?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc2tBNXhYUVZZVDZSa0pLTHp4ZnEwcHJ6TWM5UWJ3enFQZHdQYlczcFpmRkFsNFJuWS1YTF9TSUlvQzFQZ3dYMmVhN05qa1lBcFM3OUVQN2NhUV92dThGYnlJVEtzM2EtNl90T3BxM3dBMk5fN09pbk43ajhjTGFqTGxrTHdRQkZjZlNzVzQ0MjMxaTF1U251a3dFeEF6cjl1dU9LQ3FScUs2VW5HQ0phX2RNeHpEaGI4bm9xWTFCSUp5QTA2SjlUcDBKWWxmd9IB0wFBVV95cUxOUGE4RHcwaC1wVk9HdW9NcjJtbks1SnFuQkZHVkhHTlpVZUY4VHZiRlRPOEhNeEhfRWNTUWNhLU1ZSFo2b0laNmVYQk1oWEg5bVlPLUFTRHBSUzM3TTZ0a1NFcmM1OHVDSFlSa3JYSFYzYjdMVTZEOHpmMmhQTFkwMlBTd2w0bkk5Q2ktaHBVcC1wTkRtMjJYcDZpUG5ZYy11UHhhZFBCLTJHSXR0eXAyZXpoZC1IZWZoaC1QWWYxZkU3d2dXYk1RUV9ZakVmcHBMSDRv?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_cancun"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Instalan reductores de velocidad en siete cruceros de Chetumal para prevenir accidentes",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Heraldo de México",
+    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOTNLSVhJeW1HQ1UxSEI5VTNncWNoRXhVaTV3THBoVHJBNzFmamIwemhsSXNlbExGYW84VGZxMUZvY21EdzNQUWdmN2pyalRUcjVNWkxpY2tpaGo3Q1RzdHM4cG43TGI3ZFVfeG5QQ0k3b0IxLW1DNmV1Vl9wZVJOTTdsNXIyVTZlV3FnNmNEcHZHZmxZcHJ5MlVILXZVR21Nb3pyYjRsUERab0NSOUlHWEZkUnVfeVIwX3hXT3RRRHVwZ3ZVdkhJS3poZlV6aW8wNzE1aFpaTWYtM3BRa1JQUldKLVpxSEZEMmpvZXU3cw?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_chetumal"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Fuerte incendio consume vivienda en Fracc. Los Héroes de Cancún",
+  "p": "Fracc, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnhjV3ZKZlV4SVNpdU1hdmNmb2k0VGx1WkZMZ0E0Y1ZqWkxMdGVTSlhYYVQtUzhXSXBxaDBYM0liWTZwM0kzR29iUTJMckZqei1ya0JWYmJ5bXdmSWtMMWZLUGU0eTJqOHRkem1TbERFNHRHVjF6SVZmRlVFdmpUNXdWYzBRS3M3Zmw2QlFBcGs5dlowcDlFQ3RYRkNhLTR5aEhuaw?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_fracc-cancun"
  },
  {
   "d": "2026-10-13",
@@ -213,6 +368,10 @@
    {
     "n": "La i Noticias",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlNpRk5aeVNUSTVhc3FyYzUyS0MyeTQzbDlUNjczX1JwM0RvVTJtWVFxdVk4a184NGl0Qklhc3ZtZW4wYTFLRzQzMzhobzZmQnhacHZaa1h3VHByNG9KcE0xWGxvWW85dFMza043Sm5nWEdNeWhNY1lRdjVKdjl4S1ZlTi1wSnFwTEhUZXZpSlkwWlJNM1pTTGgwZXZlakNO?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkZBUWtkZXJZWHcxRUh1ekR2ZGZRWWl4UmRlTUJUVVJITTRWMmhIS2hqU2NWdzZLend1LXgtS0d3elhJWEJ6bF9yMnJ2dmVFdXk1ZzBUd2VxYzNuZ256WEhacmUyY0l3NGk1a3hXa1VNR0VMMUhoVHNIRWw0TUJmU3dUOEM5OFdfU0xUaG1Ld0VLOVloQ0l6Z042NUMxMTdBTzh5NENkOGt6eURS?oc=5"
    }
   ],
   "creado": "2026-10-14T07:28:11Z",

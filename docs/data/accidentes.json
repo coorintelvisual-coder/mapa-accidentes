@@ -11,6 +11,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/14/rescatan-ninos-padres-incendio-supermanzana-cancun.html"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGtCcVZiTkZtZTFGNFJYc0ExYkZvNFpkejdMUEo1R2FYbzYxU2dqTUFVd2V4ZFd6Z2NBakFDTmtQMk9DOWpKdnM5ZXpqMkFoS1l6Zy1KWk5lZGdEOU9CMWdvWklOTVhJOVA0Y1RzSGZGaVJNakY1amo5OWtndVc2Z1RxTXlsR3dhSGRrNVAxZ0hIS240RDFlOThrNA?oc=5"
    }
   ],
   "creado": "2026-10-14T13:36:59Z",
@@ -21,6 +25,29 @@
   "lon": -86.765321,
   "pr": "colonia",
   "sev": "les"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Se incendia casa en la Región 215 de Cancún; cinco personas presentan quemaduras",
+  "p": "Región 215, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTl1VzRDX2ZNSHBoUWVHQnJjVUdaMkZuRjZlUGd3aTRjaG9xc0dzUHR2OGxINFlKQlpPejJZeUlvVC1yOVREM0xrWVoycnc5NGxGRXRZYWkteVA5MU5sSU1xdjRMRUZlbHh5cGFVQm9NQzhHWG1CejNTdEg4VDBCeTJQUUk5cU4yN1FpanRhdFlkVFdNSUZWRTB2UFc1WlBLbWFzeWZpOA?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T18:30:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 215",
+  "id": "2026-10-14_region-215-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "sd"
  },
  {
   "d": "2026-10-13",
