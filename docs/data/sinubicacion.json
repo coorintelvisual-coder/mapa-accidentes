@@ -186,6 +186,24 @@
  {
   "d": "2026-10-13",
   "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Mujer pierde la vida en accidente de motocicleta en la Mérida-Tetiz",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlNpRk5aeVNUSTVhc3FyYzUyS0MyeTQzbDlUNjczX1JwM0RvVTJtWVFxdVk4a184NGl0Qklhc3ZtZW4wYTFLRzQzMzhobzZmQnhacHZaa1h3VHByNG9KcE0xWGxvWW85dFMza043Sm5nWEdNeWhNY1lRdjVKdjl4S1ZlTi1wSnFwTEhUZXZpSlkwWlJNM1pTTGgwZXZlakNO?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T07:28:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_merida-4"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
   "ts": "2026-10-13T12:00:00-05:00",
   "t": "Tras tragedia de unidad ocurrida cerca del aeropuerto de tulum: realizan nueva mesa de trabajo entre autoridad",
   "p": "Tulum",
@@ -249,6 +267,10 @@
    {
     "n": "Azteca Bajío",
     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR1ZDeHZ1SmVyYTZXdXA2QTdRelA2WlZRU1NGZDJYZEZJX1V3OVZ0RVBTMldkcWNjT3psVGhTN3VJQ3RQc2l1ZnlIQlRZN1k5NmJsWEs3SG5aRS0tQnZiZ0dHeDE4T3hmWTVaSEs0ZzBMd2N4UG41X2hjc1AtQ09OZWkzVjRkVTdaS0NOUGpFSTh1TThId1lmSHExV1o4QnlFU3N4ZlQwZnpFU3VDdDhXQWN5amtDTlR6TlBWSl9lb3Y4TXZCcXV5dm5IbUNjUDFDc3c?oc=5"
+   },
+   {
+    "n": "Azteca Puebla",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSlhZRTRHSHhfb0l1dS1uVVV4ZFFmYlFCREY5Zk1LSTVEcVdaS2Y2LTZKZG1PMm1FTmZjWnl3TlZQSzBrdHlPc1JPdkx0akFJdnR0em92SGFNTGoycUhsMEJCN1E0NTlaNEJ5X3IxMDFkbExoNl8yaExmOUdnbkw5WFZIOFM1RGhGUGJIWFJmTEw3YmRGSEw0dnFfbXdFMDJQNnM5OTFKTy1rWE9LNk9DUE44THU1X2QwX1FhMGR3WXhjTkw2NFlkbXRiMEF6b3JudzBqRg?oc=5"
    }
   ],
   "creado": "2026-10-13T22:36:11Z",
@@ -308,6 +330,24 @@
   "creado": "2026-10-14T01:47:43Z",
   "metodo": "reglas",
   "id": "2026-10-13_chetumal-3"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Intentó salir por una ventana y cayó de un tercer piso en Cancún; vecinos señalan que huía del esposo de una m",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Apocaliptic",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQODloN3o4MFl1WkgtdHZNNW1aN21iSHpoLWZEcFJTRW9jeEtOSHN3ZDFNSTVncGVlTkZJT2xnWnZ6YmlITHFJQ1pHT1huY1VSN0w5d0hqNlR5U1d5NzQ0YmJEM3FCd2J3Y3ZGbGd2c2JkcEtsdzRNTTdpR2tXMmtrZWJmNm5Nc2ppNzVkUG5xbmEyRUVUaXhLbDNpVGZlYjROcGlwcmVCM3Z5d095dHZtRXJlU2YtbnVlMF9jeHJWWjV5V3c4U2dLQnRpa0ZEOUtQN3Rzb3ZSXzktcm9WSWtES1dfa1p5TjZSNTRnVXlINk1sNGN1?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T07:28:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_cancun-3"
  },
  {
   "d": "2026-10-12",
