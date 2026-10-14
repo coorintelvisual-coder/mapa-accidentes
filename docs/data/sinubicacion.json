@@ -80,6 +80,61 @@
  {
   "d": "2026-10-14",
   "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Poste de la CFE cae sobre auto en Mérida; motociclista resulta lesionado",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNanpPSDhZODhsM0N1UHZBT0I2Q1Jvd0RhR2t5cXFFZkpHOHZFM1dsdXJNQjZIOEhqQV8xVEVUdDhUTk9xZ3M2WmRUUV9ZcUdlMF9ya0YxSnc5bXBxTmJVQno2U3BmcWZoV1l6RGhmbFNYUGthQ1BYMnNrUFp1M1lZZndlUnB6d1NmMWVBT0lpZkZBbVpHS3BvWS1reVdzVk40QXdMcWdpdXBSNHhabERSM2FfU2txc2s?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_merida"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Simulan incendio en Ximbal",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Campeche HOY",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uTnZvT1ZzMDkzQkc1NTBXcFhEQ3NrSnVCY0VTTXd6UXEzRVVrTEMwUkZ6dks1NmxPSlN3RGhUWVc1UkVYcXZSNHd4aXFMQWpCSGJzcXl6SzJxVVBKcFBjU0JENE02blJ4dGphSQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_campeche"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "¡Aparatoso percance al norte de Mérida! Poste colapsa sobre un automóvil estacionado en la calle 36 por 14 de ",
+  "p": "Calle 36 por 14 de, Mérida",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNT1YyMWx5eU1ESEI5TnlSZ3c1WTkzcFQ1RG5CXzBaWXhNTm5PNGRramd1aVlfNXI2azlUeFVNRWNJN29RTmZvWTVFUjRkSTVIaGQtdjJ3?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "36 por 14",
+  "id": "2026-10-14_calle-36-por-14-de-merida"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
   "ts": "2026-10-14T12:00:00-05:00",
   "t": "Jose luis chacón impulsa cultura vial entre jóvenes para prevenir accidentes en cozumel",
   "p": "Cozumel",
@@ -171,6 +226,62 @@
   "creado": "2026-10-14T18:30:11Z",
   "metodo": "reglas",
   "id": "2026-10-14_fracc-cancun"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Choca por pasarse el rojo y escapa con camioneta en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdkxXY3NFV3NOaHU2ek91U1dsUXdXclhKd2htN3Zvc1B5YVNXN2NhbThZUGM3aU9kVlZSaW5tdVRlVnZTa3psY1NrQ25UYTZkV2hjcF8tZzN2ZnozekxmQlZEdTl4aVRJMmJDMnJwVnJUYmtKNWg2NmhIbjk0TlFZRFZzUFJ3WUxHT3ZsczBESHdyY0k?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_chetumal-2"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Muere una yegua tras ser atropellada en la carretera Reforma-Bacalar; conductor huye",
+  "p": "Carretera Reforma-Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWtYVHQ5S2xsLWlBZW1hSWRMbE1QUlhnMDhXT2NpdURNUG45cEozNEtUTlBSNlk4OS1zRjdRQUhRR1UwMkNfMERfcDhZLWdjMVhSN3VUSWhVVlp6ZG9RSTl1SmkzOG1ldUlwSUNFZnpUN1l6b1NscE5RVlZ5Rmh0SHpIdG50cDd1ZWdpdWpIWWFvWVNrN0xmdlphenlrTzZ5dUdDSFl1QWJ4SENYMC1lNTZYZkQ1MU81b1RYcV9rQjRoaThiY0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "reforma bacalar",
+  "id": "2026-10-14_carretera-reforma-bacalar"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Choque deja dos lesionados en carretera federal 295",
+  "p": "Carretera federal 295",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SUFYwTXNqYlZseW9YTkZDYmpkSFZqRlhlZWZfSTB4VDRzZjJrcWJEOHdqRDlHRUxTY0h0UVV6UGdhRm5tekJOWEtWenBoYlNWNjc2YVhUWUZOXzJNRFR1czV5VW9UNlg0TEJHYm9xeVR5djZz0gF8QVVfeXFMTW43MjhMUnBYdVpUNllfbU5JTWZ6eUtLVFYxRG0yN0RFcVFuTDNtU2tGRVFBSVQ1MVYxSzJWQVpzVUpfYW50M05qVGl3YjBRNkhfT09nRV9lN1RwbUZmZ2FBU0trcExlOUctTnpsZ2REV0puek45NmxHNzJGeQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 295",
+  "id": "2026-10-14_carretera-federal-295"
  },
  {
   "d": "2026-10-13",
@@ -525,6 +636,24 @@
   "creado": "2026-10-14T07:28:11Z",
   "metodo": "reglas",
   "id": "2026-10-13_cancun-3"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Camioneta vuelca y se estrella contra monumento en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRDE5QTdSQ0U5bmF6LUl0UWhxRHFEc1VabkdwMVFtbVZWaGNfX1UxcFpTQzNkakx5eWN6a1NhSzFyd05FUEE2dG9hc2w3TzZuLW5XN013WXJ5dUI1eEdlWXlCWEJwSVZBaXBYRjJ6YWhFeWNrX1BTcTVYeVVGWEhrYzBOV3QxSzlER3o4d1hKNNIBlwFBVV95cUxOSjhudXNHYUVRLTFNSEc2UmJnLXNCamEzNUYyRXlRNFdZRWxCZzhDS0ZCNG1zRmJrWWQxTG1Id0E4UnMzT0Ytb2tPMGZ0cUtVa0dRdHRHLWk0Qk9sVW9Ic0diV1FnM0kyeURUUFZJcjdYTFVYODZ2VVZHYmNCM19ZX1hjV0tMdFZNb0ZyQXpRWXlueXktWUc4?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_chetumal-4"
  },
  {
   "d": "2026-10-12",

@@ -15,6 +15,10 @@
    {
     "n": "Diario CAMBIO 22",
     "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGtCcVZiTkZtZTFGNFJYc0ExYkZvNFpkejdMUEo1R2FYbzYxU2dqTUFVd2V4ZFd6Z2NBakFDTmtQMk9DOWpKdnM5ZXpqMkFoS1l6Zy1KWk5lZGdEOU9CMWdvWklOTVhJOVA0Y1RzSGZGaVJNakY1amo5OWtndVc2Z1RxTXlsR3dhSGRrNVAxZ0hIS240RDFlOThrNA?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ka1hxN3BReEYxeTJaeDAyaDBfS1dqRW9icFlYV2MwMmZlaXp2eVFKeUhCek1GaFpVWkJOOXRvTmZwQ3dtbEh4Wk5wLUNUR3M0cnpwc1JBNDFSTFM3bENkT3ZOZTF3LWc3Q2Nxa3AxN3pIaXNKdk1YVy1n0gGCAUFVX3lxTE1EVmdoeGZzVnVXdjdEdGtpSmtzY0hiblByckhpbUpGYmJZQlMtU3dRVXBWMTdSMWhpeHdvVWN4bzNrVEt0SGx6VFQzNDg0alV5cUc5N2dFVzAyOHR6cGtzbXBoZlVMMzBlY0hwalBaWTFoUjkyc01QY0g5a0k3OFhvYXc?oc=5"
    }
   ],
   "creado": "2026-10-14T13:36:59Z",
@@ -48,6 +52,29 @@
   "lon": -86.881346,
   "pr": "colonia",
   "sev": "sd"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Tragedia en Playa del Carmen: Hombre muere electrocutado al sustraer un cable de la CFE",
+  "p": "Avenida 115, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/14/hombre-muere-electrocutado-sustraer-cable-cfe-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-14T22:12:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "115",
+  "id": "2026-10-14_avenida-115-playa-del-carmen",
+  "lat": 20.65975,
+  "lon": -87.078289,
+  "pr": "tramo",
+  "sev": "fatal"
  },
  {
   "d": "2026-10-13",
