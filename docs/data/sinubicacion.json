@@ -112,6 +112,80 @@
  {
   "d": "2026-10-13",
   "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Familia de Lucía busca justicia tras fatal accidente en bicicleta en Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSFZQeFhaekRvWXlMWG9YeTR0N01GdjRJYjZFVlQtRDFWdml4NWJ3R052TzFGc1h2TVNRQWxoY3AwVXJJeE54aWxyREtrX2lBSUJ0ekhnVlhOUE56TTYtcm5ia2RNMHg5bWFpbWVqS0VxaC1ubkhTN0E5RGhGWnNWN0tpeG1ZZi1IVEtCYzY5OWlZMG1BcGZfMFFjTndmSHhkLVA5aW56N0o?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_uman"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "Motociclista derrapa tras chocar contra camioneta en el periférico de Mérida",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2RHZC1vREEzbFJwS1hSOTc5djYtcDl1ZXhYQWZTU3BMdlFQa2xLa3E2T3FUVU9Pc0dCUHlnckNmcHhQcDlnX3dvQmxjOEFCamcxODk0RUw0a3BONEVxdGs5UUZYcEwwVXMtMjkyWEtPQVEwMVVLZVgtS2w2bkdnM0RwaUV5RVZKODVLeXFKaXdFQ0tQN2JveGEwa2hBcGdEY2dCa0szRGlxVm11SmxfZDg3eXZaMzRub2VnVjk2Z0JvbDlL?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-13_periferico-merida"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "VIDEO Motociclista sale proyectado tras aparatoso choque en la carretera MéridaProgreso",
+  "p": "Carretera Mérida–Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Grupo Marmor",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXdUZEdxcnpfSVlUMUdmalRwaXBkRlI1b2VLRDhQa1N0ZnBacHZGRXd4SUZPOUZadnpmanJtYk5STWlVTFBYNGxOLXlFU3I2ZGhWTEFoaXprY0o3UVNEZkRQbDZXcWRpaUZrM25ENmJFQmQ0ZWU5TU1hODBoYy13bEpnLXJxSVBKU0lVcUFVRVhvMlRTOGdPVnN6TW9nd2RFaGE5MzUtR2RhLUo4bXVpZGxleEYxVHBpbnliNENGV20zTVdpeFE?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida progreso",
+  "id": "2026-10-13_carretera-merida-progreso"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-06:00",
+  "t": "¡exigen justicia para lucía! buscan al conductor que atropelló y huyó en zona de gran calzada, mérida; la jove",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMjktNk4tOHA2dW02aWpBalpuMWJ6ejRUekZ0RzhVSjBHV0VlT0laT0tNSWx1YS1DRXRnTVV6VnVSQTdSMHZIMWxZV0NqNlVVVENrZjV5NlRFVXRTSll6T2pCRTd1Q05fdUhVLTVMVnVYS3l5VF9KdGpjRFZlYmFxMGhMR0pyb2E5SWYxdGNLc1J3TXNiQ2xJWFRNX2xSUFM4YWtUbThRTDR1N1Rvam9WRTJwcmxkU0tEZU5semJUektDTnBKaDVLeWFnME1Xdm1wd0V2NGR3S2Y4ZDJMb3d1MTc1QUFpOTNFR0tEMVFBMFB0SUpUdjdDdjJjNkc4Q0U?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_merida-3"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
   "ts": "2026-10-13T12:00:00-05:00",
   "t": "Tras tragedia de unidad ocurrida cerca del aeropuerto de tulum: realizan nueva mesa de trabajo entre autoridad",
   "p": "Tulum",
@@ -180,6 +254,60 @@
   "creado": "2026-10-13T22:36:11Z",
   "metodo": "reglas",
   "id": "2026-10-13_cancun-2"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Una persona lesionada tras aparatoso choque en calles del Centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdFpOeXFZdXI5cVAxZ2RKTHU4dHVVSTJ1TXVsd1paYnluWFczdEx2cWtNeE5PQk9rZHVKOW1mTDR4V1JmWFNOSVVjVnJTVVBJS3djdF9DQlVQZEd6cXpjY29YVmZkUHpBOFN1MEZyeW1FLU9JSDNPQ0l3Ukt3Z1NpTV9lRi1GTG1QZzBGSw?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_chetumal-2"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Choque entre autobús y mototaxi deja tres lesionados",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHNrTVQwaTd2WERWLWRyaTB4Z1dVV0czdFp2OFBUOHJ3ajAxcHRGRkp2Qi1LSmdWc0lKeXpUWE00b3hseXBVa1FreVF1WEN3LXpkZFQ3cDdibUNtYWpPeDUzNUFfeURCcXdFRDBjX0Q5Z291Z0NEdWhBZkFZTnRlX2lQVGcwYVdYWXNHeE40TQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_choque-entre-autobus-y-mototaxi-deja-tres-lesion"
+ },
+ {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Imprudencia al volante deja 67 accidentes en una semana en chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Inspector Nocturno",
+    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wRzIyTG5mYzk5QmVES3hWZ193SHE3TlZSRGx3SFRqdXZHb2VwS19OYWFOM05OR0g4bWNPdldpSlU5RUY4RHBsSkJRcVl1d3ppMWZEaw?oc=5"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "id": "2026-10-13_chetumal-3"
  },
  {
   "d": "2026-10-12",
@@ -454,6 +582,10 @@
    {
     "n": "El Regional del Zulia",
     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnQyMnI2VGRWUlNXUGY3c0JHWlhybjFPSzY0azFFZG9sa2otV1RQd3EzRVJfdW1WaEw1VFVsV29CRXN1MUkxeFRzQ2VOOGQzMG1aVzY5YVh2S19xZHlUMkRmeUQ0cksxTmZfM2Y2RWdfUWFrVmRNUzNQYTZ6a2dXQkRTdVpzcVFmNXJBUnBWa2ZsUGFUUDl5WERhUjdjbm4zLUxVTU1ON2M2UQ?oc=5"
+   },
+   {
+    "n": "Radio America",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWtJYW5veVViM0xzTjlEZ0xtNkdfS1lFcmFoVHJyR0FpaVlJX3RRZlM2X2lodDdtQi10bWRSZkl1MTJuZU52ellqb3dRcm8tc1VHUEpPY2RENHI3Y2N3ZDRnd1ZXSVFBbnpEMGNTVGU4UW51ZnAtZHQzNzc1YmIyaw?oc=5"
    }
   ],
   "creado": "2026-10-13T09:17:21Z",

@@ -23,6 +23,29 @@
   "sev": "les"
  },
  {
+  "d": "2026-10-13",
+  "h": "",
+  "ts": "2026-10-13T12:00:00-05:00",
+  "t": "Dos accidentes de motocicletas dejan tres lesionados y daños materiales en Playa del Carmen",
+  "p": "Avenida 18, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/13/accidentes-motocicletas-dejan-lesionados-danos-materiales-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-14T01:47:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "18",
+  "id": "2026-10-13_avenida-18-playa-del-carmen",
+  "lat": 20.617634,
+  "lon": -87.091895,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-12",
   "h": "",
   "ts": "2026-10-12T12:00:00-06:00",
