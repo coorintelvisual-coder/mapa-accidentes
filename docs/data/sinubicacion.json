@@ -19,6 +19,10 @@
    {
     "n": "Radio Interior",
     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHpKcjRpTjZuTEtBM1RKb1RFN2lObW5hVFdkNVAtUDBNdTQ5ZGthR3pkOThacXlPd1Y4Y3gwSm5PYnBkWkwtdVVLUDVEdVYtdzU1TDNjWFBMMlN4Vi1uLUhsN1VzNjQ4RVA5dkxoZjN3a3RuYVRqQ2xyY284NTQxcXdBV2k5eHE4WEJKbUNsVHZHc2ZWWlB0X2xjTXllVVFFQUlBVFJ1MldlMzltODJB?oc=5"
+   },
+   {
+    "n": "Extremadura 7Dias",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFVGR055WXlBWkhNVUJ5UkE1aXNHaGpDeUpiVWtRVGlCVVdmeDVaT0RLVWNXN2ctMFliR09JQ0ZVd1R0VjRhRU84MWltVHh5c21lMmFEbGxWelZWMlRZcjZUaUl2Nm45cXpBem9ZeGtKUjc1bUM3bWpYODMyX01YQkU5RnhPMTNJeWhTWFZKc1ZpOXlLaDVkZl92QUs5UXVBVEIwMl9IWQ?oc=5"
    }
   ],
   "creado": "2026-10-15T13:19:37Z",
@@ -64,6 +68,25 @@
  {
   "d": "2026-10-15",
   "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Volcadura de camión provoca el cierre total de la carretera Umán-Poxilá",
+  "p": "Carretera Umán-Poxilá",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXhjZDNIRnJFcU5kbW1jLVhtWmxtS3huVnM0LXI5eE1WcXg2M0k2U3RTLXBTVXJLRUMxMkRsMUZhYjFBNV9lUHN0aEc5elN6WHNVYmd4X2tUUjBpUUczbUU4ckkwVG5UZnNXZjFfTFFqSnY0WENIQTZDWVhhWXNGQlkydy1BZzF3R203ZE9wMm5yMmVMVmt6amg4eE8xdXcydm81eVd4eWdhLURmSjhrOUJ3UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T18:11:59Z",
+  "metodo": "reglas",
+  "clave_lugar": "uman poxila",
+  "id": "2026-10-15_carretera-uman-poxila"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
   "ts": "2026-10-15T12:00:00-05:00",
   "t": "Derrapa y acaba bajo la sombra de una revolvedora",
   "p": "",
@@ -78,6 +101,46 @@
   "creado": "2026-10-15T13:19:37Z",
   "metodo": "reglas",
   "id": "2026-10-15_derrapa-y-acaba-bajo-la-sombra-de-una-revolvedor"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Tras lluvias: se desploma techo de hotel abandonado en playa del carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpbjR3WEI4ekYtMXQzSVI0MWI3bkd2YzVnZHczMk04S1R6Q2Y3NVcyTFUzaGFUMV9oMFFzUFotd01fVGNPSlhKaGtRdjd6TE14QjF4OEJXVnFLTVk2R2xha2N2NmVTcGZ4UHhfSE1ZNV9qQWtEQ1hF?oc=5"
+   },
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlBRemdnY3FYZFEwWWJIN0ZtME0wMXVwTkpHdVk2WkdEbUk4eEVXdXY2RkhraXYycmszNGx6UVlTU0xrV1RiOWhyRzVWWFJIOExGYjFOZ1J2VEZ3Q1d4U0tKejBTSzFvM1BQUlF3Y1pHY2U4M0hXYXE4Qk1yUF94cmxRYXg1b09M0gGIAUFVX3lxTE5CUFF6Z2djcVhkUTBZYkg3Rm0wTTAxdXBOSkd1WTZaR0RtSTh4RVd1djZGSGtpdjJyazM0bHpRWVNTTGtXVGI5aHJHNVZYUkg4TEZiMU5nUnZURndDV3hTS0p6MFNLMW8zUFBSUXdjWkdjZTgzSFdhcThCTXJQX3hybFFheDVvT0w?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T18:11:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Atropellan a repartidor de agua cerca de Paraíso Maya en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLU9oNDlTZE5tcTNiMVBjSFAtaWlURzNBRG1UVm1IcWU3Z0dpaVBaMThCbDd1ekU2S0l1R3JhSUNNWVlUTzAwN2x3UVpLWS1UTllsVDEzNkhSeDRwcVF2d1NtTnpNQWxheGstZXZhVkxreGlNY1JuN2RBRHFodzNCSHVSU05peGVGUXBmSTFseVVVNjlBajVjRi1pZjlTUEo3eWVaa0h3?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T18:11:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_cancun"
  },
  {
   "d": "2026-10-14",

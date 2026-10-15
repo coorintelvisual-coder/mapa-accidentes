@@ -1,5 +1,51 @@
 [
  {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Repartidor de agua resulta gravemente lesionado en accidente vial en la avenida López Portillo de Cancún",
+  "p": "Avenida López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/15/repartidor-agua-resulta-gravemente-lesionado-accidente-vial-lopez-portillo-cancun.html"
+   }
+  ],
+  "creado": "2026-10-15T18:11:59Z",
+  "metodo": "reglas",
+  "clave_lugar": "lopez portillo",
+  "id": "2026-10-15_avenida-lopez-portillo-cancun",
+  "lat": 21.150418,
+  "lon": -86.874437,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "¡ATENCIÓN! Fuerte accidente vial en la López Portillo de Benito Juárez; hay garrafones y autopartes sobre la v",
+  "p": "Avenida José López Portillo, Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/atencion-fuerte-accidente-vial-en-la-lopez-portillo-de-benito-juarez-hay-garrafones-y-autopartes-sobre-la-via/"
+   }
+  ],
+  "creado": "2026-10-15T18:11:59Z",
+  "metodo": "reglas",
+  "clave_lugar": "jose lopez portillo",
+  "id": "2026-10-15_avenida-jose-lopez-portillo-benito-juarez",
+  "lat": 21.160099,
+  "lon": -86.855289,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-14",
   "h": "",
   "ts": "2026-10-14T12:00:00-05:00",
