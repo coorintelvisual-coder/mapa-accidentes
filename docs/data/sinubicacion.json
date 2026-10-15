@@ -125,12 +125,52 @@
    {
     "n": "Instagram",
     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNT1YyMWx5eU1ESEI5TnlSZ3c1WTkzcFQ1RG5CXzBaWXhNTm5PNGRramd1aVlfNXI2azlUeFVNRWNJN29RTmZvWTVFUjRkSTVIaGQtdjJ3?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbU0zMzJJZjhKb3o2OHIwNU9hOXhQTEtVeW9RTUl0c2gwVGNEeW5sMHR4MWlfRGhlQVI3VWNuMlMwamVmLVJIZDZvckxvdGtPTVB2UnZzWVA3c3VXTm84dXM1MU5QVUUzaUdrRGpraGdBNjVJcVdwNml1Z3hXR3hrSExzQUhoV29oZUVRdkxIWDdGLWwwRHNfalF0bHN3RkpmeTgtQmhXUEJKVDNQRHJLMHRoUlRTWDhEYVZZ?oc=5"
    }
   ],
   "creado": "2026-10-14T22:12:43Z",
   "metodo": "reglas",
   "clave_lugar": "36 por 14",
   "id": "2026-10-14_calle-36-por-14-de-merida"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Brutal Choque Lanza un Auto contra una Vivienda en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZzZwbVMwRVkzVXJXTGQ1X3pvQWNkQU5IVlBzQ3c0d1kwSC1HQUF4UDV3b01sWUhRZlhkcVI4ZXZ5eE5sMmRjY3NYc2VIekpYUEZHX2FQNmZ4d2xsRTNTaWFCU2pPaEIxN0VIaDVEczJYR29waEo0dDEtWHFGWXVGa0ZUdEY5WVdvb0tjVTVB?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T01:23:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_tizimin-2"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "¡se prende fuego en chemax! incendio en basurero clandestino pone en alerta a pobladores",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTmZrVVRBUmJVRmNhbXNOTzU4Wk4wREpHNnFEQ2NxWVhaNVRrVGdkblo2TG1DMVZsZGJmNHRLS1NOc2tkOW1jUkFWbFFYNjFsZTBwYVc5b1hkci10MFBsSGU4ZlJrM3VhN0xkbFdLcjFFdGUtSDAyQjZFdmEtY1JxQ0tkMWd1Q3lMaWZoLU1jdW1jR3FialdGUS1VZEdBRFlUb2FFYWZtUU9nemxQdHJreGhqY1dseUkza0hXb0pud01VNTBPSzZwTDJTU2pLeXdKaG5ucFEwNHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T01:23:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_se-prende-fuego-en-chemax-incendio-en-basurero-c"
  },
  {
   "d": "2026-10-14",
@@ -282,6 +322,60 @@
   "metodo": "reglas",
   "clave_lugar": "federal 295",
   "id": "2026-10-14_carretera-federal-295"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Ebrio choca contra un vehículo, huye y termina detenido en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcmhIU2NUSTRSYW4xYWxHUzVQUjd1Y2I4TnNnZ3g5emxiVXRRUng2b1ZTRzh3bFZQVEhJUEdnZnIxbWVFdmpDblk5UkJIS0NHNHkwc0FYX2xtOTBJdUxnT1cyWFRzaEFqVW50b1E5aWZHMnF4aFByV0hwZ3dkVHlLdkVHUmtGNzVCZ3RYN1V4LXU?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T01:23:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_chetumal-3"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Conductor no respeta el alto y termina impactado contra una camioneta en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTZ4UkczbDBYbTFSeGJ1XzhLMWg4cDVqMngzWU9nTGt4LUt6UllEdHFjT3VZNUx0QmRSZmwyUWdBM3RXZW1sVTJDbE45LXlnQ0lBSnVpREJLaFV5MFlnaHRkMGJqMEtSbDBsOWtqLUxwWTNGM21hV3VzaGFnVUFVNzJ6aEpIZkFGNngtVExVZFEzN3Fycnd1cnhaSHk2VE0?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T01:23:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_chetumal-4"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Choca autobus de pasajeros y mototaxi en Cancún; hay heridos",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Canal 13 Mexico",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEc0Q3U5emRPRW5wMnZndU96Wlhha2JVbFE2QkJyVjF2enZPbzF5Z1dXdmdjZXdaX2Z0NVFVYURKSmQ4LXYyNDI4SnhuX3hUUWdDa2lRRVdHaThzWXJZbXJlR1dNQXdDQXM5THMwNFA5VHpxcXRJejRDZl9wdk1TNXpDQzlkTldsVEhMSDJySkE0R2RWSnp5WVVHRjFjVWdfNlg1Tm8ycXZLOHM?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T01:23:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_cancun-2"
  },
  {
   "d": "2026-10-13",
@@ -483,6 +577,10 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNkZBUWtkZXJZWHcxRUh1ekR2ZGZRWWl4UmRlTUJUVVJITTRWMmhIS2hqU2NWdzZLend1LXgtS0d3elhJWEJ6bF9yMnJ2dmVFdXk1ZzBUd2VxYzNuZ256WEhacmUyY0l3NGk1a3hXa1VNR0VMMUhoVHNIRWw0TUJmU3dUOEM5OFdfU0xUaG1Ld0VLOVloQ0l6Z042NUMxMTdBTzh5NENkOGt6eURS?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZVg4T082N3FBQU5MYUNsbEtobFE3NnZZRXgwaHEzNmo4Y1lXNHh1RFNiV3AydUkyc3BNVFp5Y0xVV1dKejk4ZFgtTVNjVDY1SkV5a213eW9qeEY1bjdpZmZQdjVwbVhZalFSaHJQWWpxQkNLREl6azM4U3dvVWVldWl5NExrNGphRDhCQkphZk1WUjNVMDI2Mmh1MA?oc=5"
    }
   ],
   "creado": "2026-10-14T07:28:11Z",
