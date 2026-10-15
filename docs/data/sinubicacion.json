@@ -87,6 +87,80 @@
  {
   "d": "2026-10-15",
   "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Choque en la antigua carretera a Mérida deja una mujer lesionada en Campeche",
+  "p": "Carretera antigua a Mérida",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/choque-antigua-carretera-merida-deja-mujer-lesionada-campeche.html"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "clave_lugar": "antigua a merida",
+  "id": "2026-10-15_carretera-antigua-a-merida"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Se incendia camión de carga en el Periférico Sur de Mérida",
+  "p": "Periférico Sur, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUnduVUEweHozeFZSanB6cnk3QlYyVzNOMUM5SXhWVzBjclZtbldScGJCR2dXNnhlZ0hjZEJoYnY1eEZQNnNpSGpEUXRxLTdlTFo5RWpVT1lrZUt5NkhET1ZLR2E3angyekRHR3RHUE5QZ2FBZjRqdWlPSWpRRGtlTmNVNGJaSWpQQWZESnI4LWV4Z3NlbEJSMEZkX1lmMkF50gGmAUFVX3lxTE8tbGRKT1JuZkluQk5hRUlYWU9qc0g0Tmd3S3RIeG9BRGR6ckU2dlVEU3MwMUxac1d6ZmJpUW02eks0Vko3OWNocWF5MHo4SW92endpOTc2V05KZEdDcURLc0UxNlVKSmREeE12QnF4MjBna090OFlSRkQtem5aU1hwX1JmYTNLZFRNM2l2UHZwSEZNczl0MUJiWVdQeXJfSjdzV25sVmc?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico sur",
+  "id": "2026-10-15_periferico-sur-merida"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Presunto ladrón brinca barda y se atrinchera en una casa para evitar ser detenido en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUNmSG1MTHpxOE13MllqdFJhUThzejcycThJR0tCZ1RUbWpLcjZsRlEyVnZPckJ0MnVvSkJ1TGU4X2tOYXRXdEdHN1hqblQxd0Zadk5FNi1SdGNqbVV3N1RTN1AzWWU0ZXhkN3JmRW5ZODhmVEtZRXZySEw4SGIzbTBSN2lRWXpSVldvNWRFYlBIMEJGZjdzYjZNNGpZOXNQMk5FeWpBVkg2ZjRpN1lLXy1UVjhSdFVfUWY3SUh4Y2pJYlhi0gHKAUFVX3lxTE1NRGZUVjVpaEw1QTlGWXF4SDJEN0szTHJpTDN5OGUwb1RTLUtZWmM2aFhpbW9IZjlkX21PMm9DbmRVd2REU3hJalBpME5hZ1JJblNvYUk5alFRbm94TW9qN09kTzdka2pxYXZ3V0NiSm53Z2wxMnJTT3J6LWNjOE1leE1JR0dqSkxoRVRzM3dmMjJJOWU2UDA0WndDdGNQdmd4WXRMT1ZDM19tZ0dNeHpmeDhVdFR1a2ZOeXNMU1plUFpMSUF5T2kyeWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_campeche"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "¿Quién era la ciclista atropellada en Gran Calzada de Umán? Este es su perfil y lo que se sabe de su caso",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTZ6OWkzQVd0eXc3MWJRS0NOajZKUld0S1FDc2U4N1hmN096SklNWlY0aXU0VEp1TVFIYXlZVnZkZ2k3a3RnTFVfNEhLSEdxSDNRNjN0OHpaOFF2WjFVTHBsMUxFRTU2MUd6Z0FWa3hVZGlldUt0RnppNW1JYW9FMG9PUEpESGpYdEZQeG1BY2NGeTBxWmotQ0sydUlOZHlia3fSAacBQVVfeXFMTnVyNG1LNWZkUUV3MWNqX2g4UERZTEREeXN0WHNVanA3dGN1Z19YQUhGTWx2Y1dKcWQ2LUNHRFhMckR4dE5jVm4wVlFaX1RjQ01kQldRRGh1MkJXSTFGZ1IzdXoxYjRORzFsampPanFGSUk0YUlmQ0E4ZkNuVFJ4Z1dteERod3JQYlJ3alRldnkxSXk4ZkpIU3g1eTR1Rk9LRlpkZUg2ZWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_uman"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
   "ts": "2026-10-15T12:00:00-05:00",
   "t": "Derrapa y acaba bajo la sombra de una revolvedora",
   "p": "",
@@ -141,6 +215,43 @@
   "creado": "2026-10-15T18:11:59Z",
   "metodo": "reglas",
   "id": "2026-10-15_cancun"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Dan de alta a bebé y niña tras incendio en una vivienda de Los Héroes de Cancún",
+  "p": "Fraccionamiento Los Héroes, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/15/alta-bebe-nina-incendio-vivienda-heroes-cancun.html"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "clave_lugar": "heroes",
+  "id": "2026-10-15_fraccionamiento-los-heroes-cancun"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Hombre muere al intentar robar cables en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa3FFTjB4SkJ2V1V0UE5PSW5icFdhbHdIVjBtVnIzV01pMmFKMnM3QksyWm8zYnFHRVBQTlBEM2lZbDJuLXRWeC1VWU9uWWlGN1FhYWZ4NzdaMk9jZzVTTEt0ODkyenMzY25xR3l1NDhqVTIzZ0trSlN1ZmFFOXZXQU9Lc0hkVS1rSjdEcGxvd1VRVGpvdXBVMnpCd1R6TFdzektMb0o0ZkJIWkU?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T22:08:06Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_playa-del-carmen-2"
  },
  {
   "d": "2026-10-14",
