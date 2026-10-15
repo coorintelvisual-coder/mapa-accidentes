@@ -175,6 +175,43 @@
  {
   "d": "2026-10-14",
   "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Mérida inclusiva: primero la caseta, luego el peatón",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Udjh0a2IyS05LOENVOUV3bGQzNUQ4RmxiMEtONXBhbFRURjVldjhHaVQ2Tl9aQkhKTW41LXdBczhyVF95MGxNc0JEZnlSdHFIdnJtOVBOdDUzUGhDWk5fY0JYaDVzUWlUUm9BeW5kUmxOYWpsS3F2NTZrYUo5dw?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T07:18:22Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_merida-2"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-06:00",
+  "t": "Pierde la vida un hombre tras ser arrollado en el tramo carretero Champotón-Campeche",
+  "p": "Tramo carretero Champotón-Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYVoxX3BoQ2JrQm9aMHNUUnFaVXlTOW9HdTBKUklvRklpcnVoMm9QZHUtaUhmM1RaS1dYZGxPNkpqQmJ4czloUlNBOVlTYjVBYjZMTzJDOGk3WkJ5dlI3eWJkTEJvaEVOVnpjZU15RXZuaWxYUEgyXy12T0Fvbm5SNzdBZGVCU29vMkNxUFFvVEtVZVFEYS11ZXoxWXVOVDdDY3poeWZQTUZTZzBaT0F5dE02OUY4NHZpWVR4Nm1TS2hJR0tV0gHEAUFVX3lxTE5hWjFfcGhDYmtCb1owc1RScVpVeVM5b0d1MEpSSW9GSWlydWgyb1BkdS1pSGYzVFpLV1hkbE82SmpCYnhzOWhSU0E5WVNiNUFiNkxPMkM4aTdaQnl2Ujd5YmRMQm9oRU5WemNlTXlFdm5pbFhQSDJfLXZPQW9ublI3N0FkZUJTb28yQ3FQUW9US1VlUURhLXVlejFZdU5UN0Njemh5ZlBNRlNnMFpPQXl0TTY5Rjg0dmlZVHg2bVNLaElHS1U?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T07:18:22Z",
+  "metodo": "reglas",
+  "clave_lugar": "carretero champoton campeche",
+  "id": "2026-10-14_tramo-carretero-champoton-campeche"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
   "ts": "2026-10-14T12:00:00-05:00",
   "t": "Jose luis chacón impulsa cultura vial entre jóvenes para prevenir accidentes en cozumel",
   "p": "Cozumel",
@@ -261,6 +298,10 @@
    {
     "n": "DePeso",
     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnhjV3ZKZlV4SVNpdU1hdmNmb2k0VGx1WkZMZ0E0Y1ZqWkxMdGVTSlhYYVQtUzhXSXBxaDBYM0liWTZwM0kzR29iUTJMckZqei1ya0JWYmJ5bXdmSWtMMWZLUGU0eTJqOHRkem1TbERFNHRHVjF6SVZmRlVFdmpUNXdWYzBRS3M3Zmw2QlFBcGs5dlowcDlFQ3RYRkNhLTR5aEhuaw?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTWpMeWgzNTNocTlHa1czc1NQQ3BmLXMyaGJHbUQyQV8ydE5JNjl3Q1RqWlJ2Q1BzWXdLXzJvS3d2M0xwNTZiX1M2cjlNSzZxSFBMeHZkVWlKYzd1dUlsY2RmN0JrNW9lX2dFbEhzampueTZ5dl9JclRaMFdCdVpyQzFfVE1jeEVETjlOZlpJZ3dhSnc5a3o5OVdITXhsMXpLWEdyYWdzYUFxSEFfVVJJUkNWNA?oc=5"
    }
   ],
   "creado": "2026-10-14T18:30:11Z",
@@ -376,6 +417,24 @@
   "creado": "2026-10-15T01:23:04Z",
   "metodo": "reglas",
   "id": "2026-10-14_cancun-2"
+ },
+ {
+  "d": "2026-10-14",
+  "h": "",
+  "ts": "2026-10-14T12:00:00-05:00",
+  "t": "Mujer policía rescata a dos menores durante incendio en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVVNRWl2eWpjUkU5OTVLT2I0TWFmZlc5WnJZbXNaZTM3anUwNDRuWXFQT0dXUVAtQ1JvRXN0NXBUY1ZSMGE5SDI1QXhfZ19VUXpWT1dCMzRTVWxoZzdFUGVzeGRIdUxEdEplVHpBRmVqSjQ4Y18xdWZ1dDVVZTdkRl8wV0RNMHNtcUtPVlBHRVg?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T07:18:22Z",
+  "metodo": "reglas",
+  "id": "2026-10-14_cancun-3"
  },
  {
   "d": "2026-10-13",
