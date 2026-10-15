@@ -1,5 +1,85 @@
 [
  {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Una mujer de 70 años resulta herida tras sufrir un atropello en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "COPE",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFZpU3NicFVWNklzSDJ1X044UGN2Y1pOenV6MEo4ejQxZThzQlYtQklWZFZ5QmJZbXdwakNTSjhQTy15VDVmeC1TWFFGMWZVWktDbWpmRjJQazJUanJlUlpQYXZCcDhHQXJFSXNJTGZPemtHM3dzNzhnZ2RtV0liaEJSaVZaaVp5TnpYYnNKNlJOQng0aVl3aDNmWko0U1BPVVdMTVBfVzJwcFVHb0NZdDJ2bERDUlVIcy0tbk1tMGtPeW5aTWdJQ3h0WktidFlRU090M3Bicmloa0RneDAxaHBNVdIB6AFBVV95cUxPYjh2LUxlVVZaYno3NTlMMmNMMlJlS1g2aURIS0JYS3lrVHdoVHVWeUdWcFZqMEZ6RFhDYmpFUkdlMnA3RDFRSnlGUHFYMUROZmZqbDA3aDVkakdvV0ttaWR1eUx6eUFrTi1BdG9hQnQwTExGbWtpMWlHOEhFUTFpOURSQkFMZ2JWLVRxX1Y1TWp6dldHWjBpODF6cDd3Z0RrYml2X1pBLUVpdWFyU01qYW10OWs0SDE2Z00tNnVqX0Y3dU9PZ1Bpd09Zemxwc0xuWkpNX3I4dWNBTFRXWkR5dHl0ZmdhSktP?oc=5"
+   },
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUppWDdqa0NidDF0MFIydnNWaUpteWNaY2ltZHA3dmY5aHYzYTlJa243S3NFQUhEOXZCbGU3blhHOHdxZkdfV2NrYXNhQWlURFFwLUlhRzE2blJxQ3p1Z1lGczZUNXVOU3ZRekZLM3cwaElIMzEwRWg0a25VYml1UkduT0VWUFBmNWtHbDN5XzE0M09rcHhCcDVKTk5lRi15ZGlyWGhn0gGrAUFVX3lxTE5aN3VialpRbmNOVkNYYzJaWkJTWHNOU1Z4N3F0UXVDejBRVF9IS1RQTzVobGxyeGYtSkNVWTZtQTVPMWFkQzBnVUxNcDFITnRSZmNwdWt0NVFMY05LTUkxMXNUMldCRFZpZU5pb25EY0U0ODU3QnhCM2txcTZ1OXpNTllCc01ad0RQM01VOWVOQlpHMlhEQ2xaV20waF85NlpBeS1HRFE3aGZzVQ?oc=5"
+   },
+   {
+    "n": "Radio Interior",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHpKcjRpTjZuTEtBM1RKb1RFN2lObW5hVFdkNVAtUDBNdTQ5ZGthR3pkOThacXlPd1Y4Y3gwSm5PYnBkWkwtdVVLUDVEdVYtdzU1TDNjWFBMMlN4Vi1uLUhsN1VzNjQ4RVA5dkxoZjN3a3RuYVRqQ2xyY284NTQxcXdBV2k5eHE4WEJKbUNsVHZHc2ZWWlB0X2xjTXllVVFFQUlBVFJ1MldlMzltODJB?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T13:19:37Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_merida"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Una mujer, trasladada al hospital tras ser atropellada junto a la estación de autobús de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSExtNVRCTFRTbFAwV09uYm9ydkdSTWRteTJuMVRINnJQZlplWnJvMnByeEZnRHJGX09HVFY0MkpIM3B1eUhOMDEtMHVpbk9NYVNPQjdpcmpzdGppX1Z0bk9HZ2FyTkRCOE45QWhjQmthN0tSYlNFMEU5Wk9HeUhQel8yME5lWXhHUWpKQ2V0aXo3OEY1OU91M3pHZDBnTFdJNFZLRFhMNll4d9IBrwFBVV95cUxOVlV4TWJSLTItYm10dkFaN3JXOG90SE1CcXBPTXRCQjJBd0l5QkRCUk5zQ0YzMzB1ajh4NFV3VTJKaVJwbDhUNF9sQjFsX0hiZE9DV0o5Rmg1RWJiT1VpcmQ5QnM1Z1Rrc3JCQUFmMF9MempEOVREcjlrNHp1RE0xVVlLRjRVUXE4OFNEQ2hJTjdCNUo4X1BPV1FYZXl1MmRNaUtXZVU0VkhJbHpqWkVN?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T13:19:37Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_merida-2"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Un camión y un turismo chocan en la A-5 a la altura de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Extremadura 7Dias",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONTNaQWZaTTVYbGgxYm5lSVZOQnpWVFFWNkhIT0YzSUtXd3BpY1dNb1kwaXJVTlRwZUZSazQ1bHlRTl9hY2pLMEw4ZmRSODBEcG1PU3pqellGNVJBdnlOZWM5M2pjbTFxc1Y1cUZ5cnQ1MktuQndxX19fd0xXR19lUzlPdF9Bd2VqYnJ5NEJpcjYxVTk3?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T13:19:37Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_merida-3"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Derrapa y acaba bajo la sombra de una revolvedora",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmZWb0FkX1Z4YW5RZEdsZ0pCQk9PWndJOC04Ukdtb0hzNHFZV1cwbkhpRFBQMGNfVGJQX1pRZU41TzdUTDFoTHNMZFFvc29ENzRQV3pmd1F0RWRodHBkVkUybFhJNEZGSmhhODV5di1SUzRJNklFZXVMbzFVVjU4a3ln0gGKAUFVX3lxTE42T2RfSkx5eXNKei10OFpjdjZMZ05JekdVc0JOQlFnUGpFMDZmdUdKdTVEeXRpWGtIV3h2WGh0TWRBWlR3RDNlTFV4RGZ1VFpVS2dyUWdxNVRCNlRWRlRKWkNxeHNHQjRVZTdJVm4wVXRrakd5Vm9DdEVwS3VfQ0NhUks2emU2aUJYQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-15T13:19:37Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_derrapa-y-acaba-bajo-la-sombra-de-una-revolvedor"
+ },
+ {
   "d": "2026-10-14",
   "h": "",
   "ts": "2026-10-14T12:00:00-06:00",
