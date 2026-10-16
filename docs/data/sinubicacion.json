@@ -161,6 +161,43 @@
  {
   "d": "2026-10-15",
   "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Tarde de accidentes en Ciudad del Carmen: tres choques en principales avenidas dejan un motociclista lesionado",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/tarde-accidentes-ciudad-carmen-choques-principales-avenidas-dejan-motociclista-lesionado.html"
+   }
+  ],
+  "creado": "2026-10-16T01:10:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Ford Fiesta termina incrustado contra un tráiler en Ciudad del Carmen; intentó ganarle el paso",
+  "p": "Colonia Justo Sierra, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/ford-fiesta-termina-incrustado-trailer-ciudad-carmen-intento-ganarle-paso.html"
+   }
+  ],
+  "creado": "2026-10-16T01:10:59Z",
+  "metodo": "reglas",
+  "clave_lugar": "justo sierra",
+  "id": "2026-10-15_colonia-justo-sierra-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
   "ts": "2026-10-15T12:00:00-05:00",
   "t": "Derrapa y acaba bajo la sombra de una revolvedora",
   "p": "",
@@ -192,6 +229,10 @@
    {
     "n": "La Verdad Noticias",
     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlBRemdnY3FYZFEwWWJIN0ZtME0wMXVwTkpHdVk2WkdEbUk4eEVXdXY2RkhraXYycmszNGx6UVlTU0xrV1RiOWhyRzVWWFJIOExGYjFOZ1J2VEZ3Q1d4U0tKejBTSzFvM1BQUlF3Y1pHY2U4M0hXYXE4Qk1yUF94cmxRYXg1b09M0gGIAUFVX3lxTE5CUFF6Z2djcVhkUTBZYkg3Rm0wTTAxdXBOSkd1WTZaR0RtSTh4RVd1djZGSGtpdjJyazM0bHpRWVNTTGtXVGI5aHJHNVZYUkg4TEZiMU5nUnZURndDV3hTS0p6MFNLMW8zUFBSUXdjWkdjZTgzSFdhcThCTXJQX3hybFFheDVvT0w?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3NyV0Nkbzd3Wk5idktWLWhKeVh0Qnl5NlpOeUdwSjJiYUFCTFIxX0xMakVLd3pxdk5FVjd5ZTNnWTdMV2g5S2JpOVZrMGNTX3V0X3ZlLUhFdEx6VDVhRElBNUl1eFQ0amNKYlRQZHZuVnBNckNkTUFNZ0hZSVI4ZTRwX2twdVBFY0FZRFg1M0JmTC1fVVMza05NTlRPZWtBNDZGaW96ajdGVHlwaXc?oc=5"
    }
   ],
   "creado": "2026-10-15T18:11:59Z",
