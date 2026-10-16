@@ -77,6 +77,10 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXhjZDNIRnJFcU5kbW1jLVhtWmxtS3huVnM0LXI5eE1WcXg2M0k2U3RTLXBTVXJLRUMxMkRsMUZhYjFBNV9lUHN0aEc5elN6WHNVYmd4X2tUUjBpUUczbUU4ckkwVG5UZnNXZjFfTFFqSnY0WENIQTZDWVhhWXNGQlkydy1BZzF3R203ZE9wMm5yMmVMVmt6amg4eE8xdXcydm81eVd4eWdhLURmSjhrOUJ3UQ?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeTNyZnBEU0QzZkZxSldkSGFxbXR6ZnJYc25lUlE5NXVNaGd2bXpCUlROV2VVZnVWUDJNRS1XZzhFVm5qRnNBNk5VTWxWa2dIMVpZMHJObjRiNk5jWVZHaW54TVFVUU1NRG5wRVUxYkJPd1hiYVpqTGZoSnVuQnpVeDZ4MnBnWEVUNTh6OFJvQTVLRnptSUJpMFFUbVF0V3hsdV95NlpnaHN2bEg1bXptSzRXUkRNM21YeTBFVHVpSnlvelY0ZWhnUTNUS2V5STJFQVRN?oc=5"
    }
   ],
   "creado": "2026-10-15T18:11:59Z",
@@ -198,6 +202,43 @@
  {
   "d": "2026-10-15",
   "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Accidente sobre la carretera federal 307, a la altura de Mayakoba, deja una persona muy grave",
+  "p": "Carretera federal 307, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/15/accidente-carretera-federal-altura-mayakoba-deja-persona-grave.html"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 307",
+  "id": "2026-10-15_carretera-federal-307-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Dos mujeres de 83 y 70 años heridas leves en dos atropellos que se producían en Coria y en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Onda Cero",
+    "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSjFzblNCeXZHWWhwQ1FlTGk1b0N4S3JHVklIX2dld1F6azE5M2xFRE92UHNGWTRWR0NWWV9TSnRJenNBWVhjZFVkZFBlb3ZOS01rMXNsRVdlQ3BBZU95dEprSXRvenc4LUlkSTRCRU9xdFFOZUFjZ3FvaUI5UlNBZUF1dVJ4NzRyLVNrLV93eGNiak93OUtMSFhVMG5pekZWX3VEOG84Z1RrQXRXaVJPdURpSk9fSUYzVUJmbC1rdkF0alBYR2VxZGNkZHhEQ1BoRXhMVDVkb2htVEw2OTBGUHo2T3Y0RTRpZDJSUXNPZk14N2lnOXlBeGw2bXBZX0nSAf8BQVVfeXFMT2dsN1BhT29XakRxeGdwQllnOERwUjBpOUtQdER5SkNJc3Y1V3JHYUtGNkVySkExSnJHQjJ2MmplbGhUMTc4MlhRbTJFeUdDaXpWcUlUQVRmNGFNcHQzYzdKNTYxWGU5eU9ZVzV4c0ZlSnBNN2p3c1N2ZEVzZlFuenljM0FQeHp6dXJRVmd3S3padEhCdmhXclhuYW93M25KQVFGRU44UXVHd3BIb0oxaHZaRno2aVd3bWY2ejVmQzZQYUhUZWtRNDJma0E5WDNGNG50UXAxTHUzY2JzRnZQbm16clZrSlFwRlQzRXZZdXJ3YVpoWEEyR1U5MzMzcEJZ?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_merida-4"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
   "ts": "2026-10-15T12:00:00-05:00",
   "t": "Derrapa y acaba bajo la sombra de una revolvedora",
   "p": "",
@@ -233,6 +274,10 @@
    {
     "n": "Quinta Fuerza",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT3NyV0Nkbzd3Wk5idktWLWhKeVh0Qnl5NlpOeUdwSjJiYUFCTFIxX0xMakVLd3pxdk5FVjd5ZTNnWTdMV2g5S2JpOVZrMGNTX3V0X3ZlLUhFdEx6VDVhRElBNUl1eFQ0amNKYlRQZHZuVnBNckNkTUFNZ0hZSVI4ZTRwX2twdVBFY0FZRFg1M0JmTC1fVVMza05NTlRPZWtBNDZGaW96ajdGVHlwaXc?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEJmR1BWRk1YTWRtMlhFN21aclRLNGt2Sm50M1VrZ2hCR0FXRl9hV0dvVTlsU04yRkhKT1d1RUxrUi1Wek5XS24tUTFLX2dpaVcxOHRrWUFZRlNmdDJNYXNKTzYtYU5TeENhdXN6S1V6bGh5bFczYTZhV004bmY0RWVLYlBIUdIBjgFBVV95cUxOaVdlTmM3UFFJRXpsRUVTYmF6cUcxMXJ5RnFkMHNPZnliSnhIOFJubENibW9mMVNVVFYwQ21oSjd4bXVkTnBmY3dLNTJLVUROXzJ0Z240Q29STUVFT2U2NUZiRU4yM2RCWUtESEItUGpwT2NqblVtZ09hWDJsclBOcTVhTTgtTkgwZnhQZTJn?oc=5"
    }
   ],
   "creado": "2026-10-15T18:11:59Z",
@@ -293,6 +338,97 @@
   "creado": "2026-10-15T22:08:06Z",
   "metodo": "reglas",
   "id": "2026-10-15_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Accidente vial provoca intensa movilización policiaca en la colonia Químico Pastrana de Isla Mujeres",
+  "p": "Colonia Químico Pastrana, Isla Mujeres",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/15/accidente-vial-provoca-intensa-movilizacion-policiaca-colonia-quimico-pastrana-isla-mujeres.html"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "quimico pastrana",
+  "id": "2026-10-15_colonia-quimico-pastrana-isla-mujeres"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Lluvias provocan inundaciones, caos vehicular y accidentes en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEhOOTRpRER4MVZEYUI4Y0pEa0RONGNCMWdSckV1QmVENEVoSDQ3YldOeFhrc1V6SlZMVkptNWZVWER4ekJ2OEl6ZkRPNXE3ekphRGxHVU9JTWZJUVFEajYtNUVzRWFfR2QwQ2lJVC03UzJ3QklGb2RkcVJvaXMyTGNoZU5GUmJfajdtMHVmZUhEcThYWEVTbHFCRkJhSG1oMUItOGptRExYT1hpZ0FxbWd0Z0RVUDdhWHc1bHRtMNIBxAFBVV95cUxQXzVpd1FwQUZFdVRYemJJWktQbnFfb1lOUUwxbFpkeTFBeVl5RUNBVl9oaG9BWDYzN2dzVXBITWM3MzRZak5BVXNNcHpDNi1UMTRONlUzR0lTUV9semgzbzBOdnZuZXZIWUtOS01aSk1iNzVBMUo2OTJWaVp4bEZkMXJna2NYbWdYX2Y3UVRuNS1pRXBUSWUtSTBENXFaX3pWQkQ3Y2dGY191N1RTakV3Vk5TWnM4a0JKZFBSV3lIRjVuS0l2?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_cancun-2"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "¡Una madre y sus tres hijos, entre las llamas! Vecinos arriesgan todo para rescatarlos de incendio en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmh2WVJIajNuWnNYcmxPRDBpOUpnck5UeFZua0o2b2RFbTBudy1Bc3BoT2lReWEzeFZ3dF95UVZ1WHB1MnNuUGswR0xkRGdIeGdMN0g0bXJFS2UwZFBIYVNfWHV2X2VJRFB3V1NCV0xXblJ6Umltemp2aUt0TDZYOWFFZTF3TTd4aTlubFhoVk0xZVJHNXlGUURSMDJyTjJ1cWF3ZXZCY21OcTlTX0tEcXk1RWpjdUJoeVhqeGZCbHpMUEtDUGQwcEZmUEl2WkNvWGlYWjlZQ1A4aEHSAegBQVVfeXFMUDI5enU3RjRPdnV1bGM0VTRaQU9SZV9kVW51dlZLMV83cWJ1dW5SUjQwdkhGWDZfVE9paHRpMzQ1clU1WGs1eUlNR0huWXhTQXktV19sNGtCVXFLOUIzUnlhZ0p3WFpOclppZTZYektraUVGYXV2NEhQaHd0S1k5elJWV2Uzb0VIeUI0TUJ1dEVFUldWY3BLY2tMWFdhd1RDVVU4MGxNY0lXbDZ3VDBDZGxTdDFXclpWVUZJLXV5SDl3aGFHNlVHN3NrdmE5UktfUHhHVm40WlI0aFR4MmJxQVduSDFxQmNKTQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_cancun-3"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Bomberos rescatan a tucán de una vivienda en Felipe Carrillo Puerto; el ave se impactó en una ventana",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWo0REg0QXc1ODZJMFhlRlYzbm10WTd6dDgzODc5U1Z1MXJOZTlmLUJVUWVSZ0NVY2JLemxtZk5VSGJEaml1TU9oLTlfNmV5RjJPQ0w2dUdwWHpDUWg5a0NkMWJCTDhVWTNIbHo5ZUl6bjZXTlRMMDRaeG5NR25FS29sVGMwc3VFT2RoTnBtaENyMlA5ZjZPUkQ2U1dKRGZya2NmanhMZWdpNld0d1EtbjROZDZoY0lDUnlVR0JJNHJfUThhaFNDcWZpMnTSAcwBQVVfeXFMUE1qNERINEF3NTg2STBYZUZWM25tdFk3enQ4Mzg3OVNWdTFyTmU5Zi1CVVFlUmdDVWNiS3psbWZOVUhiRGppdU1PaC05XzZleUYyT0NMNnVHcFh6Q1FoOWtDZDFiQkw4VVkzSGx6OWVJem42V05UTDA0WnhuTUduRUtvbFRjMHN1RU9kaE5wbWhDcjJQOWY2T1JENlNXSkRmcmtjZmp4TGVnaTZXdHdRLW40TmQ2aGNJQ1J5VUdCSTRyX1E4YWhTQ3FmaTJ0?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Conductor se sale del camino en la zona continental de Isla Mujeres",
+  "p": "Isla Mujeres",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm5JOWwtYWdTZTVmNmhYN1hBdVN1QzA3WF9QQ2VjbXBCNWhpaU9lVkhUbUlWWlBxMkEydktVSWFUUlVQVlc3RUptN2pERjIzbE5MNk12dXhzVDU3c2E0a1NLRm10dmdDdk54RVl3eDFRYTdjVGlWYVRHRkhKS3RoLUVncXJOSS1vVUt5Sl9yUDZGb00?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_isla-mujeres"
  },
  {
   "d": "2026-10-14",

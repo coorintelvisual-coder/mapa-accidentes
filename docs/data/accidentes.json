@@ -2,6 +2,29 @@
  {
   "d": "2026-10-15",
   "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Motociclista se salva de salir herido tras quedar su unidad prensada en Ciudad del Carmen",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/motociclista-salva-salir-herido-quedar-unidad-prensada-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-10-15_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
   "ts": "2026-10-15T12:00:00-05:00",
   "t": "Repartidor de agua resulta gravemente lesionado en accidente vial en la avenida López Portillo de Cancún",
   "p": "Avenida López Portillo, Cancún",
@@ -47,6 +70,28 @@
   "lat": 21.160099,
   "lon": -86.855289,
   "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-05:00",
+  "t": "Incendio daña dos casas en fraccionamiento de Cancún y deja un lesionado",
+  "p": "Fraccionamiento, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM09jTE5hY09RMlJWcnBzYnlMcHc5TW1KT0dpNVhTM0k2ZF8zeG83Vkk4akVoS3lzZXJ5YjBJd0kxYVB3dUJybXlzcTNhLXctZGNHcnkxTzdEODVmSE10a2U1Wnl1c0V3aF8xUFVWSWNpQ2QxaXdJdE1zMmt1RGtLWW9rZ3B5MGN6dnVWS2d5ajlzZllVY3o4aUZ2clY0RWM5VVRobUMxTdIBiANBVV95cUxNWjhHUmV5NTQ4b3NOa21IOTF6V1lNSUNOQnRhdUt2YkdjVXk5Q0dTM2xfVFpRYmFHblZUR2NZdEFlZml0QlNoMXhFZ1lNeF9CUk9fcTcxdTBNZi1kYTNYUEZ4bnFoOEZUcmtGaUI2eXFSQ2ZxbG9GSkcweVFjcllRd3JLQTdYN3dmQlhWdm5sbkp3NGRmdmUyUmVjeEVsNzR1STZzbk5DMFJGQ2xCM2lYcndwVU5ZNXR5V0VjSVl4c25QbFBObGo2Q3BuN0hmUVkyX2ZLbGhfQnh2VDIxVTIwbTlJeEExZHNVLWN5NkszUzdXQVROaDZuWC1aWWx6dk9YeTJ0akl6bkNDS0UtbENGZGVRRzFUN1ZOZ0R3NjRONExQSWR5c01DMmcycnNZTzM1THB5V3pmT0FSNGVJY1ZzZ1Nzb3QyY3pnTHluUWdiYVZxa3hhTDFlRkJuM1NYSmFpZHktSldmYUpsdllpUEhFeWF6NXdBM2l6SHdnWTRDd2hvV18tNWxzbg?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T07:02:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_fraccionamiento-cancun",
+  "lat": 21.147988,
+  "lon": -86.933936,
+  "pr": "colonia",
   "sev": "les"
  },
  {
