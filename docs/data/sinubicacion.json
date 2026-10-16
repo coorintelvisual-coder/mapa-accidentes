@@ -20,6 +20,97 @@
  {
   "d": "2026-10-16",
   "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Cierran autopista Champotón-Campeche tras choque entre dos unidades de carga pesada; no hay lesionados",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/cierran-autopista-champoton-campeche-choque-unidades-carga-pesada-lesionados.html"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_champoton"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Choque entre motocicleta y Hyundai deja un lesionado en la colonia Petrolera de Ciudad del Carmen",
+  "p": "Colonia Petrolera, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/choque-motocicleta-hyundai-deja-lesionado-colonia-petrolera-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "clave_lugar": "petrolera",
+  "id": "2026-10-16_colonia-petrolera-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Conductora se pasa el alto y choca camioneta rentada en Paseo de Montejo",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3RDVHh0ZWJXVFVSV3k3T21hLW1WREFPWXI3Y1hXZUpOMTZhZjhjOS1ySDgxMzBEeG1JZkQ5eDBPVVktN09qaTRsMldJMEFhUXFFeVdmRWJCa3Q1U1JqRVBkSzVoS2YyVmVMUE1YRVk4b082Rlo3LUdzWUhkcUVZYmRKdm5RdW9ZaFNob0VCZFY3NjNodjVmam00ZHlLQTJnVW0taDhaRUNnNlNPVmo2T3h5S1dyQXlnZnVKWlNpNA?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_conductora-se-pasa-el-alto-y-choca-camioneta-ren"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Volcadura en la Mérida-Tizimín por el pavimento mojado",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXVtRFdmcEo1UV94b3hZVFlUZ01JMU5pT2RXdC1JWUVrbnlOWElMMVpJQnZZZlN4QTIxVXZTX0VTTmxndTAzODhnMkFIR2xQeGVQZTJGeV9MSlJKNUpTdVgxNEN4bDRiYm9rNWx5elpmbUNhUzVKRVdVSG55Q2taT2JvZjRCd00yeXRMWXFBZkxyWE50MGpacGZ5REYwYjJCbkRmUDlONDBqX2RITnB1SXBtcFZOMVcxa2Y4VnBOZ3NNV28?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_merida"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Motociclista derrapa en el Malecón de Campeche tras presunto cerrón de un automóvil; resulta lesionado",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdENzU0hCTnNhS0ZHY0Zmd3RWSmxKRHRQTURaTlVNR1RUa0hwb1RHcG9WZkVwejVFakdhYmFqLUJBdWpHS254YWV5OVdCUDJQMDdXcHVsUEptQTdJR3dycUtFb2treE14ZGxDMlUxRzN6ZGR0d2hEVG1XdVo0UU9SWWpqLWZoVFhMRjJVaHQ0bUgxbm8wTEtaQ01QampvLUJkeVczWXZaNzhBdDFYaHNpVUNuMm1HbkpsUTc3QkIwOHNyU1p5eDdJN204SGlxN09wOFdocdIB2gFBVV95cUxNbW55QnF1SnFPQjZuLWNXWEVWdmJLRmx4c2NGeWx0RC1iTEowNjdmdXB4NkwxMERXbmZiakdnUWQ5eVF5bng4MG9RYVI5NWdOQXR3T3IyWWd0WUlGZ2dvNzU5bF8zU3RKTWpZT0FsTVVfdG9Ca3poTlJjUTNUNTFOeVlCWjY1bzZ0bTkyTUJXbTcySzNpbFVkVU9Eb1JoZEpyUUJFM1hRckRGSzcxMVFTd1RlSzNNRXhxeExpN2Q3TWMzamlBN3ZHVHdtQUxCM05DQVExSFRKZ3RrZw?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_campeche-2"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
   "ts": "2026-10-16T12:00:00-05:00",
   "t": "Taxi choca por alcance y termina fuera de la vialidad en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -34,6 +125,24 @@
   "creado": "2026-10-16T17:19:51Z",
   "metodo": "reglas",
   "id": "2026-10-16_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Hombre cae de un tercer piso en Cancún cuando presuntamente intentaba escapar del esposo de su acompañante",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario del Yaqui",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORkhNMFVBQ1pWR3g4VEtSQTVoN1plN1l5eElyazUwaFYtUUFZYk53TGNfZjVHdVlfYkk2aTIyX2NJOU5nZmV5dnlPNmd2bjhYLW1HeThBQlZrNXZUN1lEWmdnSXNCbXRnQlFxU2gybVVLYXZGZXhWa2JnQXRMSGlvUHA4NzhiZzlqZDhidUNpbW40NkJUNzVRXy1xS2ZuMnI0Q1VRc0dmY25VWWJ2bTdVSS1rTHVMcV9CX25Zd0xaNnNPRTV1ZHc1Y0NVS1pDaTNZTnRfVDFCM1drMUp1aWVFLTVB?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T20:55:59Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_cancun"
  },
  {
   "d": "2026-10-15",
