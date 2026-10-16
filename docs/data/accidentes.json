@@ -1,5 +1,51 @@
 [
  {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Conductora se distrae y choca contra auto estacionado en Playa Norte, Ciudad del Carmen",
+  "p": "Colonia Playa Norte, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/conductora-distrae-choca-auto-estacionado-playa-norte-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa norte",
+  "id": "2026-10-16_colonia-playa-norte-ciudad-del-carmen",
+  "lat": 18.655045,
+  "lon": -91.835366,
+  "pr": "colonia",
+  "sev": "fatal"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Destroza su automóvil al chocar contra muro de contención en la avenida Escénica de Campeche",
+  "p": "Avenida Escénica, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/destroza-automovil-chocar-muro-contencion-avenida-escenica-campeche.html"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "escenica",
+  "id": "2026-10-16_avenida-escenica-campeche",
+  "lat": 19.82368,
+  "lon": -90.569256,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
   "d": "2026-10-15",
   "h": "",
   "ts": "2026-10-15T12:00:00-06:00",

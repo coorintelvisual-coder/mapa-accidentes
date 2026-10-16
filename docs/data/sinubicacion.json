@@ -111,6 +111,79 @@
  {
   "d": "2026-10-16",
   "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Entregan 265 cascos certificados a motociclistas de plataforma en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Jornada Maya",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUEzeU1qVF9fWnlSVmh0SFlDbVBaOUkzdUJkMVBUejRwbU5Hd3hadVRvZEJ1X2kwSlhsd3YteUpOS2F6Sld3VFhXS0J4TjAzZHc1VVNweVNlMl94ZUZqRnRTOE9hLXh0VnZMeWQtdVFXZGNaUkVTb0xic1ZaR1NNdEdDaFlybFRYMXBUSzFPXzl4c1N3RjZkcE9LdGpRUHRsRzZOT1RMVHJxZWFHUW80QUxBZUN2MHdJMGRLMmZJbHVsU2RCUndwNGZCRklHODFKSE1VdVU1V2ZFWFJLWm1r?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_merida-2"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Choque en el Centro de Tizimín Deja a una Mujer y a su Hijo Lesionados",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3BIWjFQX3VTVjk1b1NfQ1hSR1hFQUNSYmF2UVVZaGVKWW0zTFh3REtId3hWbFlzZ2pfSWNBazkxTG42dlVPTTdtd2YwOHc1VjI2WGJkR2RvRnU5eVNzczN3RTRMbHprcG96dng2U043YkFVODRYbUhOYktnc2wxdGFKY2d3RUlLd2VMbHV1UUxtVFFNbVQxZEU5TWI4dw?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_tizimin"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Así captan a conductor de Va y Ven a punto de causar accidente",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0hCMjBtcngweXU5N2k1cHFQaGdQWWFqVExMSmJ6eXJuT3dNWTBRVzVKaVNKQnNiX2hJbTJrdC1OTHh6cU96aUl5Nk1TbTFqXzVqTWl2bUN6ZmdPQjlCUXRxZE1xY3FpdmwxOURqWnZxSkRnS2NBVlRxUnQ1bW9KbS02YkZCbDdsSWJuelZYMDdiejNUYVlJV1RVck9RYTl2VXExWUhUU1Uxb3plaGFOUDRNZE5PTEtyNTY3WDZFTnh6cjRKTG9fcVNRTTY4b19Dcm1iWHA1cEEwQlk4LTR6MkRn?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_asi-captan-a-conductor-de-va-y-ven-a-punto-de-ca"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Cortocircuito provoca incendio de camioneta en el Periférico de Mérida: ¡Impactante!",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Chispa",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZXBidXhITUJ4NmxGc0ZvSUZXenJpdmI2blFCOEstaUxlb1lfNWpjNnNRcEpkSXMyRTlfQXpING5JelNYTGpqVzFsX2dKZmVhRmhnN3FocEM4Zk1kM3RrUEgzUmdKeFFReGJfUFBnN3FxeFZDS0lHUEhKUGJ2Mkt2ME0xdHh1SlBIc2Jhc1VlZzh1RU0tTlQ4NkFnNGt1dVBockpuQw?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-16_periferico-merida"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
   "ts": "2026-10-16T12:00:00-05:00",
   "t": "Taxi choca por alcance y termina fuera de la vialidad en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -143,6 +216,83 @@
   "creado": "2026-10-16T20:55:59Z",
   "metodo": "reglas",
   "id": "2026-10-16_cancun"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Mujer se pasa el alto y choca a motociclista en el Centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2Q5ZzJhMWVjOXVyMW1Cc1JuRG5PTmlfVy0xX1hxUmdfTHMxOE40VlIxX3piNnlsV3djOXg2RDF5aUUyWV91U2N4NjlDc0w3dWRfQ1dCMzN3dWZZdzFlY19LTklsYU5oTTFxMGJ4YkItWXlzeE9jMEpjMnp1X3Y3NUprdW92eWxVSzBjMDRR?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVURGbUo2MEZsT1gta2NDUmxXNldyN0FSdDFjRVUxNVh5MkN3SjRLejJScGRhVjl0T3FzNnF0dFBkaV8wVTJpaWpFVlVzR0NnU3RGVGxieWRrY05iMXhxNUo2ZWFkb1dfVEU2b3J1TXNTYU9vNWVSUnUtVlU1bURnZdIBiAFBVV95cUxQNEQ3c2w2djNkUWhkQW1PaWVQOVBMTlRld1dEa2tVNTVab0ZNeHJIY2FZSk1Yb0ItZmgwYVdxNTVlTXpXLTFlMzVYa3dVd3ZjSTc2ZkZkREY1TTBkekFfLUlUOHhQLXNhcmltZld1RFVWaTU1WkFJcjdxV1RuZm5lWXZRNnFFUW1J?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_chetumal"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Pavimento mojado deja accidentes viales en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSDNSdEIzU1RXczRIY3dJd2pSOVFVR01TMkJXbVpDWkFZMDNKenFXaV9XVUt0Z2RNZDFOcmloVVBxUTJ1STNwMVRveDNEaDJGRWVOV2phdFlDbVlBbjJNRHg3cm9HZlVDVE1CelFfakV3YWtGeGwyU3pOMFg?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_cancun-2"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Bacalar resiente la caída turística",
+  "p": "Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UNDR4WjU3SlBqRjZjQzlVQUQyR2IwVW1qWXNHNjdBVEdXX2RhR2o3dDZFel9wSm1vbXZVMlQ2bUVsSURNR3hBR2JmM1VHeFY1QkN4TENNT2E4VW1XTFFCNWlqYzR3OVh3LWRibV9RY9IBd0FVX3lxTFBkZExCcTRVMVNxemxvX1ljXzNsYjRoVU9LcDJpSUhWLUlUN2NnVkp1R292ZU9UWkFURkdTRVNvaTVWUkFRVDlyWUx6VW1tS2tVTm1pUFV3TGoxQUZqcXpwSkc3VlFvRlcyMXRhamkxYU81cjQ2MElZ?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_bacalar"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Taxi sale de la avenida Colosio tras choque",
+  "p": "Avenida Colosio",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41STVZbDVUZ25abjlsWE9hR1QwMWJrdXFmZzc3cjlOTUNLendmRm04MXhKWS1fYS1XNjFWX0dCbVRCYTJrM2NQWU5QaUVqTHczZllRUmtXNE5rQ1hqQ19aWXFWSkJzUVFacko5ZkJyeDUxR2dfY0VmdzJB0gGCAUFVX3lxTFAtLTVIQ29qRUFjcGRuckZTbkc4LW9nSFA5TWxGVjBfVGRVSGU2cTl3bjE5RnExaWdMM3pRNnhZN3RGX0RlNWVUdWUwNlRiQlYyX2dYRV9wdzFOUzdObFFKdnlRQU4wN2pyWWY0dXFfNWhwYkhiS3FKMm83S0pKWnJRT1E?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T23:27:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "colosio",
+  "id": "2026-10-16_avenida-colosio"
  },
  {
   "d": "2026-10-15",
