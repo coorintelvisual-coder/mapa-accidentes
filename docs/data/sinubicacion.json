@@ -100,6 +100,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/choque-antigua-carretera-merida-deja-mujer-lesionada-campeche.html"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb2o4Ulhnek12TGQtOUJEZUZMekpHUHNIUFdsZE9JaEhaRFAyclo5cDQ4a1JLeXVoLVFhYUg3MmFuLTZreVYxRmdBNklhZGdRSEdEZEFtNHNUM0hvbXhBOVluTlRtQlBTZFBZRzlYQmZVczJmSWJLN3VpZHoyMk9DWUwxeDJmLUN2M2hQRGgzR1ItZlpCd1NaM1NJd0FPU2Z3akRDUjI3UE1SNWpkNHU2YlNEQ21LVlREbFFPOFhZdjBvQ2V6WUluYTFqMW9UWmtjYWVzUTFld0Zpd2MwNU45NVpR?oc=5"
    }
   ],
   "creado": "2026-10-15T22:08:06Z",
@@ -235,6 +239,24 @@
   "creado": "2026-10-16T07:02:11Z",
   "metodo": "reglas",
   "id": "2026-10-15_merida-4"
+ },
+ {
+  "d": "2026-10-15",
+  "h": "",
+  "ts": "2026-10-15T12:00:00-06:00",
+  "t": "Filtran FOTO del cuerpo del hombre que murió en accidente de Six Flags; imágenes sensibles",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPazk0dzhxRGpWS2p3WXRvTEZZWm9YZ2UyMTRNR1NDWWhlQ0lzWkF2U3lBTXpsd1Q1Q2hoY0hSd1Y2eFdDaWo1WjNZVkFVdmFPMWFUUnJTSzQzNUl2OUZBT0J5eGRJcDdWb3o0T2VXeElWS0xxS1FJYkN6S0V1aTZXQkxweW1OcWwyakVaVGJhMHpUbk9aMHliY3l3MGMtNGkwN1pPVVc0THdwR0ZMY0FqMXFGY2FhVzVuMEVIUmNwbHpBV09jam43cTV6X256ZlZIbVc4YThn?oc=5"
+   }
+  ],
+  "creado": "2026-10-16T12:16:18Z",
+  "metodo": "reglas",
+  "id": "2026-10-15_filtran-foto-del-cuerpo-del-hombre-que-murio-en"
  },
  {
   "d": "2026-10-15",
