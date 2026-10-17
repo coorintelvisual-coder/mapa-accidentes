@@ -2,6 +2,86 @@
  {
   "d": "2026-10-17",
   "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "Pareja derrapa en motocicleta por acumulación de lodo tras trabajos del SMAPAC en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/17/pareja-derrapa-motocicleta-acumulacion-lodo-trabajos-smapac-campeche.html"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_campeche"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "Fuerte choque en la Mérida-Motul deja un adulto mayor sin vida y al menos seis lesionados",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzh1N1BpZzhyUm5nR1R3bk1SZnRDVXBjQ1FLdGR0WXhRTmdPeXBrTS1Rc2YzOW9jc21GYlVHbVUtOVljYnZTWnZiWjlUZHExYjVhVlZJTTRQcnpHc0hDZXQzU0lpTWlzSDZaYVlYQWRyOVA5dDRlVE95Tnhhc1NYdUNZdFZfMVFPOHZWdzZmTUxtcGVSZlFrajFFZ3pYVlc1UklNeWwwRy12Zw?oc=5"
+   },
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMYWdvbWttZllfM1ZWYnBQSE85NE1NaTlaemZyN292d3JfamE5QTY0MWcxa0xNMzZjam14V3NMZEhMaDE4ZmFOckFGODVkblJhV2cxMFlja0ZWQTBDbXU0ZmlWcVhwZ1FCZ09jS1lfTUhHeUpsMFZId056VWpiNjg?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajF4YlVHdmVnMXdVR1JDWnZ6VFI2Y3BjTmR6UFAwTWV0ZGdCMVNLRURNV0FFNWJ3UU5vejdkcTNnLU5POVQtS05DV055SEVrWFE3N2U0NHA3SmRaMmNIY1RNRzRHOEQyaHY3MFNQRGtENTVmWVA2Z2laU1QxMDBwRHV0dWxhZ1dJcDExNXkwdUVjLU1oV3pSZ2wzb1N5LVc5UzVzNkZQU1h5dw?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_merida"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "Tragedia en Yucatán: Choque de combi en la Mérida-Motul deja un muerto y más de 12 lesionados",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2l6eUhSSGozMFVYMkhNZHZ0eC1ZTjc5N3dER09RZk9ObF9fbGxFM3JlR2tySDNjWldFQTJiSGNYRzlDamYwdEtRckQwUVBiVEVRbVkwbWhOX1hWcDcyc1h1Wk9RYnZfSXllRVl2OWd1clVFWkVkdHNaelNMVW9tS1VudFFpaXY0cFJZdjVDQkNOTnBrZDlKX3pSTDNnc085OVl4ano3UkRoUXVEMjZYbmdkRWJhdzhGSEhzLXNodnRQV2VhTGc2eEh1eWw2aVNWUlpSMHZGMF9teTA?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_merida-2"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "¡gran susto!; se incendia en nilchí una combi que llevaba a estudiantes; sólo hubo daños materiales",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXpvMzFENHpPdExPRnJ5Y0JnVGloRUZuRVM2RmVhYWZZVkhFeFBKSnpSUzRoNXdHNnBxZ2hLRmFHdDBabE05WFo3d01tZFZTQ0RkS2pZbng2MFZJYTlTX2JpM1BnSk96c1dKdjlmWEh6UEVDMFNGMUNsVGkxT0F1NzBYQUNDNWpDeG5YM3hEYmFXbjljdGR2c3BiZGJXUFVwYnd5eTFLdXVWM1dWYklQRVhNb3VkTEdmRUg1Z1lvNFQxLU1hWG9mMV9CbUc0dEk?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_campeche-2"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
   "ts": "2026-10-17T12:00:00-05:00",
   "t": "Lo confunden con atropellado a un borrachito",
   "p": "",
@@ -16,6 +96,62 @@
   "creado": "2026-10-17T09:11:17Z",
   "metodo": "reglas",
   "id": "2026-10-17_lo-confunden-con-atropellado-a-un-borrachito"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Automóvil termina entre la maleza tras accidente en la carretera 307, en Quintana Roo",
+  "p": "Carretera 307",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/17/automovil-termina-maleza-accidente-carretera-quintana-roo.html"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-10-17_carretera-307"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "De 400 a solo 40 bodas al mes: turismo nupcial se desploma en el sur de Quintana Roo",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQXJ3emE3N085LUJFcmRPdzBZcU9pSGotRHRDUERUSmg1UTl1cExnWXNrbDAtNl95WjNWSy15UWdNbWx0azFyaGJEaWRzYk1BejBKT19TYTVKamZsUXNDTzFsTzZNUGhQODVscms4bGh2LU5LSjNwUDVHWnllemZiSWFzejNGRHQyRjFlV25tWlRFN3hpZmtyMmROOGNpZFdJaTdmWDcxb9IBrAFBVV95cUxPMXFoREhNTGZ0TTk0d29hWGNnVGo2ODh1ZUhiQ1pwY3hRMERnTkNKa25kaHpXa3NrNTV4YWdTcUFJSi1xR3kzY2tsQkpSRmZWSmNVc0VNLVlNbC1rM3djdDZTUDE4a2xaTXRlbXo1RzJUcGRVRFlWTk5FZklpM256ZzBNSzVKZjNTaHRJa1hKRkFhOFpWcGp5UjBBSEhuVUxsQ0hoOGppUjF5T0h3?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_de-400-a-solo-40-bodas-al-mes-turismo-nupcial-se"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Camioneta pierde el control por pavimento mojado y termina contra barrera de puente en Puerto Aventuras",
+  "p": "Puente, Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEZMZzVlUkJnTFNnTUtBUnVGUXRuQXV2a0lLUzlKNHFmOFJmWHEtd0pXX1dLQlk3cWFPbmxlUDhpY0pobmJKaWNyMDZPc2MwTWxTemxHQ3cwaENLX1ZpY25UY1hvSWlsVzBWUnFYOTd4RllHdzg5TXZWZFhEVHJkN3FucVFra2ZXVnFpMTgzUmh3N2FPd1Z4TGp4V1hhdTlvaV9heDV3ZDZYRmExSkVTVGl2NEZqTzlnQ0JjYTVHeG0zangxUl9zdF9Mc29QYjBFcmVzMTVTSlBzUdIB3wFBVV95cUxOTWgtd3ZwUmRyYi1SN3hSYkFkVDZ2UVBSU09CTFBKOThVWjlLWDVoOWNQZlJ3NDhaYmdpMVd2bTg0clBVYmNmWDFqaV9UbU1SdE5kakp0QzE1MWdnbm5IcjBVdmlHcnFvWkJza2ZraUF4b3Z1anR1UUdEYjh4NXNQU1Z2b25Ka2xZUW4wbDRTMUVhS2RpRG1MSjllVzJndlN1UE5TUFlyVUFhZmhnY3NtZmExOHZzUVF3VVBSZXlXOGp3T2hWY2p1V3RBcktJeUF1Yi1WN08yM2Izb3JvZ19Z?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T17:00:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente",
+  "id": "2026-10-17_puente-puerto-aventuras"
  },
  {
   "d": "2026-10-16",
@@ -102,6 +238,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXVtRFdmcEo1UV94b3hZVFlUZ01JMU5pT2RXdC1JWUVrbnlOWElMMVpJQnZZZlN4QTIxVXZTX0VTTmxndTAzODhnMkFIR2xQeGVQZTJGeV9MSlJKNUpTdVgxNEN4bDRiYm9rNWx5elpmbUNhUzVKRVdVSG55Q2taT2JvZjRCd00yeXRMWXFBZkxyWE50MGpacGZ5REYwYjJCbkRmUDlONDBqX2RITnB1SXBtcFZOMVcxa2Y4VnBOZ3NNV28?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0EzZUN2LTlydF9ZTTlOTU5mbm9scFh3N3ZONWJrbjFCX2d1MWFyTmxCN1FTTlJoOVgzcXBMUllkZnJ1bFpGV1UtWE4tMmxhQ0JtdVlfRlEtcE1xdldsVG52V1h2Zi1VZDJTOGtyb1NhR3FGQTRreHZ4UUcxekxSZ05jU1FHdDd2X2Q2V2VvNEw5ZHM?oc=5"
    }
   ],
   "creado": "2026-10-16T20:55:59Z",
