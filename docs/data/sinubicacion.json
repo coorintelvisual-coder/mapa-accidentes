@@ -37,6 +37,14 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajF4YlVHdmVnMXdVR1JDWnZ6VFI2Y3BjTmR6UFAwTWV0ZGdCMVNLRURNV0FFNWJ3UU5vejdkcTNnLU5POVQtS05DV055SEVrWFE3N2U0NHA3SmRaMmNIY1RNRzRHOEQyaHY3MFNQRGtENTVmWVA2Z2laU1QxMDBwRHV0dWxhZ1dJcDExNXkwdUVjLU1oV3pSZ2wzb1N5LVc5UzVzNkZQU1h5dw?oc=5"
+   },
+   {
+    "n": "Inspector Nocturno",
+    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zdzBONWI4UHNodEw2NklKQzJRblJVd2xLU0MxOFRWdWYxMFJiN2c4Ym9TZ212QjRHeG1UZ0c4VWxqRDZCVk1DVHphYU9FNldHeTdPWA?oc=5"
+   },
+   {
+    "n": "Columna Digital",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZnpDTGp3VHdaNU1mZ092N0VPQ1lhaFBiZHJhb1RSTVRyR3ctcHJ2Y3RKSjNYZ2JmdURHcVM0cTNFdXVMajdSQW1nYzlwYVRRTVpCNkNMNmw4TzU3NmFGZG5NNjlmQTNQb2JfYTRYU29vekRQS2xn?oc=5"
    }
   ],
   "creado": "2026-10-17T17:00:49Z",
@@ -55,6 +63,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2l6eUhSSGozMFVYMkhNZHZ0eC1ZTjc5N3dER09RZk9ObF9fbGxFM3JlR2tySDNjWldFQTJiSGNYRzlDamYwdEtRckQwUVBiVEVRbVkwbWhOX1hWcDcyc1h1Wk9RYnZfSXllRVl2OWd1clVFWkVkdHNaelNMVW9tS1VudFFpaXY0cFJZdjVDQkNOTnBrZDlKX3pSTDNnc085OVl4ano3UkRoUXVEMjZYbmdkRWJhdzhGSEhzLXNodnRQV2VhTGc2eEh1eWw2aVNWUlpSMHZGMF9teTA?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPel9oeUx2a1IxRDFSVHUyZjA0TlpZZjBtNjZ1amR4VjlxaFB2NndKNFNBSFlyWlR3OHRqbnl1eWJ0QmNrOWtQWWVJSkNDV0dLMzFmc096M040c0MwMlZoQ3RZZFN0N2pHSDhCTG1xZXdDeHN3NWVRVWNlYXc2WElWUzZRbzMtdjhxT3pib2dwbUZUZ18xNHkwVVdYWC00VnNlOUtLOXc0UW1vclU?oc=5"
    }
   ],
   "creado": "2026-10-17T17:00:49Z",
@@ -152,6 +164,25 @@
   "metodo": "reglas",
   "clave_lugar": "puente",
   "id": "2026-10-17_puente-puerto-aventuras"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Motociclista derrapa por pavimento mojado y se estrella contra dos autos en Cancún",
+  "p": "Avenida Circuito Natura, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/17/motociclista-derrapa-pavimento-mojado-estrella-autos-cancun.html"
+   }
+  ],
+  "creado": "2026-10-17T19:13:05Z",
+  "metodo": "reglas",
+  "clave_lugar": "circuito natura",
+  "id": "2026-10-17_avenida-circuito-natura-cancun"
  },
  {
   "d": "2026-10-16",
