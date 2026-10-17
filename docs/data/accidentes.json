@@ -23,6 +23,51 @@
   "sev": "les"
  },
  {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "Motociclista sufre amputación parcial de dedos tras chocar contra un automóvil en Ciudad del Carmen",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/17/motociclista-sufre-amputacion-parcial-dedos-chocar-automovil-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-17T22:11:22Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-10-17_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "¡AL MOMENTO! Accidente causa tráfico pesado en Av. Arco Norte en Cancún hoy, 17 de octubre",
+  "p": "Av, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/al-momento-accidente-causa-trafico-pesado-en-av-arco-norte-en-cancun-hoy-17-de-octubre/"
+   }
+  ],
+  "creado": "2026-10-17T22:11:22Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_av-cancun",
+  "lat": 21.148945,
+  "lon": -86.854494,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-16",
   "h": "",
   "ts": "2026-10-16T12:00:00-06:00",
