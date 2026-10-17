@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Lo confunden con atropellado a un borrachito",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Reporte 24 Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOODktdVNJZzhjQkxHUm1ubG5PTVVFNllobFNiNXJLR1p2aGVXLTlkdVlXNWl1SFQ4SjZ5UUFtUnRYMTV0cm9tVUZuMGZRQnNONk9zekxLdkk4UTZkSDdlRU8xbC1qV183UXZoWFRxRzFYMV9QSUpmUXhTTjFub0VqckpFUjRQRlJ6ZDlqenlpRFlMc1VWUHdyd24zTXh5VEE5SVE?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T09:11:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_lo-confunden-con-atropellado-a-un-borrachito"
+ },
+ {
   "d": "2026-10-16",
   "h": "",
   "ts": "2026-10-16T12:00:00-06:00",
@@ -120,6 +138,10 @@
    {
     "n": "La Jornada Maya",
     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUEzeU1qVF9fWnlSVmh0SFlDbVBaOUkzdUJkMVBUejRwbU5Hd3hadVRvZEJ1X2kwSlhsd3YteUpOS2F6Sld3VFhXS0J4TjAzZHc1VVNweVNlMl94ZUZqRnRTOE9hLXh0VnZMeWQtdVFXZGNaUkVTb0xic1ZaR1NNdEdDaFlybFRYMXBUSzFPXzl4c1N3RjZkcE9LdGpRUHRsRzZOT1RMVHJxZWFHUW80QUxBZUN2MHdJMGRLMmZJbHVsU2RCUndwNGZCRklHODFKSE1VdVU1V2ZFWFJLWm1r?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVl9BcjZFXy1MZ3dvY1N3WnpmX1lfUmpYTHR2RFVnNTgxZ2NvZmtPczZ4X3NzWjBWdmVxUWUzbC1LNnQwbWxoMlBjRW52T3VWWklxY2dYdkY3R1c3NnlNcklsTElHNWlGYVNGbXBvRThIc1NDYUV3OU83clhERjhqd0VXTmJ3MU9rM1g4VGpKUUVyaTNrSFdtSzAtZERtbTc3YnhzWjloOENseXpmczhVNUJhUW8tU1RVcUZMc2lDVDA?oc=5"
    }
   ],
   "creado": "2026-10-16T23:27:31Z",
@@ -329,6 +351,24 @@
   "creado": "2026-10-17T04:11:12Z",
   "metodo": "reglas",
   "id": "2026-10-16_lluvias-marcan-jornada-con-cinco-accidentes-carr"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Choque entre camiones de transporte público provoca caos vial en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVFnN0RQRzBsNnNzZnBJMDNpSWlRcWVLTkUyQ0FfUFpxX2JsNmNWV00yeUpuN2pORHJ6S1g0RlowRFRwem45OUZBbldJNUtDMTd0TmpNN3g5YnNqV2lfUS1nOFRQX1BIZThRWjZ5dHN4RDVIdUE5RjliMFhMWFcxa3hsdEZVRXNncVIyc1Uwbld4OXI4Y1dQX1ZPZ0U?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T09:11:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_cancun-3"
  },
  {
   "d": "2026-10-15",
