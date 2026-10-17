@@ -184,6 +184,24 @@
  {
   "d": "2026-10-16",
   "h": "",
+  "ts": "2026-10-16T12:00:00-06:00",
+  "t": "Camioneta con Remolque Embiste a Motociclista de 16 Años y lo Deja Herido en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlNnOGkydEZ4N3FGa0JNUEFITk5kTV9pcm9vTFY1bEFEMVpydklPY2N5UXRXcTVsc2txOFFIYi1heDdhaXk3SzBnVlk4a0tHWWhOeFJMaU9BZENTQzE2d0ZkNmVzZ21hQUdfTzJ4T2JkQXEybllYb0QzQmttZV9XNThUQ2p4OWpqZ2VLdFVFal9aejBWcTVkSF9LSFF4c3BFSGhXd1ByX1NEWEZ5S2V1Qg?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T04:11:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_tizimin-2"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
   "ts": "2026-10-16T12:00:00-05:00",
   "t": "Taxi choca por alcance y termina fuera de la vialidad en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -293,6 +311,24 @@
   "metodo": "reglas",
   "clave_lugar": "colosio",
   "id": "2026-10-16_avenida-colosio"
+ },
+ {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Lluvias marcan jornada con cinco accidentes carreteros en el centro y sur de Quintana Roo",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZWl3UmhPaTBWTEIyMllaZWRwVHAxTmliUHNVc2VramJScHZYUW01WFA5NmVZbzE2THJ0ZnVSbV8tcWg4VERKR2FFOVViMlZ5X0oxZE5XdXVrNUYwbnBESTVnVk1xOWtmMU9Da25DeV9BR3NVQ3JVcXVoenNBbXRTaWkwWVRfWUtVVF9iUnlkYnM0MjAwaXhIcENtMkI2X0NKcHhsUVp3ajByVm9VOTFKQkI1d2VNU0Z3Ni1aVkxjUWh6eDNKQWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-17T04:11:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-16_lluvias-marcan-jornada-con-cinco-accidentes-carr"
  },
  {
   "d": "2026-10-15",

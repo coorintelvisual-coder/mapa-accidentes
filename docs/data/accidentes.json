@@ -46,6 +46,29 @@
   "sev": "fatal"
  },
  {
+  "d": "2026-10-16",
+  "h": "",
+  "ts": "2026-10-16T12:00:00-05:00",
+  "t": "Camión cervecero se impacta contra poste y árbol en la Región 252; deja sin luz a vecinos de Vista Real en Can",
+  "p": "Región 252, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/16/camion-cervecero-impacta-poste-arbol-region-deja-luz-vecinos-vista-real-cancun.html"
+   }
+  ],
+  "creado": "2026-10-17T04:11:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 252",
+  "id": "2026-10-16_region-252-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-15",
   "h": "",
   "ts": "2026-10-15T12:00:00-06:00",
