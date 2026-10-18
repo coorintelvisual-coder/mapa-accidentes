@@ -193,6 +193,42 @@
  {
   "d": "2026-10-17",
   "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "Rescatan a adulto mayor que cayó a un sumidero en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzFWZ3Q5N1RPWUZJWGxLRjVSaWVSMnVBZVVkeTRzMnk2ckhUMG1HX1ZHUk1ZRVE5Z0d6M1hqbW1kMHcwR1lWcUdKb2JjRXh0dHpLNTRfV0VNNlFNZXNybGlYemx0TmdISDVHeXEtZ2JCbjVGUEhUa1pQWDFlYk5TVWY5NXJOSlZuczBibG1jbnYwcE1MUFhCM3A3elRWUXpjZmNtU0p1akNtdGVC?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T05:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_tizimin-3"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "¡Le decían Vampiro! Revelan identidad del hombre que murió en aparatoso accidente en la Mérida-Motul",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbm1mQmZVQnl5VURxU2lZeWJRS2U0T3VwbEdaakdpekp5S205YnZzS2ZNVEFhSHNpNUJyS1dzMGxLNV9lVWI1UHE0YlhTZ3lUX1BfTUNSYjBnMEk0dDlSaUFLSTdUMTB2T1ZDQWp1MmJKRjJHTUNBWDdUS1ZhcW16dHpmT3VjZlltcVBCSUxWX2lGN0UzUlFPZ05mbGdtbC1CQ2I1aENCVU0wdVU0a3E1bG5BbDFtWjFQZTNPTlF5cjdmNWFfNTBhdWM3ajk4b19wNzBiaEd3?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T05:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_merida-3"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
   "ts": "2026-10-17T12:00:00-05:00",
   "t": "Lo confunden con atropellado a un borrachito",
   "p": "",
@@ -315,6 +351,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/17/hombre-sufre-descarga-electrica-limpiar-azotea-anegada-region-cancun-auxilian.html"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmU2SzF4N0ZxTWhIZEVETDl3dVNHYWdWdzZYOTBFNDcyLWczcENJS2tmWnFGX3RRLUxSQUViM08wTVJoLXhKMDRnNXI0Qk1QVl93R2kyYlR5ZjlDUTd4R3ZVc3hHSWFRTDdrSnQtckU0THExREpycnF3?oc=5"
    }
   ],
   "creado": "2026-10-17T22:11:22Z",
@@ -338,6 +378,24 @@
   "creado": "2026-10-18T00:51:52Z",
   "metodo": "reglas",
   "id": "2026-10-17_bacalar"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Alerta en Chetumal: bomberos encuentran carburo de calcio tras reporte de fuga de gas",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTy1tZExnd0hoaHVfU2pmdEVkR2JmOV82akVXRUFLNWFnaHZia3YwdWRLVEZ1NkJ5RnRxS0c5enRhVXRCVHZrX2RhMVpqNU9Xai1zX2hWUms5WENfOE8yV0c1SmJJVk1lT01FYm00OFJjM2o5dkRxcDRaLTNDZlpVMGkyeEtSMXhkOFRWaDNiQmVaVEtNS2dkelh1aDN4cFU2ZGNBVUdKVlpQQTg1TGpIdjJQVFJzSWFOV3ZPaQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T05:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_chetumal"
  },
  {
   "d": "2026-10-16",
