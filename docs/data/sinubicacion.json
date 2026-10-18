@@ -355,6 +355,10 @@
    {
     "n": "Caribe Peninsular",
     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95RmU2SzF4N0ZxTWhIZEVETDl3dVNHYWdWdzZYOTBFNDcyLWczcENJS2tmWnFGX3RRLUxSQUViM08wTVJoLXhKMDRnNXI0Qk1QVl93R2kyYlR5ZjlDUTd4R3ZVc3hHSWFRTDdrSnQtckU0THExREpycnF3?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVExndlVPNFRvVHV1d2VlM1pWZmI0Wk5JYjVEbzQ0UDVwSjVnT2dRSlVzNE95YXlmVl9EbV9pWEtHd3d3SXJyQWtxd2taUzZoTWZHWGlUYWQtLWlsVUNzWkNKYVhEZFMxNU9WU1hUeW5iVWFsY1RXMXVhRmZNbTVnZExHVVRteVNYekdCN0dqM2ZoVjlJSzMwWFYxeklqdVZwY2dJWTg1Ulo2MG_SAbABQVVfeXFMT0xrOVBQb2RUYTFYUjlVbm41M3ZMbVlqNjd1dS1lUUZ3MTg3MlN1NGhrcDI5eWp1bFQxQ0htb1JyLU1qY3FXb01lc2dWSUxoUkMwdnlqMUoyTjQydXNweS03S2hqQUNhR3MyemlMXzRYYjZMWXVQajYwLXZxbkpYc3hmbUJJSElfR09Bd1B4c1l0SGZES0N6LXp0dnNGRVdiN3VNRzU5OF9DY3J5OTZKOUo?oc=5"
    }
   ],
   "creado": "2026-10-17T22:11:22Z",
@@ -396,6 +400,44 @@
   "creado": "2026-10-18T05:44:04Z",
   "metodo": "reglas",
   "id": "2026-10-17_chetumal"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Vuelcan dos Vehículos en Tramo Puerto Aventuras-Akumal",
+  "p": "Tramo Puerto Aventuras-Akumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2hfb1l2UUVEQXVJeTlWS3BJZmJLbXpRd0s0S2pFUk5fdm93b2pzdXUyVFEtczhwanFxOHdjUXhKTWxkU09NMlN0SG9HYmlhRDBYWUFRTUNoVHZONUVPTTV5cnJWY09xbE83VkZhN3Q1WHg4ZzQ2b1VFMlFVUWpZMkVHcGtwdzVM?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T10:53:06Z",
+  "metodo": "reglas",
+  "clave_lugar": "puerto aventuras akumal",
+  "id": "2026-10-17_tramo-puerto-aventuras-akumal"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-05:00",
+  "t": "Varilla expuesta lesiona a peatón en la colonia Forjadores",
+  "p": "Colonia Forjadores",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm40TV9MLW1NdjlaSFJQNnQ3Y3FHUWJ3OUZoSzJ3WVZKajlNRWprQk9DZjdWX1NBZ0xBdGc3d0NfVnRTa0VNY3lLUFF5WnJUVDZPODdUNGktTTJhVDdHY2ladXZzUnNBSVhEQXZzY2h1VXFiWTdXZGlTTDB1a2oxVmFDSDdPanFGdHlWUThn0gGWAUFVX3lxTE5iYkREZGEzSDRmX2VlMmNtYWt0VHlLSTh1OVktQ2NRTFZUXzVQUDN5LVNReUFwNVM3eGtUSjNHZkh1d1hURXRIcVh1dUZla0FGXzJERHNLZHhMSmhZYXhfSThVNU1IWDg4bEhleElwOVdoczVPbnRoMENwdm9XSnRsbDZqczRyV1VQNDYxOTBHR1VENm94QQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T10:53:06Z",
+  "metodo": "reglas",
+  "clave_lugar": "forjadores",
+  "id": "2026-10-17_colonia-forjadores"
  },
  {
   "d": "2026-10-16",
