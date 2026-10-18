@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Descarga eléctrica manda a hombre al hospital",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzWG5HczZnbnl4Q3EwSGFYaV9ncW5OMnNHNERPX1p1T2NzWGE0d1VLUXNCYXBSMlVFY3Qyc3l3d1kzM0JETGE4VTZhTk1RQktGOVhyRmJsQ2plWDVBVHVUU2xoa3JhaGNjWUpZZlloLWdwSGtsRzdISVZVUFHSAYQBQVVfeXFMTnJJWThtOG9ITENHVFBvbUFsNlY3OFkzZ3lzb2d3R2Y3UWxCeXRvS3dfTlpPRkd6cFNyNWdTLUF6R3hadW5xejNNMGR5YXc2eFJNVWNuc1Y2Zi1mb0ZyRTd4bnJDaFBRREhYZnNOX1lwLXhpdUVRWF9nVjdUNHdnRWhqc2Q4?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T14:29:34Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_descarga-electrica-manda-a-hombre-al-hospital"
+ },
+ {
   "d": "2026-10-17",
   "h": "",
   "ts": "2026-10-17T12:00:00-06:00",
@@ -225,6 +243,24 @@
   "creado": "2026-10-18T05:44:04Z",
   "metodo": "reglas",
   "id": "2026-10-17_merida-3"
+ },
+ {
+  "d": "2026-10-17",
+  "h": "",
+  "ts": "2026-10-17T12:00:00-06:00",
+  "t": "¡Devastador! Incendio consume VIVIENDA al sur de Mérida mientras dueña estaba en velorio",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU0dQQkRMNHFlNm5ZNS1EZG93SXhndlVZdndCd1JOZG9ybEUzZENZSklZMWpKajVkeDB0cWlFdnZKQVlnSVlNU2E2MnpiOWIybVhWZEpJSW4xc2dlY1ZaWXV2OWtoemxiNDhRZmpVdy1xU0FZMkIyOVk4Y3ZSX2E2RXBkMTJfdXNxamJCYzdBWTdpS01JSE9EOTFGUnAyMTRTaHd4eW54REQ0OWdaTW1WaXVxVXNscmk2ZFVWVE9sRkJiWklI?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T14:29:34Z",
+  "metodo": "reglas",
+  "id": "2026-10-17_merida-4"
  },
  {
   "d": "2026-10-17",
