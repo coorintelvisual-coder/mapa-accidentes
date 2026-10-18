@@ -23,6 +23,29 @@
   "sev": "sd"
  },
  {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Choque entre motociclista cubano y taxista desata conflicto",
+  "p": "Avenida José López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/quintanaroo/cancun/choque-entre-motociclista-cubano-y-taxista-desata-conflicto/"
+   }
+  ],
+  "creado": "2026-10-18T20:30:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "jose lopez portillo",
+  "id": "2026-10-18_avenida-jose-lopez-portillo-cancun",
+  "lat": 21.109123,
+  "lon": -86.957296,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-17",
   "h": "",
   "ts": "2026-10-17T12:00:00-06:00",

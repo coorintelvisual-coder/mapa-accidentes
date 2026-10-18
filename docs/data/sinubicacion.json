@@ -83,6 +83,10 @@
    {
     "n": "La Verdad Noticias",
     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0JvMHlmaXRnbUJ3cEg4RFFLUkwtcV9FcUFJNEU0QWtYNDQxTEZFc1d1ajdmd292SmN2ZklBWkgxZW8yT3I3eUdlcEpZX0t0OHNhN0JRZEpCamtHNWdIdElKb1ctNUdhajJTdGIwS2xSZDRCbkkwNkZ5UFVYcm9sRUhn0gGKAUFVX3lxTFBVWHNaV2JPaWZpYkx0ajhUVm1kMVhBVWNPLTNuVWkxSFNBX21zQ3V6dU45MzVkX0VTQW0xSWRuLXdrMHRaeWJqZ05QejBCN0FKUlZrXzN2Ml9qWHoxZ1hTazY2c3BYNlNvNzhXX25Dc1JXMFJVelZZcC1PU1pIYXBJM3FvR3FkVjBHQQ?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjZLQ3NsX010cXc1YWJFS2ozWFVXS2dGSE52LWFvSlJxN2ZaRDYxSy1Xay03d3pYME1LT3N0TDhGdHFic1RKRzJqRDd5T0dEU1FSa01ZOHVBeUNsbl9CRUFqRktrZF9uc3ZySkZqaDk4S0RWdzNrWlgwaXcyaHRud1R3emc2X1dGa294NVVhRU9hMFpDQ2NlcTJpeVk1SVho?oc=5"
    }
   ],
   "creado": "2026-10-18T17:59:54Z",
@@ -124,6 +128,24 @@
   "creado": "2026-10-18T17:59:54Z",
   "metodo": "reglas",
   "id": "2026-10-18_cancun-4"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Hombre muere ahogado en un cenote de Puerto Aventuras, Playa del Carmen",
+  "p": "Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/18/hombre-muere-ahogado-cenote-puerto-aventuras-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-18T20:30:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_puerto-aventuras"
  },
  {
   "d": "2026-10-17",
