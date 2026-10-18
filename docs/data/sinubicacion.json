@@ -87,6 +87,14 @@
    {
     "n": "Diario CAMBIO 22",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjZLQ3NsX010cXc1YWJFS2ozWFVXS2dGSE52LWFvSlJxN2ZaRDYxSy1Xay03d3pYME1LT3N0TDhGdHFic1RKRzJqRDd5T0dEU1FSa01ZOHVBeUNsbl9CRUFqRktrZF9uc3ZySkZqaDk4S0RWdzNrWlgwaXcyaHRud1R3emc2X1dGa294NVVhRU9hMFpDQ2NlcTJpeVk1SVho?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlVyZ2JKLThBdTBLaXV2Wnc2aU5fRnIzQ0U5c1gxWTRCUzdDNU9jZVV6SEE5aUtveEEwejdUUFAyZGJFUjJ1N3BCdXQ3eE5MajZEWWZMRVpMT0NLb01DVWJYTzkzVEotZmdzOXRuTXMzUTNqalo1SjlKdWRyM055Rm1zUmF6SzdIMFlvTmliYTlSeEI4YzlUZHZaMDMyV1RHcmh0d3htYnloM2NhWG0tNUh2S3kwVUcyaXhmc2p3?oc=5"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFRlOUVSSHBGcVVaRXdFTEFfcWpjQl80ak5yYzhINzdaaGJJYlVJQmsxZGNmc01MLUJ2dEozMjRyOC1jdmpLLTRPcEtSeHJhQlVsWGRNNUZmaTN3N2xnVUh5N3dfalpTU2pOTWJxYzV3T0tNS0FFY2NzUnAzZ09JS0NhNWtIZE95QXFGVmxTaHNtWVJWS1o0TDlVS3Z5VGdnWGNoN3VodVlHdnlWTldrdVhOY1pJdkxFWlJDa0lJMlZWT2NjcXdrMC1EZkxOWWVvdkVrMmFjUVBkLWlWeUFGSDEzNWI?oc=5"
    }
   ],
   "creado": "2026-10-18T17:59:54Z",
@@ -146,6 +154,25 @@
   "creado": "2026-10-18T20:30:49Z",
   "metodo": "reglas",
   "id": "2026-10-18_puerto-aventuras"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Vuelca automóvil en la carretera Playa del Carmen-Tulum cerca de Paamul",
+  "p": "Carretera Playa del Carmen-Tulum cerca de Paamul",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/18/vuelca-automovil-carretera-playa-carmen-tulum-paamul.html"
+   }
+  ],
+  "creado": "2026-10-18T22:59:32Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen tulum cerca paamul",
+  "id": "2026-10-18_carretera-playa-del-carmen-tulum-cerca-de-paamul"
  },
  {
   "d": "2026-10-17",
@@ -350,6 +377,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzFWZ3Q5N1RPWUZJWGxLRjVSaWVSMnVBZVVkeTRzMnk2ckhUMG1HX1ZHUk1ZRVE5Z0d6M1hqbW1kMHcwR1lWcUdKb2JjRXh0dHpLNTRfV0VNNlFNZXNybGlYemx0TmdISDVHeXEtZ2JCbjVGUEhUa1pQWDFlYk5TVWY5NXJOSlZuczBibG1jbnYwcE1MUFhCM3A3elRWUXpjZmNtU0p1akNtdGVC?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWkF0enRIdmlCeXBkRnBySnRxcHYtbXdYbHBKVUo4TWFTVm11R205dVZoLVhINEFwc3dRNy1fVVRCREhoLXFqYU9kRE5jaVVKN0xHYm40eGstUFh3LVlBRF83bTByR0N2Q3YzU2c4a3BTM2FzcEtKTmJrNi1yVjdvb3ZzSzBSLU9LTFk1X1dDU1lsdktrQ1hfZWZnMDhYcUowTTVkOVNuT1g?oc=5"
    }
   ],
   "creado": "2026-10-18T05:44:04Z",
