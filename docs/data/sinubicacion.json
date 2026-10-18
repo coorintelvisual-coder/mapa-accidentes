@@ -2,6 +2,42 @@
  {
   "d": "2026-10-18",
   "h": "",
+  "ts": "2026-10-18T12:00:00-06:00",
+  "t": "Motociclista resultó lesionada tras arrollar a un perro en la vía rápida de Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0M3YjBFNWgydVRSQjBxemJNSjFUM1loRmstVmJmZUtZNV8xUUpaRFZnNVBZMTFBbmphaVlhUjViSk1fdk01WldLbVhJNDFlT2ZCdjQtQW9YSF93QzNaZGlmN2NKZklFQUlIOUUyZWVwT0szZTZqcXVsZXVsV3JROF9RVTgwUkVyWmxGWlR2NHIxWDMwQ3NYTTlpaGVrQnJYdXFoNTY2MnZuTkpjd19ZMzBROHVXcWF0T3VIVzhJWTd5RTBfSHfSAcsBQVVfeXFMTnQtQ1duelhRbmpPY0hSTHZhNTVsQzJDWnk5Y2Fxd0kwSDdQd28tOTBKZ1pBUUlVNk9aNGx1WWlaVFBhRjZnUVl6WU1KbXo3Und2aUY4ZkpGX0FMSFpwdDgwMzNQejNOU2Z6eC1hT0VWWHoyTWZQdXo3V0Y1ZENGeDc3clloamVlTy15eDhYUUtuYy1PckxQQ25GMlRBOEV5dzRSN1lsdmd1aEI4QlFjMldpOFBPMHZaU2xlcmJhRUhzNzBqLVo2R2hUN2M?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-06:00",
+  "t": "Aumenta a 3 los trabajadores muertos tras incendio en plataforma de Pemex en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Grupo Animal",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVRpRmtmMVA5cDdteGM3WVFpbjJtSFA2UVRVVHZ4MXpGSVVacTZick1YNFJFMDE1dnlJaXVSYW5jdk5YazZkNy1jeFc1NktpWV8xZWppdGxld25rQ3lVOW1MbVE3THpqV3k5R2VBLUc4YmNmSlB2eWtyMndSM2l5dm9rMnpwSEN5T285Vk1yQlhkVGo0YmloWXR5ODlmR05RS3ZjTg?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_campeche"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
   "ts": "2026-10-18T12:00:00-05:00",
   "t": "Descarga eléctrica manda a hombre al hospital",
   "p": "",
@@ -16,6 +52,78 @@
   "creado": "2026-10-18T14:29:34Z",
   "metodo": "reglas",
   "id": "2026-10-18_descarga-electrica-manda-a-hombre-al-hospital"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Videos ¿Lo sorprendieron en pleno romance? Hombre cae de un tercer piso en Cancún y termina hospitalizado",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Mi Diario",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaVhNZks3cUZvQ0NnTmFvdlNORTVuUHpUU3dybzJMbk84eEwzU0V1cGY5X3owWW45WXJzTDJ1djVOSHBUQjlxM19kSEhTVHI4aUtkdm5SdkZEM2RwSEFVY2VQQllmampJNmVwc05heUYzYVZHTFF4T3hDT1d1RnFpVVNtdlJxdDZKcjAyRWV0My1fWnZCWlI4WnNhU2pIQXVieWpyTTlrcm9kNHNpRzdXQ000bkRMeDl0UmppM0IzdWkzREM2YmVldWZoMUdWNVA1?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_cancun"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Accidente en Zona Hotelera de Cancún: auto casi cae a laguna Nichupté",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0JvMHlmaXRnbUJ3cEg4RFFLUkwtcV9FcUFJNEU0QWtYNDQxTEZFc1d1ajdmd292SmN2ZklBWkgxZW8yT3I3eUdlcEpZX0t0OHNhN0JRZEpCamtHNWdIdElKb1ctNUdhajJTdGIwS2xSZDRCbkkwNkZ5UFVYcm9sRUhn0gGKAUFVX3lxTFBVWHNaV2JPaWZpYkx0ajhUVm1kMVhBVWNPLTNuVWkxSFNBX21zQ3V6dU45MzVkX0VTQW0xSWRuLXdrMHRaeWJqZ05QejBCN0FKUlZrXzN2Ml9qWHoxZ1hTazY2c3BYNlNvNzhXX25Dc1JXMFJVelZZcC1PU1pIYXBJM3FvR3FkVjBHQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_cancun-2"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Camión cervecero choca contra poste y deja sin luz a vecinos de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLXV6Z1k1YzV2UWZRMnl1QzBjMUc0NXNBSm16M1MyVl9aZk53aW5CalNRd2lsQVJ6MTBQczVzcWxxYldabUpKM3Q4X3VQelNFSXJwSXFQYXpJcVQwS1B2VGVDdWtCa2R3ZzhPbzgteE1nV0E5WVNDNDVXSk9SV19tOUx30gGKAUFVX3lxTFBEWTd6a3RMRWdMejlqUDZrYkJpcWNuS2xoUmoyMGRrQVhaNDFEOUxsSGc3RThTOWVOVnlBSWY5eTUxQW1tLXE5bVpLTWxURmpZelRhSFczN3liZVdxdURPbTdjYTFhSzNqTHcxaUVfSElHR0Faam5oLXRMUU51MjlsR0lDUlhoYjJwZw?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_cancun-3"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Muere Jonathan Succar en Cancún: qué se sabe del accidente del hijo de Jean Succar Kuri",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Inmersión",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlc2QnFBQXF3aGtTN3BfQTlFei1oaFJ3LVBlUGV5V0M4cm56dXFNZFZsZHIzZF9PeW1QdndqbngwdnN0bDI0blo0MG1BbEpodGEyNUIwaDFSUVFIUHZSMXBUUjI5ZHZZbFY4bUstTU9DUjRiVzRXb0dpVVQzbThEUmc2RmlVV2R4aHI3T0RNRXJGc01Qd19TN2RyYjVFdXVfWlVjME05N0tZWDBvZnM4WG1lQ3FNWmlMNjVF0gHAAUFVX3lxTFBUUE5YSnkxcVU4SV9RQ0hTWXNEZXFxUGhHWmZvcnJLUTNHUTVHOVgtOE1TNTV6NTNXeDAyU1dYVnhUalVpS2tRSmt3SHM0Q09vdUJyLXVNSlZjbW41a1gxYVotVnd0MTFRUnJFaDIzWFU1cHRLLUNfZXl3aEhwT0Z4dF82b19XZ0NGNkNzNUVHOGtHYmxBdUFvRDhwbHd2RlphSTZlN3dDTGFtUXNNeTQ0T1lOTnVhQS1EZzhnSjViWQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_cancun-4"
  },
  {
   "d": "2026-10-17",
@@ -296,6 +404,10 @@
    {
     "n": "El Congresista",
     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUkNqaDEwdEduVzdSeUFZVHRjdGVIcWJaUXk4M3U0WnhtcXBJTWpfbjdQRnBNaXNmZENjcGg1cERpbTg4Y25qTWhKWEdQUVhwdFl1M2Nqa3k3bXJBSWJZelB6LTE4QU53Wm9HbS1mV3V3N0hNdEdpeFBrdGE0Zm9sa19HLUVIdWU2eWtRWUNHbkdjS213?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjF5ZVF6NDFfTTFRS1Z6WU5nT3AyQnRGUTlBNF9TVGFlRFdTYU9TVkJtTW42a2s4M2M0ekplS2VnZThDbWZ4MVRfMjlrR0RPUkU1dzdzU3pqX19tWkpNNlNHNHFXeDloNkdkaVNxVEdLeFlCZ0tmaGtSQkFBTU14TFV2bjc5emFLV0JOTFRQdzl4bDDSAZsBQVVfeXFMUC1vSVZudVQwY1kxZ0VIdTVrNW9PQmNNZXdQSF9pYXAzQU9KUk50b0tfbXB2VFVzQkNzbFJaenZlUWhiY1BiRW50NmtmZkk1WE9QS2IzZmVZdVlCcEkwR1p3RzljUVNrbGY2cWpZVzBXSE54UDZodW41b0lsbUlReXpRREw1UVJaT0lkX0pWN1JxUVA0ODFkMEhRaHM?oc=5"
    }
   ],
   "creado": "2026-10-17T17:00:49Z",

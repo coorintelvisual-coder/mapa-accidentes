@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Auto deportivo choca contra camioneta y termina casi dentro del manglar en el boulevard Kukulcán de Cancún",
+  "p": "Boulevard Kukulcán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/18/auto-deportivo-termina-manglar-chocar-camioneta-boulevard-kukulcan-cancun.html"
+   }
+  ],
+  "creado": "2026-10-18T17:59:54Z",
+  "metodo": "reglas",
+  "clave_lugar": "boulevard kukulcan",
+  "id": "2026-10-18_boulevard-kukulcan-cancun",
+  "lat": 21.136122,
+  "lon": -86.764841,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-17",
   "h": "",
   "ts": "2026-10-17T12:00:00-06:00",
