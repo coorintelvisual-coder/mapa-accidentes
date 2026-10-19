@@ -274,6 +274,64 @@
   "id": "2026-10-18_felipe-carrillo-puerto"
  },
  {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Incendio de autobús en la avenida Tulum de Cancún frente al Teatro de la Ciudad",
+  "p": "Avenida Tulum de Cancún frente al Teatro",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2ZfM21BeDB5QjRLY2pNd1VEUHppd2cyWkxqN0E5eGQxT0JqMGFUaDJpTWR4RENOUTRuUDlkaThNNDFjUEtKNFYxVExLcmpOamFOU1JQNjlFVUxlNUljcmFYc3J2eTlXd2N6Y29mUzNCQzU1a0IwTkZMOExKU01vWg?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzJld283NW1hTHZEMjJwOWt6SERiYWI2ZXREMzM4cEVTQVpxd1RoSkVhUzF2YkhPbVZFMGZua0t2WTIyZFRkU0hYbzRLTlVfMUE4amVvNDRFeldXeTltbWM5cVViMHBYRUotQlhVdmJhaDFwSW1jWnlaOS1mYVlkQmowMkVSbnBMYWtKYlNaN1U5WVduUTBjQmYwUHFZbWFHMHZ3am9NeWd2dHdZdWwyMElHSlNZWkRT0gG-AUFVX3lxTE04WUQxVk12NXppMng4bGFIekF6VlNFcURKVXlhaGwxeXoyN0pHbU5IZWw0Y0Z2TktSUnZwb0dJU3lWVFN3S0pGMWJPWjRNdV90ODFnMFR6dl9RZnkzaThFZnhLMzZXVDk5S2c0M1pET2tUbUdSUmkwT2t0V3psakFZZlNwZHZjRFNKeEtVWERzdUVndWQ2MzE0LUFxcGVwdGRRaE00NDZXMkFRWDBUay1RTkRSaW93Y2F0TGpydkE?oc=5"
+   },
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEpvQlFsQWV6U1FvZWlVeWMzTHNTY2wxcWY5VTBnLWhrUVNieDR2aFBYVVUtcDVGeGV2TlBJYUtCVXJUQW84bDZCQ2N5ZkRETWJwb2M5enU2QUp5UnV0Wm9fUExkX0ZiTXRYZFpkNU55Q3VWdXFETG1FTWJ6VWE1U21IcHNpWmJYWmdvLXdxMA?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWW52WDZlZkFaWGhmRHJpU29QU1BrRk9tQjlHeWlKT1BPRzhuU2U2eFhqQ3hXd1Y1SjhJeGxTSVlaYnJualBTV2Z0SVFnYjVIYlNmdmpxNUk1X1FOaGRweXZpRVd0Q2tGY1F4Y2g0Y1ZNR0w1a1FlWFdWLTY3MGdOaF9oWktRODBBRWhDQXVtV19fZ0lsdnc?oc=5"
+   },
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNWdyWXI2VXM3NXlpenBpdGZWUC1KTUFlVDdsNXJwQjVHb3RRaW1SeVFIYnI1akhlSWU4RzhGS0RlR19YWDNPNFlVRFhvc0ZTMkRBOGJ6QXd0NUNNNGk4ZWM4Q3NxNkdRdnI0anBkeWo2elhaT21qUHA0UGJ1TF9XS3NYWldRQTFyTTdmbkllVUZuYU1Eb0ZYYkpIWkwwdUU2RmRpTkZqekxtQjd00gGsAUFVX3lxTFA1Z3JZcjZVczc1eWl6cGl0ZlZQLUpNQWVUN2w1cnBCNUdvdFFpbVJ5UUhicjVqSGVJZThHOEZLRGVHX1hYM080WVVEWG9zRlMyREE4YnpBd3Q1Q000aThlYzhDc3E2R1F2cjRqcGR5ajZ6WFpPbWpQcDRQYnVMX1dLc1haV1FBMXJNN2ZuSWVVRm5hTURvRlhiSkhaTDB1RTZGZGlORmp6TG1CN3Q?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGdIV0RXemFBSkctLUY1VU95WGROVDVNRFJZZzVnNS14ZGFJcUNHUDd4YlBMM2VVQUVOY1BrNFpjbnUzemR1OExEeUlaM0lseW02dnhHZ3R2Mk1hek40ZG5JVVNhUFExOVA3MzNva1FHNThCMWVkMklodjFnREhSU2w0bXdZTE1tSkhGaXQ2UjU?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T06:03:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "tulum cancun frente al teatro",
+  "id": "2026-10-18_avenida-tulum-de-cancun-frente-al-teatro"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Pareja de la tercera edad derrapa en motocicleta sobre la avenida Álvaro Obregón",
+  "p": "Avenida Álvaro Obregón",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVd4UlBuMjNaUDZkMWtYb3ZuNXVrbVRhTjh2d1dDY2VDZC1mUGtGMTFSa3FMNUVIREctR3NRbEI5M0hqYV9YZEd3OUU1SjRnRmw3Nm5VaGVVQ0dqRlNkYWdqVktEbzhiVUpMa1MxZGlENEtPaWx5d1BoN1JBazRhSFFvWmhEVFBiRDlqQWRxS0d5Ymx3UUZEQjRXVWVncnBTMjVFTTRtS2xJaWvSAbMBQVVfeXFMUGxGUHZubG1XN2NYaHRTdmpQVUtHTkUzdXJyNTk0YmI5T3hSeWE3bEJmZk9Lai0wdXNnSkJVX3lUX3RTTWt4bnA2d0Yxdld5dk5yeERncjRKcHRiRGZCUUF3dmE0enpmb1drc0xCOWdRMEJEQ2xjYmZMbmw1WnF1X1ZWX0VvVC1VTHFVRGdfZDRqelFqVmFhZW1fVjVkVlRMRFVvLXRmNGhuOWltVnE4RU1UUU0?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T06:03:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "alvaro obregon",
+  "id": "2026-10-18_avenida-alvaro-obregon"
+ },
+ {
   "d": "2026-10-17",
   "h": "",
   "ts": "2026-10-17T12:00:00-06:00",
