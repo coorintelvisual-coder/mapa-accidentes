@@ -1,5 +1,42 @@
 [
  {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Las salidas en el Periférico y la avenida Jacinto Canek son \"súper peligrosas\" para ciclistas",
+  "p": "Periférico",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa19DZzlVb3dKNkZhQUwxeHIxdElIeG53eWdBem5ieWdGQ3VXRjBWbkNmeUVpUlVXY1g0RkdvdGZDVUozU3JocEdMWE44bkJfQkFtZ2xzUi1WY0g3Q2Rfc2VXZV8wenB5eEU0cFZ4cTdSNnFFLXYyR1BtajhaczJUTVNtVXo1TXRad2h2d0E4TTJwaXlJWFVzYWZoalVicHRjSUlNanh1U2cwWWNfdVRiczFveVZGM2czMWVtNHJLMXRjSF9PU1lRVlBuY2YzdXJGUWk3cEpBUTI?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T12:57:28Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-19_periferico"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Incendio devora autobús urbano",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WnNsbVowZDctVE9MOU9BM3A1YzdkMklaMUNLY0szSjZOYl9zR1NwZmNvX201U2pDcjhaY1dQQ2lxVE1jc01kVmJ6dXJmaDlUTG1QUTh2SXVTNS12d0dILXpoV2dqUDl10gFwQVVfeXFMTTd1TUk4dDhxY3hBX2lfbndyYTFLdGdYZGVHUVp6cmdYeUJ1amoxLXdQM3pFalp3NndvWEVUTkUzTVJ6MGNoRGJ5Q05tY1RyYUlyTVFCcmwzeEVoaFBEd05yNm91R2ZUOGRLWVNPVmxuZQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T12:57:28Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_incendio-devora-autobus-urbano"
+ },
+ {
   "d": "2026-10-18",
   "h": "",
   "ts": "2026-10-18T12:00:00-06:00",
@@ -150,6 +187,10 @@
    {
     "n": "TV Azteca Quintana Roo",
     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVFRlOUVSSHBGcVVaRXdFTEFfcWpjQl80ak5yYzhINzdaaGJJYlVJQmsxZGNmc01MLUJ2dEozMjRyOC1jdmpLLTRPcEtSeHJhQlVsWGRNNUZmaTN3N2xnVUh5N3dfalpTU2pOTWJxYzV3T0tNS0FFY2NzUnAzZ09JS0NhNWtIZE95QXFGVmxTaHNtWVJWS1o0TDlVS3Z5VGdnWGNoN3VodVlHdnlWTldrdVhOY1pJdkxFWlJDa0lJMlZWT2NjcXdrMC1EZkxOWWVvdkVrMmFjUVBkLWlWeUFGSDEzNWI?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWZBYUM3MTRHZUhMZ2pJTWlYaGxnZ29yMlE5MXhQcGtHcEV5Mm8wSXBXbWVOT1lxa2RCRGF1cUpZVjNMZ05Hcmx2Yi1Ba25zXzlnLUNZNXdWSFRuV0hRcnZTc01PRmMydXhFZGktR3dSbzdRYTNoYmxlSGZROGFCV1dHcDc4Xy1uUDAzdG1mYmNacTBjM18yUXdMVDFzSThKV0Q5VzEyOC1xbjgx?oc=5"
    }
   ],
   "creado": "2026-10-18T17:59:54Z",
