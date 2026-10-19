@@ -21,6 +21,123 @@
  {
   "d": "2026-10-19",
   "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Adulto mayor pierde la vida luego de ser atropellado por un autobús en Calkiní",
+  "p": "Calkiní",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/19/adulto-pierde-vida-atropellado-autobus-calkini.html"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_calkini"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Se registra un accidente en la carretera Valladolid - Temozón con saldo de dos personas lesionadas",
+  "p": "Carretera Valladolid - Temozón",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTHdXbTgwZ1Zic2pBNV9sYlByLXQ4cHRqVGFmbjBFandqV2RIVkFyWE8tcFhlYmJ6TmlKenk0amZEZjJpUmhFVTk4M3lUeUxEVFJjTjBaNV94VWpWTVJIbmg4UGh4Rng3YkpsQ2l4OWp4OVYzMnJnbk9fOEptRXNNMWttUmpBTV9ZM0x5SnZpcTZDYlJaa1JZQW1EcVdlSHhkT19ERDdGZzd2bFFSSm1QUUY3OHJpdzRLd051a2o0cU1SaWt0c1VsclVvSlUyd0ZRSFNid0w3SGhKT2s2bjRLOQ?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2tZdjFnYlZnS0gtNkR4Z0JESFZESUxaOFJkVHJYeVU4Q2NLQzU4dVpHQm85ZVI1TXVRTWZUUHRId0NGVFRmRGVSc2lLYXlCdTlTRTVuODRVXzluQVFiNnQ5OUczczVEVjl2MnJrNW9qMDNOdzNUbHFmZzdzWnlGMzI2SUZ3VElucF84d2k5N3VrdTFQeXJ4dE5HWFJpV2xJRkE?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNT3Zra2lRbW1jbm1jVUhZUzEzeFpfNlNpUWRkSkJxTk9ZcjBiX3dCSUdVUnRFVGRBNVlQX1pGQURsS2ttbnBZLTNoT3NUWVNJT2ZzZjNaYlhNUWloTnpXNnFzMFNubERtdnZMMGZVZDZCT1RUVVRmdm1iTGR6blJBY2VTaktPY1RJN2dpNGJZVExVNlpkWmM0MVpVa2ZqcUlZc0VIMGpfckdpbEhRenlTMDF2MTZPOUtmd0VkTHpjWGN3a18wNFYyeVFZSlBDVF9obWFDZ00tZGRXME5yTkExZ1VEY1RuZUVBUjRQaklTX2VlM1ZC?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "valladolid temozon",
+  "id": "2026-10-19_carretera-valladolid-temozon"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Avenida Costera del Golfo en Campeche será sometida a una auditoría vial para prevenir accidentes",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnM2ckktMnd2SXE2WklkbXhacjlvTnFqZXFYMGNQYm5KUDhCRVlTeGNXUXNXdUVEVzBuUnduODVWMmw0eWd1MkpQQXFKZVlIMm56UnZKcUExNk83UTRBU2RqSmJzN1pTcG9qRXFtWlY0NlpoTlBYZXBCbUlqOE05QVN4UEQxRUxTZGg4STBldU9iU2dYTmtPUHdpNGxzajNWQlM3MXJNaENLRjZ5UFJjRERrT3VVY05CZzJuQUlCaTDSAcYBQVVfeXFMT1NZWmN2eXVNU3UwRnJFZFlOdHZOZmU5UDRvT3Z5NVlZRGN4M2R6WkRfR0s5V25abFZRR3BGbjd5NTFVajdqazhfLUQ0MDFIX3phQk1CUHJXVVltNkpTUldwUDJEbzNYZUtvc2swUTJYaDRtM1ZuV1ZtQ2tSWlhOZEExSGNyaHFlbUN5c0llcUFjd1V4OEJUaldsclhvVmNuZVpvaXp3cEg1UktWUVRDRFl2bXFlcmR4ZHg1bmxLc1VOYzZ1MDJn?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_campeche"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Automovilista Arrolla a Pareja en Moto y Huye Tras Choque en Valladolid",
+  "p": "Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkRwZzg0d3pzWi1CMHpXTzk5UFZnSnJoTEtHRWVadC1wWUl3d0pBc201c0J4dHpvZ1d4NjhRYmM5Tng5T1NHbm14emZzbGtFS2Rxc3M5ektGX1N2UTVIV0hDQV82S2NiY3NBUV9JZjlPaGN2clEtc0VVUmJURUxXa0VpT3J1d1BuTHlVYlZJZVVYUGpFY1FFMEJsc0xFSHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_valladolid"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Ciclista Ignora Alto y Choca Contra Motociclista en Calles de Tizimín, Yucatán",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcG40Z2lVa0tPNm1TX3VxTWRIRFRLd01IYS1vdHpSeHJfbExvaUg5ZEVSWkF1cVBiRHNjTzFUX0pHanlVaHFvY1R2X0ZYRmYxaGlEQVY0OEkxQk41RjR4Q25IblA5TVpqQlhWamp1SlRtOWZRQW5DVHNDRkZ0VFdjeVpsYnl4NFZYd2xpY2MyWWhlQmpkbFFqT3FCU0pwYUFLc3ZWZ2NmSQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_tizimin"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Bache Provoca Accidente de Motociclista en Tizimín; Sufre Fractura en la Pierna",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYnBXSUd0T05wWVJDV3ZsRXJDX2x3Y3cxOGtSWmxPTmNkSnhia0M4d2UtQlk3dy1fcURrNGVzLWtES3JCOXhWbF9uOVpHUmc0ZWpjVzhzMDJXMGtVcktBemt0WnpDYm0xTE5mR1lNZjJaczRIWFNJRE9iN04wanJ6UFJDTUZVdTRiOS1iZ3dJMXdEQWRFUDMxM09sZDNvd1l6dzZQZ0JjLWY?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_tizimin-2"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
   "ts": "2026-10-19T12:00:00-05:00",
   "t": "Incendio devora autobús urbano",
   "p": "",
@@ -30,11 +147,92 @@
    {
     "n": "Periódico Sol Quintana Roo",
     "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81WnNsbVowZDctVE9MOU9BM3A1YzdkMklaMUNLY0szSjZOYl9zR1NwZmNvX201U2pDcjhaY1dQQ2lxVE1jc01kVmJ6dXJmaDlUTG1QUTh2SXVTNS12d0dILXpoV2dqUDl10gFwQVVfeXFMTTd1TUk4dDhxY3hBX2lfbndyYTFLdGdYZGVHUVp6cmdYeUJ1amoxLXdQM3pFalp3NndvWEVUTkUzTVJ6MGNoRGJ5Q05tY1RyYUlyTVFCcmwzeEVoaFBEd05yNm91R2ZUOGRLWVNPVmxuZQ?oc=5"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFBqM3o3OFM2MHBzWnFWRFlKTTZJdEYyc2hEbVBGeWpTenZpRFE1cFpCYmh2QkVIaXVpb0NRRnBQWk4wTjRvMW1qeERfOF82N3hqWUFkXzRsd0k4RHFkdk9qMEFlUGFDVG1yUEVDR3ZtWVpYYXdybm5OcHpzYkI4SlY0SnlJaXRiRjZNbGtaaW1Td0V2aHR2OF9IREdWQnJTOHlHYVBuWkE?oc=5"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHVyeUtyQ3dzQlE4V0RRdURubVA5cnNWNFo2cFFBOF9ZVGdQVlAwSENTeElqbndYM18tZERPSkN6NFhPRU5Mbkl5VDZZX29qaWpGYXRDNDJ2TUMwS1JRcGI2UDZaRUp2VVVWVUZUTlhBWWNRVUtiVDBRSVAwRjJHODFWV3Ixd1czRTV3cS1KcDlVX0FwN2lQUDVzNmTSAaIBQVVfeXFMTlI0Yk5nSC13RnFiRDU2eFlPclhFNTl2RjhIMEM4LXU2WFpTa1VEdFd5OVpFcWJHMzYxWFo4a0FFWnQzQi10R3F2TVlycXJzOGxsUnRPRXQ3OC1iT3EtRmk4bnVIU25RcVlYMjNRVmQ2RGlNUHlaVVJRazBMcy1tMHdqUWtYWFdqNmwtMTdCNU5NaVRyeFllOTBESm5XLS01b2ln?oc=5"
    }
   ],
   "creado": "2026-10-19T12:57:28Z",
   "metodo": "reglas",
   "id": "2026-10-19_incendio-devora-autobus-urbano"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Dos autos terminan fuera de la carretera 180: una persona quedó atrapada",
+  "p": "Carretera 180, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/sincategoria/dos-autos-terminan-fuera-de-la-carretera-180-una-persona-quedo-atrapada/"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "180",
+  "id": "2026-10-19_carretera-180-cancun"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Taxi se estrella contra base de concreto en Cancún; reportan cuatro lesionados",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkF0Sy04U0lUWVZLQ1N0QTYtWks3QzEtb2NRR0s1RnRhZ0dTMW5wclNDSzhtVmFBMExheDk4aEVfNFNMSDIxQjBmeU1MZnFJZVlHbGNUaTZqYjhlRjNSTHZ0eTY4VDJyZUlYcEZpTVkyWlpMM2Q5b0xvR3lla0Jjbi1rZTg2UTJfMVFlZWo1anNpUEFURkxaaGJrR0tmRjRsRWpRQg?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_cancun"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Rodando Cancún reúne a 80 ciclistas contra el cáncer de mama",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWHY2ZURJa0lxZWtuVWQxTkNBM0lMWHpmRzRFRnQ4VkVmOXZ1WThYUkNSZUdOSmtQYlRYenVacmRMNUNwOHdMU0tCOUgtc01pNE5OSHBlejFkRE1PNFNxblgzNHk2SGl4TzluaWQ2TVFQc3FxSTVCVktKTVJlZXBJWWtMT0VwREJ6Y29iOF9iNHM4dzNsQjJtNmQ5YXNjNmdvYkdZRUFtZ2xCODg?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_cancun-2"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Autobús se incendia en Cancún; pasajeros bajan de emergencia",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzJqVWdKMEJJWDFiazkyb2FvcEhRWkk4b1d1RmhyYlExN3Q4VGtVR0ktcHdidTh3eEpCaDEwa2ZKQXVHREQ1VVgwQnAybHp1NmFTckRxSFRzZV9oLWc5MC1VMkVLLUxmbFBiY0hLd25rbExZaW1uT2R2ME1neDd4MU530gGKAUFVX3lxTE5ZWWs2QTZTVHVwZk1UaDJTZmNHa3VCeHE5dmpMakdOdE4wUzd4NU9GNlFGREc2RFVqZ2VZZ3BMSDhUR1NvLUY5eUEySXk5TWxTN0doRjFhZUhVNThlNXQ4Y2pYbWFBMDI0NUhLQ1dhc2RhS3RLOEhUN24zRUF3MUY4TmZ6QmpkVkk4UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T19:14:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_cancun-3"
  },
  {
   "d": "2026-10-18",
