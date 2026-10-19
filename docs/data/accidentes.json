@@ -1,5 +1,74 @@
 [
  {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Choque por alcance termina en carambola de cuatro camionetas en Ciudad del Carmen",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/19/choque-alcance-termina-carambola-camionetas-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-19T23:32:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-10-19_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Choque entre una motocicleta y un auto dejó dos lesionados en la avenida Puerto Juárez de Cancún",
+  "p": "Avenida Puerto Juárez, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/19/choque-motocicleta-auto-deja-lesionados-cancun.html"
+   }
+  ],
+  "creado": "2026-10-19T23:32:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "puerto juarez",
+  "id": "2026-10-19_avenida-puerto-juarez-cancun",
+  "lat": 21.176816,
+  "lon": -86.842766,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Flamazo en local de pollos asados provocó pánico en Playa del Carmen",
+  "p": "Calle 68, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/19/flamazo-local-pollos-asados-provoca-panico-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-19T23:32:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "68",
+  "id": "2026-10-19_calle-68-playa-del-carmen",
+  "lat": 20.669512,
+  "lon": -87.082553,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-18",
   "h": "",
   "ts": "2026-10-18T12:00:00-05:00",
