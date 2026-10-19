@@ -38,6 +38,61 @@
  {
   "d": "2026-10-18",
   "h": "",
+  "ts": "2026-10-18T12:00:00-06:00",
+  "t": "Muerte del hermano de AMLO: investigación revela contradictorias versiones del accidente",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeEdXWHB5RU43M3RjQ3Vmcm5SekRGLTl3X01TY2VsZ29GNTR6QmhvQUxqRmlpa3VZRjNFOVJRSmg2cXJ0OHlUUklwS0dYdVVqR3k2WXJXanJVZXdBVzdXbnQtV1dpQmlWQzc5ZW8yR0hVTVNZN21iaWtVam9QdTB2OTFhR3ZrTmI4SmMzZjBIME42bXdYNC1WWXBPc2FIWTJhamQtT3M1ZWVSYll3ZVAzUGI5MXN2TS1INDFqRG1pQWFPVGhKdmwtdVh5QkN5TnhzZzFv?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T01:04:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_muerte-del-hermano-de-amlo-investigacion-revela"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-06:00",
+  "t": "Automóvil se incendia tras salida de camino en la carretera SabancuyChampotón",
+  "p": "Carretera Sabancuy–Champotón",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0tyZzZaOUNldXlUVWZ6R29aMGg3bTRsOGFjbzhnM0pDYjRTdUJxR0VDWUVSN29DSkpKa21KRnJseVpZNWp6MXpqbTNfWmdBSlkyUXRJUlBDS1IzNEpVaUwza0VFNHpSYlpVdFp6VnpJNFpTNE80aUJPRHdwYUdZZG9LYi05RVRMQ0d0VEtqZnctTkZ2akVDUHVGS0k3RnpiazZaMUV1dXY1MHFyd2VCQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T01:04:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "sabancuy champoton",
+  "id": "2026-10-18_carretera-sabancuy-champoton"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-06:00",
+  "t": "Abuelita choca seis autos estacionados y una casa en Pacabtún, así ocurrió",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ015OGRoX0RrdVBqYlJXejJsU1Z2US1pUldfMEFlLWJLMlpLU3N2bEpudG9Ecm1XYVQ3TVkwTmhlakgzWlhPbGJUcGpXUXpFekQ4VkFDZGttaGFkdEtmZ1RxTTB1VjZOYUhjRWtUdjBCQTA2SmxOMm1ldHB3YWpEZWdaUW5CS2tqam1QV2NjVGlJUXJIa3c2aU5xTXhlX1JVX0hkczBnY1VNMkc5dWd2bktR?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T01:04:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_abuelita-choca-seis-autos-estacionados-y-una-cas"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
   "ts": "2026-10-18T12:00:00-05:00",
   "t": "Descarga eléctrica manda a hombre al hospital",
   "p": "",
@@ -173,6 +228,50 @@
   "metodo": "reglas",
   "clave_lugar": "playa carmen tulum cerca paamul",
   "id": "2026-10-18_carretera-playa-del-carmen-tulum-cerca-de-paamul"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Volcadura en Buenavista deja cinco lesionados, entre ellos un menor de 4 años",
+  "p": "Carretera, Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/18/volcadura-buenavista-deja-lesionados-menor-anos.html"
+   }
+  ],
+  "creado": "2026-10-19T01:04:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_carretera-tulum"
+ },
+ {
+  "d": "2026-10-18",
+  "h": "",
+  "ts": "2026-10-18T12:00:00-05:00",
+  "t": "Muere conductor tras sentirse mal y volcar su vehículo en Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Sol de México",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEZtWHRMa25qTHktb3M0S1pKWWRxazMxRzJCUEgycmdHc3gtQkxPUEVFQmk1bGRDVEVrY0VHcEE5YzJ2WDdsQ1BpaGRxdVdlb21xN0FYUk1TOUMwNEt0TGRBS21qTGNydDIwVEhRVFZ3RnBHMU1Td25KbklpWlNKNVdNbjhUREpCVUdhM0NGNUxaNXNrY2ZKQTkyMlZSNlp3Y3AtbF9yZG43cnA2aXRPM0NHZ2RLOG9xV3V5bXRCNjNqR0RZTUxTbDBMY28xeWwyTEE?oc=5"
+   },
+   {
+    "n": "Howl.link",
+    "u": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBUU3F0Z2RTMWttZUJvbnU5M3IwSVY4MGZsM0xjOWJLdWZoOW9OWHk2dkJQNmd0VDkweE9r?oc=5"
+   },
+   {
+    "n": "AlertaQro",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdHM1WWJheDBZaGliMEFsU0NkeldfbXdJRXBKZHh3VThWMk84cmpKdjBVN0txa3pBOXY2Q0hDemxEU1I3U0EzYW0yUWRZQnRTckZhOEhUNFFOaHpZZ3oxMnlHbnI3eHdDRE01SGlIclVUYlJfWmY1a3c0YzUzMDdhVjBMY3FuYUJnbnlpUVZKVF9KNW1ILW9MMlhJSUFpWUdtSm9ZMmEwRTZkQmNmaG5GcndjN09RaWRWOVlJNUlXRlhSbENXZFdRTnE4Qk8?oc=5"
+   }
+  ],
+  "creado": "2026-10-19T01:04:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-18_felipe-carrillo-puerto"
  },
  {
   "d": "2026-10-17",
