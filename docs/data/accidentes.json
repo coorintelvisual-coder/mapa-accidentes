@@ -1,5 +1,74 @@
 [
  {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Tráiler choca contra pipa en el malecón de Champotón y provoca derrame de químicos",
+  "p": "Avenida Carlos Sansores, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/trailer-choca-pipa-malecon-champoton-provoca-derrame-quimicos.html"
+   }
+  ],
+  "creado": "2026-10-20T23:07:19Z",
+  "metodo": "reglas",
+  "clave_lugar": "carlos sansores",
+  "id": "2026-10-20_avenida-carlos-sansores-champoton",
+  "lat": 19.336286,
+  "lon": -90.735937,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Bomberos atienden dos reportes de incendio en Cancún",
+  "p": "Región 69, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/bomberos-atienden-reportes-incendio-cancun.html"
+   }
+  ],
+  "creado": "2026-10-20T23:07:19Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 69",
+  "id": "2026-10-20_region-69-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "fatal"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Se incendia restaurante Los Tarascos en la avenida Huayacán de Cancún",
+  "p": "Avenida Huayacán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazYwQmY4Q2xTMVdRbzhiOW5YTU5RQWdZR1NLNGhIZnBrUkFJZXhGb0VGb3BmTHJsUjlfbTZabHVFeDU4cmxXOVZVcnpyQ29iYUladGotMkZWcnNvS3NtU0N4M2V3OFFZT0tEajU3N0hfN2JZMklKX0U3OGJwZXZ6Ync3SjZWX3ptejFNNjlOb2U5YndSMHlwSkpTV2wzXzQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T23:07:19Z",
+  "metodo": "reglas",
+  "clave_lugar": "huayacan",
+  "id": "2026-10-20_avenida-huayacan-cancun",
+  "lat": 21.11475,
+  "lon": -86.849434,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-19",
   "h": "",
   "ts": "2026-10-19T12:00:00-06:00",

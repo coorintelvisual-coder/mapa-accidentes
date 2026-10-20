@@ -94,5 +94,17 @@
  "n|colonia esperanza, campeche|campeche": null,
  "n|avenida policarpo echanove, mérida|yucatán": null,
  "n|avenida de playa del carmen | video, playa del carmen|quintana roo": null,
- "n|calle 14 del barrio de san román, campeche|campeche": null
+ "n|calle 14 del barrio de san román, campeche|campeche": null,
+ "n|avenida carlos sansores, champotón|campeche": [
+  19.336286,
+  -90.735937
+ ],
+ "n|región 69, cancún|quintana roo": [
+  21.149141,
+  -86.881346
+ ],
+ "n|avenida huayacán, cancún|quintana roo": [
+  21.11475,
+  -86.849434
+ ]
 }
