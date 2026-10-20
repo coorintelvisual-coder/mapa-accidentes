@@ -1,5 +1,42 @@
 [
  {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Atropellan a peatón y camioneta choca contra poste en el Periférico",
+  "p": "Periférico Sol Yucatán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcDExeUV0alBnMjBwTTVHQXBodzdmOThmeVR5MU5XMkhqTF80VHpQbjZsUndrbGY2YTFuQkM1Qk02R01rSUd0T3JlbUQwOXVCSUNYMWhVejNVR0pHQU9YcXdBLTJtQTdkMUFwTHMxOUVtR3JTLWNLMmdueHdZV0Z5VG9sTTA5MFpHeXE4YmpoaGJaeHll?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T14:56:36Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico sol yucatan",
+  "id": "2026-10-20_periferico-sol-yucatan"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "La Policía Local de Mérida abre expedientes por atropellos, accidentes y lesiones",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Extremadura 7Dias",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlFFTTEtYVd5aGtiUXBYUXlGWU15Z3c2UlVFb3B4OFhVOWhxR25YenpzNmN6c1B2N0lkQzlRMUcyeHYxdUdOUUdzQl9Gb3NPYkRyZkhPa2o2WjhwRndwdFdjNXBNMkxxaWhHT0dTZWU3emxIcmo0SVhLZmt5NzBUQkhyTEpXUUF0NkYxY1JIaXhQTGJTVzVaaXRHdlZSRnoySmduQk42MmRwNjhyRlVSME1JUEZLNTNsYkZRRWVITnBqZw?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T14:56:36Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_merida"
+ },
+ {
   "d": "2026-10-19",
   "h": "",
   "ts": "2026-10-19T12:00:00-06:00",
@@ -170,6 +207,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTl9DRzl3YWhqdVY3Qk0tNkxZdEM2b0h2R3FjZENmUmk2WGdBLU5WRVUxY0hibVN0bWNkSjJkdTcwb3pCYmRmQ3ViZmtJTnprU0Y5Z2pmV2xESjNOMld0cHpmMGxYaDE3ZHJQR3lZZTU3Q0RTNEpYb0FhamJIWUU1QkFRZE1QLUNCdHBSM3ZJUVZieU9oYWk5ejlMdFZTUWxYckZzVGUyQlNibDUybFlncUN6NklIcDg?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwUnliY3pOR1lMcERkMDh4aVA4VDVYUFhtci14d3JIdXZfZXBDYi1BdlluNVdQQlpyUERRV1lBVjJVNUk5eHpjSjJDX2M0ZW1TRW9lX0t6eUR2MzRWZFIzYmptbXFYZw?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -287,6 +328,62 @@
    {
     "n": "XEVA",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUFphV2VuU040Mk9JbGNFNGl5ak9MNm1TUDhWV3pReTVXTGJjQ1N2TWRmZ25xVGhyWThXQ09MQ2NPME5GQ2RwazZENTU0N1JLcVoxc0c3ckl0ZzU0c3JPTXhOYWJ0LTBwZjN2WWMzVUNwOE96ZFE5N24yUVVyRUNndWdLQ0FKMmJha3h0by0zOUVHcmlHdGtJWWVsNS1ueEtqc1ZhY1RkeWJqNW8zbDd4R3N4b2t4Zmh5?oc=5"
+   },
+   {
+    "n": "gamavision.com",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWJSTHMyYVVUb18xTjIxQl9KT1VrR3R5YUU0R044TlZrakdFdWxCXzc1NnEzOEVfZmItYTVLeDlKQ1VGdW9IaThXX0NqT3UzbEpDU19VSzRrRFRHY2lXUDYzWUF4RFhkaVQ1aEF2UGFJRTk3b2R4LXJNdV9oRFd2eUdZTUtBVzdXYU9fQ19WLWlxWExMNnpUQnBmbUJicmc?oc=5"
+   },
+   {
+    "n": "Meganoticias.mx",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1Ayd1c3NlVRWTdIM055TVpyeVlhVXlGbXlscURoVUZZaC1rWkwxMzRBTU1hY09zVVMwV21oZThOSElWZVB3SnJPU08tMjZienBXZzUtWndSVUFnQjJWUW1FZ3czbnJpdmpQbTI2RXdFNkhyVkhVZ0ZYc3RCTklTZGtIRS0yUkJwUWxHN3JkRE1xeVJ6Wnc?oc=5"
+   },
+   {
+    "n": "Sinaloahoy",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMElXREVUd1AtSmVLZ2xjZXVVSUVTb2FNZWV5RkJSTHFjc2EtaFhGaDZLNFlGbWZSMzRzTGlHTnRkWGozV1VwYW5EY1lreW5pcEFnNUFEMDQxc2dLUldlQVNEWUotUFYzRjdCczBacXltb05KOEdpTkV6eUNzU2sxUGpNcUU0eEdXb21HOWpMbHNjU295MFRudVdkSE1ZU3EwbEExLWhDYURhLW8xd0EwWkZzSFN3TmFBS2w4T0FmNnY?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc09WZTBXZWxMMnNmRDFqanpnNE1kZFRfZjNUQ0h4dnVZamxpV3RYMG9oUVlSZlJQV3llbWJfS0NWaHJJaUt0NmNSSVZ4M21LXzc5dWZzLThnYklxR1dQVG5yRmFNMUQwS3BKdHNUa2Jrc29zSGk0Tl9QWHpwRkVyUllJbmJfZmROUC1KMWlib0JjRkxRb25VRnVLVGRaVk1ZS2V6azZOTzgxZDJEZ3BZNFU5UEVhU2ZZYkRsYkEydTRsN1o2b3BfQzJXa2RpX2JLVnlj?oc=5"
+   },
+   {
+    "n": "Sin Embargo",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdFNJS2dUeXE1NHBqajByMzNua294YVJLaWtFck1CMC1pTWFDcTM2bERjV1pvYmdBOXctR3V2b3FsMFRnR1BsdDZwRVAzUUNlT0Q2b21IYjRiUG8zTk9DZkI3VktWWktZbDhBd2I4Z0pzWWxXS1NvaG1GdXpIRGItb3JlVEZsUG9EOGk5LWNfdnptWnNzbkxrdWE1bEU2UGplcnZqdWdXQTQybFZkNGZUdmNpejZpUQ?oc=5"
+   },
+   {
+    "n": "Sin Fronteras Agencias",
+    "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aeDlIdXBaakZaYWZTYlQzNUJVM3RZZVBCMkg1WjFyUThLclU3U2trODBwNTlFN1BVZ0ZCQ3RzRHhDMlFFbmhOTG1GRWx6WUtsMW9KZ0o1N2k?oc=5"
+   },
+   {
+    "n": "El Universal",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON25Yek1haG4yOUtsZldRRkFtaXloeHY2TldvQnZHM2pINVpCc1FJeVU4T2dPT2ZYTUJycHpoMlBoZHBFUzJnaWdNN3NZUmk1ODU0QTh0T1hzNXlHZUEyTkQ5QzlLYWt0cF9HN3ZaS25ZUHBJOWVrVEF3MjA3OGktNXNIbjg4Zm0wTXZPOTVSZHB5YzFIUGVzZFZZd3p5UThIQUN2VW1BVG5IUVFqbHo4dVowNjBGQUhRMnByQUZUVThreUJsNzlPRGRkVUplclNfcV84akpn?oc=5"
+   },
+   {
+    "n": "Publimetro México",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnJiVGxDT0RjcHdjbnFWdW4tNnFTUU1TZVJkbE1DYS1LNDVieVVETmM3U1JOaV81NnhaSnhxX1FCMFBOSWVTVi03b1dlNzhNSFRSaUVPMGpqTzVEVUFUN2MwM1BUdlk3RGMxOEVsVThzdFEtUXcxbnBXRFlDNWZaYWtYXzFGWkdGMjJWa1VEblp2b2IwOW5PdENFQXVwVUZac3RFWXZObEdKcm15bTg3TWpWb1daLS1ybUxZMVE3WDRXMDJPVGJ2SVRB?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRG90aUVBVjdxSDZiZkRDWlJvSC1JWUFBRFdPWXlnQjFybmIzV19jWDdTT3VPaldRUDE2eHRmbFlBaklJSjN1MU8yM0taUnRjVGpaRVBKOGUxcGhfRjFqT2FOaVhQLXBEbjJENTRFSGVoS3daQnNWZm1Tdnl0S1pfejBYc2dQMjZzVzZDaUtsclFySmEwZVZPUUxlV3dkZVJSYjFNLXkwS0Z2Ql9UU1lLbEM2SDBTcUw3Qmx6Rjl6YktrRTTSAcgBQVVfeXFMTXhtTkEyNldpNmctTU1uMmU2cnlvdzRtTU9LQWlXaVZXVmZuRjZkOVZ4TzY1VW1odjR1T09CaFVCN2dTWmFiOHR5UlRiOEp0MXlGNG1JVy1QZ1lGZGw5dW1tTWVNTXZkSmhobDFTYWxFQ251Y0hpOTdERHljLUpDNnp1a2VvOEkzZVotbTRMNkgzVmhWV2MtaHVfaU1VcVhaZUFvdnE3d2NMMURBc0kyWXF5N0x5ZXlndGpHQVBlXzg3N1B0dm9wcjE?oc=5"
+   },
+   {
+    "n": "Facebook",
+    "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmp6NXRGVXhsdFpmc0g0aElvQlQ3WjBOcUdUaHNYd212NFFYNV9WX0xYNXNhMUtEbnFYV1d0MnBnM0lYOGxEY2pXMUZ3cXdQdktTQjBBV2h5N1lvM1phX2EyalJoMHE0cjI1UzROOW1XWUVuT3FlMDJDX2o5QkNHOFVZMzQtYUthalJtM2xWajZTLWJkYjF4VEFycmxvdUw1MWZoYWs5eTZGX2hkcE8zdzRPUHF2THdMZ3dqUkE1M1gwekZZc1lwc0dreDdLQXJGWnk5cWlRWEFyVFhFdkF2NWpTZnRTc2ZB?oc=5"
+   },
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbHQ5UXlHSXlzNG4zMGcyc1E3OENFamEweWhzSDZmSGpfcDlTSUprcGFCdEtVVVhHcVEtVE85bTdCTUY4cTFob0lxNGphTnpwSVdCelpBVzVtS0xwbWZjTEZaY2U0MjFoRDdoanJZdWxleDVFSm9hWjBGaDctbDM5eTMtRGw2cjg2Q0dBNWFSbERYcVpoemhqZnlwQTJFYUFHaW8yN2tuTEo3Z2RiaVNqZmtTQQ?oc=5"
+   },
+   {
+    "n": "Radio Fórmula",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOR0J1dnlmbFBnem5RWXVuLXZZSmg5emhOS09iRXgzM1Jfd2NlQzdUekRrSERNdU05SGhtdDlZbUxCN0RETGdoSTRfclN5QU5fbWh0SHJmZWEyRzNFaW1tYzBXRE1IaUNIczNZRzhyVmdQSXl1RnpOZjgtdnhjUzRJNDBlM0dadTlIWTV4c002WTJHYnVHZE40ckd2VnFxZFo3Ti1zQm5CckM0OWNQaE9ZbEhhVmptS2lST2pnRTktLVc5Y3EyTmh2VEtiSzVULWJZXzF6S1NzV0hERWpY0gHcAUFVX3lxTE5HQnV2eWZsUGd6blFZdW4tdllKaDl6aE5LT2JFeDMzUl93Y2VDN1R6RGtIRE11TTlIaG10OVltTEI3RERMZ2hJNF9yU3lBTl9taHRIcmZlYTJHM0VpbW1jMFdETUhpQ0hzM1lHOHJWZ1BJeXVGek5mOC12eGNTNEk0MGUzR1p1OUhZNXhzTTZZMkdidUdkTjRyR3ZWcXFkWjdOLXNCbkJyQzQ5Y1BoT1lsSGFWam1LaVJPamdFOS0tVzljcTJOaHZUS2JLNVQtYllfMXpLU3NXSERFalg?oc=5"
+   },
+   {
+    "n": "Red Crucero",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GV0JCZGVPVHhSc0l3ckJoSzBZTHYtU29hU0c1cHJIaEZld0ZxdDBxWUpNckJVYm1NekJYTWhVWlBlOVFKdTZYT2p4U1lOUmJBbnYzczh2NnVTUzlXX21UaXZINkNlbEJRbXpmelY5TzloU2hGaFRhUXVUbzVkZw?oc=5"
+   },
+   {
+    "n": "MVS Noticias",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmxpSzZPLU51MXlpcW04Q1p4NGtDRTVYTk5JVXJGaVVPNUFnY3Z0aEM4eGlac0lfVVM3cDlaNHFuT2k0Mk5YNFZUYjhnZGl3M2tQRkduZmFEVlZkcGtFMWxuSHFsc2tEMG5yVzNwcEFKY29FTkZVSWJNTkppUzZ5NjA3MHZwWTVrLWhTd0YtZU9vM1RaVVNYM1RWNVRvdHI4STFUMW5WWi1VTF9GZWZQRFpyZ3dsMmtncWNkZjM3WmloMHR2eE1z?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -313,6 +410,10 @@
    {
     "n": "Quadratín Veracruz",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVNvdzhfbmxCU0F3cG9qY19Td0pMdXpqaWREUkxQYUVQUmIwX29GYU52ekFKSTByZEJzOWhUVXhwdmZwVkxyU0stZERWdGVqZHpZb21NN1pLa3ctdlMzcHdQWjBIN1ZjbW11cXJ1VjBQOWZpVUdabTZEbjJ6QmVGdldDU1VUbnpFS0NHWGFGa3Y?oc=5"
+   },
+   {
+    "n": "Novedades de Campeche",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vMXFudEJ0ZHdCcDdEQVVWWHVYZHNIcVJlWGlwYWRLcEpieGhiSlRzS0x5a2J4RlphdFhJN0VnWm9MMkthTU5RQmVhZVdRUE1RUHppN3A1TWd1SlVqN3RqZDdmU0RtRGVJekRQTTNzOHdIbC1nLWlEWkotWQ?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -369,6 +470,26 @@
    {
     "n": "RTN Medios",
     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlY1cXJ1cVY0MjVkdVBwTTVZNGJ2TnB3U2Z6b0dWakJYakpTelhKUVJfbVdZZC1LekhOa1lEWEM2eVdfQTBSOXQzbmowZGRzcllBeE5YQmFPTGVpQzhoWkVWTmhJSVRJdm1QdHFzdkRUOUFOamw4T3RvTHRkRHpNMDhWUGxReUdZb0dLS2dsUzlLUms5ZXQ5U3dBZGFMNEdkamhHZVZBRU96bkxYYmpMOXliNnMyeWJuemlEMW84NExrYTZj?oc=5"
+   },
+   {
+    "n": "Imagen de Veracruz",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaGhiZk5JeUQ2czNZRFRETlUyOV9ZYmViZTVEc3NqaHZYMnN6SFA1UzVpSExJREdveGxmdjd5Z0N0OTZzNjR2U0RfSWNLNjRQa3RSckhweVQ3LVd6OFVDMGJYdDJScGVsdE9zU2JEWXhRcTNMRV9GV2ViWXk1TUowNEJvdG5YYVhUY3pud0h1LW1GU0c1TkRoNGw4X1ZNU2lfMjFpTXREcHhYS3JraDVvbEd5c2dLaEIyYmwyb2p4WEw?oc=5"
+   },
+   {
+    "n": "Telediario",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYUNOUHUzV2xTMWFpWWRHbkpnT283U1NXUlBZYzVqbDBNMVMxNmZLQ2xrSVYwXzBSOHRvOEtHWVh0WkdwOGFPb1RfMmlzZlFYR25jQnNuVXJLUmV4dkgyUzhTS3ppR3huOTcwSm1ETUtVWER5U0lfUHFZSWxnaEQ4T1VMSWdVTS1OMXFNWXM4YUZqWkNYYkt2RXVmMkFfaUnSAZ8BQVVfeXFMUGhNb05Td1Bsd0dfTUZuME1nblVWanFmQ3FqeTMzbUotWlBYai1yVzI3eFQ1OGNJVlVEZm03Q2pSVktUR3JzbVdvdkU3YkxrVl9pMm5DejM1Tm9yanhwQjdiOUlSOTNoWnByWS0zU0xBX2tzVUpKV3E2NWZEVEphd3A0OWpVUHBBM2xHY2k4RVFMS0ZpRUNlcGpSUmtEak9n?oc=5"
+   },
+   {
+    "n": "El Buen Tono",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3FicFBxLVI4YUVpSXpGOW1uWGxZVlc0RFE1YzZ0WVg5SHJVeFJnd3JxczJhM0VIR19vNVBKSXZJUUNsZFIyajJkMFYyY0w5QzAwUEQxYWlTaUhWcUJvNUVWX0N3VTNwT05nUUNFOXdMY2I1d005eENzcUptY2hrc0NLN0lvT19BU0o5dWFoTnkyQmF6S2VGWmRTSHhsQnJqVkVRcTZRRzZoUFp1STZvalI4cnhMeF92TUtuaHNmYTEtbFh5UDl4MDBrQQ?oc=5"
+   },
+   {
+    "n": "xeu.mx",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDVHeW9GN3VmRG9jLXJGNHpWSXh5Qk14NWNRNC1PSkYtN0NJQ00wdUJQRTMxdFVPNWRFb3ZWbS1PMTF4MEc1aXVqazhVQnRfR3hDVTNtTGpLd3IxelF3WGFsbWJKMl9aQ3JKSTZHUnJNMVRoSkMtclhZTXJibm42S2J6cU8tampyTnNlTEhLUy1DTUJERXM5UE5UbHM5Y2pOQnJja3pR?oc=5"
+   },
+   {
+    "n": "Imagen Radio",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGNoRkczaHdLMDRral9BdmdzemIwS2ZYaHVOQndqcVRqMW4wVVBJU0ZRRW02alNnSXFMZDBja1NWdEdfS29iT1gtdlZtN19WTVByalhmRE82dDhqSkx0TDc0STNtZ3NlODFCZXZ0S3czUDhzdWJIVDcyNXdOQkFtRWxyLXpsS3RpdERQeS1kV2RWTFJkVjVUOTJ2UE8xQlpkRkE4TGFlUTPSAa4BQVVfeXFMTXlMUWRRY0hYd1FqTHZrZF81Yy16NnA1VFo5b3FjVUdSZWstTlp0aFhfUEFqZ0phRk5uZExUbUw3R0FnakhicUNqcWpvUlhuS3dhWGJMcVV0eXBVcVlMTmxpeld4aHVNcGhhTUVqSWFkZGxZVjdVWWc2U2ZXLTFKNXpndk1qNmJLb3dWZ00yQVZoT1Q3bkRPeWxVN2lMVnZFUzE1SmhXdFVyN3hkdDhn?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -507,6 +628,24 @@
   "creado": "2026-10-20T09:57:20Z",
   "metodo": "reglas",
   "id": "2026-10-19_merida-2"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-06:00",
+  "t": "Caída de concreto en la escuela de Progreso, enciende las alarmas",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYmpqWEhrWm1LTHQwZC1ENUhJeUlfUkJ4QkdCMEZNYkNBNWMtZHBmR3lxRDFYZnZrRDhReE93NDl6ZmxRejd1MmthTDdfSXhBVlZzd3AtLXk0bjFlVGZWRXJxVVlWNjF4RHgzYXhLWXNhekV5SXFwQnhnUnEwcUFRM25URjM4bXNSY21kUGVPMFc5OE9td2oyWmZKUUxVbU1qUU1CRw?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T14:56:36Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_progreso"
  },
  {
   "d": "2026-10-19",
@@ -720,6 +859,43 @@
   "metodo": "reglas",
   "clave_lugar": "playa carmen video",
   "id": "2026-10-19_avenida-de-playa-del-carmen-video"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Volcadura moviliza a autoridades en la carretera a Cancún",
+  "p": "Carretera a Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzZlckd3UVBNQjZmTUhfSG1IS0Y2ZTk0Tk1sV3NveGpyeUlFbGk3VlN5cGc2WGpBUkU0blZQZzVSdldqZ0hsTllrZ19OS1dGTlNubl9YSXByd0RzNGc4ei1lQWd2Z1I1a2hOaHJveW9FUHdUUnE2NXgwa0w4cTkwWERPdUJaV1UzWmlYLdIBlAFBVV95cUxPODQ3MHlQVENqaUdPbHdIcFh3ZWxjaG5sN1FqLVBFTjB5WGNkSmgtOUhZbl9ja2tqSzNNWElTMkFfMDR2dUVkeE81c3Bjd1F3Q1hLWkMtWEF2ckpjemQ2RjlwWEtFeXpSbWNOX2tYNndFakdUWjE3c2pwS2VqZDJ5TEpITWhkWklJbnpsdE9wNFIzVVEt?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T14:56:36Z",
+  "metodo": "reglas",
+  "clave_lugar": "a cancun",
+  "id": "2026-10-19_carretera-a-cancun"
+ },
+ {
+  "d": "2026-10-19",
+  "h": "",
+  "ts": "2026-10-19T12:00:00-05:00",
+  "t": "Choca Van de transporte de FCP contra Tsuru en Tulum; hay una mujer lesionada",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObTdVWTZJSWx2WDlpUVo4cjN4eWdaMXBwUGg2M1FBaUFoVGxUU3d3bGV6Z3M5cXlyNnUweGZLSnduUUp1bi0tbXc3b2dmZkJpU09WenI0UVQzQUhlT0xQRWhHc1JVWFFGX1VCSVJrTmhNUko0cGRRXy16UWZIck9QdTRzMmhFekY1ZjN3cTFJZV82dEZ0ZDdIYW45MWZlT3pKQV9B?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T14:56:36Z",
+  "metodo": "reglas",
+  "id": "2026-10-19_tulum-2"
  },
  {
   "d": "2026-10-18",
