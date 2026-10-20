@@ -37,6 +37,174 @@
   "id": "2026-10-20_merida"
  },
  {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Vuelca tráiler en la carretera Mérida-Cancún; pobladores rapiñan la carga",
+  "p": "Carretera Mérida-Cancún",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/sin-categoria/vuelca-trailer-en-la-carretera-merida-cancun-pobladores-rapinan-la-carga/"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/sincategoria/saqueo-de-trailer-en-lazaro-cardenas-moviliza-a-policias/"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80YldnX1ZUcmczaFBHV2tqaENVXzNsbGxTNXRabGE3UldBeld1QUFCZm5heVFtWXpHbWJhUUE5NHlIWjRsWDFLdEdnVkd2eU9QcjVRc3hqcllrUlFoblpWdFdyWnQ3STNpd2YycFhjdkE1RzJ3anlfajNB?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFByUmNNS3VsbVpWZVFwMTJCX3lTZW1MNEVNalJJbk5vNVhsNktwMzByRVFVeXgzN0xUclpIV3BTbkFTQlQ3Zk1wYlpsMDNIVFU0blEtdW1aWFpoTFJzQkg3Qlh5SmlCU1FFM2JDWFNtSjhmdEM1U0dOQXlXS25QSUdkcXNHbzdxY2VXd0NiVGpyZWpJSXpWVnM5TkVJZnhjOXRmYWtvN0NnOXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida cancun",
+  "id": "2026-10-20_carretera-merida-cancun"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Hombre se desploma y muere frente a su casa en el barrio de San Román en Campeche",
+  "p": "Calle 14 del barrio de San Román, Campeche",
+  "estado": "Campeche",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/hombre-desploma-muere-frente-casa-barrio-san-roman-campeche.html"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "14 barrio san roman",
+  "id": "2026-10-20_calle-14-del-barrio-de-san-roman-campeche"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Hallan a campesino gravemente herido en la carretera entre Lázaro Cárdenas y Ávila Camacho",
+  "p": "Carretera entre Lázaro Cárdenas, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/hallan-campesino-gravemente-herido-carretera-lazaro-cardenas-avila-camacho.html"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "entre lazaro cardenas",
+  "id": "2026-10-20_carretera-entre-lazaro-cardenas-merida"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Motociclista muere tras chocar contra un camión en la Mérida-Umán",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWnN1STJ0dEU1WTJMaWxxdDVzRUJtS2FyQ2FKRTJPbFJqNVJpMzF1Sm04allrUlVCSWgwQl8tbC1vb0tNNFJwQnRDRk1CLVNra3RjTkE2RXh2M2tSLVhLLS1lbk1sNEJtdXNyQkFvSGNUYm53UHlDenpWVnhGOENMakF2QzV2R040SDhGUUxENkJDSnJ5Y0E?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEpnXzM5R1dzcld1d01nYlZ4NWVwSUFYcjRHbjFsVHg4aHBTM3J4a1h2V3BEQ3VEWUFfTGtSelNQUTFOcWNyd2VPUVM2QnVseVVJZmVkWThILUVlV2tsMWgxejdGOTNtLVlvSThqaTBqSUQxNlMxMWRlOTZqUHRuWE1PQkZWaXY1NEZZWU5nME9wQ0h0MmdRZkxIR2oyOWloQXhSaW9DQzFTOG9pQzRYNC1MUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_merida-2"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Un menor atropellado, otro peatón herido y conductores sin carné y ebrios complican el tráfico en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeU10NVFyX3ZBVjNPSm9SdFpRTXJTMnQ1eDItQTRMRUdmVF9uNkp0dWlXNmRtb3Z5T205NDN5d2FVMEVIRHZ1WEtVZTJScjNacFBUdnhGVDN6V2tBNzhON0VOMEJpNFloZktOY2JBOVptM05hUURkWkExWUlIN2c1X1Axa2xrd1NyblZqdlRqdFF6c2Zmck5ndUh4cDl0eWt2cXppUFlZTjdZWG5UdThlTUcyOWxQLUNQLVVoNG9fd0NIZENWSUZPTWgyMDhYTEFrLXV30gHYAUFVX3lxTFBfVlFkY2JTWjdybWM3UVlRcnNIQkM3X1NrQnUxcktCTnYyc2JvSEZGeUxyUl9teFE0VDVfQmNhV0Y2Q2QtQUVDYVU5ZlZzRWpINXEwUU12OWlMVDVRaW5Qenh6MGlRYmdVYmJMLXc2a2lUM25RSHdFdm5pSmlsTmUtVWFqRFV3V09xb1YyN0VlN200SkpFWGczRFBNU2twNXM0bkpETFo1N1lkWW11UEZRVXV6alUtZXZXd0R2eHh3MFJERktlOC11cGdoQ2JSX0J5WkllbW8xYQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_merida-3"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Tráiler con doble remolque queda atorado en paso a desnivel de la Colosio en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/trailer-doble-remolque-queda-atorado-paso-desnivel-colosio-cancun.html"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUtxN2RGZzhwakZYVUx4cC1RWWY2SjZqbnd2cDhEWWlmTmhOcVV0b2RRT190aTVadmF3d0dHSlM5djNwOXRTM3FlTk1GRE5wbE9IZ0FSeW9tb3MyWFFtb1l5NHFLRkx3N0dLTGdyZ0tYUUZIWDlIZlNPekE4YkVjWjhrQnN4QnRy?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_cancun"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Abandona camioneta tras choque en la región 216",
+  "p": "Región 216",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHJYVFI5dm1lNWNnNTRFb1g3MXlSLUhidzdsMmdMNjFZeE1tSWZVek1ZSHM2d2NtVFVnbnZOLUVzWmZpWVNJZUVHT2FjcE5oeUZDOFpCdjZIYkxrRXBYLVIzRWFXSVdkblZJekVjTEpKdlBhdGJ2dnR5N2FuNXdaeFg2RF9RWTdfYjBGR093?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 216",
+  "id": "2026-10-20_region-216"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Saqueo de tráiler en Lázaro Cárdenas moviliza a policías",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ29LMzMwZURTYlhsa3AteGtaZnBHcy1CMFBXRkVDdzFTNjJ6WkFwaEZzVjgtUTdGbDJtS3lqbHphVGE4aFZhdUdfWHBnVWVwcm1wb0VEMzJlYVA0VWlNbWFvMXh6SGhGWGV6NGxaSFRfVzdqY2Q5cUNrRVJWZFdreVQxWHZ5b2JTczJGVmtsZGpJTVdLOUZlUHNpWU5xdw?oc=5"
+   }
+  ],
+  "creado": "2026-10-20T19:08:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_saqueo-de-trailer-en-lazaro-cardenas-moviliza-a"
+ },
+ {
   "d": "2026-10-19",
   "h": "",
   "ts": "2026-10-19T12:00:00-06:00",
@@ -384,6 +552,26 @@
    {
     "n": "MVS Noticias",
     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTmxpSzZPLU51MXlpcW04Q1p4NGtDRTVYTk5JVXJGaVVPNUFnY3Z0aEM4eGlac0lfVVM3cDlaNHFuT2k0Mk5YNFZUYjhnZGl3M2tQRkduZmFEVlZkcGtFMWxuSHFsc2tEMG5yVzNwcEFKY29FTkZVSWJNTkppUzZ5NjA3MHZwWTVrLWhTd0YtZU9vM1RaVVNYM1RWNVRvdHI4STFUMW5WWi1VTF9GZWZQRFpyZ3dsMmtncWNkZjM3WmloMHR2eE1z?oc=5"
+   },
+   {
+    "n": "Milenio",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOTROaXlxX1lzNkhqU1NFTGlrOUJpc3I1S3MyaDdXd21DeHlwbmZuMGdVeW9BZDJhcmRSbHFuNkRwU1FXSW1aMnMzT0E1dWROYzQ2emhyQW9RXzdxdUVQTGJ3Nnlrem1Qdmw3QnY5Vi00Q3lXY0NhTGJGMUNGMWJBaURR0gGCAUFVX3lxTE9sVV9PMUN6TWhudEEzLW9lNVVQMDFjX240ZE1NblBDR3pjcHVnZ0JUcG1TdGwwcVYxVFhKcHVVeWU3UDNEcmdfR2ZfdXRRU3dkeDBXdkpETXZ3bXNfMVpTS2x2ODNGR2FpS3kzX2NUVDN4bWdiRldSQ3hSRXQ3b3BCcFE?oc=5"
+   },
+   {
+    "n": "TV Azteca",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTJpLTh1VzFwMGQ5OFV2ZTFSSVppN1I2WFBPWGxPX3ZiVExZQTgtRW5hSW1aNEtlMHBzTTJwUk83TS1YUGpFVHBaeWtPVWhpcjNtSW13NVhmRkpQOGpEOHdCeGM4eGYxalpheWpqU3BrdGVFbTMyd0ZUOGFPNU9zcmRjNHlmdmlHLUZzUi1iMEZQZTVHUkdIRlRwd1dmdUd1MkRV0gGjAUFVX3lxTE05MmktOHVXMXAwZDk4VXZlMVJJWmk3UjZYUE9YbE9fdmJUTFlBOC1FbmFJbVo0S2UwcHNNMnBSTzdNLVhQakVUcFp5a09VaGlyM21JbXc1WGZGSlA4akQ4d0J4Yzh4ZjFqWmF5ampTcGt0ZUVtMzJ3RlQ4YU81T3NyZGM0eWZ2aUctRnNSLWIwRlBlNUdSR0hGVHB3V2Z1R3UyRFU?oc=5"
+   },
+   {
+    "n": "UnoTV",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFl1YnRhNks2TThDX0ZLa2lpdk8wek40V1NnZWRJUGNlSHFNU0ZwdTlxQTR2Nm9JTEs5bzlsNms1VjE4WFdXV0drOE9STWdKQm0yMUtEZ0REOGw3bHhObk45dGdSRDJBXzVCRmNWaUVTX0pGb3VsMk9TWk5LMzhoRTV5Z1FqaXFuNTlYY1Y2S09Od2pBZUV5bzJpSVd5UVh1bDhqUzBn?oc=5"
+   },
+   {
+    "n": "LatinUS",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOXE0TGdLS0JvOHRNTE96NkFUZWdlRGl4VllMYVlOdzYxdkpLc2MwUFMwWS1XSUdUMWNYaUVtQzVZc3F4SUc4Zkk1LVdsRl9URV8wLVRJY0Yxeld4Ri1jODI0c0wwUGJ1cjMwTUZHNEdmaTVRQzRITG9HSk0wR2w3VjhqSGNxbDA1anlZX25MY0RPS1k5Q1pxWEp5R2Y2TXB0dGdhRHEtbV83enFkZkdqWkQ4QmxmVjQwZUdMX3o4MUNWcXdJN2tsUzd0MDBLSGRfcTRBUUhwdG92NllPSGd3bXZfdGxKYkZZQ3fSAeoBQVVfeXFMTjlxNExnS0tCbzh0TUxPejZBVGVnZURpeFZZTGFZTnc2MXZKS3NjMFBTMFktV0lHVDFjWGlFbUM1WXNxeElHOGZJNS1XbEZfVEVfMC1USWNGMXpXeEYtYzgyNHNMMFBidXIzME1GRzRHZmk1UUM0SExvR0pNMEdsN1Y4akhjcWwwNWp5WV9uTGNET0tZOUNacVhKeUdmNk1wdHRnYURxLW1fN3pxZGZHalpEOEJsZlY0MGVHTF96ODFDVnF3STdrbFM3dDAwS0hkX3E0QVFIcHRvdjZZT0hnd212X3RsSmJGWUN3?oc=5"
+   },
+   {
+    "n": "Excélsior",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk82OW9DQ3J1azJ2RDZ2QlQtVEx4X1JNaERxU1BmeFB5V0UtWHlFV2Y5cXQ0N3NFVlFSOUdMelV2NlZZaWhzTmltblFwTEFEWWlOUURoOEpIUTluR0F5aDVOMUw2TUZLZUFkanpoT1pKMWFqd2tHeVJwal80OHJWbXR6MHFmZ19vSkpKOVMzMzQwN0RPSGhUOG9sMHRMcWs?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -414,6 +602,10 @@
    {
     "n": "Novedades de Campeche",
     "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vMXFudEJ0ZHdCcDdEQVVWWHVYZHNIcVJlWGlwYWRLcEpieGhiSlRzS0x5a2J4RlphdFhJN0VnWm9MMkthTU5RQmVhZVdRUE1RUHppN3A1TWd1SlVqN3RqZDdmU0RtRGVJekRQTTNzOHdIbC1nLWlEWkotWQ?oc=5"
+   },
+   {
+    "n": "El Imparcial",
+    "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQR2NVVDhyNnd4QlRZbHdIWHdHS2Y2aGdnTzZBR1VFZnpOSFQyaGd4amJJbmJlcXczcEtkZlg0UXFHVEF0dm1rU0xFdVpXMEY5ZlFOdnRYRTg4YlV2U3lNcFlKZ2J6RWxSYnY4OERYeDRKQnRUSW9WUVM1WFZmc0xGRkUwZW9fN0Y4TTg1R3dHaTBoZGpOWm54Nm1ZU3RWWFBHai1pa0hUelRlVW1FMGF6X1lPRThZdkxDVXZEVDh5QkUyQ1BhZTZDcGdkZERHd09mcnRmRkM2QlFYcFAybm1KYXZqS2JreDVLaEpQN0c1OXlZcWMyNnUxS1JtenQ5M3ZZVjJnYzczWnczNU9BLWVLRmhJR1R2aDZoR3RnUm81aVk3SzE5cXdaeXFvcGl5RzNW0gHLAkFVX3lxTE80SktZX1N2V0txaFozaTQzSF95UDNwVFEzZzN0U01YNDBPVlEtSDZ6UGh3dHJQVndHMWpneTJseDJCVE5tcG5sblFyZzdLNlVDZndBdGI3RFYxc3dzVDBEaWdlWUZFV09XMFozaDIzSXNDS2pKYU5mRi12TDNGckdIMEZtNV9Xci1hcVlWeFNYRXhqeUdXdTVadzhySklxRXZscElkbWRLeVBXOWctMXBpb2pPY0lXR3lteFhhb3dWaVZIUkVjSHR1UDB0eG1Ba3luNmVfVGJwS2QwaDlDNFg1WFpuajhpaE9BVGxPbW9mM1dtT1RYamdhQjNmd0k0ZS1zcTgwNEZOMmpVTF8yMU1ud0pmQzhXR25wU2tfbGRPZVNVRVc4aXdNMTBlYy1wUmY1MnpXMFIzNkk3ajVtZ2dUXzMtcnhiV0pWa28?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -490,6 +682,10 @@
    {
     "n": "Imagen Radio",
     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGNoRkczaHdLMDRral9BdmdzemIwS2ZYaHVOQndqcVRqMW4wVVBJU0ZRRW02alNnSXFMZDBja1NWdEdfS29iT1gtdlZtN19WTVByalhmRE82dDhqSkx0TDc0STNtZ3NlODFCZXZ0S3czUDhzdWJIVDcyNXdOQkFtRWxyLXpsS3RpdERQeS1kV2RWTFJkVjVUOTJ2UE8xQlpkRkE4TGFlUTPSAa4BQVVfeXFMTXlMUWRRY0hYd1FqTHZrZF81Yy16NnA1VFo5b3FjVUdSZWstTlp0aFhfUEFqZ0phRk5uZExUbUw3R0FnakhicUNqcWpvUlhuS3dhWGJMcVV0eXBVcVlMTmxpeld4aHVNcGhhTUVqSWFkZGxZVjdVWWc2U2ZXLTFKNXpndk1qNmJLb3dWZ00yQVZoT1Q3bkRPeWxVN2lMVnZFUzE1SmhXdFVyN3hkdDhn?oc=5"
+   },
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYWpheHp0WUNkT2ViVVF1OEoxc1NsQjUtQno4dU1YT0x5UGFEWEJmZTg4SEdCMTZKVFJwLVU5TGxFdFVualo5ZTc0eVQ2bF9USTlMVVg0VjFNdG5BQXZ3c2NpY3N4SVNGT3FMSXktRDN3S1VwT0UtOHVJX0cxdWVvM0h4TV9mWm1XNV83V3ZsMVVPY19YMGdVMDBHb2x5ZGZYUm9XaXRkSkh4bzBtRnhSMHFCSzJGUkZDRVNVOXg4eVpfOGFnQ3ZLWjBDZzhVTmNaQmF3RV9R?oc=5"
    }
   ],
   "creado": "2026-10-19T23:32:38Z",
@@ -1003,6 +1199,10 @@
    {
     "n": "N+",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3lpNWo0bWhlLU01ZGdWMl9FLWZLWF84VVV4U0Z6ZFUxLW05RXFVODhnZzZ3V3d0a2RDY0dlVGJtVXJUb3hFeWpZYWZaVlJubzdFUEJ0aGFZRjdlSmxEYnVKdk5OZkx5SGZrZWRfYnZXZWo1REVlMjJKYUZnaFNvQjlQZmNUeXgxZ0ozN3pzTDlRVjVBamFmUlRLQjhYYU9W?oc=5"
+   },
+   {
+    "n": "Periódico Síntesis",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40MThsRmtsX1kxLW9CV0o0UGRNRzB5YTFuZndlbUVaSnFSajU3bXhyMy1ZRGd3RDBobTFENTM1OGZqdmJCZmtsbHlSVGhZX3hudXM2Q2dMVDU2TlcxTHplWnQxSlVDWmQ4LTN3OHExSFJBUEV2QXRpcW91cTM?oc=5"
    }
   ],
   "creado": "2026-10-18T17:59:54Z",
