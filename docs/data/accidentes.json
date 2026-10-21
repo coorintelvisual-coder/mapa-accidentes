@@ -25,6 +25,29 @@
  {
   "d": "2026-10-20",
   "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Carromoto repartidora de agua queda prensada entre dos camionetas tras choque en Ciudad del Carmen",
+  "p": "Avenida Central, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/carromoto-repartidora-agua-queda-prensada-camionetas-choque-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "clave_lugar": "central",
+  "id": "2026-10-20_avenida-central-ciudad-del-carmen",
+  "lat": 18.652171,
+  "lon": -91.846582,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
   "ts": "2026-10-20T12:00:00-05:00",
   "t": "Bomberos atienden dos reportes de incendio en Cancún",
   "p": "Región 69, Cancún",
@@ -57,6 +80,10 @@
    {
     "n": "Caribe Peninsular",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazYwQmY4Q2xTMVdRbzhiOW5YTU5RQWdZR1NLNGhIZnBrUkFJZXhGb0VGb3BmTHJsUjlfbTZabHVFeDU4cmxXOVZVcnpyQ29iYUladGotMkZWcnNvS3NtU0N4M2V3OFFZT0tEajU3N0hfN2JZMklKX0U3OGJwZXZ6Ync3SjZWX3ptejFNNjlOb2U5YndSMHlwSkpTV2wzXzQ?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVA5cFpPb1R5VDJweGtnZGdLT1hCS19YekZZSExNQ3V5clRFY2wzM2JtNGRvN2NTdWwzT050SFBjQlM1VWVIQnpMTGRqWVg3QkNFWG9zbXJvRDRwN2pqb19sdUQyeWJ1NmVGN1p4VlVkZEs3MmdjWVNlaXprV2Z0bFI1d3ZYUXdDZEhLa3RzbkhRcVdtaVJmRWxNOUJIWUxrMldaTg?oc=5"
    }
   ],
   "creado": "2026-10-20T23:07:19Z",

@@ -34,6 +34,10 @@
    {
     "n": "Extremadura 7Dias",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTlFFTTEtYVd5aGtiUXBYUXlGWU15Z3c2UlVFb3B4OFhVOWhxR25YenpzNmN6c1B2N0lkQzlRMUcyeHYxdUdOUUdzQl9Gb3NPYkRyZkhPa2o2WjhwRndwdFdjNXBNMkxxaWhHT0dTZWU3emxIcmo0SVhLZmt5NzBUQkhyTEpXUUF0NkYxY1JIaXhQTGJTVzVaaXRHdlZSRnoySmduQk42MmRwNjhyRlVSME1JUEZLNTNsYkZRRWVITnBqZw?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXJJM05GdExSd0RrQlR3QUYxZnU2N3o5WXRKNkxBdVhVMHBabDhDeDQzTEpVRVJteE1HX2xwTWhtVEJYSWFWZC1Ia296eEhaQjBkVU9SempXNnJJNTUxVmdpaG1xTVdGX0lxZXNaUEU5UmZzSTBBVWM4UG5ab0s3NVFsWHROd1p5QVQwZHBDX1JwX0JlNVI1U1ZXd25Ma3RTSno3dms3cE53TmN0TEh1VGxjM2J5cm13OEFLYg?oc=5"
    }
   ],
   "creado": "2026-10-20T14:56:36Z",
@@ -228,6 +232,60 @@
  {
   "d": "2026-10-20",
   "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Camioneta choca contra mototaxi con cuatro estudiantes en Hecelchakán; dos alumnas resultan heridas",
+  "p": "Hecelchakán",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/camioneta-choca-mototaxi-estudiantes-hecelchakan-alumnas-resultan-heridas.html"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_hecelchakan"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "¡se salvan de milagro! camioneta se estrella contra muro de contención tras evitar çhøqu con tráiler en bécal",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0llRXhic25TRWx5SmhTcXpaLTZrVVNHV2tCbDhoVkUyOHZWWV9qVlo4bm5GNDhwMzBoSTlFTTJJeWZReG1tM3N1WFB5X1pkYl9PYU1GMVRnamRkdjI3UUdFa1YySEZpNU91MU8yQVBqTUtBUlRHTm1rN3pXRGNiX3NWWXFBN0FSMS1pb281aWREMjE0UlpWaVFIRXZHS05TV3MyOGJ3Qm5rc0ZyYjlxX0VRYkoyb3ZLc1JvMnVOX0JPblY0X1FsbjJkT2FrSlF1NEwyclhYX1VvREVlUFFrRA?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_campeche"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Atropellan a perrito en Champotón y huyen; rescatistas claman por apoyo para cubrir gastos",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbWtKRWh0TzNuUXE0bEp6cm1aLUM4aTRqRmIzYWhudDBOM1h5QXVjU3JuX3JIMl9kdVVyTGZXUS1ITWVwZWowRmNRSnJjNDh6X3YtZE53cGJ3WVNuazRXOGlPdkgza3dnNVFpMW9McHJ2UTZ0OEhHZVM4cC1ZeXA4VFBURElxT3k2UEZVRGNJbmJuenlhNndXYUdaTnIzSWdyM3U3aG1uaHdrWG1QZUllMWNhTE1zalB3bnY2Zk1kY9IBxAFBVV95cUxPYzRvQTdNNG9wNW5HYzNvZGlfeG1nRUxNSGdXV1hCVG1JdTY0N3JRQS1FTXNzQnV4WnpVa3NaRHNWM0MzR3E0SlZDMU40czYzYWFOb28wQUFPWVNsOXlUSGNBWXZxRzRJZGtDQ3RYTnZFQnlGaDk2Q2FFbC1Nc0cxdS1QaW1HaUFSQUY1b2RfVmxqVUNhU0VGWXVmWXM2ZVo5TXJTV2RtM0tfajlRc2JEME5iSy1zUjdpM18tQzh1aFg0NFBj?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_champoton-2"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
   "ts": "2026-10-20T12:00:00-05:00",
   "t": "Tráiler con doble remolque queda atorado en paso a desnivel de la Colosio en Cancún",
   "p": "Cancún",
@@ -399,6 +457,96 @@
   "id": "2026-10-20_avenida-nicolas-bravo"
  },
  {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Accidente de tránsito provoca intensa movilización policiaca y alarma en la comunidad de Buenavista en Bacalar",
+  "p": "Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/accidente-transito-provoca-intensa-movilizacion-policiaca-alarma-comunidad-buenavista-bacalar.html"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_bacalar"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Dos automovilistas terminan lesionados tras fuerte encontronazo en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/automovilistas-terminan-lesionados-fuerte-encontronazo-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Reventón de neumático provoca aparatoso accidente en la entrada de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbml3VHVnd0Z3T0lfOHVURmpfM3JnNlVnSkVNYzJhWnZTS29hZFFxMTBWQUxIbnc1cF9xRjdZWklMdlJLaFBXNVJYRDhuYmY2b3UtSkZJaXl0OWRlajFUblFudHgyeHJNTjhfMW9MWHNYX1pZVjhaZGJvZmlVeVA2QXZZdHNsSWtoZEh3S0dnUEJPVUMtOF9MTzZBZXF2cmxGYzlNSdIBrAFBVV95cUxOa3BHM2VRQ3RKZktNemVBQy0wN25uSkxHTl9tMVlTRlNha1hSVTdoa0pFbndpeFpKNnZJWlh0LUZUUHdhYnVKSElxVlMwUEdWS0JqSVRvazFMUEZubmtUcVZNM3lsSnF5Y1poTDVSOXpyRTYzUmNyUXVTc1ZRRUZVNG9qVzg5aVRndE4xQ0U1V0w4dFA0al9KaTJjaW5ib1JtVVM2dEgxN1NLSkVx?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_chetumal"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Tráiler arrasa con automóviles frente a colegio",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Dd2M2LXZ2aC1palBPbm4tb3pnYjN2cW1zY2pXVlQxT3FlSHpLV1RYMVQxa0hrNk1KQkRYM2tkR0lxcVlTQXFSaXlIYjB1bElaai1fRmFPOGhzbHZiQTZBc3lleWpxckFJUmtvOEx5aGNPeVFhQnh0V2s5M0hmN2_SAYcBQVVfeXFMT2JNMFRkVU14M0FlaUktVWZRaXZXZlNmU3NWUzBWQmtfTi1veGVPVjhvdFg2SUtoV2ZJRWlWa2p1MktmTFFXRjVsdjlhbXRTTnA1TE45M0duVG9SN3VLMmFiZmxlWTM0OGZTVHBJTzVMazd0dUZ3RWNydUV2NnN0RkZOZDd4alMw?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_trailer-arrasa-con-automoviles-frente-a-colegio"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Mujer termina en el hospital tras choque de motocicletas en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmVDanNVSVF5cVRQSmVLcW1ZWGNYR0hRalRKOEdHRkxsT1lRWm9kZVN4c1NPRUx6dVhSRjhmTzdUZEc0b1hycW9JZVJ6Z0pwZ2R5Rnp3WmNuSFFFdnZ4ZEhWb2J6Y2ptYVJSRGN0S2hlR0RfTjg0LUN2TDJlQzJvZ1AxeTVYeC14Q001aXp3?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T04:29:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_chetumal-2"
+ },
+ {
   "d": "2026-10-19",
   "h": "",
   "ts": "2026-10-19T12:00:00-06:00",
@@ -414,6 +562,10 @@
    {
     "n": "PostaMx",
     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlJBdTBoTDFLMVE0Z2lJdDl6MGtXYmZINzc3S0NEUEVFS1c0ZTBHanh4b3dvdDRmeENDTE9Gc3dBZ01rNGlaT3lGTklfMllYRmpvV1cwaWFWSG91THAwcUp2N0haa0hIVVh0ZEhhWDUtOWI4R0t2OUZvMGRYSzlUaWdjWW55S1E1aGZhQWRYR0t6MTVBLWNUTFdjb0FNSWlWQTU1MXFSdUJEbTg4ZGdoXzFwMGXSAboBQVVfeXFMTWpsQUc3ZFBoZVM1bWduVU40QkxFbXo4NGNwdHpSUVFXVVVvcGhFUXJzcUhNUERoYmk3Zl9IdDNHNERqUnNBWDRqU2RzU2Vua2d1SGZWdGE3cVdVY0cwTElvTmlJWHN5MVA2M09hak1lb2xfQ29pZHAxalRRUzl3Ul9nTnVnSnpPX2swQi1qZUluWE9xQ0xDLWV6Qi03TGg0bjF4NHR6cENOVlg5M2xsa2o3N0JCZFRUeGhn?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONkw3dTJQSFZDYXVJNUUyWENqc1dTYWFVcUxTazFFbk1ILVZ1QW5vb0FMNWpmMHZKSnlPSHktSkY2UjJtV3pFbVFRd0w1NFh0UEx0aVFndTZ3QkJpY196djhuZGpTd1NNcV9ocDVwSEo1QzBLVW0tUUhCWGdVOVNHMldrTjFOSVduRTNEYVBhaFlyaEFKYmdZRURENWNGVXRtdTloSlNBQUVuQTczYk9TOXZqWkQwYUtGbU5Wa3lFcDRxWFhUcWM1MFF1U0xwVnZTcDZXWTdlRlNjRFBTMjdmVVBVSlNraFU0V1Bwc01lb2c4R0t2bDNXbGxzb3d1bG5hRUR3?oc=5"
    }
   ],
   "creado": "2026-10-19T12:57:28Z",
