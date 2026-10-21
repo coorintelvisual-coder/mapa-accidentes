@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Auto se incendia sobre Circuito Colonias en Mérida cuando padre llevaba a su hijo a la escuela",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1ZvMXpib29DeDF3Y2E5Q0N4OEpKbHdRajdCX1NCemdfeHo4ZlYtUTJvQ2FOOTNqanFHUjktV0NtaEJvMVBOSC1wNnFtRWFfNGQtVUJmQWNBdmFJZVh6dGowYnhKbThPUDdjSTNWclc1MHJSeFlxOGxZOHBZaVZuaUVPeUM0RzY1djJ1TU4zRTVmeEdRU0s5cmpqZGpteEVwa0pPcUhaVTBIWUdpT2NLWmNQQWxLZkRDc3RhWDFn0gHDAUFVX3lxTE9hODNsOWZwUElGMmZHQW9pNFpzZW83UmJINllRWldnZ3FjMnQwMlB2UUNIZmxUSFBVS0lNWTZvVGJhaFJXeGZQY1lscXdVMGhhQ21uUmxiMzZ2QzlvSG1fVmdTREFJd3MyNUpuWDRfaW01QWFEM0hOU3J6d252VU5ic1RobThOTWt2SVJPUTAxRFZ0ZFpGVVZmWHM1ZGlfbThxOE1hZWUyVWtYMzc4T1VLbnluZ1NzZ01qYWVFOHJrYl9pUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T15:03:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_merida"
+ },
+ {
   "d": "2026-10-20",
   "h": "",
   "ts": "2026-10-20T12:00:00-06:00",
@@ -38,6 +56,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOXJJM05GdExSd0RrQlR3QUYxZnU2N3o5WXRKNkxBdVhVMHBabDhDeDQzTEpVRVJteE1HX2xwTWhtVEJYSWFWZC1Ia296eEhaQjBkVU9SempXNnJJNTUxVmdpaG1xTVdGX0lxZXNaUEU5UmZzSTBBVWM4UG5ab0s3NVFsWHROd1p5QVQwZHBDX1JwX0JlNVI1U1ZXd25Ma3RTSno3dms3cE53TmN0TEh1VGxjM2J5cm13OEFLYg?oc=5"
+   },
+   {
+    "n": "Radio Interior",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTUp3aDR3aUNOU2FkOTVYc3ZQbnh0NEo5ZTBQTzdpaUtQR1BYWmJ1RkhQRk54N1lfb0VZRzdrNk1ZZXVWSXEyMW9RSUFGUEtLa1BjSk1jNW9BY2YwQnFMbjNtbzZJVGxrUDFpQngtZ2pJVFlhR3pNQ2dxNTY0cWVMUkVpUGZXTml2TUVOQWV4N0F1Wl9iT3hOSkRiMmhiVnBNeUc5Z1FpLU5PX3hvRF9sV3RmMlpSNmduR01nZFFyb0E1b2s?oc=5"
    }
   ],
   "creado": "2026-10-20T14:56:36Z",
