@@ -259,6 +259,10 @@
    {
     "n": "Tribuna Campeche",
     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0llRXhic25TRWx5SmhTcXpaLTZrVVNHV2tCbDhoVkUyOHZWWV9qVlo4bm5GNDhwMzBoSTlFTTJJeWZReG1tM3N1WFB5X1pkYl9PYU1GMVRnamRkdjI3UUdFa1YySEZpNU91MU8yQVBqTUtBUlRHTm1rN3pXRGNiX3NWWXFBN0FSMS1pb281aWREMjE0UlpWaVFIRXZHS05TV3MyOGJ3Qm5rc0ZyYjlxX0VRYkoyb3ZLc1JvMnVOX0JPblY0X1FsbjJkT2FrSlF1NEwyclhYX1VvREVlUFFrRA?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTmZHdGlTYkszc1NKemg0VWhqODZpWS1TeHd2RURuSmNfTEc5dTU2bmo3RlpiTl9ZUnF1THlXZ05hUmtTRFRnOVhNWU16T1ZWbXEzS2FjNkg4TTVRdDlPMWJRc0p3WWxMZDI3OEZOZEI0VnVDYWZ3b1prbmtmMjhiVmxnRm9mOEZWVEl5RGlMdVpKQ29wdmdudWRLNmJwd0JIWWk2UVlJT0RoWjN5eGRjWjhtaWtDTVpVNG81LURjWEp0UQ?oc=5"
    }
   ],
   "creado": "2026-10-21T04:29:58Z",
@@ -282,6 +286,43 @@
   "creado": "2026-10-21T04:29:58Z",
   "metodo": "reglas",
   "id": "2026-10-20_champoton-2"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Hombre pierde la vida dentro de un pozo en la colonia Santa María Chuburná de Mérida",
+  "p": "Colonia Santa María Chuburná, Mérida",
+  "estado": "Yucatán",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnBqQXJEcHd3UW5XaFItdVdLLUp3RkJfbFJaZnpfbEZvWXZFdTdwWU9qNDVSZzRFcGJGYmlINkRNamZLX1VfeVdkZGkydmtCVjNJQ0ZmNWV2T2dTRGtTbTdxVU9BbzFWSFhWeHZoSTB5ZlppRzRjOVhGdHFaQjN6TkduYkdRTDNCYWtvcTVGVlVPV19DZEMtcW56Rkw0ZEVpUlN4ajFUdG1ZcERvV2dwOGw5MUxkSmdXTGxCdWNsN2hIZ2hFeUl6OUVWQXpqYTg?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T10:00:42Z",
+  "metodo": "reglas",
+  "clave_lugar": "santa maria chuburna",
+  "id": "2026-10-20_colonia-santa-maria-chuburna-merida"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-06:00",
+  "t": "Inundados otra vez: Corriente arrastra a motociclista y agua atrapa a familias en Siglo XXI en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRmNWdV81TVQ5V0NCZE1hNE5oXzdFcGlhRWtwTW9YTXVpR2NsYnJ4bEpOMWhXajduR2tIZ2F1V0xHRExNOVNPS3F1aDF4dGJpVWJwTG9zWHdXVHhEUWc2ZnZBLURkOGZIcHVFQmtWZ2RxQ0JkblpFbzg0TGFoUkZxUWZ6ZWxYWUJXS1hXcFJWZzNRdkFad3BEaU9uc0FXLXZuR0ZWZzNnY0dJUGtHbnBxWmUwcUQ2d1FSX2xteXZDNnJmTzRfVmY1TXhn0gHPAUFVX3lxTE5SNU9MQzMxOU5aTkV5eTBIcHRkTTcydlFtRF9zN3NiZGdSX09XUURiSWd4LXh4MXd5NFN6TTJXWGcwY1RhWW9NdUlXVTBPRUNsUlAtMjBKQ2tOZGNPUjZwUzhhakMyRkViczZ6M0ZGTWxXQVhwazVLSnhxMC0tdzc2QVBrZVpOWlY1SFJUWlltLU9QT2RNcHlJT0wwWXk0OEx0TjhlT2h1ZUFXTzNvNUVqcjZmNU5zNEg5MFlNUzR4ZHJsckd1cjRaN1p1OTVOOA?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T10:00:42Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_campeche-2"
  },
  {
   "d": "2026-10-20",
@@ -545,6 +586,24 @@
   "creado": "2026-10-21T04:29:58Z",
   "metodo": "reglas",
   "id": "2026-10-20_chetumal-2"
+ },
+ {
+  "d": "2026-10-20",
+  "h": "",
+  "ts": "2026-10-20T12:00:00-05:00",
+  "t": "Tráiler choca contra vehículos estacionados frente al Conalep de Chetumal; conductor intenta huir",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1IxRUY0ZFRQTXdwMXIzZjh1Nm52OTRTVmZDZGpwVTVVNzh3anhDbGdndFd1cjFoeDdnYWlnb01vUmFZV21oWFdvZVAxTGpaeExvNmJBdHQ3V28taVVfdnRoOVBnUi1JQUkxNDJJcmFDOEM0Y1JJdVNXQ0Joc1dCdmxqcU9ld2JWRXNfMVJGMFRXWlZLbS13blhHOURFLVFTTWUzOXd3TkE1dllQT1RmTFUyRlpsaWNBT2xIX2hR?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T10:00:42Z",
+  "metodo": "reglas",
+  "id": "2026-10-20_chetumal-3"
  },
  {
   "d": "2026-10-19",
