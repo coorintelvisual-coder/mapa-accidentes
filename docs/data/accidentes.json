@@ -46,6 +46,33 @@
   "sev": "sd"
  },
  {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-05:00",
+  "t": "Bache deja a joven motociclista en un hospital de Playa del Carmen",
+  "p": "Avenida Constituyentes, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/21/bache-provoca-caida-motociclista-termina-arbol-playa-carmen.html"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWdYZ2FaQTVLVXNwNXNmUk9vZDc4YmMzMUFTX2RRT0g3UWstX3U4WGdqUmtnYUQxbDdwbzdsbWkzSGl3QVFHT1hhWjdnNFROT1Y5ZFJXZm1EcjdaSVBZemROTUxzZkh1ZTJkdU1VSzU2WTZRMFpEUUcwS0tCbmlkcGhERDktWHRXQS1DM1FEWFhGOEdEYWJ6V1dFeWM1c20tc3g4blRCMjZxUjAtMEhNWmxJRTVEbmM?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "constituyentes",
+  "id": "2026-10-21_avenida-constituyentes-playa-del-carmen",
+  "lat": 20.63302,
+  "lon": -87.074699,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-20",
   "h": "",
   "ts": "2026-10-20T12:00:00-06:00",

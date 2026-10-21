@@ -11,6 +11,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1ZvMXpib29DeDF3Y2E5Q0N4OEpKbHdRajdCX1NCemdfeHo4ZlYtUTJvQ2FOOTNqanFHUjktV0NtaEJvMVBOSC1wNnFtRWFfNGQtVUJmQWNBdmFJZVh6dGowYnhKbThPUDdjSTNWclc1MHJSeFlxOGxZOHBZaVZuaUVPeUM0RzY1djJ1TU4zRTVmeEdRU0s5cmpqZGpteEVwa0pPcUhaVTBIWUdpT2NLWmNQQWxLZkRDc3RhWDFn0gHDAUFVX3lxTE9hODNsOWZwUElGMmZHQW9pNFpzZW83UmJINllRWldnZ3FjMnQwMlB2UUNIZmxUSFBVS0lNWTZvVGJhaFJXeGZQY1lscXdVMGhhQ21uUmxiMzZ2QzlvSG1fVmdTREFJd3MyNUpuWDRfaW01QWFEM0hOU3J6d252VU5ic1RobThOTWt2SVJPUTAxRFZ0ZFpGVVZmWHM1ZGlfbThxOE1hZWUyVWtYMzc4T1VLbnluZ1NzZ01qYWVFOHJrYl9pUQ?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOGI3Y1dBeFBWLTFYc0J6aVdJelZScVgtTTJIQWt2VkZuc0dxRS1yanJMVl80UmN5Z1ZsRjEwZVh0RUFEQkNUSDBGeU9kMXAxZlRtbkRpRnJDWVZSc3pRV0VCSGduRGxuRE9mdzc5U0dpbVlpdHA3NHh4eGp3Q3FDV2N2R0lIMktBclgtMDZnLTBWcnVMZnh2QW5LWi1rd9IBpgFBVV95cUxONUgwQUVKTGJEVmNUNVFva050c2k0eHBoNk1DemtCc0NqNzB1U0xuT2xpdVVNT05XOTVPdFp1UWgwLVNKYjhrMEVTZmJ5NXJPYmtxOXlLVFYwdXRHYWRlajZJd0NqQVhwV05HYnY4dlJJZTJ6VjA1cGF5SEJfV3JTSTBpVFdsWlN2cWRnR2MxQXhLNXFvRm8teDV3VGk1RTY4bzg3bUVR?oc=5"
    }
   ],
   "creado": "2026-10-21T15:03:31Z",
@@ -93,6 +97,151 @@
  {
   "d": "2026-10-21",
   "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Rapiñan pollos tras la volcadura de un tráiler en la vía Kanasín-San Antonio Tehuitz",
+  "p": "Carretera Kanasín-San Antonio Tehuitz",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/21/rapinan-pollos-volcadura-trailer-via-kanasin-san-antonio-tehuitz.html"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "kanasin san antonio tehuitz",
+  "id": "2026-10-21_carretera-kanasin-san-antonio-tehuitz"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Rescatan a extranjero a 352 kilómetros en altamar en Progreso; presentaba deshidratación y quemaduras por el s",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/21/rescatan-extranjero-kilometros-altamar-progreso-presentaba-deshidratacion-quemaduras-sol.html"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_progreso"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Auto fantasma arrolla a ciclista cerca de paso peatonal en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX08xdnNndV9veWdEM3BtcVhwTmNDMlRITmMtdUNQUFAyblZfUTJyaVVVTXBOUjhPMnBtbG05NDAybUNYOFVfQW9WZUZDc2RWSXBVaFNOWkVnTG1jUlhfUWpRVXVBQldpU2hKY096QVJzUUlWWW9QT3doQjdZazFmWWJrVlRNUEp0TWMwR0pjblI0UldrOGIzVEppOUM0Zw?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_merida-4"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Choque de Metrobús deja 27 lesionados en Iztacalco",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1JWaDZjMEh1MFZMdS1sN3h0UUZoTEVyR3hsamRjTnBabFRpVUg3dzJQSjNZOHE3WFEzdTlFYXFPMTZPakFMU3VTUkVISG9QN0Q5MlRXYjRQSGQ1NFFwN2hWU1BQUEs4ZVExZ052VG1fNW93X3I0aGJUOE82VkFjZGFUU2VzQXMw?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_choque-de-metrobus-deja-27-lesionados-en-iztacal"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Motociclista choca contra automóvil de telmex frente a farmacia",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWmkxRlZRelR2NkNvWU4xMFNrS2tyb19GeVVkRFpZbF9VaXJnNTY4S1g5c1EtSC02MDR3SklWZFJLQkJ1V1ZoT016dGYzRXJfNTlJMVJCSWY5bWREM08xYlh6VnVLb2tiQTNoRklOQk90X2k4N0RHZ3VqSjA4S3h2VWRWdUVERFI5czVBRjliQ2dkbm5oSlBqcWxvQlVZdm9yVzBOdA?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_campeche"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Se controló incendio en plataforma satélite en sonda de Campeche: ASEA",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Quadratín Tabasco",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUhGTmxhZkR4U0VFVEllRlpnc3g3Z1hLTjI5dGJ0QVlnemdaTzM2b3Y1RHdQdkJ6QjlRZUlhSUFKWmlkRlVJUjZiRVJxUXF0RUx0VnJOYnhreXZTZHlteEQ1M1UwM3RSQ0ZfV2hmQ1dWTnhYMjdTUnJhMDZHUGotRXg4dVFEaEFKU21TamlUdkxwa2lvRWFGSE5IVmdzME9pVWhIamNDdjZ5ZG05RGZzTURZak16Q1Y5c1E?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_campeche-2"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Incendio en la plataforma satélite abkatún-h confirma que pemex no da mantenimiento ni invierte suficiente en ",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVEhqVWRYd2FXVVFyRXBVOE1ZMml2WVNBUjgtSFRMMFp4R0E5U3RJeGViRVNxVW8zNWdFOUJtOVFpM19naWN6cmVzUzBFT1NVcGxhYmI4QURScVk1bmRvZE9IcXktSTZULTZqQXdBdEtvWS1ONGlrT3NDZkl4QkNxMU8zZzNwWmFxczZ0bTVCVHZhR2RWWjZHdno1NXR4Sy0yOHVBeDB3a3FCaHZJTXJCbGtIcmltNjdLUk12bnY0M3ExZEpETUY5T2ExOVBiOHg0NHZNTndMRTFGY2t4SU5zZWdLWGJlWmNQVTZmREFzVWJSdTFVaDNnUUpfVlhELWtIOWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_campeche-3"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Somos exige investigar falta de mantenimiento de Pemex tras incendio en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "El Universal",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbWNNam01VU5qM3JVeE5xUzZBNm01eHY1R25DREk2VTh5R2FYWGVDdU5PU3NvUjIzOEs0WWJDNElxdHE5WFM0QklrUHRNd0p3blhROFJ4NnN4R2g1SGswVDM0RExFbWxrS3FBZmd2SW5oUkVUVVhWOXdLOVFIV1NZcHladmFjU3ktdWc1MU9NQ2dObnNrc3ZWMVpGeG93OVk5SVR4MXlaV25UWjBWQnE5bnZSWWMtT1gxOVRBWENiVkgwdnFiLXlyMWF2OUJ4dnd0LWV5bjZIcGZmeml4TmxEN2NQdjVqYXZYb2Rz0gH_AUFVX3lxTFBZeFFuTzlVY3pIY2ZuRzZSYnp6TkZWb1BpdHUwNG9sNUFDbUM3ZG9KVmhjRmFldVhVTU1wSlMtbUZUTnlYSWxoSFlMOWd0VVBvQVRaOERBVUJLVUNONEN4bEN3Qk05aUNzc25PX1JRQm9iRlNhMF9JTUVZWFpsS192dGZBNzdoR1NVcWN5M05GY3p4YmYtNlgyb1RJVTNqZEVsVU9YX1ljSFZrVHlwbjdPUDdRSTZGV1RMZDNIcVkyOEdWSU9melBhOVhSeGJwSjRESldxRjR3MW5BUzNtSUQ4aFpTS0dPMll6aXRseGFaSUJRSWJseWdLbWg1Zldabw?oc=5"
+   }
+  ],
+  "creado": "2026-10-21T23:10:55Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_campeche-4"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
   "ts": "2026-10-21T12:00:00-05:00",
   "t": "Incendio de una vivienda del fraccionamiento Vista Real de Cancún genera movilización de cuerpos de emergencia",
   "p": "Cancún",
@@ -102,6 +251,18 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/21/incendio-vivienda-fraccionamiento-vista-real-cancun-genera-movilizacion-cuerpos-emergencia.html"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVERGeUtMb2NEamtiTGdISDJOZUk0ZUdjT1FyY0tKcWNsdWJka2JTb2dpbGRGNU1OeGM2RU1RTUNtS2J1QnVKbVlTUEhMS3VNeDVvM1BLRndTMlV1bjVVb2ttMHowUXJuclA5NGtFOXFVN2R6ZExYRV9EajVtU3FpcTlLMFZQVUt4bWZUa3JscTZaQXB1ekM1N2xjNEhNLXFnUkc4QWVqbmRxcThnLUwzcFNkbGw?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWTN4QkViZW1SWWpDUzhjV2VkeHZNNlU2RnhYbG9YZ2N5U0RhY3VWam9ETkV3eTd5WEZCQmJSMUNsMnZSLWtZMExUeko3NGRsUmRnMFFNRWNXTldnbGJNZTkxWVdZalJKeFRpQlpfQmtZUHRWNURFc1J3SldoNURCTUlkNHoxcnpDM1hPNkphdWRPUmhiQ1N1d2Z1MGdkMEx3ejhWaC05RV9wd9IBrwFBVV95cUxPcWNEcGl5QlE3aW44UTZkTkVWUUhoVnVhQWZiY3JNaTZ1c2RfaGo4VlQxY1ktUHc0Y1JZeGo4VWZfSmt3UnRscmZlYTJwajd3WFJSQjV5Zzh1dTc2eW5QbWM4RFpkNE9RZDFSMGlDVU9Yd0JlNmN5SUJ0Y0hfbGNmMVp2bnYxUUZ5d3EtVzc5QllhaWVzZW9sYWdXWVJMWVN5bE1sV01mdnNncUNQV0dN?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPakQ3WlNiWFBpUVVnUllFRkg0U2hPUnE0YVIxUFNhU3h3VW11bTJiUVFPVXVEQUZqam1zNFFSOGJkMzZfWDBXUk0xb2sta3RzVzBRU0ZkemFsWkFFclFmM0lHMk95dU9hYVBTcGZTMUFhU2s5WHMybHhqLUl0QXN3OFFic1FGbGItTTJVWTZmXzFRQWN2YmJ5NVFEZURsNXJGMFM4?oc=5"
    }
   ],
   "creado": "2026-10-21T19:14:44Z",
@@ -138,6 +299,18 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDBfWXpHT0wxUjJRVXN6U0pMODh4eC1icTJSb3BMalJrbFh3OC1qSVlWOFhLYVNWYjlCY0RfRm5ZYWpSRWNWUFBIaWdEeXdLWWRmUWhYNW9CZ0VQaC1yUnIydDJ0ZkZvdmVuZHk5VUxxM3hXSzlXeUdLNkVTMndQdnJBd2FRZWRRdGVCaVB6ZGpKWERHUzRxN0JmbEtGMkFhVkp1dDZvaDBBUUloTEtHaFJQZjFGa0RBcDB3akV5aFk?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/21/menor-edad-provoca-carambola-vehiculos-playa-carmen.html"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEN6YVJRblF3UGJnX3FyLXJoalFPek9yeHJ5VmtKa0N6cFgzUXdZSHBCRjhGLUZ3WDFvUmNXU3ZTdDBUUmtWd09QeTk2Z0tIYzNXNG0tQ2xYeHNEX1Z2dXpFc3Z3UENKNGV5TWhnY0VJNkFWSTdrQVJDMGtueTdFaU83NFJ6WFE0dldhOU5QWnNxRGRwanZ4VmRMNXNUU1lBUGgyOXdqdU96UHkyZXYyVWprVDMyUzM1?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMktFWkVJNTRUczBBNmdSM20zc044X2MtM3FNdF9EVUlmcXdpZ1NqSFZsMnBkTU9JUm1LS0d6RHJiN2ZJaFVOcE1DVzYxOWJoZ25zdk1HamsyN2tETEttb1hwMlRyNFZuN1NHc19oOFJnMWpxNkI5MHZZNVhvOFVtRm5hVG16bzB5MjJ1RQ?oc=5"
    }
   ],
   "creado": "2026-10-21T19:14:44Z",
@@ -240,6 +413,10 @@
    {
     "n": "Sol Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdmJ4dnpPZlNldW5hdjdid2VMckkwenA5Rl9XVzA2c3NlRlpBNnBNcVh0ZWpHTlkycUVqc0xLb21sX3pqaXBfOVVhQlZvWGFEbmJ5V0JLTDRTVG94UzFuOUFGZjFEMVd6anJwdm9MM2U2SExWTXJuSHhYRjZ2YVE1WG9CaXBHbmxQcjBV?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVM1TzRnRVNlUVY3Um1IRnNibE14VjFlSjV6a1NCaTFNZ1RBcWNrS3JsRnFfeXJZcEdDUzcyZjE4NEpJRkQxZ0RDdkEtUkJhYk1pMmFoNnRrSUpYU0wtTnVFS1FjdDJHUlE3b2lFTVVyQzluc0ZiMVlEWEc1WkpHOGo4Qm42RlBwY2YtbUdtUXhVT3duV0dsN0hrQVRPNlVVUU4wcjVoZHROVjlfSUNUa0xaX084RFN0S2NEUy01V24?oc=5"
    }
   ],
   "creado": "2026-10-20T19:08:46Z",
@@ -471,6 +648,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnBqQXJEcHd3UW5XaFItdVdLLUp3RkJfbFJaZnpfbEZvWXZFdTdwWU9qNDVSZzRFcGJGYmlINkRNamZLX1VfeVdkZGkydmtCVjNJQ0ZmNWV2T2dTRGtTbTdxVU9BbzFWSFhWeHZoSTB5ZlppRzRjOVhGdHFaQjN6TkduYkdRTDNCYWtvcTVGVlVPV19DZEMtcW56Rkw0ZEVpUlN4ajFUdG1ZcERvV2dwOGw5MUxkSmdXTGxCdWNsN2hIZ2hFeUl6OUVWQXpqYTg?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWhfNHNLVEFVU2F5bkF3ZWJ3MG5BQ09GX0x0dkFTUWdQd3Q0MnRFLTFvZ3R6ekZDbDlwS3YtbDhTTGtZeHZFVUk0V1AtanNzV09ZQ0VjUzBQX2xLb1BGX1lmYXFiMjhLM1pMck1MZTlXU0dEa3FnODNScjVpZ3BmR0FNeUVJZ2tIdkhJQkRuUmJwWTlqZ241LUhKZEUyZ3Nra1oweDhwTEtCOU5ORzJvZjBR?oc=5"
    }
   ],
   "creado": "2026-10-21T10:00:42Z",
