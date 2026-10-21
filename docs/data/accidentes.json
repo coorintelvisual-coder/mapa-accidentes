@@ -1,5 +1,51 @@
 [
  {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Automovilista no logra frenar y choca contra camioneta en Campeche; daños superan los 100 mil pesos",
+  "p": "Avenida Resurgimiento, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/21/automovilista-logra-frenar-choca-camioneta-campeche-danos-superan-mil-pesos.html"
+   }
+  ],
+  "creado": "2026-10-21T19:14:44Z",
+  "metodo": "reglas",
+  "clave_lugar": "resurgimiento",
+  "id": "2026-10-21_avenida-resurgimiento-campeche",
+  "lat": 19.835938,
+  "lon": -90.552543,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Conductora intenta esquivar baches y motociclista termina chocando contra su auto en Campeche",
+  "p": "Avenida Miguel Alemán, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/21/conductora-esquivar-baches-motociclista-termina-chocando-auto-campeche.html"
+   }
+  ],
+  "creado": "2026-10-21T19:14:44Z",
+  "metodo": "reglas",
+  "clave_lugar": "miguel aleman",
+  "id": "2026-10-21_avenida-miguel-aleman-campeche",
+  "lat": 19.855506,
+  "lon": -90.521308,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-20",
   "h": "",
   "ts": "2026-10-20T12:00:00-06:00",
