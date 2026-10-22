@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Derrape deja a motociclista gravemente herida en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTJwaDFLU3NvMFpmelJTRm5odFJHM1NvSEZWbjlZNmVEczlhQ1lhd2JZS0VCSkQ3QkY3dWVKRHpoRHVuMXdLMnhnMWpuLUJmR25RUFRiRGk1TDNrNnhtd0dfeXkyWEJEcllGUjM3WUZVZTFrZ3o1VldDR0xEeWRfRHV2UWZHMXk3TTZveNIBlAFBVV95cUxNOUhEcFVFNlQ4cExaaGlBUHE3VDRzUGY4QTZTS0NPeTYtelFodEVnT0pfdlFPVjFjTm5UaWYwVkxMbUcxYlJWV2puWGpMelVPVDFMNW8wNVhRaVJ6UThmTTZ1R091RU82akxvczQyWV9HRUNXVlFTV3pNc01DU090cXYwRkx6bWdxbERreURxVzdmRlIt?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T15:03:48Z",
+  "metodo": "reglas",
+  "id": "2026-10-22_chetumal"
+ },
+ {
   "d": "2026-10-21",
   "h": "",
   "ts": "2026-10-21T12:00:00-06:00",
@@ -88,6 +106,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWXdtSkRaN2xkSEJ4WVUxZk1UWXRIb212WU56aEdHcmRoR2VwaUdQUlU1Q2l1dHNZbXk3UWpnQlRYNEtSV05yUkJlTFJpemhzR2tZbURJVU5sXy1SS0sxY0RyamJDLU9jVWx0MkgtaHZsUnQwb2txa0dvZnpKbWk0TXhSNkhWSFNWOHNGeWtHaThTN0tmVkt6V1VlbXpOcHpaNEgtbV9NamlPS0FxRGpRS1ZGY2ZSZVMxbnR5TWdZZDY4R1dpZHZ6LV9rVjRmRDRRdHNCOTIzNA?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazFnZ0FhLTFtUkhGZWs5YmRiZUhWWHRreG55QTZrbDJVOVVTMERoZFhKRlZHb0FYLTFaNVlpQjF3am9OMHRqOGFuTVlqejFLbjhFRDNEWHE2UFBESGNyWHI5LVQwaUxWZzhHcjFJaWdGRFVPaU9IaTVsS3M1RUtpdzFwZ2tqYXRVQ3pBTEhLdTk0RU9aaWMxZ00zMGhtNVhPNVhaYVBJdnZXVTFfbWc0WWUwRkV5bmg2YVE?oc=5"
    }
   ],
   "creado": "2026-10-21T19:14:44Z",
