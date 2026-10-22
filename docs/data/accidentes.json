@@ -1,5 +1,48 @@
 [
  {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Atropellan a dos mujeres sobre la avenida López Portillo de Cancún",
+  "p": "Avenida López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/noticias/atropellan-a-dos-mujeres-sobre-la-avenida-lopez-portillo-de-cancun/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/22/atropellan-mujeres-cruce-peatonal-avenida-lopez-portillo-cancun.html"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeEJsUUJNbzRWeDZLYVBCMUZVd3hkLURHOVBlSUwxZWczMGt2SXdfczFZYTB3elc2Q3NWaFM3bmNYa2p3YmJOam1iekFUdmUxd25DdlhKTVQ4RmotaEl5b0l6RkdyRzVudEdKUDlBeXdNd0JGQjVhOE9UXzhHMUdmQmdfWk9mazNFblRtX0NEbkdyRUFmdEJPQg?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdW1fUmd4NXBPYXNaX1JndkNYdmxlXzZVODhUcXpIMDJSNXRGU2N6VG50R1M3STJQcHh6dThlRmVEb3A5QnNfVUpQbXlYSzVSWW5MM0F3elVXLVcwa0pMTnRxZDlNYjNjRHhaUzEyWWl1UEYwS1d4OEtKRDdRV2x2ZVdlcTIxQ3FBVFFhTzlWc3NGeUZ0dTlwdks3ZzlERDJlYkpoRW9OX3BOU2hHem95aENKR1ZtUdIBlwNBVV95cUxNMWtaM1d0MnVsellWUGhzV0FMXzhYejB5UWVsd052VU9wQ21hSDBMT19JeU5XV0FlVWlfc19RV242WHh6SzVVRkhDMzd4MjhMVHAyM2VBbU5rNWdDcXQ2YVRIMkdoYUZQZjY0a05DQ0hnamRFRkY3ajN3ZG50ek9mU0tXV2hScmlNM2ROWVcxbjZOeW1jV0d5MHQwUGwxVmhfWUliVVVtY1JBVnduZVJrVzhidGVLN3dpcG1JZDIxRTNRNmxVNHpRcnRHa1FWM0lwYl9sN0tudVRFUkhGSFFLYm9PRm5EVVBkd21iUDRCX3l0YVJESzVIRmJYTEVtSGNVZXNYQV8zaEtjN3gyS0NPX3kyRVVxMkhMSHppZzc0MElWQ0RHV2djQ2hGcC1sanE5ZXVNVWlMRXRFYlNkbUlrcUpsR1J2cnJWVHlZeEdBRXU5cW81QnYzd3RZb29xQmRkNGVOVGpnb3d6bWpneTBpZ21wRGZhSzVLeXE0ZWVKcHVJSmNEb3otVXQxVEMyeDBTNmYzVnVqZw?oc=5"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGNIa3U0MEJnVGpPZWpnalNVNEtwcUllbTNCbzRPSTgzSlEzd1lXazV4M1ZyNF9QRW8tRkFSbUJVdHlWTFhhT2oxYTlVazFDRXhicmliVlRRUUdKWlBxS1I0blJQb0dTa2lJeWJLcW1oX0N1bk5rY2V3Q3ZJc2hzWDk5QUYwU04wc2JTUWZEQUQ2UlpqWU5XUk1qb29iQTdSTVE?oc=5"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa2pjTzROa1hLRGpqdkNUU2M0TjNFM3UzOW1yTElUQlRtTExQZ1p0dFZDU2dyZlgyVzZPSGZ5MFk5bGF4OUxVTGpLci1MeUpobHl1dDR5ZDFLMUdQTUJjUEpKc3BkZUo2U0stdkc5VFVHU19wSE9pcXd1SDgyeTlQY1hKdHBUaVRPSTgwcGRlaklGRFNJVnBGeWFTNGtTSGRUM3hranMyZGFISVFfWmVDS0UwbWxIaU41bGtLNU9xTVltY09RVTY5RDNSWnFzUDg?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T19:10:27Z",
+  "metodo": "reglas",
+  "clave_lugar": "lopez portillo",
+  "id": "2026-10-22_avenida-lopez-portillo-cancun",
+  "lat": 21.150418,
+  "lon": -86.874437,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-21",
   "h": "",
   "ts": "2026-10-21T12:00:00-06:00",
