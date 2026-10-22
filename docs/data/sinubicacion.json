@@ -21,6 +21,25 @@
  {
   "d": "2026-10-22",
   "h": "",
+  "ts": "2026-10-22T12:00:00-06:00",
+  "t": "Aparatoso accidente en la carretera Carmen-Isla Aguada deja una moto destruida y dos heridos",
+  "p": "Carretera Carmen-Isla Aguada, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/22/aparatoso-accidente-carretera-carmen-isla-aguada-deja-moto-destruida-heridos.html"
+   }
+  ],
+  "creado": "2026-10-22T23:14:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "carmen isla aguada",
+  "id": "2026-10-22_carretera-carmen-isla-aguada-merida"
+ },
+ {
+  "d": "2026-10-22",
+  "h": "",
   "ts": "2026-10-22T12:00:00-05:00",
   "t": "Derrape deja a motociclista gravemente herida en Chetumal",
   "p": "Chetumal",
@@ -53,6 +72,42 @@
   "creado": "2026-10-22T19:10:27Z",
   "metodo": "reglas",
   "id": "2026-10-22_cancun"
+ },
+ {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Conductor se distrae al volante y termina chocando contra un taxi en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0RqRU1xSFB5SGRQOExWSk5pWWtGVXFvWG1Rd0cwc3hPQzNHdTJhTjhjWmV0ZlBuNFNmekpYVUt5MWdXWFE1WGRJSEFmenltV1ZPMUZTbmgtLXpyLVR1ZWJscGdaUUNMQnRRcUpiSzNRUndCS0VBRF9xNmQ4WFVMWlBXOGhKaXBGeDZWOTJfMU95UW9URkZuQURn?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T23:14:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-22_chetumal-2"
+ },
+ {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Capacitan a 200 mototaxistas en Cozumel ante aumento de accidentes",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2twVEN4Y3lSa0l2eG9qbmgzOWNFOGhXcl9haUV1ZkxtQ0pHcGdiWGlmbEJvMTF3WlUyV0xDckVYTWNabWNPVk4xaEhwdTZVUXF0THZ4dmpWN3BlelcxMlZUVFVRdl94amdBVTFjRFAwUGVwSEJGWTZqeWFBOUlTeWd4NlhkSng0eHVzZm5fenU3ZjNfbHhLbkFUbzhYc0Z2U09FeVB2WQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T23:14:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-22_cozumel"
  },
  {
   "d": "2026-10-21",
