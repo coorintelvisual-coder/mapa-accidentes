@@ -125,6 +125,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/yucatan/sucesos/2026/10/21/rescatan-extranjero-kilometros-altamar-progreso-presentaba-deshidratacion-quemaduras-sol.html"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXBIeFFBR1V2aFBJRXZWTm9BS1Q3VnF1SnFieUp5b3VFaU1hd09STzh2T2RNR3RLUkRMSHliN0hZZEFTTHZGbG5odlM2amR0aVBLT3hMdE9LOXZNRHpEdzZpZXcxVnFreU90T0Y5SEM3azVfbFh5aUhlWkNqR3ZVc0JPci1hYU9P?oc=5"
    }
   ],
   "creado": "2026-10-21T23:10:55Z",
@@ -242,6 +246,134 @@
  {
   "d": "2026-10-21",
   "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Persecución termina con un policía lesionado y un detenido en Cerro de la Eminencia de Campeche",
+  "p": "Fraccionamiento Terranova de Campeche Una persecución policiaca",
+  "estado": "Campeche",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/21/persecucion-termina-policia-lesionado-detenido-cerro-eminencia-campeche.html"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "clave_lugar": "terranova campeche una persecucion policiaca",
+  "id": "2026-10-21_fraccionamiento-terranova-de-campeche-una-persec"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Choque en el Congreso por presuntos acuerdos de Yucatán con Israel",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ01OTXdobDZVU0swY2tJa2JlWVNaYUtpY3pjLVV0MXAyWFBYbDZBRFgtOUxldUkwU3g5WXpqRkdWSk9BNDd3bXFoRnhUNEluX1U0T0lkR2dmVmNOZGxNQWREU3BUNlVhTjE0cnpLWERtVkwwX1NURWZGaGd3WnY3T2QybUVHWF9vZ0tkMTZtTUptWmxsWTRaWmZYYkxsdWRTSUMtNGUtWWNWaG1YVmxVOUstLU5ha3c?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_choque-en-el-congreso-por-presuntos-acuerdos-de"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Obra en el nuevo hospital en Ticul registra segundo accidente laboral; preocupa falta de seguridad de los trab",
+  "p": "Ticul",
+  "estado": "Yucatán",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbDhlQTVCVWdNb1hmQzQwbWVFOUNEN1p3cHlWQmhHUGdMNmg1STkxX2tWU2NCeFFpSnZwUHlCQmp0YjFBMDdtaE96U0U3dG9qRVZBdHQ4anhsNV9Ddl9oNkF2dlQxeXJ4SWxNR0pmMW0yWFRBOV92bWFlTk9CbTZHamI1Z3d2eHhwZkI1bnU2YmptVXpsSV9Dd3Jpdng0bUN4cnEyRUJvVV91QXAyU1VPZElTYVBIaDFySm9xREhSWUloUzRsVFU0YzRYUllwVGl5WVNWeWxqVWVJcFRlV0ptNVZIcTBaMEdJZy1PNVlGQmhpeXZJZEpOTWU2QTQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_ticul"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Dos Motocicletas Chocan en la Colonia Santo Domingo de Tizimín",
+  "p": "Colonia Santo Domingo, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbnU4YlBGdV9Qem1VUFVuUFBtT0t5dzREUzFtMXNiMTN3OF9YSW14cWM3dzZhYU5CUGFaT3paR2d1SlMxRmVXRUhlZjFEOWVKMk1PVllqbnNXaS1pR19tQlNlNmR5bGp6dmVFMTZrRDZMNmRQbFBpNkRTNkFMMkZRRXJUaGl5LVl5OGJGdmlwUklWcVU?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "clave_lugar": "santo domingo",
+  "id": "2026-10-21_colonia-santo-domingo-tizimin"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Camioneta Ford Arrolla a Dos Motociclistas en Tizimín; Conductor Termina Detenido",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmM4UzNKQnRRV2dWWVdBem43MkNPRnRYR2dEN2NUeGFUeFp3TVJoOHh5NlVhRHB5NW1zS05qUG9xZldVaFFndXlhUkxJVnUwT29KbDcteFQ0bm1EUnl3WVhnaF9obU85cnFrejluTEtrQzVkZWMyRldneW1MSUJ4QWlOcXZKWnVUSjhqWlVyZVRaaVVLck1xX0Fpa1Zmdl9yVEF0VVZsVUVrQ28?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_tizimin"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Choque entre camión y auto en la Esperanza deja dos heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdW81eTZ6RXQ5ODNJSDdwcXF5dWZBd05QX3hjZkVuZE9rU2VOU3JlYVNtcERmZEtuMEZpZWpLZUdFYXpURlk3NFRYankzMU1GNWtYbjFkejZzbUpkazlCS0FMWWRpR01Gc25RRDlpWWRndFZURjRvYTJvUTJlZGxCaVYyaVF1SGRNdXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_choque-entre-camion-y-auto-en-la-esperanza-deja"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-06:00",
+  "t": "Choques vespertinos en Mérida: conductora no respeta señal de alto y camioneta es abandonada tras chocar",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUnRDYWd6UTdfbEFRdEkzaHNmTnRfaFpnUy1UMVZ3YTl2RUdoLUY2ZUo1Nk44cGFkZTJvRFF3Z1Bid3FNMUZITjVDV2I4SlFnVDRYd3FieUtIS2IwVE1HbzJFdkpMWHhPYVRUVUZkS041NnFUTldvWV9NTV9GeHNzTnF1NXNkRlJLVnRIbFdhUmVIaTZFYTJGUVdOQU5fT2FXSzFFbjQ1eUxCRHBQUDB2SzhGQ2hyb2tFSDNRaE5HX1dna0JsTEczNGFFUGl0VG1Xb1kxaFQxbmc3aXF1dW5LLUY4enk4Y3FW?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_merida-5"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
   "ts": "2026-10-21T12:00:00-05:00",
   "t": "Incendio de una vivienda del fraccionamiento Vista Real de Cancún genera movilización de cuerpos de emergencia",
   "p": "Cancún",
@@ -311,6 +443,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMktFWkVJNTRUczBBNmdSM20zc044X2MtM3FNdF9EVUlmcXdpZ1NqSFZsMnBkTU9JUm1LS0d6RHJiN2ZJaFVOcE1DVzYxOWJoZ25zdk1HamsyN2tETEttb1hwMlRyNFZuN1NHc19oOFJnMWpxNkI5MHZZNVhvOFVtRm5hVG16bzB5MjJ1RQ?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0M2NpS19FODZrN1JveDBVdm5LcHFHWWV6RXJyZjdSY0c1NVhNbEk5TDZmbDRqQk9wU1VxM2s2dlozZ0h1MTNGMTUwMThxSHJhNjF4T05vWmliT18wVWpkY2NOemx2aW9KdGhsUmVielU2a25tZXlJX1dVWVpmdw?oc=5"
    }
   ],
   "creado": "2026-10-21T19:14:44Z",
@@ -335,6 +471,78 @@
   "metodo": "reglas",
   "clave_lugar": "felipe carrillo puerto tulum",
   "id": "2026-10-21_carretera-felipe-carrillo-puerto-tulum"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-05:00",
+  "t": "Bacalar Registra 74 Accidentes Viales; Anuncian Segundo Semáforo",
+  "p": "Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGpCV1FhOUd6UE5PSmRCZER6cmRxNkU3bWtrN2NBcmMwWkhmYUhuaDRSSzBBZnV3Z3lpNlRiUGdBQUR5QVFCaVE4bHZDTjhjTDV4M0lyQjZsX215TnZYSU15WUN1R2hTbzBrNlB4MWNfX1hBQjQwal9XQWxVcDZFUnBsbVFpT1kweG90UzM5NXFuZkhw?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_bacalar"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-05:00",
+  "t": "Chetumal: Mujer termina gravemente lesionada tras derrapar en su motocicleta",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1BDY0FmOHJEVjAwYWtIbGhDOFFqWmtjSmxSOHN4UkZjaUI2aUpscS1uMkVqR1hlWDNUWTFKcGJ0TkR3MU44M0VlQktJYk5GR0E3WjBrRkFRZ2MtajhGNnVkNi1SXzdZX2JoTWpiRl9seUd3VnR3TGhUN3h2ZHJ5VkZ0WDZOdUdiTFFySjRkcmVvdw?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_chetumal"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-05:00",
+  "t": "¡Incendio causa pánico vecinal!",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XMVBlUm1kM1ZaNEh5V2VOMDA3RHZ5OS1FbDJBN0tqMU5lZ2Fldy01U1hrcnJ3czZnUGpab3pRRHhwdko1WWtNVE52UHRlVkhXTkY0Tkp4U0MxLThLZThKTmZYZFVOdkXSAW9BVV95cUxQV091OUM2em5ZbWIzejZaMlh5UGRSbUxpaFBMb0Y4eDVFdTFkbGlNUlZReFdRWGJaTF9Ebkhka0w4bjJ3RG5NNXVhRHI1WldzTWVCWnVjdkotQ0tlMzFlTURFajVUbWhZTTMtcnVQM0U?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_incendio-causa-panico-vecinal"
+ },
+ {
+  "d": "2026-10-21",
+  "h": "",
+  "ts": "2026-10-21T12:00:00-05:00",
+  "t": "Choque de Metrobús deja 27 lesionados en Iztacalco",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Quintana Roo |",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV0JTZDJRMnpRdWkzdF9KeTZoSWZKdS1BVUYxbEdIUWVRV0lzemNKeHVaV052Y1pwREhQQWVCM1U1Tk05QThzNVd2dUxJakJkSWZUSU9EMDZSZ0hlUkpxUTk5TnhJM2dYNzhMZGY2Y215XzlteVQ3b254djl6cnZPdlltWXo?oc=5"
+   }
+  ],
+  "creado": "2026-10-22T04:28:25Z",
+  "metodo": "reglas",
+  "id": "2026-10-21_choque-de-metrobus-deja-27-lesionados-en-iztacal-2"
  },
  {
   "d": "2026-10-20",
@@ -482,6 +690,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/yucatan/sucesos/2026/10/20/muere-motociclista-presunto-impacto-camion-carga-via-merida-uman.html"
+   },
+   {
+    "n": "Canal 13 Mexico",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWS1lbzN0MFVhd1oxdW1ZUTBmakdyZkFyRXNBWmc5SHo2MWo0MHZndVdmN2s5dVp2NGRlZW9fdTlHb1d3Z0VaTS16WmdjYk10RGx3Z0xVS0RkY2cxdVB0bHp3NzdpT0UwMi1TZzVYVXFmRHRCUW9tOWI4WTRFeVM4U3lXdDcxWDBOVmJnRlcxdkVianZ5UTRRX3lZTWZWdzhTaGMtaGlXVXNiSEM1dUFjZlE3Ym14cUZBa2FJ?oc=5"
    }
   ],
   "creado": "2026-10-20T19:08:46Z",
