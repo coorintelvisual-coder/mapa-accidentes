@@ -1,5 +1,69 @@
 [
  {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Aparatoso acc1d3nt3: Conductor que viajaba con su perro se estr3ll4 contra tráiler en la carretera federal 307",
+  "p": "Carretera federal 307, Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/aparatoso-accidente-conductor-que-viajaba-con-su-perro-se-estrella-contra-trailer-en-la-carretera-federal-307/"
+   }
+  ],
+  "creado": "2026-10-23T14:55:00Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 307",
+  "id": "2026-10-23_carretera-federal-307-felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Persecución policiaca terminó en un accidente y con personas detenidas en el Puente Nichupté",
+  "p": "Puente Nichupté",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/23/persecucion-policiaca-accidente-tres-detenidos-puente-nichupte.html"
+   },
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTREbGpJYjVRQ3JQVFdrUDgtbnBJMHJqTzdCbmZwSXd0TGdyYWpJQWdVN3VDOE53VEljMUtmZXhiaGdzZktnd0EzLVU4a3I0MDc0NU1odWlCNUlVN1Zoa3VPMktFcmVJLWt5LWpaZ3hFa1lsSFpyV0ltdExyTmZzeE9tTFcxcG5yR3ZWX3hEWFppM3VVX3gySw?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVJMRGlCcFNYRGNucHZoSE5fRHFZYWtqTEd2dkV1Wk1tUERuSHJLdE5OMFFnNGxQdXBuU3N4TjZBUG1taXhXUmp0ajVBX2NHeXJ3MFRxSWRYNS1PWEdHM25vbTZCTTRCdWtRRlJISWVPeWU0bENOSDJlcVd6ZjA2dFpZWndMNE9YSUw3dzA5aFM0OTZMOEF4cnN0bzBnUWdyQ09r?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T14:55:00Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente nichupte",
+  "id": "2026-10-23_puente-nichupte"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Caída mortal en juego mecánico",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MlJpWm9JMDBwdmlZYS1neGVCemNtSHVDamEyekhBRG9RZHU2ZU5leTNkMkRlY3FtQnpVMDgtS195X1VWMUtIX0JORlk3R0ZRYzM3bWRuUEdhMVVGSVFvYTVvLVBzalN60gFwQVVfeXFMUGpGSFB5TUUyb2g1dVdVVXRBRDBOb1RoRTR4c3hkVVNTMFBxZ0xnZDlKUERGZWxKaWZvbHpRSGF4UmF1a3pyaUFiSUNoZDBWcTkzYlpBSVlvWUNDRVdpSUEyTHNtUDVQN3BWTlFzOElJRw?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T14:55:00Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_caida-mortal-en-juego-mecanico"
+ },
+ {
   "d": "2026-10-22",
   "h": "",
   "ts": "2026-10-22T12:00:00-06:00",
@@ -149,6 +213,24 @@
   "metodo": "reglas",
   "clave_lugar": "selva",
   "id": "2026-10-22_avenida-la-selva-cancun"
+ },
+ {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Incendio en restaurante Los Tarascos de Cancún moviliza a los bomberos",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORUVFRUlXQ043Z19jSENocGtVWkxKd3YxZkZuZTloNWgyc2VQM1h0UXJTWUdGS2dfMkVoSUxIRFI3VXZlY2syeGlEazE3Q1Z6NzhMLUhuLWZvaTZfbnFTR2N6cDJQaTQ3dmlJb0F5NlI3eFN4VERDc1BDNUN4UVFDZUl3enJwY1gweDFoWnJXQXVaUHpJdlJkNF8yd29oOVowYXpudnFyZVRHZw?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T14:55:00Z",
+  "metodo": "reglas",
+  "id": "2026-10-22_cancun-2"
  },
  {
   "d": "2026-10-21",
