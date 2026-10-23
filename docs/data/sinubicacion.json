@@ -11,6 +11,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/10/22/automovilista-embiste-motocicleta-entronque-china-heridos.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZVaU10cmNQOGE5b2lNNGpuQmozZkZ4Zm10RlpKc2NqV3dLaFFFX3p2Y2YwRkY5NlJSdVNqU0JuV2NNWFhDeTBHSGtoQTBqTUNyOWxienRRZ2NjVlBXUEtGdXZ5NVdJT2NSTnZNMlJ6aWhZZkxMV0lUR2FaMkhKdjdaYWdQdElLTEE1cGdqZlZfNmFlOElaWkMxQm5QVVpRdWszQUY5NjZQTGIzY3VackpJXzRhcDhjVERSWmFyU0Ezdw?oc=5"
    }
   ],
   "creado": "2026-10-22T19:10:27Z",
@@ -36,6 +40,24 @@
   "metodo": "reglas",
   "clave_lugar": "carmen isla aguada",
   "id": "2026-10-22_carretera-carmen-isla-aguada-merida"
+ },
+ {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-06:00",
+  "t": "Rescatan a tres pescadores tras naufragio frente a Yucatán; uno sigue desaparecido",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "Golpe Político",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTV6TU1nUnFhVnI0czBqamF1VEk0VXBLTllDdDU5TEFSSFpvZEFVbW55Y1YtQ1ZlekYyY1lyV0N4LVJRVGNpNlQxNmRDc01lcUJjbG16X3JzWjhUV0d4RGhrVkRtY1ROMnRNUTFmNXdlZEZSMXdPejBxWEprbTNnQ0FrTkRXT1l5dnh4NXhITkRmbHFwR1c2UktWdV8xNVVURVRSOWlKZ2ZlNThOQ1ZjVTg1LU1qV0xBX3Ew?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T09:55:45Z",
+  "metodo": "reglas",
+  "id": "2026-10-22_rescatan-a-tres-pescadores-tras-naufragio-frente"
  },
  {
   "d": "2026-10-22",
