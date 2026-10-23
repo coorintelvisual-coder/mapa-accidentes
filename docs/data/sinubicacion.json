@@ -110,6 +110,25 @@
   "id": "2026-10-22_cozumel"
  },
  {
+  "d": "2026-10-22",
+  "h": "",
+  "ts": "2026-10-22T12:00:00-05:00",
+  "t": "Impactan mototaxi y motocicleta sobre avenida La Selva en la Supermanzana 107 de Cancún",
+  "p": "Avenida La Selva, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/22/impactan-mototaxi-motocicleta-avenida-selva-supermanzana-cancun.html"
+   }
+  ],
+  "creado": "2026-10-23T04:34:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "selva",
+  "id": "2026-10-22_avenida-la-selva-cancun"
+ },
+ {
   "d": "2026-10-21",
   "h": "",
   "ts": "2026-10-21T12:00:00-06:00",
