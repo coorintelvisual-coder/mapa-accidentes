@@ -2,6 +2,24 @@
  {
   "d": "2026-10-23",
   "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "En el Centro de Tizimín, Motociclista Ebrio Embiste a Una Pareja y Acaba Arrestado",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSkwwUFBMbHlWOUxud2RuZHIzYW50WjA4Zkg2SDJlYlZKOTVrOXdEaUNCdEczOG1XNU1SSkgwUUtoUmNhRnVMWjhBSTR4N3c1M2RSVHM0bmhicV9OR3h2MnFtMHZMX1B5VzREaWtJa0toOU4ydjlCcGdRV09iRlI2Zk9MYnlXN1h6VmZGcEpOTW5BWERrOV96bjlSai1TYjBYR2V0Y0V6NHB3bTd3?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T19:04:49Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_tizimin"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
   "ts": "2026-10-23T12:00:00-05:00",
   "t": "Aparatoso acc1d3nt3: Conductor que viajaba con su perro se estr3ll4 contra tráiler en la carretera federal 307",
   "p": "Carretera federal 307, Felipe Carrillo Puerto",
@@ -117,6 +135,10 @@
    {
     "n": "Golpe Político",
     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTV6TU1nUnFhVnI0czBqamF1VEk0VXBLTllDdDU5TEFSSFpvZEFVbW55Y1YtQ1ZlekYyY1lyV0N4LVJRVGNpNlQxNmRDc01lcUJjbG16X3JzWjhUV0d4RGhrVkRtY1ROMnRNUTFmNXdlZEZSMXdPejBxWEprbTNnQ0FrTkRXT1l5dnh4NXhITkRmbHFwR1c2UktWdV8xNVVURVRSOWlKZ2ZlNThOQ1ZjVTg1LU1qV0xBX3Ew?oc=5"
+   },
+   {
+    "n": "NOTIVER",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzRKNzFIeldLbmdqWk1Rb3YtQjNyZU9oM1h2b3Fva3BnU0ZodW5TbEp4dTF5VkxkWUhEYUVoZEQ0blhwUTJPdnMwY3NMT1RaS2N3UXVDOXBoeW9mVHJBNTZRaG40QWM0ODJqQkc5U0tXeFk3bWhWZlExdnFyNktUcWx2MEVyWVlFRnFhUnlxcGlPbzJBV0tJMTRVei1MVHFXcXpJTUlBbWRWaWFISU9hSTFqZERkR0IxeU9JcU5qRldBNk11ZjBaQ3JRbENlbGYx?oc=5"
    }
   ],
   "creado": "2026-10-23T09:55:45Z",
