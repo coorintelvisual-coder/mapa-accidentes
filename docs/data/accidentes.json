@@ -15,6 +15,10 @@
    {
     "n": "El Congresista",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTZLM3RqRDJscC1yZ0QxVDFqVWtFSXhFUi15Nnh1aGtldk9lM1VaVnlKMEZpTU9NRWN5Nm9uU21oRklZeUJTLXcwcG05RVFKSy1ISTJhMG9Tb0tuakpyVU9GaHlUZm94RVpJUEFVYWpYaDBaREJ0X3J3dW0xdjhibWhLYXFGakt3SlRQSGpKems?oc=5"
+   },
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcTZOX3JkemFyRGVBdGVfd1dzV2RNV05ldWFWOU8wRGVuVWhPQlJfdVYtcS1rZl9WWjBWVXZ3RWltR0JsZ0puaDd4Tm9SUFRXQTNpQVZKT2kwbU54d3NBeHIzdDAwSFVJYUFVZEJJOFdXRjExYkdNaWd6eGlqX1hsRkd3TVpNcVdUS1h3X0ZQd2pWcFp0UTJNdDJucjA0X01uazBMbTdZWDQ0TjBGZGg4MlZHRmxVS181dXhpQW53RWwyWFc4RzFr?oc=5"
    }
   ],
   "creado": "2026-10-23T14:55:00Z",
@@ -23,6 +27,29 @@
   "id": "2026-10-23_avenida-kabah-cancun",
   "lat": 21.18728,
   "lon": -86.86798,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Camioneta termina volcada tras chocar contra un poste en la avenida Xel-Há de Cancún",
+  "p": "Avenida Xel-Há, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/23/camioneta-volcada-chocar-poste-avenida-xel-ha-cancun.html"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "xel ha",
+  "id": "2026-10-23_avenida-xel-ha-cancun",
+  "lat": 21.162228,
+  "lon": -86.835297,
   "pr": "tramo",
   "sev": "les"
  },

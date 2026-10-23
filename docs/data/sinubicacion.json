@@ -20,6 +20,63 @@
  {
   "d": "2026-10-23",
   "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "Patrulla de la Guardia Nacional se estrella en la carretera Campeche-Mérida; reportan varios heridos",
+  "p": "Carretera Campeche-Mérida",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/23/patrulla-guardia-nacional-estrella-carretera-campeche-merida-reportan-heridos.html"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche merida",
+  "id": "2026-10-23_carretera-campeche-merida"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "Se Registra Fuerte Choque Entre Motocicletas en el Fraccionamiento Vergel 3, Mérida",
+  "p": "Fraccionamiento Vergel 3, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlVldnY5SFhKRjd2bzNkQkZJUURMN1R0VEZCVFhrakU3SG5XNEVaSmlRbHFNVE9JR0NYMTh2S2lmb05pZ3Z1Z0tLRk4wQkk2cjZrUGh2MVNYOThTc0FKcFNmN1dkTllHSEI5TEVzazJJM0xNYi03Tmx2QVRLOXNMdWxRc2NVRlpPYWYtQWdQbEpWWkY5LUVLZVVsNG9ZV2RiVDMyenJ2SGVWNkhSVkE?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "vergel 3",
+  "id": "2026-10-23_fraccionamiento-vergel-3-merida"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "Vuelca contenedor con cristales en la carretera Mérida-Progreso",
+  "p": "Carretera Mérida-Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "yucatanalamano.com",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmV2MzVKTGV4bDBkaWNyaEpjNmw2bTFuLUNhbUstM2RVVXRheWtqWWw4cldUTmNHRFh6U2RqZkx1ZnNyYkNRZVVhLWp2aFJtQnRZazRpTTA4LUV2V1Zma2toVGEwZ1ZxQVdiV2RIRXVRM05fQnpzeWVzMG5JWWVKT3U0UWlsdi1QTmh6ck14MGJoZW5faXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida progreso",
+  "id": "2026-10-23_carretera-merida-progreso"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
   "ts": "2026-10-23T12:00:00-05:00",
   "t": "Aparatoso acc1d3nt3: Conductor que viajaba con su perro se estr3ll4 contra tráiler en la carretera federal 307",
   "p": "Carretera federal 307, Felipe Carrillo Puerto",
@@ -80,6 +137,118 @@
   "creado": "2026-10-23T14:55:00Z",
   "metodo": "reglas",
   "id": "2026-10-23_caida-mortal-en-juego-mecanico"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Camioneta se pasa el alto y embiste a motorista en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFlZaFpVZHhUMU9uQ21rZ19YaHRGeWdjd1NnMzVhY2JWbHRDUXNQcWRvY0UyTGVLYS12U0p4YXdzQVIzcFhmbVh4eVNqVXlYRndIQ2NCUGNkdl90R1NJaXk1ZGZwU2wya2ZHYkEzclB3M3VYU295U3FyS2RDQWx6ak80eVpHcnE3aXRyZDFOMEswTXdCbGNoNmdhYU9YbFNJTEV3REpYTjM?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Joven pierde el control y derriba palmera en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEdEbzlqbVBnWjZmT1NWSzJQblYxQjYyU0wyNGY0QTNfbHVvY3dibzl4MElqaVhHQlJaakxYcHJyMTJFLXQwZlQ5TFFwaEpmaUd2djN5MDBaVUtGVmJ4OUVNWmdleTB5SFViS040a1pPemIzUkliNnNrenY3OFBWbFhpWHZBcms2eHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_chetumal"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Aprehenden a hombre tras presuntamente quemar a su pareja e iniciar incendio en una cuartería de Cozumel",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLUJJQjQydkttR3hJTHBDTnhnYmlHeHo5aGlvNC1Oc001WFVsV0diMHZibVRDWWFrUVRpU0VFYkpILWRDTFc4NWZLU2NWV1AyYlZrQlBfWHJkTC15eW83OVdjM3ZISnBXYUNrbHJWamtzTTdoeTg3UEZHWnVrNXpFMldEVWZzOHlMWHN1M1ZWUDlVREV5WXFJQ0t2dEtrdW1UZXptSk9DTnhfWGdvUXZOTnpIcFRTTUo2Q2tmREktS3JLTWpMMHdNd2hYNzJ4Yy1fTFp5YXVTRGrSAdgBQVVfeXFMUC1CSUI0MnZLbUd4SUxwQ054Z2JpR3h6OWhpbzQtTnNNNVhVbFdHYjB2Ym1UQ1lha1FUaVNFRWJKSC1kQ0xXODVmS1NjVldQMmJWa0JQX1hyZEwteXlvNzlXYzN2SEpwV2FDa2xyVmprc003aHk4N1BGR1p1azV6RTJXRFVmczh5TFhzdTNWVlA5VURFeVlxSUNLdnRLa3VtVGV6bUpPQ054X1hnb1F2Tk56SHBUU01KNkNrZkRJLUtyS01qTDB3TXdoWDcyeGMtX0xaeWF1U0Rq?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_cozumel"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Doctor vuelca su camioneta cerca del Mercado 28 de Cancún; iba ebrio",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmNtZDlGMS10a1EwQk5KcGExSDQya0x5aXZsdTdLbWF3emJOOGMwMHZCM1J1amVsTGNKZ1FnMzNVM1BiUTRIWWZ3QVRXTkNqa3VQdnBzMjBQSVZJWWcxN1RZS0t6bGgtNTNiRmRHaF95UzNkbUhNdm52cVlnV1FNUnIzeUJKRUsxdVpLQXJLX2ViTDdkS2dv?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_cancun"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Llegan fin de semana con accidentes de motos en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVd2cE82RXNUcElhcFplMFlqV1ZQc3UwbHlPdWZpMEpFdUlNLVpnZkRzNklwQjZCeXZxZ29lZjdpdkkwbk1iNWhpV1hmTlJHaUEyYzJDZng0VlVQMFBTMjFNLWhUR0RzS0xnTm90UzBGOUxCUHVDWnFFNHVrYzFjVWQtMXZ3ZjdkRm5ROUt2cnZOQmVXajJIdk93?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_chetumal-2"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Camioneta Vuelca tras Cruzar el Camellón del Boulevard Bahía en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmoxQ1dKWTRNeTlQQWo3STJrZnFZekhBR21ILXJpRkVFck5IR1lNTGN5RFpUdnphWXpJQzNONTJPODYzZ3BOMEhGbndRd2MzNlo3clEzOF9BNTJ2TmtveElvRkxIcEoza1ptQ0otZUFidldlcmZBVVZ0SHRjSnpqdXpaMi1SdXNTRXVUbDNSaHFVTDV6WXFnZkQxa0d1VFFY?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXFzdVRyQVJFLTVHRFRCVzZjaVNkMEFUeHRpbVhNcnk3MGhmeUpTNGVuc2U3UnU4Z1l2cllNYVVLbkQ5U3loMnRYVXM3bDdOVEJLZXYtRkpIOXp2bU1VQ2E2ZUxkQ1ItUGNwWDVmYnJ3aVJKSGM3VXJkRDMydks1eWU0SXBvdjhibU5CbzFMcWZHV19obFF3OXZMYmpxcWdEd3ZLZXlR?oc=5"
+   }
+  ],
+  "creado": "2026-10-23T22:02:46Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_chetumal-3"
  },
  {
   "d": "2026-10-22",
