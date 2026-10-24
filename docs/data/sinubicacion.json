@@ -1,5 +1,41 @@
 [
  {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Camión de la Guardia Nacional: al menos 10 lesionados en la MéridaCampeche",
+  "p": "",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Novedades de Campeche",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVNGenhFV3R3M2VNZFJCTHdjQXdPbUtIZEZvMEZZb3lNNmZCMkZmeWVaMXRicDE3b3ZCeXlfVENnemNnN3M4YTZjV3lIajY5UE5OYWNULV9GVkFlXzdDY1FMMmxnTm5JYUFoYXQ0bmJTTldNMWwtVnhabGlHSzVMb2I3Zw?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T14:26:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_camion-de-la-guardia-nacional-al-menos-10-lesion"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Imputado por lesiones tras choque en Conkal",
+  "p": "Conkal",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZy1kY0lIOHFHVE1yanJpYks0NEVPeGI0MGNKb3JXeFRzRC1meTJzVDFtZXAwV1BmcnBMUVd6Q2NyTjJQUWYwMkNYbnVpX2lObDg4TXgwVXoyeU1BM21HUERjQjd3ZXNoWk1sMURjT3BNQ1JiUGV1RlY3ejl0TFdwcm5DZnBoeDlvanlXMHpn?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T14:26:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_conkal"
+ },
+ {
   "d": "2026-10-23",
   "h": "",
   "ts": "2026-10-23T12:00:00-06:00",
@@ -93,6 +129,14 @@
    {
     "n": "Potosinoticias.com",
     "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZkFVZnpDY3JVS3BqVHJJWkgwNVJaNDU3S1ZnbWtudW1BUzh0M1RXdTVaN1FibFM1WjVpbGY5blc5M2QxNVp2Y3Bhb1U?oc=5"
+   },
+   {
+    "n": "Debate",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkt4YW9mWkxzNGRjVlNndXI0V0dFY1N1WXgtZU5UZVhRaTZLdXRsVE1fMDFsRVpZaWREZ3VwaEVaSHU5em4wa2tYNTZGZUpqWlJwbURJNjhma2pmdy14a0tOdTFubFBfWWJ6UFU3OHBTVk1KLWZBMzlReFRtejlQTUNMQTk2aXFhUUlwSXpTTmFpc0ZsdVF1cUJrTS05QjZpWFB6bUlKSWNUcXNJdTFZZFBQNnBXdEdONmhNTHFGWTNUXzR4T19PTzRsOTI0UQ?oc=5"
+   },
+   {
+    "n": "Infobae",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWJXUW0yUG14WGhXZUE3WEpBTmxTT25VRTF2OWtxZHRDd1RCUFRsLXhwVlk0M25Td2lGQjJLZk9fSFVCSVpwazVILVhBeEsxcm0wYTV2MTF6cDgzQ1BwcDlvdHNpSGdiN3hkSDdNOHFUd0xodWhVZWVsRFk5UG5zWXRXRk9sSDJRQzhpNWhTeVVzYmdfYWRXQUJVV1N1SG5lMGJsOWRYb3R6bWxCTkx6TXVyR3plclBVX3hoNV9lb19laU5wUGlHQmRJODYtUEJtSUhaNUE0aUlHUzjSAfYBQVVfeXFMT29sV3V5ek9nVHhRZ2ZaaFRwRUJUYWdYWjIzRVdENFBVeGV1WlhpRElLRmp1VHIyZU9MSDZMclphRXVzX0hEVTQ1Ry1OYWNxeklIRDB1UHNmVXItX3FCNmdibk9FQkQxSjJjeThKYnhJclRyc2ZaZ2lQZkxiSDdPejlvOGRaNnRZcFJCWFVMQ1IwYzItWGZXQTFQaFZ5ZUdKTEdkdTlYVC1kTGZEc0NVVkdFajdWSjRTSWozbEpBRWkzaU1UN0lfMDhCbGtCREV0VVZDdmtQWVpPaGZ1SUxXQlc0QzdrX1RfQWlOS21mVE9NcllxRXVn?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
