@@ -2,6 +2,29 @@
  {
   "d": "2026-10-23",
   "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "¡Auto en llam4s en Yucatán! Un vehículo se inc3ndia en Prolongación Montejo, a la altura de la calle 30, en Mé",
+  "p": "Calle 30, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UWjJhczRaNVBCUk1ZYUxsd3ZnVEd5SjZVR1Z6bFowNVBhM2xNelZGQmFZSkhFX0hPd2JCNTl5aWYtUHpDNUVOaVQ4TVNiXzBlWTlSYVZn?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T05:40:23Z",
+  "metodo": "reglas",
+  "clave_lugar": "30",
+  "id": "2026-10-23_calle-30-merida",
+  "lat": 20.967112,
+  "lon": -89.658747,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
   "ts": "2026-10-23T12:00:00-05:00",
   "t": "Camioneta vuelca tras choque por pasarse el semáforo en la avenida Kabah de Cancún",
   "p": "Avenida Kabah, Cancún",
@@ -51,6 +74,29 @@
   "lat": 21.162228,
   "lon": -86.835297,
   "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Cuatros lesionados, daños materiales y caos vial fue el saldo de un grave accidente en la Supermanzana 217 de ",
+  "p": "Supermanzana 217, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/23/cuatros-lesionados-danos-materiales-caos-vial-saldo-grave-accidente-supermanzana-cancun.html"
+   }
+  ],
+  "creado": "2026-10-24T05:40:23Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 217",
+  "id": "2026-10-23_supermanzana-217-cancun",
+  "lat": 21.10226,
+  "lon": -86.765321,
+  "pr": "colonia",
   "sev": "les"
  },
  {
