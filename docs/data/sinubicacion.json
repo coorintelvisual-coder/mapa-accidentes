@@ -11,6 +11,22 @@
    {
     "n": "Novedades de Campeche",
     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVNGenhFV3R3M2VNZFJCTHdjQXdPbUtIZEZvMEZZb3lNNmZCMkZmeWVaMXRicDE3b3ZCeXlfVENnemNnN3M4YTZjV3lIajY5UE5OYWNULV9GVkFlXzdDY1FMMmxnTm5JYUFoYXQ0bmJTTldNMWwtVnhabGlHSzVMb2I3Zw?oc=5"
+   },
+   {
+    "n": "INFO7",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGVqMEdRZWhiQnZjQVVyT1llcFdTWFgtbE9rT2JMWjA3QmhpRUY5RnVjd0w0Q29Na0FPUXU5VlNpQlVJYUJjWmRqT3BpaUxvd0FtN211QVppV2QtSWVkbWJaajBJNVcyVlRyXzZPX25wM25pY0l4eWp3ME52ZUJNazJVVnFmdjZfVnJDdXVaOVlYYXhCTVhxcDNCVVBCVGhvX2c?oc=5"
+   },
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVFZDQVdTdVZITTZkaWR3MDZjMTJUWURBeVJhUHZvMFBPVWhjN2hwWEd2N2dPc2R2SzJEaEJtQ0E3WDFFZE9QRmJiTjFjZWJjZHkxc08xajlyQmpMNERGTlZBcTZINk5oOVMwR2szcTY5NE1JNmwySjBGTjZJOUV5bEZuNkRRUkFJa1lsSUktUUZMVTdtbl9wbUZ0QjltRVd5Zks2cDhvUDFjSmpWT0JGOXBpUXNQZGNZZFpGSTNrcml5RV85a2lEWm5jVlpkVGQxd3dWUmJxc1pCdw?oc=5"
+   },
+   {
+    "n": "La Chispa",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaamRVNkZxQm9qNmV4UUxSYVhucXNvYURaNXczQm9uV2hWWXlPNzQxTS1vQ0NwT01BQS15T3VYUzRsOEhQVUVqV3Q3Y0RlUGRrSnlxY1NIQmRxWW4taS1WcW91c3ppSHR6LXhkbzU0TEdaaXRqTnZoTw?oc=5"
+   },
+   {
+    "n": "La Opinión De Poza Rica",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmZmUHhxY0JKNTdkV3hSX2NHVlRIQWtJcXhVMXNoUHNLc2JQZ1pmSmJ6MU5LT2ptb1VjRzZhSjNxRXdCZ3BvOHJWNTBEdTJxWmlTck1SSjNnM2lwYnBhUHEtbGxHaVFnbzBTTWNYYkd4Slh6Vlp2R1ZnZjRGcGUtaTJaRTdrR0xrRE1yWnFIZnZPU3NYQU5ZN1JtWDBJMWx5NzhiQ0MweW96LU9SaGVTenQ1cHNSUFFu?oc=5"
    }
   ],
   "creado": "2026-10-24T14:26:03Z",
@@ -36,6 +52,135 @@
   "id": "2026-10-24_conkal"
  },
  {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Repartidor resulta lesionado tras chocar contra camioneta en la colonia La Playa, Champotón",
+  "p": "Colonia La Playa, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/24/repartidor-resulta-lesionado-chocar-camioneta-colonia-playa-champoton.html"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa",
+  "id": "2026-10-24_colonia-la-playa-champoton"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Hombre termina con graves quemaduras tras ser atado y quemado en Chelem, Yucatán",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/24/hombre-termina-graves-quemaduras-atado-quemado-chelem-yucatan.html"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_merida"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Tráiler se vuelca en la carretera xpujil-chetumal; conductor queda prensado",
+  "p": "CARRETERA XPUJIL-CHETUMAL",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzVETE5uZVFNWDdQNkstTnBDTWZwbUJiWXFBc0x6b3cwTnRQWVQwdXRZVWtVMHJEc2JqZy1KQXUtNUVSbEZaQ3I1N3V1cGk5LVlmQUtnODdMZy1LNUNqNlBxcDYzMnNhcnl1Wm16cWNaUlJza0V6dC1CS0ROYzUyb25DR2ItUkhBT1hWN2pnc0NYd3hWNXh6dkZ1cXppVlhKbElXMTRORnJnMWdBNkxCSFcxUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "xpujil chetumal",
+  "id": "2026-10-24_carretera-xpujil-chetumal"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Aparatosa volcadura en la entrada de Paseos de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjlqOUs1QVNXaTgzZUxISnBSaDBuandkUzQ5U21tbFJKVkNTR0E3TUVUcXZPQXMyVEFGaDZZZGg0SnAtUkxoeVFETkFFQmtHWkxyMloxLTllUVZwZnk1bEJGcWR0QVU5ZGFmbDhQWF9XQTh2YloxWl9TQWpYQ0FNRXJn?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_merida-2"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Deja 3 muertos accidente entre automóvil y moto en Progreso de Obregón",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratin Hidalgo",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlJraGxhcFIwdHU3Y29KV2NhMWJPX0JhUDg0QmhBblVuYUc5U29Pd2VBdnY3Vng3cFNrTVE3VDFMQVhsa2xzd0tWd05QaFJJcWsyQjRLUzdYRGdQOS10aVZzUjZOSFpXNGVMckk2MXV2VEtJUjhFdzB3VnJBWkRUSVBDUWR1SG9zR2dPRVoyQXBTS0t5bXVpTGdHN3RtTndHZmYwZ3NlLTF2dmM4bEZ6X1Fn?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_progreso"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
+  "p": "Carretera Chetumal-Escárcega",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/24/vuelca-trailer-carretera-chetumal-escarcega-desata-rapina-nicolas-bravo.html"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "chetumal escarcega",
+  "id": "2026-10-24_carretera-chetumal-escarcega"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Automóvil se incendia frente a Chedraui Rancho Viejo en Cancún; conductor logra salir a tiempo",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV0VKOWRUaWZZNGpVWVFVeDBKVU1vbk9wQ194d0hYdkJwNTJWYTROMFBlakNBLUZqNmlRQ281V3FGYUo0aUlWczExdGxNV2c3SFl6aWhqVmdxMXlPc2JGTzdxdTdoUEJUS0Y5ODFtVHZGWi1oeDA4VExmX3hYcHFjVVpReDNsV2h1V1V3cFpEeGhvbkdLSWVVRHF5c3Q2bExmM1E2SVFyLTBCVVVEZGxlc1RkYVczc2lQNWFySXlzeVFZdmRpR1UyTUNxSkpjcUdCeVow0gHYAUFVX3lxTE13ZVRIQzJicjhJR3d6MG8yb3c5ZXM2VmV2NTdCdDNHcHRhNGNIZjBVajQxS3J6YU40bjRFVXA0MkZVb3FlTkduVHBKcFBKRTRKVmJnSkZtcENNWkRET3Y0Ti1kSUZlVUwwM1RHR0plSFBmaVJaNEdMM1g5M1k4STZUeC0xMkxVN1RvSVc2RWM5dWNMTzhLeHltSERSTE1GVm10Z25vWEJBOUYyUXg2cVpOWXJhUGFZMHdZOHpjWDlSZE9IVVdYdTEwci1yTGNSQkxRNkYtemV2Qg?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_cancun"
+ },
+ {
   "d": "2026-10-23",
   "h": "",
   "ts": "2026-10-23T12:00:00-06:00",
@@ -47,6 +192,10 @@
    {
     "n": "Diario CAMBIO 22",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSkwwUFBMbHlWOUxud2RuZHIzYW50WjA4Zkg2SDJlYlZKOTVrOXdEaUNCdEczOG1XNU1SSkgwUUtoUmNhRnVMWjhBSTR4N3c1M2RSVHM0bmhicV9OR3h2MnFtMHZMX1B5VzREaWtJa0toOU4ydjlCcGdRV09iRlI2Zk9MYnlXN1h6VmZGcEpOTW5BWERrOV96bjlSai1TYjBYR2V0Y0V6NHB3bTd3?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUZodERWMHBiaVBhZlQ5NU44WTBBM3pCTmMzaGxmdjB1MEVWU3R1UFZpMUVaSm1kSUVjV2xaMnFKTUxMT2VMUndlMkVWREpIbkl3dG01ZHUwR0xRZFU5QXZ3X3ZNdXBSUHkwV21WZzR6M1FQVFkxdEpOVERqWm1DUGxZcW0yQTFxNEEwbw?oc=5"
    }
   ],
   "creado": "2026-10-23T19:04:49Z",

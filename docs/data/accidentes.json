@@ -1,5 +1,67 @@
 [
  {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Incendio destruye restaurante en avenida Huayacán de Cancún",
+  "p": "Avenida Huayacán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/noticias/incendio-destruye-restaurante-en-avenida-huayacan-de-cancun/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/24/voraz-incendio-consume-completo-conocido-restaurante-avenida-huayacan-cancun.html"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2YxcTBTdEI1RkR2OHNNQ3dhRE9OdWMxOHRTdElyTXFKLWQxTFNkTGd0MGk3OVV4RzVlV0lDM2gyQm03dE1MVVdxd1puRzM0bzBHcDIzLVVvVHNlRDAtT016eGpON0U0R2dZeGdvOWR5eVduS25BRUx2Vk5uZWNDMGgzampKOWc5V29ueDQwNS1JbTNQT1dMS0xMVE5QMC1WMWVTRUkydw?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcnBCQlU2U3pybTAtakdMeU9rdElWSGhHT0xwVUxTZldORzdPbzlVXzN1QU5mdFF1c0RlZlpoUGcxNi13WU9ObHVMMHk1cDR0X3ZJRDd5N3A2RlJFMlloLWJrVXlRaFB3aTYtOFYwV2dZZ2ZwV25ERURqVTR2TC1yWU9QVGUwenpwbmZrZDhubFFGX1lCSmcwZkVGQWLSAf4CQVVfeXFMUEF0UFU4dkVXeEZvcnlmN2RkY25QSEZ5S1VtQjkyMGstaHdkM0hsWXJsMTF4eEhncVlxblF2YlQ3TjVvZGh2R3A4OUxqWnMtcDZUV055a3YwZE9KbS1LcXBvc0NiOG5Ibm5DSmpPNkhfQzkycUlJcG1wWVdkMGpsTEpoTVp4c1dwZS15T1RmV3dKdjNBTW80OWIwYVBQS2RVVF9ndFYyWjJCNTNVOXlLV1lmcmgyaXFweGRFTFlMbHV4YTR1d0dYTGk3Y0lTeDV5eXkxT0lvWTNadzh0YkhXcnU3UG8tUlRQcGd5Z2psaTdwTXZTSzZLTWE1NWlRcURwM1BpR1lSLUFWTEhNTWNRaHp1WndKS0h4cXhtTXAwbl9sZU9LYlNlTXNhdGhma2hMUnJhVEl3ZWJLMDZ4c0JTZlZIMkEyMTB2Vl95MWFnV2tPVHZxSXBXOG94Z1pJY0xpaUN4TkJVSjBqczM3b0ZSRmtGLURwSlhSRUdWRW1hUQ?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdkl3bzltVWZrUkE0cEQ0UzJ5S29kbEVzN3FaWEhvTjIzcXFBemJmaWtPQjE5ZlBGNy1GQWlPeVFLVVEtSUZjNGszcS1Qd05aOVVNQmw5dkRSeG5HZXJDVWxIN3hPUnpHUk9hSEFKZ0sxQlh6RUkyWkEya1p1RzdhNURhNm1wbTRrU0I4UlM2bVZnLW5YaFdSUjQxZmRXQk9qRW54eERReEhfazZobkhSOQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "huayacan",
+  "id": "2026-10-24_avenida-huayacan-cancun",
+  "lat": 21.11475,
+  "lon": -86.849434,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Motociclista derrapa en avenida Cobá de Tulum y termina con lesiones en la cabeza",
+  "p": "Avenida Cobá, Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/24/motociclista-derrapa-avenida-coba-tulum-termina-lesiones-cabeza.html"
+   }
+  ],
+  "creado": "2026-10-24T18:02:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "coba",
+  "id": "2026-10-24_avenida-coba-tulum",
+  "lat": 20.210601,
+  "lon": -87.451995,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-23",
   "h": "",
   "ts": "2026-10-23T12:00:00-06:00",

@@ -143,5 +143,10 @@
  "n|calle 30, mérida|yucatán": [
   20.967112,
   -89.658747
+ ],
+ "n|colonia la playa, champotón|campeche": null,
+ "n|avenida cobá, tulum|quintana roo": [
+  20.210601,
+  -87.451995
  ]
 }
