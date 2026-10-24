@@ -27,6 +27,14 @@
    {
     "n": "La Opinión De Poza Rica",
     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdmZmUHhxY0JKNTdkV3hSX2NHVlRIQWtJcXhVMXNoUHNLc2JQZ1pmSmJ6MU5LT2ptb1VjRzZhSjNxRXdCZ3BvOHJWNTBEdTJxWmlTck1SSjNnM2lwYnBhUHEtbGxHaVFnbzBTTWNYYkd4Slh6Vlp2R1ZnZjRGcGUtaTJaRTdrR0xrRE1yWnFIZnZPU3NYQU5ZN1JtWDBJMWx5NzhiQ0MweW96LU9SaGVTenQ1cHNSUFFu?oc=5"
+   },
+   {
+    "n": "Tráfico ZMG",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONXNfTTJPYnNtMTl6UVczYmdLWl9rZE9tcVRNOE51MVNSWlFCeG0zQnpyZ1A4ZHBINjRzQlhkWFZaMjV0OU5IV1RwODNDc3VMalFCRHhCZk1YUnBJUk5oVFRmUXhBdmZFNVRZdTRfMXJFM0xjenYza3FYcjgtQWQ0S0wxMFA3dkZ1Mml4SzVKZmNTS3BjVEhRSldMQlp2bnJtQ08zN3N1MjNDNWdncVZBekNPYw?oc=5"
+   },
+   {
+    "n": "Periódico Enfoque",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0R2TDk1X2tyUGpvelhWcGNzazNHck1MNVVJRENoRDctSk1Ca29RM25DTmJhUEJ3UF9nYnIwaURaRGM2RUx5U0M2M3d2b2R2QkVmNHJIa3I2aGMxbkRlZUM3MkhEc2doSm1PNWN6cmJwQUdXT1k0bVJxWmF2c1lrcnVCMmx4ZUxlQXByM0JXdkMwbkg2OTJWSG5xTU50WkhPNWNqRF9EZU9JaTQ3M1o1XzNEVdIBuAFBVV95cUxNRnkyajVrMDZwajJoM3I3SGNnWnp2S2lwbHBxMlNURE1ua1VLZjBjQnVBRnVobDl3aVFCUWFhQWhnRWYtd3Vqam1wSDVsMU9QQ0EweEFNSXBsVkJjRjV3UU00V3kzU2FCLXF0RDk1bHdVQ3VkVUJ1OWg0X2xZdjZlZFRaeGpEc09aRlN2cjNJUEszMWQ2b1BsMGFjdnhVTDhUZHdsOUN3aE55WHBXa2M0b3BzQTJCUFBy?oc=5"
    }
   ],
   "creado": "2026-10-24T14:26:03Z",
@@ -205,6 +213,42 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Carmen: riesgo de incendios por veladoras y fugas de gas durante celebraciones a los difuntos, alertan",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDNyMmlBX1FWYnJRVGVJN1ZBUmczX2VaNmFuZjZRZW9tMEVxeS1BLWhjVTNuU1NSdldtVXBEQzUxaDZ3ek14SFBwSWxsc1JJZkJZQ3VnU1ZjQXhCR1MtY0tISnFJRVFXVEtSTnNCeGVET2xQaVVQc0FUSnpOLUhKS0JodlZObDFZVkxXZWthMXRVcUNjOFpyckhpbVkwVWE1aUdta1dXcVRHYnc5alZiZXdjcFIwbU50SFhkbllvYWx2QWh0LU16eHdDZG1kUVZvNHNVUTZB?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T23:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_campeche-2"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Dos percances en el oriente de Yucatán: mujer lesionada y vía bloqueada",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWFIeVh5aUlDZGRtSjdxVDk4YWNmTmN6U0xucnJ0U0JEOU9hdExiNl9WUERBZmRuZEQ0MXhmczNKbUh6bTdHOVNiQmctRFUzanItNm5fTWczZWd4YnBYUkpldDI2SkI5R1ZWRTRiYTl4NUNOQmFiQ2lTZ1Q3NjJiMmZaNHhaYmhzTEFRXzJwQnpSSXB5NU0xZHZTUVFDcWtXdG5QLUFHbWNVR09LT1FoRjJUOW1RTXFlTzZjM3ZR?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T23:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_dos-percances-en-el-oriente-de-yucatan-mujer-les"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -275,6 +319,24 @@
   "metodo": "reglas",
   "clave_lugar": "reforma bacalar",
   "id": "2026-10-24_carretera-reforma-bacalar"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Susto por incendio de automóvil afuera de supermercado en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYkdtMEJKZHlwMHdTeG9leHRpLVAwcmprTUNRY0tmSG5LTks5Sl9iMlBlMTBOVG43MkRSY0k5T0VvYTJrX3BtT2tYRC1wYkdRRXIwZXZHNjB1S0g2SC03Q2JBck1PYmM1aThvUVV0amt0Qlpxdmo4NHNWMTJMbGhlYXBXZUxTTGx4WklHU01xaVAtYVJYc1HSAZ4BQVVfeXFMT08ycERTc2c5b3VjOTNnVW1VSUJZc1hWZmVHa3hwcGdPaWE0ZEJESEsxN2pyVjRKNzhwTnp5d0tPRFpZdlRNVTY4QXRwVEkzR0NRdTJEY25WblkxaVhQUS12T2FzUU5KSTEwU3dDQ2lqVjBUMGgyd0c2aHZ4QXhwNndnNm1rNVAtMENCanUxaXNXMU9UZE1tSnkyZGw5RkE?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T23:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_cancun-2"
  },
  {
   "d": "2026-10-23",
