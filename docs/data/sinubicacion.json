@@ -146,6 +146,65 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Accidente en la carretera Umán-Tanil deja dos heridos; conductor presuntamente ebrio termina detenido",
+  "p": "Carretera Umán-Tanil",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/24/accidente-carretera-uman-tanil-deja-heridos-conductor-presuntamente-ebrio-termina-detenido.html"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV0RXNkRsWkVwZnpGWkpBRzBQZDJ6ejVWVmx6TXo0QkMzLU1uM3g5Yko4MFBHY1FxeDI3dkxER2VuUDFocGI0TWFxdVNmNlI2OVNyMDdVREpXNzdMOXAyODNyZHlybnZ4ekpJSXVvcFJWOElNV1hVSGJKS0s4VGhwRFhYZXFuWmVwMGFvS20yV0FlaHlCNHdCcG42YXp4M0FZUE4wbDZvMUVRV0dKV2c?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T20:39:01Z",
+  "metodo": "reglas",
+  "clave_lugar": "uman tanil",
+  "id": "2026-10-24_carretera-uman-tanil"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Motociclista termina hospitalizado tras chocar contra una combi en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/24/motociclista-termina-hospitalizado-chocar-combi-campeche.html"
+   }
+  ],
+  "creado": "2026-10-24T20:39:01Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_campeche"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Hombre muere bajo custodia de la Fiscalía en Ciudad del Carmen; familiares exigen esclarecer los hechos",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/24/hombre-muere-bajo-custodia-fiscalia-ciudad-carmen-familiares-exigen-esclarecer-hechos.html"
+   }
+  ],
+  "creado": "2026-10-24T20:39:01Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -179,6 +238,43 @@
   "creado": "2026-10-24T18:02:53Z",
   "metodo": "reglas",
   "id": "2026-10-24_cancun"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Pipa de gas choca y arrastra varios metros a un automóvil en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/24/pipa-gas-choca-arrastra-metros-automovil-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-24T20:39:01Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Auto se incendia y queda reducido a cenizas en la carretera Reforma-Bacalar; ocupantes salen ilesos",
+  "p": "Carretera Reforma-Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEdhVWEwaVJaRzhDWjBDNFF5QWF2WVBXYzBhcVVEeTNlakl4SXRiVjRaREUyRUxnUk92Z1VzQ0FpWHhKaUdyVlZ1ZkhiWlpia1VUNzRfOXR0TjVYaEJzYVRCa3d0M2RlVzB3QV9jNmZ1RHVsWHEwR25iNndsUzNrSmx5ZXhFcEJMTUV6WHMyRkhMRnlFcTBncjNRT2xwNnNCbG9kWnRRbTZBQkNfdjRzNF9wTTNhZDFzRWVIMEEzbnJ6VGR0eXJxMVFrU0llT3JvXzJCcTgzLTROVXllTGxZ0gHkAUFVX3lxTFA0aUpXd18wZGpmckUxZWZVWF9XWjg5cFFEVE1pZ3NfY3NaOHZfMkZKcGlHVm5QeFFFY2tiX1Eycm9OTENFeFdsOFZWNm9Qc21CYjUxSXBWVExJOURnaDlTejF3N3BjNXhVOXpldHdfdHpjZU1TdTVHVDR1SkNjTWxvNnROemtHWVNmVXRZa1gxQ25McGZaUktUOXhZMmg0MWlqTjVuOE5Db1pXS3VKc0oxakdldkQ5Mnl6N3R0TFdBRHVITi1UM09TVG9ZNnAwYms1SGx3QXRoVEFBc1hRRlp1WHp3QQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T20:39:01Z",
+  "metodo": "reglas",
+  "clave_lugar": "reforma bacalar",
+  "id": "2026-10-24_carretera-reforma-bacalar"
  },
  {
   "d": "2026-10-23",
@@ -286,6 +382,10 @@
    {
     "n": "Infobae",
     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWJXUW0yUG14WGhXZUE3WEpBTmxTT25VRTF2OWtxZHRDd1RCUFRsLXhwVlk0M25Td2lGQjJLZk9fSFVCSVpwazVILVhBeEsxcm0wYTV2MTF6cDgzQ1BwcDlvdHNpSGdiN3hkSDdNOHFUd0xodWhVZWVsRFk5UG5zWXRXRk9sSDJRQzhpNWhTeVVzYmdfYWRXQUJVV1N1SG5lMGJsOWRYb3R6bWxCTkx6TXVyR3plclBVX3hoNV9lb19laU5wUGlHQmRJODYtUEJtSUhaNUE0aUlHUzjSAfYBQVVfeXFMT29sV3V5ek9nVHhRZ2ZaaFRwRUJUYWdYWjIzRVdENFBVeGV1WlhpRElLRmp1VHIyZU9MSDZMclphRXVzX0hEVTQ1Ry1OYWNxeklIRDB1UHNmVXItX3FCNmdibk9FQkQxSjJjeThKYnhJclRyc2ZaZ2lQZkxiSDdPejlvOGRaNnRZcFJCWFVMQ1IwYzItWGZXQTFQaFZ5ZUdKTEdkdTlYVC1kTGZEc0NVVkdFajdWSjRTSWozbEpBRWkzaU1UN0lfMDhCbGtCREV0VVZDdmtQWVpPaGZ1SUxXQlc0QzdrX1RfQWlOS21mVE9NcllxRXVn?oc=5"
+   },
+   {
+    "n": "Ahora Tabasco Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkJCclZUUEJNd01wMFZXYXRzNHJKeFc3VUpPdWR4cnVkdFUza2tpbE9JN1RiMzJpcG5wRlhkLU95V2ZVcHE5S3ZyaVNiX1RsY09PazBHVW40QkFmeTJUaV9vZnM4QUFrMUFQcnBLWjBDTmVmWmhzRVJIZEM5SU9mV25FeE1feTN6aXVvMHhLUFoxTkI5WXhVTDlVb2VKNkNkMXJzT21BV0x0N0VWaU9v?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
