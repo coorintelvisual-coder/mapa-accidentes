@@ -81,6 +81,18 @@
    {
     "n": "ContraRéplica",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkpXODJJUTdQZUhOZ0VYRHhGWktvVnZQVXJSdzV6YnNPTUxoaUlhN2llUnAybkhqekRwYzcwOFQwcWh4dGJkd09PYmRTbnVmaDJidkx5QjM2NHp3dDZORHJqaEpCSlNDQWVuLUFoRnJHOVBjamlwZ3dDcE9ZS2d4bFJ5R0xzTGpZWXg4RDJwWmYwbTNlb2lYZ2poUEJLYkJRcHpkU3dnNm5wQnc?oc=5"
+   },
+   {
+    "n": "XEVT",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUt6LXhWcFZEZUU5Q1ZsQ0ZqYjlULThITlRhMVlrMXZnSmFmNlRpZVRnMXFreXBxcTNtLW81T2M1WTlWUjFIYmlZMThsTzE0TF9EUllfNDUzbl9KVkpObS1ISlM1LWFGWlZSWGdoU3M2dno5bVhUb3JXbGQ4SnRWN1czdFNoMjlWdWxicXJmRFkyd011enNsb250SHE?oc=5"
+   },
+   {
+    "n": "Vanguardia de Veracruz",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3RfemVySC01U3kxWGJKUTJUYkI3VEhaaGx5R0xzcmtuSkcyTkFOY0pFTV85VEFQTC1EcU1KQjRxUVQ5NURVVjVTTlk0THhEUFNvOFNiQ0p6OUxyYUhGUS1pTldhWmdZRTFnVGdFMExrZHdjTlZTM3lRUXlfTk1WRnR3dWlBR2hiT0Fta1lWNV9SZGh1R0VVRzRMNjQyRFNLYlY0?oc=5"
+   },
+   {
+    "n": "Potosinoticias.com",
+    "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZkFVZnpDY3JVS3BqVHJJWkgwNVJaNDU3S1ZnbWtudW1BUzh0M1RXdTVaN1FibFM1WjVpbGY5blc5M2QxNVp2Y3Bhb1U?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
@@ -142,6 +154,10 @@
    {
     "n": "24-horas",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkNMcHVsbkV0emRWRTdOcm5FMGdlS2U5Sm11WUxPSFdIUHh6THlpaVUxeVYtRFhSY19oNHI3bmVGYkpjYmF0bGlmUXh3Y2pBdTdETml1TUVVUzRsSzdWYzJ0ajRraVFtX1VHeHZwSm1waTlPQk40blMwbVptUjZLbDRXSjhSS2JRQkpuMVJHYUR2THk3aVlqRmFZZmIwYnc?oc=5"
+   },
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlkwdDl0Mmc5elJvcHVfcHdjVDhUUTVuS2h1YXNGVzJ2ZkFBTERrQnk5VVZGbGVOb3dtWnJmN3hzaTV4ZGZjV2J1Y0ZTR19QckhMeVBsNnU1V2U4a2p2YmxRMGNEdWR6Ymd5UGdFSElONG9GalhaZ0VZX1IzWHE0NzRYcndVaV96OTU4dEpsSDRYaDRGd3lnbWtLUXFHLVAtMEV0anBibF9DeUJPV2FYNjI3M0RNeHFUZHZHdUQ2Tng5dkNUcDNIaVUyUTBmTURyX2lF?oc=5"
    }
   ],
   "creado": "2026-10-24T05:40:23Z",
@@ -165,6 +181,24 @@
   "creado": "2026-10-24T05:40:23Z",
   "metodo": "reglas",
   "id": "2026-10-23_campeche-2"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-06:00",
+  "t": "Reportan INCENDIO de automóvil en Prolongación Montejo hoy, 23 de octubre",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXlyb0txaUZCQ0t0Q0pIN0NuYkZkc3MyQVhublZfTDBBX2t2aDlSbk9kdzduMEtrODVhMzdJVldxZUF1ZUtDaUlQSzdXRzExVVpnQnZEY04xeFp4ZTdLcGlRY24zY3owejZxZXM3ZWRzT2tDenV4YVNHSzVIZUE2bjROLWMyVE5KTkhzZDhacnlGdFQ5VXNCSjVvVTZwSUdRNkpNQmI1dEJ5cnBVSVQ5T0hmeUU?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T10:47:10Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_reportan-incendio-de-automovil-en-prolongacion-m"
  },
  {
   "d": "2026-10-23",
@@ -344,6 +378,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXFzdVRyQVJFLTVHRFRCVzZjaVNkMEFUeHRpbVhNcnk3MGhmeUpTNGVuc2U3UnU4Z1l2cllNYVVLbkQ5U3loMnRYVXM3bDdOVEJLZXYtRkpIOXp2bU1VQ2E2ZUxkQ1ItUGNwWDVmYnJ3aVJKSGM3VXJkRDMydks1eWU0SXBvdjhibU5CbzFMcWZHV19obFF3OXZMYmpxcWdEd3ZLZXlR?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCU01ZcF9IQmlRX0hKRUEzUmt1VEtTTXRKZmdtZWZTSS1XelgyQklVNkNsUzV1WnliYlRNNmF4ZU1OUVBrOHRMeHJ3MG10TWpwVkkyRW5SUUsza2FDd0NVZ3NUUVg1NkhRMzZPYjc3SkJBbTTSAXtBVV95cUxNcnotV3hPN0I3VE9qODZKQlpLSENWWktvMVhkYVNET09sOERYYkJCZlh5MFhxWXNrRWdYU0xHdUxTTnVyTENxREQ3Y0hzUDE2dUMyNmxta0puX05jb1R6R056N2tJZWMtcEFtd1ZUNVZELUlETTl6dWF6RHM?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
@@ -421,6 +459,24 @@
   "creado": "2026-10-24T00:30:26Z",
   "metodo": "reglas",
   "id": "2026-10-23_cancun-3"
+ },
+ {
+  "d": "2026-10-23",
+  "h": "",
+  "ts": "2026-10-23T12:00:00-05:00",
+  "t": "Camioneta embiste a elemento motorizado de la Dirección de Tránsito Municipal en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORk1yX1R4YktiNV95V1RMSmliLS1hTzIyZ0lDNHJjVk1jM1NRclRaRWxOalFMcUY2UnVNSFlpVXRvZXR2U1paVUx2TXAxYUVSaVc1aDlMRko4MF81SDFlX0ktd0J4SENFMmY5QmVwWEdGUFRJQjF2TjdRM1RNSmdLaXpzTWxUMk5NeGliNkVCZzNLNGFVSC1vRGpodFc3X2IxRlh4WWo3X0JETS1IaEhMTXZiWkxjQ3lGeGN1WEJLeVpvUjV3QU1sbXhvUW5uZ9IB0wFBVV95cUxPVUZQOVpvRU1DZW5JNVZkNkwxWlViRlR0VUtRck11NFRsZTVBeVFfczBzeVRacWEycUVLVXlTOXRQRWU5N21zUjlDdENhdnYzTnFqYjFvVEkzeXc4UVdUNTkyU2d1Zzl4SWRrandiVm96c1UzcERQWEdoTTMzMS1DU1Q2TDMzNDkzRWRuRjZRS21yXzJ4Q2JRemJmRkJKYzNHRDFXVXdHSlVFbFpsSkw1RC1wc2RyZXhoUjdON0VfU09oNE9VWFg3NmRRa3ZkU3ZHeFZV?oc=5"
+   }
+  ],
+  "creado": "2026-10-24T10:47:10Z",
+  "metodo": "reglas",
+  "id": "2026-10-23_cancun-4"
  },
  {
   "d": "2026-10-22",
