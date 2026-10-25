@@ -413,6 +413,24 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Choque entre pochimóvil y taxi deja a una mujer lesionada en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYi1WRFlRMGlmcGVmWXZmUjlWVkp0ZmEwNmpvenBodVl1VzBaeXNRNmM2dEdrYnNYbXJOWmpWU1ZXQnN3NERlbGJfZ2RvdnRNTXQ2Qm43N0otdWZ2SVpsby1waGg4bkNMb04xa3p4UW1XUW4xcWpqUTdFVVcyV1E2aUtEYzZHNl9aTmEwYjBwSUhjd29CRWNBYVZZUlR4NC1BazF6NUJMd1ljZXpDWnQ4bVhqbHFjd2xMc2NxTNIBwgFBVV95cUxPTmdEaHdOWWZ3VzVSVXh4N2ZSV096X2pRNU8yUVhseGVOb3c3NDVkdEJaRjI1aW5xZ0t6MkNQV2kwSE9OTk9PLW5wMkYxU2ItRTFHX1NnUHBGQ3U0MjRqN1MyS0dmZlY5S01IaE04SGM5M0NPVUF6MWVTXzRzcEc1YXRyTUFaNHlaMFBSM1o0M2JSMmFMX2ZIVHRETmNRejlkMEVmYWduanUtUk0wSG8zWk1wRG5WVXpxcDR6d3U0aGRDUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T11:13:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_ciudad-del-carmen-3"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -546,6 +564,24 @@
   "creado": "2026-10-25T05:57:30Z",
   "metodo": "reglas",
   "id": "2026-10-24_cozumel"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Explosión de gas en Cancún deja dos mujeres lesionadas",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOd1dqZ25iX0xqVmljUGYyNmxxMmlaNXd1bnRzVGhnb2xGRGFseTJRYmtDVjlTS2tMczNYdHFiUXJ4WVVzUkRXTURMdDllVzdLYTJONjFwS3g0YUVQQTdnZTM2Y1FIRjJucURtTjVCMnYxQlNUcDBfdi1NWi1Qb2xRRWh0enN4SFhGNzNHbFRuZXhrOW15SklwX09R?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T11:13:31Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_cancun-3"
  },
  {
   "d": "2026-10-23",
