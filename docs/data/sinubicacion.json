@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "Tres accidentes en 40 días en la Sonda de Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Campeche HOY",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSEhMVTJRMUdVclRFSUVyXzZBb0lVc19GeElZWUQ3OVI1Q1dnV0ZfQ2JuZktXaVFVZHNkQ0NGZWw4RUU4cTN4dXlhM2FJVWNlZGNXdm9KMFRBdWlmQ3ZINWlMRkY0RG8za19CTzIxY2ttZUw1YnJMempzZGFxNnJ1WlBtWTJaTVJYODk5eQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T16:00:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_campeche"
+ },
+ {
   "d": "2026-10-24",
   "h": "",
   "ts": "2026-10-24T12:00:00-06:00",
@@ -582,6 +600,24 @@
   "creado": "2026-10-25T11:13:31Z",
   "metodo": "reglas",
   "id": "2026-10-24_cancun-3"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Incendio obliga a evacuar plaza comercial",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VMHQ0ZXhlNFBJYS1QT0IwMTNrcXFsLTkwcFJ4M0hfSGxndEE2b3JhOHZSSGdXVU93Z3kyMGJtazhKYWdSTVpwemF5X0dlOUUyc0stM1BoMzJteGg4LWhkZWZoOXg0WWRYVTd5YUwxNU5zS1M2c2hZ0gF_QVVfeXFMTXBpbENRbURyMVd3OEtsaXc0QmRzRnFBeC1QQy1OZS1qSThSUS1xdFlEZTNNYTUwbDlpdEx5enllR3h3RHRnNGlTbzh0SDlCeUlhM2VrRUw4U0M3NmtDRUt3d2s5R1FQbWVrUk0zNXcyNTdYT2I0TEF1UkhnblFIRQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T16:00:11Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_incendio-obliga-a-evacuar-plaza-comercial"
  },
  {
   "d": "2026-10-23",
