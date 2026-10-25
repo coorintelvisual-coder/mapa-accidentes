@@ -18,6 +18,24 @@
   "id": "2026-10-25_campeche"
  },
  {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Motociclista resulta gravemente lesionado tras chocar contra un automóvil en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/25/motociclista-resulta-gravemente-lesionado-chocar-automovil-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-25T18:54:26Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_playa-del-carmen"
+ },
+ {
   "d": "2026-10-24",
   "h": "",
   "ts": "2026-10-24T12:00:00-06:00",
@@ -449,6 +467,24 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Niño de cuatro años muere arrollado en una avenida de El Vigía, Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Primera Edición Col",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNW1hVHhLQXN2RG9nNmNBZGdvS2Q0YWJnLXN4OG5ucnJBc0N3Mjl3eFc5b2JPai1EVTVPS21HallIQ1JyaXg1WEFoWEVVNlI1T1ZkanV1UVFabUlWbWhmcEFyNXpkbnQ1akNHaWs4YUpYM2FEeFFRNVlkZWsycnhJU2xfMmFCQU5jNkVNcEpKT1daN0RzbDdfQVRMd3VDbTBELXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T18:54:26Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_merida-3"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -558,6 +594,10 @@
    {
     "n": "DePeso",
     "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHlwM2xNdFJsWkdJdVFTZXVrRFFoOWhJRHZHZHVVdlZIZ1pyT1Z1ZEJ5OHBjN2tSeWU0RElYaEhYVFBtUC1kRmJ3N0JhR25fLXkwRE5kRGo2NlVBeEY4YjZhMmVJVjRDWmhDUzdCdkUwQXhSdTlvSFFWUzhFQkJKckxR?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hUkdXM003NTB1WFhpTGtZZVkwNUdwMUFPbko3WjdUNk0wc29SV2w5cENCcE9QUnNSVnRURF9fSDlodWFVaVRFR0lYNEJnRHZLbk1FVl94SkdSVWxjSHE2MUx5MzVHMWU4MEdGRzQ4bi1YT2RIWllZQ1VQTTNWQdIBhgFBVV95cUxQYVhTYktKYkQ5M0M1LXFqeEFseXRkbnNyNnc2cW9fclNHTVd2YmhHQ2lfcC02UlRXRlo5WmFrU294RTNlUWJsRzNJWnRKT3U4WHduNzAwNURDTUxxRWowY3JzU1ZBbEVIYURUeThPcDExc0szNVBmczI4UWNXTTFlbXM3bDBNUQ?oc=5"
    }
   ],
   "creado": "2026-10-25T01:03:16Z",

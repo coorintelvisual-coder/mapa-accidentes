@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Incendio consume restaurante en la avenida Huayacán de Cancún; reportan pérdida total",
+  "p": "Avenida Huayacán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDIwckxXRGJNcFc0UFV2NUtlTzRRY05aNkVRVzlmNkdvUS0zUXp4N243TENDSW0yV2w4MFdYMzc2X3dkODA5cTFXc2k3d0stY1ZrbUNQZEhmRjdzSkx2emtkMzFhT09JZGs3cVNSbWp1T3BrbXh0d2ozdVZvaUVJMmQzd2h6MjFfWk5xUnNMUzl1b3o4Znk1YzlCenlPS3d1b05jdHFOQ21qYV9Rb3J5N1piNlkwekFYZ21aWA?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T18:54:26Z",
+  "metodo": "reglas",
+  "clave_lugar": "huayacan",
+  "id": "2026-10-25_avenida-huayacan-cancun",
+  "lat": 21.11475,
+  "lon": -86.849434,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-24",
   "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
@@ -47,6 +70,10 @@
    {
     "n": "El Congresista",
     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYzZMckh4VHlHUGlPem82dUUwUFNHWGhHUlRRalUzVmt3MmFtNUk1bGwyeFd2MFVfVllRUnBUcnlNM3lqem8zQnFBYzVzeWI5VjNSSmI2SVFnRm01YW5sajVIekwxY1pjSmV0aVptcTVPaXZLODB1VDJ3QUpZQ2RBRXJYLU5fWl9MMnN3WmpUMkg?oc=5"
+   },
+   {
+    "n": "Grupo Pirámide",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekhoc0pvR19zOWV3dlljYnJxMmlrR2dXYUtTOG1rcG5qbjdzR3lmN200b0tvSTRjaHRNRFcyQjRRdDVybEtQaG9zMkxtV016RmVZMkhCX3JYZmZ6eURWazYxeHpmaUhXS3RqWGVtYkcySjFVOUNsbjMxekp1TUc2ZzFYVm03OTFJdURndnRQQ21JUVVleFM3T3RWQll6RHh5aGfSAaoBQVVfeXFMT2U1RkJzYzlyNUJtTV9vdGxIeFBCeDFxZjA4VElUUHo5dVBtaXg0TWEyRF95LW92RVVyVDM3dmYzN0dqSHp0eU5wb2hDS1JjYVhkbl9pRTNyUHlrRk83WTJJVFFRUjRRR216Rk9YelpFMGJ5YmsxVmF0Ny1ULVdHYjB2TFAyNHJJUG9OZmd1S1dIYXJzS1pWVUVzWjdpZW90b3Z2SlZJWDhxNmc?oc=5"
    }
   ],
   "creado": "2026-10-24T18:02:53Z",
