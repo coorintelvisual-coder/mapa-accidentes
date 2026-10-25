@@ -20,6 +20,24 @@
  {
   "d": "2026-10-25",
   "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "Accidente de autobús en Barcelona deja al menos 83 heridos; siete están graves",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUFMwS3dsVmwwSXZDYkJMRmMzcUROeENqSk9zTmp3c05jbHFNZDhEd19EMXBydEdVQy10N0Y4bFdIZ1oxbWJSVW01d1RwNWR4QTREb3V5RWpqWllzU0J1bk93MWdLSWtnVm1mT3FBbktOQ2Ztb1NNMV9LTWVuMEF0UWp0bjdTTzVaM0lsdVNaMVR4V0llaVhFWEttQmlQbDlkUjZtX0hXY1d2REloMl9nMlZwOC1yUU1wTXlTM0F1TVl1M0pG?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T21:39:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_accidente-de-autobus-en-barcelona-deja-al-menos"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
   "ts": "2026-10-25T12:00:00-05:00",
   "t": "Motociclista resulta gravemente lesionado tras chocar contra un automóvil en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -34,6 +52,42 @@
   "creado": "2026-10-25T18:54:26Z",
   "metodo": "reglas",
   "id": "2026-10-25_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Incendio destruye restaurante en Cancún; presunta extorsión en investigación",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Columna Digital",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDVOeFJSZ2VjeW9RSG8yOHpLWEhEcXU1NzAtaE9KV09sWmxpakRsVG04bUx1cktBSVhCb3VWWWxDa0FGWW94cUxJbU53UjVuTjFIR1VaM0RmY3ZIMTlpd3NqMWdsbzJvSWV2OHdFV0lMaFBSUWtXRmVUS2FMOExhTGdUU2FqTnFwMHp3Y0NBellrV2R4TURZaG1ScWh3Zw?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T21:39:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_cancun"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Bacalar suma 74 accidentes viales en diez meses",
+  "p": "Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uXzh3QThkaVBLaHFFMlFQdzlpd1Y2TGpJNVRheWNVNXhwNmlEcE03SGFtVmNLR1JSVjIxSjByaWxLRnM1WUx4d2J6Vm9UaGFxUkxfS2xxU2VRUVdDOVFzdENrX0Y4RUtUS3BTWFVOcF9kZk9LX2tEUEF1RkxPRnPSAYcBQVVfeXFMT0pZZVVKMnR2dHNVYzNreU42MEJvaHR1OWNKS0UtTHBESEsxeklPOU9zTUI4a1VIdGdTVFNzanZMZUg1MjVxVzlVeDBpZGQ2NmVtaFpzVmRaVE01SDFIUXFLa093eHMtOXg1cVBoWTFWR0JFbkVfWmt4YXJudDI5NTc1Rk1Ja1JR?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T21:39:21Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_bacalar"
  },
  {
   "d": "2026-10-24",
