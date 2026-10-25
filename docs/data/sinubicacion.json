@@ -249,6 +249,97 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Su viaje a Tizimín los lleva a Motul, por un accidente en Buctzotz",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1B0SG9UQWk4dGZ4SFp4WEF1eHJvRlVHa0NlLVlUYnVqTXdBalBnVG9EbUF1eFMzN1djSnYwLXkxTEFUdW1aZEpPb3dNOWdNZnNJRUxBVWtwV2RuMTBtcDBweGNHbk9iMGhFU2JNMnY1cVpWTjVNNTE4WVAyZThBa3R4REpnSkxpNGdFcVotTE1LMjR2NFBMU29qS1ppVlRlVGlqTFpNVzlkZUxGa0hESU9memN5Y3M?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_tizimin"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Volcadura en la MaxcanúMuna deja al chofer atrapado",
+  "p": "Maxcanú",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVJrS1IyV2tRYVB6cFdLUDNLek80M19FNTgxV0JWODU3SllkeC1ndzlua2trSkpsT2luWDZrdHdFUWNmOHZxRVIyT1lmX0F4OWVfeWUwb2dnUnkwZXcyUldGRzg2Y3psWTJteW5XNjhaSXFZM3NtOTBPc2JFZ0lEYw?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_maxcanu"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Camioneta Embiste a Motociclista en Tizimín y lo Deja con Probable Fractura en Una Pierna",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVWFuc1N1V3o5Ums2OHhDYXQ3S2xDMDEwdzFZZlJIQ3ZWRUNwSXdobHhoUVBsUVlzWmNsc01ldmo2WFppZFlNYmVBLW1qdVJaZlVPdHZ3bkEwaWtFSnd4NjJaY050WmZERnl6MTJFc016MHAyYTExb2doQ29TOEEyQnlXNU84LURCcmQzQzYzd05JdUtDSENlU1A5UlpKbzRrbWxxUDJSUzlmbFpCSDRVU1NNLW1MVzA?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_tizimin-2"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "¿Qué se sabe del accidente hoy en la carretera Yotholín-Oxkutzcab?",
+  "p": "Carretera Yotholín-Oxkutzcab",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObDI3TnNWY19Hbk9MNHVVTlNOeVFBN2R1cDdLc1NoR0F2b3NMYXU3UUtzMklYcmdyQkkydnhfcm1lTXhZNEJycVB2QWxWNWxpdjY5WlQxa2ZEclA3ZFFzZURJMEs2c0NZY0RidTRsX2NLYlFwVTVHTVhLamxUcUVKb29QeXA2eW1OTmFXWm1faXlhV0Z2cUtaa0hfVjk5Y19nYVJXVjctaThVTWZBTXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "yotholin oxkutzcab",
+  "id": "2026-10-24_carretera-yotholin-oxkutzcab"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Pierde la vida integrante de Banda Destructora",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXJiZ1RtZ1JvNFcwZFhqNnRYaW00WFU4OU9OTjZNT21LVE9zR09QWFEtWmcwTG1BN2xFT29oRkU2X2xuWmVTTkVCM1REeWpqUFA2T2p0S3pzQm5tYTdSaUsxTXl6SEl0T0VaSHM3dm5ZUVlsY05nX2FveHkxTmVRc3R3Sldjd2pOejJReF93bWVVUjFjSmZoLVZoSUtCdi1NUTJxYUE5NVhzQktZNXBtWW16c1gwOGdUeVJBYkZBSllSZkhGNTd1cmliY2FUdVZiX1E?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_pierde-la-vida-integrante-de-banda-destructora"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -337,6 +428,29 @@
   "creado": "2026-10-24T23:05:17Z",
   "metodo": "reglas",
   "id": "2026-10-24_cancun-2"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Flamazo en vivienda de Cancún deja a dos menores lesionados",
+  "p": "Región 211 movilizó, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/cancun/flamazo-en-vivienda-de-cancun-deja-a-dos-menores-lesionados/"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHlwM2xNdFJsWkdJdVFTZXVrRFFoOWhJRHZHZHVVdlZIZ1pyT1Z1ZEJ5OHBjN2tSeWU0RElYaEhYVFBtUC1kRmJ3N0JhR25fLXkwRE5kRGo2NlVBeEY4YjZhMmVJVjRDWmhDUzdCdkUwQXhSdTlvSFFWUzhFQkJKckxR?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T01:03:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 211 movilizo",
+  "id": "2026-10-24_region-211-movilizo-cancun"
  },
  {
   "d": "2026-10-23",
@@ -448,6 +562,10 @@
    {
     "n": "Ahora Tabasco Noticias",
     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkJCclZUUEJNd01wMFZXYXRzNHJKeFc3VUpPdWR4cnVkdFUza2tpbE9JN1RiMzJpcG5wRlhkLU95V2ZVcHE5S3ZyaVNiX1RsY09PazBHVW40QkFmeTJUaV9vZnM4QUFrMUFQcnBLWjBDTmVmWmhzRVJIZEM5SU9mV25FeE1feTN6aXVvMHhLUFoxTkI5WXhVTDlVb2VKNkNkMXJzT21BV0x0N0VWaU9v?oc=5"
+   },
+   {
+    "n": "Unomasuno",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUgxMEpsalpBSWxoR21xRVBPVVRoZERqOFE2MEJzNzlwbzAxYTM2aXlvNXNHbklLUS1iVGV2aFZTbGZ1cjdkbWhHVGQzZkVuMk03Tl84UjFVZTVXd1FfRlZFaGVxRDRSbnk5TUFaenZaV2hxRjFoQUtRVUtIQ18yVld1MENxT2QwM3Ywa3RSSXB0VXk4djlodThkSWktMzR2YUk5QXRMVW05a1k?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
