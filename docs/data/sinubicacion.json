@@ -340,6 +340,79 @@
  {
   "d": "2026-10-24",
   "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Mujer lesionada al caer de una motocicleta en la carretera Buctzotz-Tizimín",
+  "p": "Carretera Buctzotz-Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1hzQmZwX3A0d1MtS2psczlkRlJzd1JSN3dZVG95cWlsSV8wa09aUjJxUXl3TU95M3dLZFdEdlIzdVBzZXJTVzNVVlBEM2dOQlQ5RU1KSUxMcHZ2VHBBNGFwOHFkdEVHa2hQOTNyWWstbWZmdW1VNnVPQzJUSV82VGF4ZjdiQ1gwR3k2QWFBV19QU2RiaUh1RGVPV3FZMktyd0NYVXBoMjI3UmliVFM2Z21ZQ001OGJINWhV?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T05:57:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "buctzotz tizimin",
+  "id": "2026-10-24_carretera-buctzotz-tizimin"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Choque entre dos autos deja daños materiales en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlBWaEl2LUFKc2k2NTNkclgwQk1jcTJjZThDZXZVQlRZWXB6VzhjWDdMQ2k3RVRZYzdaUkoyQU5Nd0hqNjFVNl8xX1pfZFQyRW5rYUFkNzJ2Wm5LQmQwUWkxMmFfNnM5anl2SmxIZmVsYlZlMlJjTGNNd24ycVQ0SDVfV0lncHFLYll6eXFZMW9LSXgtM0NQdlIwZUxNOUZwdGV5VlJaWlpFWXpBdVo4eNIBtgFBVV95cUxQd2lVd1YyeXJadzVaY1Axd05uVjZTNUk5b3N0LTFGSmdxT0VsWnk2MXNjTFBEQ0VyQUltbnZ1VXdIWW40Zzh1N29OeDdrNVZGQ01ZaFM1Y0N3ZkZ5aXVwY0w5YkU2QklHekw2Y0l1dTVzRTV5UVQtSk1Lbkl5OUxnMWhRamFKY2NLbnpCY3BsRk9WX2JoMERWdFpWWUVYSmRBX0docjUwT3daR2x3UU44NGR0YUhndw?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T05:57:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_ciudad-del-carmen-2"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Pareja se debate entre la vida y la muerte tras ser arrollados camino a Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ1dDcFh1RUNxRi02ajBCby1KbVFaOGVyQzVDanZ1eFVsN3NpaGFaZDgyeHlHSDVDbmhUQUlKSGl5UkQ4aVpqU2JVcVU3bjZIdWJQODYzZkM1VUVlb29YYlg2cl9MV3Y0ejYwSG9vYi14SExQUUVBZUI0MDVCQW1fT2liUHlEYU5RZHRrLVByOENwNGJ3cU9OMW9R?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T05:57:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_uman"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-06:00",
+  "t": "Caballo pierde la vida al aparecer de manera repentina en la carretera y ser arrollado por vehículo, que quedó",
+  "p": "CARRETERA, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZmJIdzFjS2hRVzk5VmVnUy1qMEVTb1V6QlZObU1lSXRrUXZlZ0cwZzZ1S0JyZmlBZFR1MFoyNFBwVlZLMWdOeXBBZk5WRm14VEFZSzdvRG5KMFNVa2NVemZESzg3R215UXkwN1RNdmdrQ1ZjSzRJNmtaNWRTVkdrZmN1Ymt5bmNCREdPXzZWX3pCeTZWaWppTlNtVnpaOXQ1SWhPdnliVjlHeXdZY21GdDhGM2JRdUlyb1d4X09fbG1qaEFtVVFsa2FZSl8tdmhWLVJsTmtDLWNzT05aTkhxaTRJRnNGSmRRaWdHanplb0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T05:57:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_carretera-campeche"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
   "ts": "2026-10-24T12:00:00-05:00",
   "t": "Vuelca tráiler en carretera Chetumal-Escárcega y se desata la rapiña en Nicolás Bravo",
   "p": "Carretera Chetumal-Escárcega",
@@ -386,6 +459,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/24/pipa-gas-choca-arrastra-metros-automovil-playa-carmen.html"
+   },
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNl9tRTFxN0l6dDJzZkQ4dVpQQnJoTk42U2MwRUtMNnJ6UDljb0xveWxVZjV3MVNidWdRMEJlNzBsSWZEeFUtMjNLdm5fcE5sZnI1czNLLWNIalRMM20wWHdhV0N5cThHU2g4eEJVeFZuLXB0VGd3VE51OTlhRzBRVk1sWlhJSGdJSjgtdGgwUlpYZw?oc=5"
    }
   ],
   "creado": "2026-10-24T20:39:01Z",
@@ -451,6 +528,24 @@
   "metodo": "reglas",
   "clave_lugar": "region 211 movilizo",
   "id": "2026-10-24_region-211-movilizo-cancun"
+ },
+ {
+  "d": "2026-10-24",
+  "h": "",
+  "ts": "2026-10-24T12:00:00-05:00",
+  "t": "Colapsa piso junto a una piscina en hotel de Cozumel; cuatro turistas resultan lesionados",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmtmblk4anZqNExfT3lfM2U5OUVJbUdrTlp1elRRUU95UUczZ0wzVGlBR2VzMEJycU9CaDI5aFF5Y0ktR21DVGo3aTVWVF96bTUzNkV6YnFEdjZ4MzBUX3c4TW5DYnhoTmF1MGM3VlMzUmdEbVFWcXhKVUhpellVcFZ5aGk3bmtlaU4yYXdVQlBMZ3hscnIwb3RuNWdRSUp6RHl4UGtOZXJxV0t1NmNRQy1pLURNczJSVjhkZNIBvAFBVV95cUxOQmtmblk4anZqNExfT3lfM2U5OUVJbUdrTlp1elRRUU95UUczZ0wzVGlBR2VzMEJycU9CaDI5aFF5Y0ktR21DVGo3aTVWVF96bTUzNkV6YnFEdjZ4MzBUX3c4TW5DYnhoTmF1MGM3VlMzUmdEbVFWcXhKVUhpellVcFZ5aGk3bmtlaU4yYXdVQlBMZ3hscnIwb3RuNWdRSUp6RHl4UGtOZXJxV0t1NmNRQy1pLURNczJSVjhkZA?oc=5"
+   }
+  ],
+  "creado": "2026-10-25T05:57:30Z",
+  "metodo": "reglas",
+  "id": "2026-10-24_cozumel"
  },
  {
   "d": "2026-10-23",
@@ -566,6 +661,10 @@
    {
     "n": "Unomasuno",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUgxMEpsalpBSWxoR21xRVBPVVRoZERqOFE2MEJzNzlwbzAxYTM2aXlvNXNHbklLUS1iVGV2aFZTbGZ1cjdkbWhHVGQzZkVuMk03Tl84UjFVZTVXd1FfRlZFaGVxRDRSbnk5TUFaenZaV2hxRjFoQUtRVUtIQ18yVld1MENxT2QwM3Ywa3RSSXB0VXk4djlodThkSWktMzR2YUk5QXRMVW05a1k?oc=5"
+   },
+   {
+    "n": "TV Azteca Aguascalientes",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUFhUkhCVXhxcHVkTGNEbmtuRGNITUNEbDRGa0VRTzZMNWJjNlFkNk9mRXdNNzFSNFlzdE02SUNDRy1YRTRKanVFVVZ3UnI1eWZiRVhNRzVMMHZ3Z2ZocGtFdjJuS0pvTWNESjd1VVhCUDlXUG0xU3Jlb21oaE5WTUlSQ1NwTVFaaG9XQU5FdUs0MExocmZHS2FfT2QtNm9mcVZqaXJwVUk4bmhBOTdpRUQ4NVVTWmRkN1ZLT25DbEp6REpk?oc=5"
    }
   ],
   "creado": "2026-10-23T22:02:46Z",
