@@ -38,6 +38,61 @@
  {
   "d": "2026-10-25",
   "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "Omite Señal de Alto y Provoca Aparatoso Choque en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDlXTkdzcHBzVklpak92TDJKeThjWHM3NF96dlZ4aE5rYkxBYzQyQ3hrX0hoanNsanlhamNnZlNVMVM4bVpFVVNaQm9lWG5wXzhwOWlIekZQdGJUYUxqZnlLMkc2Z1FwWjF4UkxQQ21iT0NaZF92VWF2Xzc0c1RzRnBJM0FSbmdRVkd3ZA?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T00:06:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_tizimin"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "Hombre resulta herido tras golpearse la cabeza en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcWVVLTdZT2w3cEhqTnFYZU41SWE3cFMxQjlvTTFiY1dpU0tFZ2E0VS1jUFQ0eEVkdmVoMEdFem1JUlo0WTFybW5DZmxkMDh2LUY1RUROazRIcjJqZzdNLXdldGpNMVBjUHBwQkJicEl3N2tkVFBrWm41THlVLTFFemI0OGo?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T00:06:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "¡ay, caramba! los simpson salen de rumba y terminan estrellados en el periférico de mérida; así fue el choque",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSXhzUDh3MTdlZEZVd0x6ZFJtYVlScnN1bENGNjBXWFlFU0pyZXRzR3l2aWNDYlpTclN2V3pFNE1sZ2hTZ0M4NzgwVUFmLVpLR0xLajJueU9xQ25mT1hVTXBKa3FiUDRDZUdDTV9DUHc5MEllc0tMcnZ2b3BnYWR1RWV2QW1wY2pMb2NNX3VBVmxHUEVoa0VoQTk5Y3hPYUx1X1U3RVUzcUUxS3BBazVLeU82eXQxTWVHdEpXdEo0SDZBeHQ2NWdTd2FtOF9mY3IwZjFDMk5zY3ZDQVQ1ZFhTS2xWRDdsc0tYaFVF?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T00:06:58Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-25_periferico-merida"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
   "ts": "2026-10-25T12:00:00-05:00",
   "t": "Motociclista resulta gravemente lesionado tras chocar contra un automóvil en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -88,6 +143,24 @@
   "creado": "2026-10-25T21:39:21Z",
   "metodo": "reglas",
   "id": "2026-10-25_bacalar"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Derrapa motociclista tras intentar esquivar a otra moto en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa2R4N0FaZ0tsU01XS0RFdzVOeWh3NGk0aHZYeUhRVXlzLTRzT2FxRDR0c2xnaUs3dmNCNHF2cnBucExyU3B0LWlORDBJcHBnQWdPeTFEU3JhLTR1MENDbDhBUXlCVzNBQ2xBSmZ2LW5vSjZtMnBqUDB0WWdtaFNWNjhFN0l6Z2FEekZpOHRDdE9Jd0xaWHhsYmJiLU0?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T00:06:58Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_chetumal"
  },
  {
   "d": "2026-10-24",
