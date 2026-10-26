@@ -152,5 +152,10 @@
  "n|región 211 movilizó, cancún|quintana roo": null,
  "n|colonia irregular “las torres” de la cfe, playa del carmen|quintana roo": null,
  "n|bulevar playa del carmen, playa del carmen|quintana roo": null,
- "n|colonia irregular, playa del carmen|quintana roo": null
+ "n|colonia irregular, playa del carmen|quintana roo": null,
+ "n|colonia centro, seybaplaya|campeche": null,
+ "n|calle 108, campeche|campeche": [
+  19.844614,
+  -90.514188
+ ]
 }

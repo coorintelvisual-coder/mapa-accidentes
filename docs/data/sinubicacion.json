@@ -2,6 +2,79 @@
  {
   "d": "2026-10-26",
   "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Mototaxi presuntamente se vuela un alto y choca contra motociclista en Seybaplaya; hay un lesionado",
+  "p": "Colonia Centro, Seybaplaya",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/26/mototaxi-presuntamente-vuela-alto-choca-motociclista-seybaplaya-lesionado.html"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "centro",
+  "id": "2026-10-26_colonia-centro-seybaplaya"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Niño de cuatro años murió tras ser impactado por una camioneta en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Prensa Oriente",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZhMGdUVnpLVW1uWENzZDl4MDJITjlEVW9BSllfM2d3TWRUSWYzMGFHWlJpclBmQU1GS3c3MHNSeUgwSFlUcmNEVElQOFluUEVRNG1KZTZVdFlLSlN4TWw4VHdPNnF2NkpIeS1QbWJSbjAzcVhXV2xsUzFGYWdUb05vYUdCRzFTTFZ3dHBWVWgwUHdZNkJ0ZmZUZnlSMU52RThEakVJa09UQ25rTEg4NDJPNXJJWmNSRXc?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_merida"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Conductores protagonizan choque en San Baltazar Campeche por pasarse el alto",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "carlosmartinhuerta.com.mx",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnpyTUpfdnBZa1B3V1ZKeHdsZEU1NlRwdUNHNkRmdkxJTlVGX1N5eXFXTUQta2N6RDNNZWRIWGNVeWQ5T3BxZ1o0ZnhkaVBQVTZfYldqX3RpMlRjY1MybWU2djF3NEd2U0k3VWdtRVhHdGNrVENXeVpiR282c1NfWVEtbzRVQk1ZYi1WWW5pbm5fUmxseHQyMUl2X1hQWnJFcE9aMVZkZF9QNzNfQUdIVg?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_campeche"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Choque entre Auto y Motocicleta Deja a Joven Lesionado en Valladolid",
+  "p": "Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeTZHcjhrMm1BdktGQmd2Nng4Ym1zWjRNOVpSVjhYVkRZN1JuczRwb2Z4WGswMldnMmxJU3pJQ0o2U3QzOGFZMWVlajlLczdWZWRpUjRWOTM5bVF6ODFiZUh3VEYwSUEtXzI5YlFXWnphZVRSYVVHUjl6dGJNWS1ucDRsWml2anM1QW5ZbV85VjdSYW9QSjgtLVh4VQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_valladolid"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
   "ts": "2026-10-26T12:00:00-05:00",
   "t": "Muere motociclista tras ser impactado por un automóvil en Playa del Carmen",
   "p": "Bulevar Playa del Carmen",
@@ -23,6 +96,22 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV091T1d0OV92NV9OMU1mTFNMUWYwYjdxeWRZVlJUOXBlS3dhcF84clJPaVoxWk5vOHlhX19PaHB2cXM5bUxUb3lFQk1xcXB0WmFEcktaYmpzRFFvZncyR1R3bEdNS2RBVzlzMjVSb19pd0JTdEg0TXlCeFhBMGplN1F4RnE0akFUakRfZTVKbW1PN05zVlVNNDdraEJucmtNTTdINmhKWlJlX2xyanhtNHJOc056cEZnbDVoVjhiSGxiQU5yaVpFcDVRWEUwN1FDOFJvdzU0RDdpdjVoQ3JOQi1Ja2gyd29nT3Vv?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONElsWWVRNFY1ZjF3TWFfUDdkdzdOTndzOGNwcmVUQVo5VlMweEpIQkE3VDBxS3RZZV80UHJGYWQ1bkQxdXdhRjhJNEh5cnd6TC16dmFZNEh1Zy14QnNBUzVCZF9HUE1UUkkxc0tidlU0VnBMVEdjNGg4a1FCa2VLTElPc3dHTEJHVnU0UXdnYWNYRm1LSEo0a2pkdmJ5c2hpYVZkVUw4OGNXMmEtUUwtUHJWdEU?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0oyYjJBR3VsS2VXSkRUXzRFdFNVS3FCV2gtTFlvY0hva2Fnai1PeHctLXg0X3hhOE95QUJHU0laUVNMR3U3WjZNWExOUXNlRG0zYjdpSGtVNTYzTy12OG9VTWxuY2FuRkxicV90MGp4M1A3SUowQy0yTE5hUVpHRUFGdzMtYnhSeVZZaFBBOWhuSzFlRWtrRFhB?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFRSSEhQOU5lRXBlSG9PVzNueVlpTm1WYmlxWXdLczhqaGJpNXpwV3Z2VklXX29RU1c3bzBIcXdMQ1FNMjJic0gxamdfUFdacDdvTThfb1ZYWGkzNkFmQ085WEtmTEJVMDBlSmtZSEo0Vy1YZWhUcklfb0txLWJYYmtrUUtteWxtcjRXdmFKQkV1Qm1VeFdiOEsxTnk5ekZySVNqRnNIeTgyc2JBdjVFNkNTekNqUkdRbjBJUEQzZ0lhdw?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYng4N1pvaENPM3hqXzhoX2xibEY5MG9TbHdtbmMtVElxLXk2YmRRNXV1TmFHVVQ0VmNMT3lVTlZxR3BEVml1ejMyWThWb3RYb3E1MUs0Uzg4WTBrNW9FM2JURl9CVFVfekt2TTBtb0hzb3p0RW1R?oc=5"
    }
   ],
   "creado": "2026-10-26T17:16:25Z",
@@ -48,6 +137,100 @@
   "metodo": "reglas",
   "clave_lugar": "irregular",
   "id": "2026-10-26_colonia-irregular-playa-del-carmen"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Paramédica resulta lesionada tras choque de ambulancia en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/26/paramedica-resulta-lesionada-choque-ambulancia-playa-carmen.html"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmN1N0djV2ZGTTRfeHVkRjNEdlNzMnlaZ083LVF6MVRKcFR2dk4yb2lpUnMxc1lJTEVSaWxZUUl2RzRXVmtDVkhCdWVURUtFdG94aDBCeHh0OGV5YlAyYWxWSGctY2lscC14dHZIVWx0SDR5ZGFwU1ZKMjhCeVRweFhYek8wc1h0VUs1b0ozS3J1czBSWEVHcThmUmhiWEJ6d19pbTNWYUttaGtsRllNWmQ1dEdUSkNzcWdGbg?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Mujer resulta lesionada al derrapar con su motocicleta en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXlQcDJTeUU5WklMUFVvSXg3MXRkLWVLYmdoeU1PNURKRmM1OVpOUEJDd3QyTXBUcGVWcFQwTFhsdFBUNERiN1IxQ2wyaHhnX0t5TlRQNXZ6T0NVV0N1ekFZUzR1bHRHTlYwQXZpbDVaRXJDaUd5S1BVSXBVX1lVTVMyanlfay1qUHRrRnczVkFsQnRCamVZSVVVbw?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_chetumal"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Choque entre automóvil y motocicleta deja a un repartidor lesionado en Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1lXNG1EQTZjQkNDZTlWd1pQTGJCa0FNZGlVckJ5QjlEaU9NNktvaGJqX1RIR0lQTFRWcnVIV2VybVE4eWx1VFNSbTRCX0dQOXl0ZzRGdzktMkx1ZnE0YVB6QnJqTUotcWhIUnQybW5XZ2hha0tmRmtnMG1pWE5lRHJjaFExZFpZTlNoUVVsU2hlWEROLW8xal9qVHV5T1FicnhQTWF1bGlKcmhyY3VGd05YX05mazUxbkJnemt6X3RGYmFHZm1KekwtX3loSlQtSE9r?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Incendio consume motocicleta por completa en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSFNvTzl6QlBpeTVaQ0FMa1A3d2c2MC15RlFVQTdqQkVQdHJaaFp2ZlZrNWg0dWNhczBvMk8tQ2J0WWJaRktsWmJ6SWxoSU4xNmRxeHp1MDNqRy1hRkM2Z2tDeG5YdzBUcldNMUcwa1JfS29kSFBaeUVLLXQtRXhubnlqelJsZlJKb1N4cDhWbzMtbnVxMUZISkhIUUtmdw?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_chetumal-2"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Motociclista muere arrollado por auto en Quintana Roo y conductor es retenido por testigos",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY0ppaFg5TDZ5eUdUcXRJa0pmN0RsNHBvVzBJaWN5UERSa1RMbVlTOTV4bVgyOFEwd1JjU0lqNUJsVmlwN0lkYWZfa3RxeGJIX1BHcjhES05tc0FLZS03RmJMMHlqQ2RhUk52bjZrYm5yUHViX1NTQTE1OUhhOWRxRjZkRFI5QTVGVXBoUWtERUFHODdqMVhXUVJZRmFHMktfNE8tenhWcEtYZEpHeF9wdVdIeTcwY1dPOExwcC1iU2JUdw?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_motociclista-muere-arrollado-por-auto-en-quintan"
  },
  {
   "d": "2026-10-25",

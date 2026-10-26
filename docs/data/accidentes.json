@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Fuga de gas LP en camioneta repartidora moviliza a bomberos en Campeche; temían una explosión",
+  "p": "Calle 108, Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/26/fuga-gas-lp-camioneta-repartidora-moviliza-bomberos-campeche-temian-explosion.html"
+   }
+  ],
+  "creado": "2026-10-26T22:35:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "108",
+  "id": "2026-10-26_calle-108-campeche",
+  "lat": 19.844614,
+  "lon": -90.514188,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-25",
   "h": "",
   "ts": "2026-10-25T12:00:00-05:00",
