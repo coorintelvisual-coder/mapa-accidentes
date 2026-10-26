@@ -163,6 +163,29 @@
   "id": "2026-10-25_chetumal"
  },
  {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Atropellan a peatón en zona de invasión en Playa del Carmen; el motociclista responsable logró escapar",
+  "p": "Colonia irregular “Las Torres” de la CFE, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/25/atropellan-peaton-zona-invasion-playa-carmen-motociclista-responsable-logro-escapar.html"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ29INFJjWFo2VlVPa2VnWnhLVnIySjVrTVhxTlJsc00tXzNsREZzNHZLZ01FY05WcnRoZmRQYk5mTEc5U3l0bnZ5U05vWEhiMjdWTFJKVURZdlc0REtlbU9rWkV2cXBBNTJ2ckthdUQtVTRmMXpZV3JXTklLMzRRTXZVOEtDY0hkYWxDX2dheGY5MFFfY2xlcXpOZzdtMTlyN01pM3F6WmRTLXlZTTMxSFBlQ1NieUtHMjNZMi1vNHNIU1FXT0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T04:38:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "irregular torres cfe",
+  "id": "2026-10-25_colonia-irregular-las-torres-de-la-cfe-playa-del"
+ },
+ {
   "d": "2026-10-24",
   "h": "",
   "ts": "2026-10-24T12:00:00-06:00",
