@@ -1,5 +1,55 @@
 [
  {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Muere motociclista tras ser impactado por un automóvil en Playa del Carmen",
+  "p": "Bulevar Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/26/muere-motociclista-impactado-automovil-playa-carmen.html"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/quintanaroo/playadelcarmen/muere-motociclista-en-playa-tras-choque-por-alcance/"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3pDWHd1aWQ4X2I4aHlteGdEam40WHowWkVCazFWTUZ0UHVqSE52ZnpWN21jV0ZjTlgxR0hLdW5sTXVhQWJzUlJ5XzdvRkpNUVlQWC1OZF93WmVYS0xfNkNXa1F2clFmU1RTQU1GU3dCOWpubndsYl9ZNkhVRWlOeFpUS0Z1eVBmaDVmN2Z2Q3ZPUVnSAZgBQVVfeXFMUGdyenp3bEt5LVl2SGtYbFh5d2xOSTF4RGdCNkQ0VGk0QVJIc2xwZ090cEpyZ1p1a2FrNEZwYXh5TG5XU1ZZRnFhb1hwNnREb1VqS3VVMHFTRVgwN2JCLUV4V29tUHhqd1NUbHVzX2ZJbGstU2hlQTBVaXIxY3lXOWIwQWNKWVZPMndKLUpYaG5Zd3JIZUVMbEg?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV091T1d0OV92NV9OMU1mTFNMUWYwYjdxeWRZVlJUOXBlS3dhcF84clJPaVoxWk5vOHlhX19PaHB2cXM5bUxUb3lFQk1xcXB0WmFEcktaYmpzRFFvZncyR1R3bEdNS2RBVzlzMjVSb19pd0JTdEg0TXlCeFhBMGplN1F4RnE0akFUakRfZTVKbW1PN05zVlVNNDdraEJucmtNTTdINmhKWlJlX2xyanhtNHJOc056cEZnbDVoVjhiSGxiQU5yaVpFcDVRWEUwN1FDOFJvdzU0RDdpdjVoQ3JOQi1Ja2gyd29nT3Vv?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T17:16:25Z",
+  "metodo": "reglas",
+  "clave_lugar": "bulevar playa carmen",
+  "id": "2026-10-26_bulevar-playa-del-carmen"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Atropellan a una persona en colonia irregular de Playa del Carmen",
+  "p": "Colonia irregular, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0pONzEtT2FTRnUzWHZaU2d2alBPdlduVFRobEItZWdseDJ1aVlOaHpOb2xBejN5RDRkTFhyWExKWmtqQ1dMMHJyZTBHNnRSeUt0YmdPcTQ1eHhWLW9kS1JyeVdFM09SbC0tYlFzTVUzV1R3bVdFb1I2d2N5cGdYaUNTNTE2SzF3OEFOWDQ1UEN4aTJkZUdkTGw0azZ4SFJnLUdrYWJTODBGeVVY?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T17:16:25Z",
+  "metodo": "reglas",
+  "clave_lugar": "irregular",
+  "id": "2026-10-26_colonia-irregular-playa-del-carmen"
+ },
+ {
   "d": "2026-10-25",
   "h": "",
   "ts": "2026-10-25T12:00:00-06:00",
