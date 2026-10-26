@@ -93,6 +93,42 @@
  {
   "d": "2026-10-25",
   "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "Fuerte choque hoy domingo 25 de octubre en Kenia",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT3UwQXpPSHVoLVN3dFY0aUFnSm1sTW5GbzVIQ29vMjEzcjRyUWk3MFByUVBvVTk2YzFKdmhtZm1yVno0ZW8yZ29aYWVqeTNPbmc4TmRHaUF5a1gyZWV0R0FLUk1NdjEtMGdHYnlzQjY3Q1ZvRV90ckNkVXVhMFVLd2tBeGJ5SVZ4dWJaSXB2VzJJOU1COW8xcjdBdWxuNjJNbWZ4RW8yMEVkTkFFaDRJcm8xUFdocE5hYmUxSXgzQzFRYWlsb3FXSQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T10:58:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_fuerte-choque-hoy-domingo-25-de-octubre-en-kenia"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-06:00",
+  "t": "¡Tragedia! Reportan fatídico ACCIDENTE en Yucatán, joven de 24 años pierde la vida",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTHlrS2RsSXQ1bTg4VU5BcUxMaVh6dXVuMnhPcm9LOUtqTTZGT25PMlRlNXY2ZHc2NlhwUHljN2RUd25qLU8zOWMxbGZUSjhGNmJYSFdCZzZibl9LLXdMR0ltdW1mbFVWNVJzNjBjbXhYMmpCTEh1VTh0SWRhQzZoWk9LZnVXSXFTMlV1RVduMDBXRnE4eHZPbmNBMWo0aXFwMVREVmlHSEM2dHBNLWVNT2ZCODQzbVUwUTgw?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T10:58:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_tragedia-reportan-fatidico-accidente-en-yucatan"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
   "ts": "2026-10-25T12:00:00-05:00",
   "t": "Motociclista resulta gravemente lesionado tras chocar contra un automóvil en Playa del Carmen",
   "p": "Playa del Carmen",
@@ -184,6 +220,42 @@
   "metodo": "reglas",
   "clave_lugar": "irregular torres cfe",
   "id": "2026-10-25_colonia-irregular-las-torres-de-la-cfe-playa-del"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Motociclista atropella a un hombre y huye en Las Torres de la CFE, en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelBlNldxM1FpZW04cTR3aThuc0dHMThyYVJuTW9EQWZJZHJ0blI2ckZ3Nld1V1lYWkFKY016Wkp4bS1aT3ZuYXhxWjBzbFhlWHVHNFBkNnIxWnNaUXo2S2hYbHNKU3NObThBclV1NFdmZ0FSaVdFMWhDYnZmNlV2ak5neTcyZXJ1clYwZjdLWE1RTFRybEpidzdyZ0NCMzJVa2lEX3FDUGNNZkQ3RUFoMnQ4d0FVM3EyT3B1T09IQ3J2UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T10:58:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-10-25",
+  "h": "",
+  "ts": "2026-10-25T12:00:00-05:00",
+  "t": "Colapsa fachada de edificio en la Quinta Avenida y desata alarma en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUk9YY0RJQzhweWF3dVQwX3dfVUticUx2a3BmUTdMMmZzTUI3Sm1rRXNsZFR6TTVFWjFIWGktSUNzZGtIUTU5MS1VdHlDRnNYbnVBN1NZVmF6NXRkWXg4alk3Z09lVU9FZHMzc2JHOU1xWjB2ejNjclhSMFJXbS1CdkhGNm0wcWx0djV4M25JVnBZZ1k1aXJoQTlCYjdKUkpYTUdzTjFiWmpsUlRCWG83TNIBuAFBVV95cUxOU0NjZ0FSbF9oalQ1TXozaXJ1RzJqLUVNSmxIT3llQUY1TzBITmNfaUE0N21kdXlBRnQtRkY3ZTBuUC1MSWNoWXg2TF8wUVhCNFhWa1lZN2NURDRSdVNPRGlSTUFjRGc0cDJHeENTTWVEbndpc3BPZWFyLS1XYnhWQjZKWV8wWTBwZzA5RGFJWGc4RTFRLUM1NlhXbzJJYXZ4MjBsQWdtWTBfUDZFTGZLS0VTbE9vSVJs?oc=5"
+   }
+  ],
+  "creado": "2026-10-26T10:58:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-25_playa-del-carmen-3"
  },
  {
   "d": "2026-10-24",
