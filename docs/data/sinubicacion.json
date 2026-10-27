@@ -123,6 +123,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/10/27/camioneta-corta-paso-motociclistas-ciudad-carmen-terminan-hospitalizados.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONHVBNHE3M1BBOTZvclpEWGxDMDhWcnlJUWF3S2tVbkVET0U4N01UcUVQbmZha1BtN0F2OVBpSnU1emhmYVZibWlvQ2puTHNwTTJlZWtDaHVlazlENWZXMHdadExDc2prV1BXbHh1Q1hyeDVoU1dxelhmVEZqYTBPZHFvaUZrSDZqdnphZEhkSWZROFpXMm9zcjJ0QjRpUFpYSTNpUlExQllucDdkdENVRU5qOWZiSFZxLUxsTUFza00wZw?oc=5"
    }
   ],
   "creado": "2026-10-27T20:00:02Z",
@@ -232,6 +236,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTFHSExRcno4dll0NEpfOU5aNFBqT2xxOGhRTnhyVDhBenBfVjJkaUFJS21XTGx4VnZNamRPS3hKY1ZySlAxXzJ0RHVmSkFrVTBORmZxYmZjLXJxdERtTW1XVVZMcGRKODZ5Rm5iS1BmYWFSLVhvM1hDbUYzY1hMSFB2N1FvNGU3NVdyM21hOG1tNzlMdW1sOTdsdkNMWnRsTFkzTnB4UF9saV9MSlJmWG91alpJLW1zRjRHWG1jTjU5TklaTC1VODdUeDdoa3ZEeHNWT01R0gHbAUFVX3lxTFBrM2VhUWJYeHU4WjdkcjN0aEtkTGN0c1BRM2lOQnVJMlQ4VWNwWHZIQ0dJNnVEM09xemVfVHlwQ2pwb2s1bVpFcVYxbTR1cFRwbUZaSGhWZ0xOcExDdzdpQjdyOUxRYzhSa2JjaDcyVHNaYXlXUnBMeXhoZVA5czVROXdqMzNudW80alFxOVk4QnJGRC1XVUJmMnc2ZF9ZMDNjLXhENnZQVkQwYWNzU0NfS0lEellFdHFjQjJLODdERXpXSEk3NzYzamVpNE9zUW9fWktGbktYT2NxTQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGw2emwwbkxQYS1PemZaYjQ1RkI3NXR5QWlfOTNqWWNiUFNVSFZyelJTTEpDZ2VkdUZVOEwwcm5vbWRFbnFmeHhxZnRuSW1rLWQxbUtpUmZQdUZTX3IyZlpWM1JkOWMtakl3VWJhYmFpWEFmbDNfYkhTOXFjWkRKcm1xNE54MWw4WFhjaUZWWjdmSVdOMkR4NjRwOHRFSmlRNk9MWERqTDFwdw?oc=5"
    }
   ],
   "creado": "2026-10-27T20:00:02Z",
@@ -296,6 +304,24 @@
  {
   "d": "2026-10-27",
   "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Un incendio en Mérida moviliza a cuerpos de emergencia, sin lesionados, pero se desconoce la causa",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mYUdjbTQxR0NiVk9heFZ1T3JTN1Nzdy1jTzh0UlpCSXhfWmVBd0U5VmFXQW1kdHZGS1liYllOR0NUZjZTVEk0c1FLT05ETEtPUUlmNzI2OGlXT05JOFVNR3VURmdzWHkyazgzT2hJY0lZaDhO?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T23:42:35Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-7"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
   "ts": "2026-10-27T12:00:00-05:00",
   "t": "Autobús mayab provoca accidente y deja cuantiosos daños en Felipe carrillo Puerto",
   "p": "Felipe Carrillo Puerto",
@@ -310,6 +336,43 @@
   "creado": "2026-10-27T20:00:02Z",
   "metodo": "reglas",
   "id": "2026-10-27_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Vuelca tráiler de carga en una curva del tramo Cafetal-Pedro A. Santos en Quintana Roo",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/27/vuelca-trailer-carga-curva-tramo-cafetal-pedro-santos-quintana-roo.html"
+   }
+  ],
+  "creado": "2026-10-27T23:42:35Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_vuelca-trailer-de-carga-en-una-curva-del-tramo-c"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Mototaxista se desmaya y muere antes de ingresar a un centro de salud en Playa del Carmen",
+  "p": "Fraccionamiento de Villas del Sol, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/27/mototaxista-desmaya-muere-ingresar-centro-salud-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-10-27T23:42:35Z",
+  "metodo": "reglas",
+  "clave_lugar": "villas sol",
+  "id": "2026-10-27_fraccionamiento-de-villas-del-sol-playa-del-carm"
  },
  {
   "d": "2026-10-26",
@@ -532,6 +595,24 @@
   "creado": "2026-10-27T14:21:10Z",
   "metodo": "reglas",
   "id": "2026-10-26_aparatoso-accidente-de-autobus-de-agrupacion-mus"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Una mujer reclama 170.000 euros tras romperse la muñeca y ser operada dos veces por una grave caída durante un",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOG1hYThBU1RwYmJENzE2M2J2LUFJLXQxUElwZE0xTXY5RGlZR1Q0SkVLSkNYQkZJaWlzY3lyQXA2aVlfRDhsblRZUC1FMTJxTjlBSmNIOGlnTm5IdXRoMHJuSTRuSVllOHA0TlVHRW0zdjBWU0xLSTg5ckxKY1dvaHFLeU9nMnFhajQwY2dyZjA3MjU5UTNSdWxYRk1ibkx1X2NLSXl1ZTZGQmViNzJ4LWhnUk13VnZqTFJMYW5YOWs2MFgwTXFjWFl30gHPAUFVX3lxTE5KSEFVeFUtMF9SVFA4cnVfRUdUTG1YMFRIMWswT3VvV05nVGNnOGJubHl4NV9pTE9RUVZaSGkzVWlTeU5pMDZMMlZIdGJHSDJzSENoaGlXd3JjZjFGZ3ItdXduRmVteXRyWTNFUUM3Y3JlbVhUUWQ4bEpBUEc2WVNaTW4tQUVfZ1NXWkctZEFjNzlrOEdiaG1VVEE0RkNJTzlFVWRiUlNzSGQ1S0RuRW0zTEhwczN5V3h5bGNsX2dRWmloVVFTNGdGRWR1cGVWQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T23:42:35Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_merida-3"
  },
  {
   "d": "2026-10-26",
