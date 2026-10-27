@@ -1,5 +1,55 @@
 [
  {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Ambulancia iba a atender un accidente y termina chocando contra auto en Ciudad del Carmen; hay un lesionado",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/27/ambulancia-iba-atender-accidente-termina-chocando-auto-ciudad-carmen-lesionado.html"
+   },
+   {
+    "n": "Tabasco HOY",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFgwNDNNYkFIeXNpS1NnellEckV2cTlQSUFlOGJQamZPLTJyaGU3TWczdTBHNkJaa3lPa0VGYjM0SGYzLUtXMkVkX1dyMFNpT0p2cFdYVGVpLXhPMzBLNkMwRWpxRldybFpZZ1N5Wm9BVlNlaWVObjVXcEx2UVhfa08tWjdxM3M4MXJzbkpGeTIyb0FwS2x1dkJ3?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-10-27_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Camioneta choca contra poste de la CFE y provoca caos vial en el boulevard Colosio de Cancún",
+  "p": "Boulevard Colosio, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/27/camioneta-choca-poste-cfe-provoca-caos-vial-bulevard-colosio-cancun.html"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "boulevard colosio",
+  "id": "2026-10-27_boulevard-colosio-cancun",
+  "lat": 21.159724,
+  "lon": -86.825096,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-26",
   "h": "",
   "ts": "2026-10-26T12:00:00-06:00",

@@ -23,6 +23,10 @@
    {
     "n": "El Periódico Extremadura",
     "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkl0RHBPNWtxWmYxckRVeG1XQnRkSzRsU3o5N2pKLTNnNXhTM3hnd2k5YXE0VVNvRl85Ni1MU0k0dFA5Qjk1TDVUdnNGRTFSLWZlYTRtVG93eVRwajgxazVWOW9wR2o5QS1OejBPTE56azMtSEQyODZOVmo1S25Rdk1HbmM3a1duVERucUVBRTNYRnM4VG1IVy03ZkhTX2Zwbklr0gGoAUFVX3lxTE1PUmZyTF9VTDBlMTdVUTktMUtKQWswNXZEN2w1andNczBKanRNcmp2UnB3YmxpaGxaU0xzSFZXbnRTS2dNS0x4NUt6cU90ZFotYnBKTVZRQzV6TWNXQTlTejc1YnpoUV9weWFEYVhFQzVma2hqUXhod2NtUHNnMTJyUXdsaXRCV1F3QVpjay1rUlViTEVsUk5mcFUtTm5ROVBGaG1OMVlMWg?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/27/registra-incendio-vivienda-fraccionamiento-parque-merida.html"
    }
   ],
   "creado": "2026-10-27T07:40:52Z",
@@ -87,6 +91,225 @@
   "creado": "2026-10-27T14:21:10Z",
   "metodo": "reglas",
   "id": "2026-10-27_merida-3"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Vecinos exigen reparar zanjas en Champotón; motociclista cayó con sus dos hijos",
+  "p": "Colonia Nueva Esperanza exigen la pavimentación de la calle 15 B, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/27/vecinos-exigen-reparar-zanjas-champoton-motociclista-cayo-hijos.html"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "nueva esperanza exigen pavimentacion 15 b",
+  "id": "2026-10-27_colonia-nueva-esperanza-exigen-la-pavimentacion"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Camioneta les corta el paso a motociclistas en Ciudad del Carmen; dos terminan hospitalizados",
+  "p": "Carretera federal 307, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/27/camioneta-corta-paso-motociclistas-ciudad-carmen-terminan-hospitalizados.html"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 307",
+  "id": "2026-10-27_carretera-federal-307-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Choferes rechazan instalación de topes en La Costera de Campeche; advierten más accidentes",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTlUVzRUNE5lUjUtLUdtVk5ROW96M3pheEp0M3dRb19zdnZnNHdwWWhEdndXY2ZRTXBMU0R5bVFZR2ttSkFjRHhVbUZrWjVuaFhSMUFKZkxha3E5cDhHazBmQ21ETWxKSkRLYXdreGNiUk54TXIwSWZoOS1IazJzdUhRbExaT1UzQ193RmJINTFsNENIdHl0QkFLc0R5bmFkTGs2eXdkcmpRSmJLUnlEQlVzYUc4WE1PbDRsVGJHNNIBxAFBVV95cUxNZXlPajVYUG1sdlg4bFZfOHJNa1NKNlFfb3FZR2J6M3g3SVFfWHEtUUFtRXg5a3haZElCbk8yRk1nYm1IWHRNNlhDN19VaFpFQ1RCal9rTDhZRk5pcFBRNnRJZGxXcFJYdXZDbVBfSWVKOUVsZG5UXzN6SzNnSnVKQkZvSm5VNmEzVURVUVh3QnJZXzZnTzV4RHd1dHExWGpFZ1lpNi1paW5fLU1EOVh6czF3Q1l5VzhtWjE0N3UxeFVlLTJp?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_campeche"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Camión de carga choca contra unidad Koox en Campeche y le destroza el espejo retrovisor",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakgxd0hlcVpBdjhYXzI4ejc3bTlOSTN5ZEVLM0NqNy1DbEZmWGdwdW8xbEN2NnhNSVA5SjVVWkg0S1BNRzJZQnhrYk56R3lqdWJrLU5RZGJ4X21JbDB5S2pWNHNELTJQZ1Bsc3p4Rm9jU2JMMkhYYTkwQk5VbWF5b3ZtYkptV1dNVUpuRW5VdXl0QkUxZHU1QUJDQVNXdTJPbFNIZlBvNmZLUV8xZTRwWWZxc21CMWNuc1JXUFdiTThESXZLS2xJ0gHHAUFVX3lxTFBqSDF3SGVxWkF2OFhfMjh6NzdtOU5JM3lkRUszQ2o3LUNsRmZYZ3B1bzFsQ3Y2eE1JUDlKNVVaSDRLUE1HMllCeGtiTnpHeWp1YmstTlFkYnhfbUlsMHlLalY0c0QtMlBnUGxzenhGb2NTYkwySFhhOTBCTlVtYXlvdm1iSm1XV01VSm5FblV1eXRCRTFkdTVBQkNBU1d1Mk9sU0hmUG82ZktRXzFlNHBZZnFzbUIxY25zUldQV2JNOERJdktLbEk?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_campeche-2"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Colectivo le cierra el paso a motociclista en Campeche y termina chocando contra patrulla",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFl1MjNZbTJJZ1kyU1ZVcVlJY0ZDdXctVUpqNVBHSHVkMHlRSFk5SURNT0J0VzRCR2ctQ1VPek9OWkI3OXg2OFBWS092ODRYMzZYbkJPUUlzV0hTdmR6cE5Ic3dMaGh6LXM4a2VrMFVLT25jb3dvcU5ZU1BQSy1RT3lXdF9vU3JCQXM2VWZqTXVIYzlLSnJvNUZVUVNMOTV0TjFLYkhSdUU5Wk1Ncm9OUjMxTVVjR0VuM1hQcWV0NElVSHJLSHBsUzB30gHKAUFVX3lxTFB4WXUyM1ltMklnWTJTVlVxWUljRkN1dy1VSmo1UEdIdWQweVFIWTlJRE1PQnRXNEJHZy1DVU96T05aQjc5eDY4UFZLT3Y4NFgzNlhuQk9RSXNXSFN2ZHpwTkhzd0xoaHotczhrZWswVUtPbmNvd29xTllTUFBLLVFPeVd0X29TckJBczZVZmpNdUhjOUtKcm81RlVRU0w5NXROMUtiSFJ1RTlaTU1yb05SMzFNVWNHRW4zWFBxZXQ0SVVIcktIcGxTMHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_campeche-3"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Motociclista apedrea un Va y Ven y lesiona a dos pasajeros en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDJodXV1TXRxMG9lcmNOYXNfOFUzTS1ubWVYWGNJRVBmTVhjVERWQkNqc25MSVQ0MzFDZ1VKOWw4NlV6Zkk2SW9xMjUzeGRYVDhJQzZuY3Viczg4SmlweXhraFNCQzNlWXllRDVMZmNONUdOYjNUSFhEVlE5ZkVrLXR0OU9jRHFQY2ZkOExJcUU2S19scXZIQlFmVHZyb1lneVhSdm5MTVRSN2FX0gGsAUFVX3lxTE9YMmh1dXVNdHEwb2VyY05hc184VTNNLW5tZVhYY0lFUGZNWGNURFZCQ2pzbkxJVDQzMUNnVUo5bDg2VXpmSTZJb3EyNTN4ZFhUOElDNm5jdWJzODhKaXB5eGtoU0JDM2VZeWVENUxmY041R05iM1RIWERWUTlmRWstdHQ5T2NEcVBjZmQ4TElxRTZLX2xxdkhCUWZUdnJvWWd5WFJ2bkxNVFI3YVc?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-4"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Enfermera denuncia falta de vigilancia tras choque en el nuevo OHorán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEwyLTNWMHcxZHBZVFFxOHYzaVNfTWVjYndxTUJXanZ5dnMwaEkxWnFiSG9OTXhlMEhER3pMM3J1Z0kyVDZuS0ZWak40OXVsY3RjajRhX3VZbHAwQzJkZTZNeHFVN0JkQ251aTBxTTVIaVRDVThPOUt5QXdXNDdMZXhJV0pfSk90NWFFS3dMTFl2dkhQdWNZ?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_enfermera-denuncia-falta-de-vigilancia-tras-choq"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Choque entre dos camionetas provoca afectaciones al tráfico en la colonia Manigua de Ciudad del Carmen",
+  "p": "Colonia Manigua, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTFHSExRcno4dll0NEpfOU5aNFBqT2xxOGhRTnhyVDhBenBfVjJkaUFJS21XTGx4VnZNamRPS3hKY1ZySlAxXzJ0RHVmSkFrVTBORmZxYmZjLXJxdERtTW1XVVZMcGRKODZ5Rm5iS1BmYWFSLVhvM1hDbUYzY1hMSFB2N1FvNGU3NVdyM21hOG1tNzlMdW1sOTdsdkNMWnRsTFkzTnB4UF9saV9MSlJmWG91alpJLW1zRjRHWG1jTjU5TklaTC1VODdUeDdoa3ZEeHNWT01R0gHbAUFVX3lxTFBrM2VhUWJYeHU4WjdkcjN0aEtkTGN0c1BRM2lOQnVJMlQ4VWNwWHZIQ0dJNnVEM09xemVfVHlwQ2pwb2s1bVpFcVYxbTR1cFRwbUZaSGhWZ0xOcExDdzdpQjdyOUxRYzhSa2JjaDcyVHNaYXlXUnBMeXhoZVA5czVROXdqMzNudW80alFxOVk4QnJGRC1XVUJmMnc2ZF9ZMDNjLXhENnZQVkQwYWNzU0NfS0lEellFdHFjQjJLODdERXpXSEk3NzYzamVpNE9zUW9fWktGbktYT2NxTQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "manigua",
+  "id": "2026-10-27_colonia-manigua-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Padre e Hija Resultan Lesionados Tras Derrapar en Motocicleta en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGtXZ2hTRktuZFNFVXRmdHE5ZE9OcUJ4MWliQ1ZqQ3VxM2VaOUFtbGx4V202Z1YxNTN1aXpJbHhUSmFvRlRqWnN4NDRBMHNDUllSV2thWmdDSDZtQWpHckNUVmxUWkpiT1VBMlNBVERndy1meWRxLTNQbUdrNU1vdVNLR3BLSGQ3SmZzU185MWFrYTQ5NDlCbGRYXzRHMzhy?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_tizimin"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Autobús se incendia y explota en la MéridaTixkokob",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JY1pOejl3b1hqS1pESDVHcUhQSl9jZ0hQYjZTdFVkb09kanp2dEUxaVM3NlFnSHJtelpiT2RCWmVWeUFiS0J2VnNOYW0xSk50ZWNjd0wtWTZsZy1xYXJRb3dEU3FFcmRRWUJJSi04T0piZUR1dUhUejNuc2Nka2M?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-5"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "¡Lamentable! Camión de pasajeros termina hecho CHICHARRÓN tras fuerte incendio HOY en la Mérida - Tixkokob",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVNyRUFMWTRDenJCVHlTZDk4dzNBd0JFbWM5MThEMEtKZVpkU2plS3FUNkdzaDNGajBpTS00Rmh6Y0RQZXJybFI0QUxFdDlMZXR0aGpPN0NyODZaRjhIQXRWWGlacnVBM0pra2c0QjZWYWh2MEFLaHh2Y0lkMy1GRDBHYUROcGRzYlVuZlVMcjI0TW1leVZnbFZhS0RZcFNTanlFYm5iNk1FalREbWxhSmdVR3pPWXZHRlREdDBWcVdDT0hRZl96SlVWV3pDVWRyVFowenl0OE1NTDg?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-6"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Autobús mayab provoca accidente y deja cuantiosos daños en Felipe carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbm1ST2lNck01SDcwSlZLOWxFY1BwM1g5TGVLM2hnajNtakZVUU1ESGw4VS1QMG1OVnJMWFh6dEtGdDVWVkV4UGZiTUJKM19lZFh1UkNlS3dQMjBRbnNSM3JlOEtHWEtIRTV4dmpna3FCR2pCbE04TlFwakdvZmNqZlE1MFJSTnZvMlRTejJWVkFOMHpnSnk5OUZyWmtCRDdPWDRES2YxQTltaDdaMjdaNEg1dVRhRVRLWHh6dl9HMldoWGc?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T20:00:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_felipe-carrillo-puerto"
  },
  {
   "d": "2026-10-26",
