@@ -75,6 +75,42 @@
  {
   "d": "2026-10-26",
   "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Trabajador cae de unas escaleras en Ciudad del Carmen y lo trasladan de urgencia al hospital",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2RyWGlGZ2U4SG03XzhBVnQ0R1hyb0hHenFEa184cUttMDlhM3JCWk16MmFGRGJtVkJnSEZRSlNoc3U2SlpXem9VYUN2VXcyd1hFTFBpanVPWHNkNGd1X3R1cW5DYUF4NXBrT0JSZ3VWVS1PeHFrc2dBaWlhcS1iQTVvWVF5WkpSOGVoaUZXaTFEcTdkTGdkak9VOE5mQ3FWT2ZnOXM3dkNuUklIX2dOX1JCRnl0SUFScERNWXRwZG3SAcYBQVVfeXFMTjUwN0lfOW8ySmNUNk5oR2UxRFpZUjhYdk5wT0hldTlJMk16b0NMVzlrWUljcjRJdmxtMzVSMjRaLTRBWEZrSXFXX2FpT1pPM19tOUxGWUx6bWFIanhLSy1RVTRtUXV5ZmdWMVA0T1pnMHdSMVVmdzJ3Tm9rbG9YSVVvZG5IV3hLTE5WY0k3ZkxSMHlsYWVPejN2QnRrQS0ydUxXbV9VYjJFaVZsNWlNbGd1SGhHeWt6N3JKeUlFcVFjZEJ0anRB?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T01:59:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Volcadura hoy lunes 26 de octubre en Diamante Paseos de Opichén, Yucatán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWV9tWDVpeDRHZFZWMTZab19DSHBhTGx6LWp5XzdvaVZqS1FJZWZWcnhDdVpWVHhlU2s2czVHV2xGelVLRVVGczByS0JJWm5Mc3REM1NOU1RjYl9MQmJBZDFTajduVFNoTWdGMy1fbmxJUG94SEdqb3ZGdWNubGlNYXRSRmo3RzNqM004Y0V4cUszb2xKbzkyUXJueWVqdnhzdnpHY01Kc1dtV0pDcTlheWJzcUdndlM2anF4S0ZMSm9MenRwb0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T01:59:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_volcadura-hoy-lunes-26-de-octubre-en-diamante-pa"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
   "ts": "2026-10-26T12:00:00-05:00",
   "t": "Muere motociclista tras ser impactado por un automóvil en Playa del Carmen",
   "p": "Bulevar Playa del Carmen",
@@ -190,6 +226,10 @@
    {
     "n": "Fátima Vázquez Digital",
     "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1lXNG1EQTZjQkNDZTlWd1pQTGJCa0FNZGlVckJ5QjlEaU9NNktvaGJqX1RIR0lQTFRWcnVIV2VybVE4eWx1VFNSbTRCX0dQOXl0ZzRGdzktMkx1ZnE0YVB6QnJqTUotcWhIUnQybW5XZ2hha0tmRmtnMG1pWE5lRHJjaFExZFpZTlNoUVVsU2hlWEROLW8xal9qVHV5T1FicnhQTWF1bGlKcmhyY3VGd05YX05mazUxbkJnemt6X3RGYmFHZm1KekwtX3loSlQtSE9r?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/26/embisten-madre-hija-carretera-federal-tramo-felipe-carrillo-puerto-tulum-responsable-fuga.html"
    }
   ],
   "creado": "2026-10-26T22:35:17Z",
@@ -231,6 +271,60 @@
   "creado": "2026-10-26T22:35:17Z",
   "metodo": "reglas",
   "id": "2026-10-26_motociclista-muere-arrollado-por-auto-en-quintan"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Dos muertos por accidentes viales en Playa del Carmen; baches y deterioro vial bajo cuestionamiento",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "el quintanarroense",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQakdiY2tFOUZMUzFmNXgzaXNHcmdycmluMloxMlpxX003S1ZWbU0xTkxxbWc0RElVZnR0cGN6eERrY3UxTGlHenRTZXZqZ2JaSHl3VUxTYlBvdFpiQV8zVGl1ZGZkWFpMdHFiT1hmMllpanFXcnlhaUxNb1FjSUVPdjR3OERNRUZOSnpBbGtzMHRuTVlTUndVMnlWMmRGdUlGdEJWZThoUkJWUWJVRzlidVIyeHRMeE1EUlluTHRfcDhNNW9SQl9WUkk4ZDM4QjdyQWUwTDFlR0l3dWM?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T01:59:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Conductor choca contra palmera y abandona su automóvil en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRk5GOW9BZGhPX3Z0eHFQZm1qZ0pHX0h1RWYzdllBeEthaHNMTHNKOW4wb3VfNTM1LTZBT1YwMlN0SXlISGtGMFlTOGlGTEFMNVVvM2FtbTlqd2NBSF95STlrUnBtZHlEYkJtZ3FocmNMcy1ETG1oZnJCV0swcjZVVnllODFaUG1jRUlR?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T01:59:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_chetumal-3"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Por no guardar distancia, taxista impacta a motociclista en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMTFNWUhQcV85Sng5alpaeFViaElCU1RGUnNFLW1lalZMMVRDc3l6eEMxZ2NEZVB6M2w3RUF3dk04aXZZbktVTzdBZk13X093d0VGS25MbF9LbnlFNHB3dHU0ZFJzODJpSXZnYnhJTVZwNzRsYW9KVkFrMDJaVXg2dVVuZnZyQm5pT2FwWQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T01:59:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_chetumal-4"
  },
  {
   "d": "2026-10-25",
