@@ -30,6 +30,65 @@
   "id": "2026-10-27_merida"
  },
  {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Explota un camión en la entrada a Villas de Oriente en Kanasín",
+  "p": "Carretera Mérida-Tixkokob, Kanasin",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/27/explota-camion-entrada-villas-oriente-kanasin.html"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTW8zalc1Wm1ZSEFqa0ZOc2FyUXRwUzRjaXVBdHQ5ZThfS0dEUUVqUVdoQXRJdHctaFlSaHVhQmJyNG1FYjRiQVpYbDJodnhNbnFCQWhCejQ2NkRHR0FxMUkzYjQwOUJ1MTFXbzJ4NHJncFR5UFN2Y3ZEZFhXZnlNYXJWZjY4WkNTQTZsMDlaZGVJMGpPQjg3U21R0gGfAUFVX3lxTFA3UUVyUFp1NFhUakNhUFBpZ0xpamlIaGNaWGZTdWF6RHQ4ejlEdUJDMVZIVkZMQ050ZjluUUI0aUFhLUprSzFkRzd3MkxLUmhqVWxSNDJHQW5zVUNTbk1jUjBzdmJOaVROMkxEYXptNVZMUkg0Z1RmMXlDUF9lX1pMZ0xNNjJqM3FzLUt3dlVLdFZpUmp2X21FVWRIVV9DMA?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T14:21:10Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida tixkokob",
+  "id": "2026-10-27_carretera-merida-tixkokob-kanasin"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Autobús queda reducido a chatarra tras voraz incendio en la vía Mérida-Tixkokob",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV01JeXRMWlhPWHlIaWR5WGxCMlFjTTBxMndYWE1wbWxYT3p0R0trcmVqVFhSbDJnLXhrdllvUWNjZzU2VlRwc2ZYRWI1SzdSRU1WS0pGQnJNWTRRVXI0WGhXVjIyNEdVQWpUbXJJS2dWR0NoQk40a2ZIYThPVjdtNXJmQTNMNnJ0b09pTWdjeDE4TDVyeU5xdk42bEp6RXpzLVdhWkxmOFplYTJvX2p2Qi1tTm43SEdkR3VWTmRB?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T14:21:10Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-2"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Una motorista herida en Mérida en una semana con 16 accidentes de tráfico",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Televisión Extremeña",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG9Cd0kyM085YkJoS1ZVTnVGUnczT2RFd1h6Y3BHZnl2Zk5HNTlOZ0d1c1Z4M1hHbk1DMW90SW9FV0VaM0VTc2FwcmVvNERjYTRJREQtWjRnWGlBU0pvbEJodUxKNF9BcExrUHhYRHhhMVZQWE1hLWpJbi1vXy1lbUIzWDQ4S2F6V2kyR0pyakpaemhGQVZRa3o5TmE4MmJXVmlDbUJZeUVKdzFiMGZIU24wX0JtNWtH?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T14:21:10Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-3"
+ },
+ {
   "d": "2026-10-26",
   "h": "",
   "ts": "2026-10-26T12:00:00-06:00",
@@ -236,6 +295,24 @@
  {
   "d": "2026-10-26",
   "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Aparatoso accidente de autobús de agrupación musical",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVEwtQzc3aEwxVmFKTnBidmR1enU3a3JIY0RpeGtzYXBGWkZaanZwQUJjeE0wLXBHYmNORENDdmFsdnZIaFNQQnFtMW5SbW1kc1NZRmxEZWQ0NVUwemRwemdRQ09tSW9uYTJrVTkzSmdoaFNlbExqZzhFTndVQlNtUEgyQThYWFE2U1BpUXR0ZE53NDBpckRnVFBScXM5TDBOeElNaXNMVHlBZEtfV3lpMHFsZEF6eUhoUF9z?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T14:21:10Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_aparatoso-accidente-de-autobus-de-agrupacion-mus"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
   "ts": "2026-10-26T12:00:00-05:00",
   "t": "Muere motociclista tras ser impactado por un automóvil en Playa del Carmen",
   "p": "Bulevar Playa del Carmen",
@@ -273,6 +350,10 @@
    {
     "n": "Caribe Peninsular",
     "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYng4N1pvaENPM3hqXzhoX2xibEY5MG9TbHdtbmMtVElxLXk2YmRRNXV1TmFHVVQ0VmNMT3lVTlZxR3BEVml1ejMyWThWb3RYb3E1MUs0Uzg4WTBrNW9FM2JURl9CVFVfekt2TTBtb0hzb3p0RW1R?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uZEJXN0pTVHBhZkotVGFfUVBUVGx5ZWp0OEh3QnprUTZ1QVhUclI0a096S1RjbTkycFlZalpMcjV0enBtc3VRSU1iRmNEcnFFUzRuR3hkNnBYVnN3dUxDMWdZbHlaZ9IBbkFVX3lxTFBVUEQxQWFCZm1sSm5yQWNrSVlnN2U2Y3FQS1NKVzQwNm1ZNmhlbTktQXcwbVpSODM5dGxkNzJzUzhTcjhidUtRNm5ZSmxDdkRRc0t5UC1ncjhHdjhGd0U4eGppdFhhUW5qaWtHeW1R?oc=5"
    }
   ],
   "creado": "2026-10-26T17:16:25Z",
