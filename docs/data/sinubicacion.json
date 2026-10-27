@@ -1,5 +1,35 @@
 [
  {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Un joven trasladado tras un incendio de vivienda en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Extremadura 7Dias",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFRNNmRpWVZfWlFBU2FXSFMxc0xpRlBGM1F3ekVvV0UweTFEeXdOc1BWMHVpU3huaGtKYk1mQWVMMHctQVZ5TDBsMjBpUkdsc2hzRDItakgzYzhzTDNpcGtIY3FmZU1BRzdOOWdiUXhhYnZEZU9Nd0JOdnRiTjNOOTRzYlVXNGtpc2hLRVZlNFlLT0RlZ2c?oc=5"
+   },
+   {
+    "n": "COPE",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUHpMdWdQb0ttejhCa2dJZXdzSV9TM19qekxnSElOOUZvaWFvSDZEREY5aFoyaUJZV3cwQ1hzVFcwOElaZVFCVUNyc3lQZDZGcjd4Y2lXclV3TFlDdXRqeHVGTFl4dGlBZ2NMTk5rcWEyb1piNjZ5U1RNandjREN6Q0s2WEJVdl9wWmNzalloUWc5V2VIc3FvVlJNRnFROXRZV1Z4N0ZqZjFpaFBYemhVaWxVN1Z4QjRvNWg0Z0V6QUdFUW0tOFdoYVVwMXVUR0tjbDJ6dUdUeUVGU1JLd1dLN0NQT2llQdIB6wFBVV95cUxPaFk4Slkyd05uRXIyV041RmFZWHAxZWpyYTJGRXdFai1laE0yS3F4TnB3em1NLWdXeTVrSVM4RWx2Ry1qdVZFRGp1SEU5VkRLRG11X2N6SVNFWmx6S0tVcTN4cDZzTlBHb0VzSlNiUTh0TVdiTGpaOFZhZ25kbElTVnF5WFJ3Z0Z5c3J1NDRGbXRjeWU2aGFramZOSWI1ZFNBemNtNmFQZ3ZSeTVidUdzOEdqSnY0WHJXSXBxbnl4T192bWhTZDhHeG9MVjduaW9wRVh0aTVaX0VXMmhOLXI0MldCZDdCSUt0dmc0?oc=5"
+   },
+   {
+    "n": "Hoy",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWVDTmxQYy1XajJsMTFXN21FaXp1eFlCNXIyZy1EblRKX1pNQXJWdGZCQmpjZHdjUGJycWJJZ2RtUG1sVG93YV96dTUtSXdXaXp3Mzk1eUo4RmNUem5pT19ISDdkQlRjR0Mwd2xxNHJQMHlEc2pYWUNncldyU01ia3IycWVYUDV5NVhWNTJqbU9kTlBGZEHSAZsBQVVfeXFMTy1mM2tpc1hzTTJZUTdWY0xiRHFqT3hvTDNILTFpMWtiMXJqUmtFcFZPdUVzYWlmWVp6NHRKMnRSWEVnMUZHT09XVEtQV3BJYVVrNWJ4SlRTdmtSeklIX1Y0eXBVNUk5WlBmWEZKSHg0ZFpLRmotdE9EQU5BQWlBc1FRbUQtOWVzQW5WQ2ZoQ2lZSGoxTTVndHY3RFU?oc=5"
+   },
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQkl0RHBPNWtxWmYxckRVeG1XQnRkSzRsU3o5N2pKLTNnNXhTM3hnd2k5YXE0VVNvRl85Ni1MU0k0dFA5Qjk1TDVUdnNGRTFSLWZlYTRtVG93eVRwajgxazVWOW9wR2o5QS1OejBPTE56azMtSEQyODZOVmo1S25Rdk1HbmM3a1duVERucUVBRTNYRnM4VG1IVy03ZkhTX2Zwbklr0gGoAUFVX3lxTE1PUmZyTF9VTDBlMTdVUTktMUtKQWswNXZEN2w1andNczBKanRNcmp2UnB3YmxpaGxaU0xzSFZXbnRTS2dNS0x4NUt6cU90ZFotYnBKTVZRQzV6TWNXQTlTejc1YnpoUV9weWFEYVhFQzVma2hqUXhod2NtUHNnMTJyUXdsaXRCV1F3QVpjay1rUlViTEVsUk5mcFUtTm5ROVBGaG1OMVlMWg?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida"
+ },
+ {
   "d": "2026-10-26",
   "h": "",
   "ts": "2026-10-26T12:00:00-06:00",
@@ -111,6 +141,101 @@
  {
   "d": "2026-10-26",
   "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Se incendia automóvil en Ciudad Caucel",
+  "p": "Caucel",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE5OdjhHTTRhU2NHcEZIX3cza3Y5OHNWNzhzOVZ5RHF2QkdxMXNObm1GWV85SkJwdGdvbHNpaFBpX21TYW1TQV96aGJJYmtXRzEyQVE2MV9sX0dIREdxekQ3Ukk5RkJPRndzeXNUeHd0WXNFS21IcUw4QmxrUUZfQmt3?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQ1pJSFlmemljRnhqcDlULVNPcTVkM2c4Vk1mR0ZsMzRHLWNpSFFvWHlyd2Nlb3ZKWlF2em5GUmhpTXNsb2stZVd2NjdNdi1Xd2ZBN29ZcGFSMGNzSS1UWkpNQWthT3RQcU9FbzV2TC1KMTVkV3FWbkhwd3cwWW9rYXV3RTNpUW1QTEhvSG92Vms2NGFZcmVMb1lpeTA1NjZMQWVaTkl2U2pxWDBKS1FpcDh5dDNiX0w1SVpNdWhaVWE1dXU4?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_caucel"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Choque múltiple deja 6 autos dañados, heridos y un retenido",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDRGMHo4Q2Myb1JyYy1idFhUZDc1eFFTZE9tU1pBU1hpbm5UaEhMRjg3c1R5dEs3TFFXWXhuQVVuLW52NUpEZHRZMTMwbEpzUHJVc1IwOE81d3d0YlI1d0N0Q1EwdThxWjVybXNpaW5yY1RMelZnWm9VenppMUVJWk9UMXpZeFhG?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_choque-multiple-deja-6-autos-danados-heridos-y-u"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Sonorense muere al caer de las escaleras",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uaENUbmR2bnZQZUZYT3hHRkNoN0R5aFJWNjExRmkyR1RaLTBSSVNVQk1sQmVKNDBpYUgzYXg4MTdaMTY2WEVsdFkyOHQ2cmVTVFI0SFlnbTVoUmtSSnJVVE9pcXhfQzJaU3J4aDNXa0k?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_sonorense-muere-al-caer-de-las-escaleras"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Mujer pierde la vida en vivienda de Temozón Norte, en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN3BCdTNSMW5oeXRTNE9QREplajVodExfWTg2UXkyVG9VS01HOWNZNWxnVzNyc3RIek8yWHlBVC1UbTZpSFd4V0EycmlRYWVrajZhLW05MXJ4WjZOc3h5VW92M0FaOWk2REVIX2xPTEVwaE1wN1FFVXNyQ19uX1JueGtFUU0yeHRoN0xzQzhQUS0xeDFMU3JsaEFzZHJFODBLcHNhQ2dPYXZIQ2VkckFqLXZDZmpyd2M5enphVVZDNFJOX3lDOFNXcVdvb25WcVJGa0xUME1GMlZiU2hmVUdORVRyOEJ3cUE?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_merida-2"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-06:00",
+  "t": "Trabajador cae de una escalera y resulta lesionado en el fraccionamiento Miami de Ciudad del Carmen",
+  "p": "Fraccionamiento Miami, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEhnbXE1SUFqT1pKeXFzMjBkVHVrWEU4c0UwSmh5VURjYU1UTWJkODNVOTc4UWZYazlpeDlEVm5WU29iakc2d0FtUkJYNUFydjctYnhxRFNOV2ZGNHYwMU43aEJnbUU3bHd3LTZsZXUwSEs5VVozZFg0R0JIZ2RmTXRvTnZOamdDMEZSSHRrb1hRc0ZfVVVjZUdYeEZwTnk4V2lKdmpNLTRhaDEyRXFmdGRfZTZ6R1BDZktRRnpHNjhsQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "clave_lugar": "miami",
+  "id": "2026-10-26_fraccionamiento-miami-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
   "ts": "2026-10-26T12:00:00-05:00",
   "t": "Muere motociclista tras ser impactado por un automóvil en Playa del Carmen",
   "p": "Bulevar Playa del Carmen",
@@ -190,6 +315,10 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZmN1N0djV2ZGTTRfeHVkRjNEdlNzMnlaZ083LVF6MVRKcFR2dk4yb2lpUnMxc1lJTEVSaWxZUUl2RzRXVmtDVkhCdWVURUtFdG94aDBCeHh0OGV5YlAyYWxWSGctY2lscC14dHZIVWx0SDR5ZGFwU1ZKMjhCeVRweFhYek8wc1h0VUs1b0ozS3J1czBSWEVHcThmUmhiWEJ6d19pbTNWYUttaGtsRllNWmQ1dEdUSkNzcWdGbg?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOXkycXJBcS1iY19feWYwNjlsSUZxY2kwVW5Sb0RkbHFTYmY0dDhUYUVvS0NBOWowN0dIS000WWtNS3RmODlDaTVRaTU0c3JaWXdqQm1XUjFvTko4THV2RFlkdURtMjd5MTFfZHJWeWRmblI5LTluTkpDR1pmLWlNQ9IBiAFBVV95cUxNX2Q1QmlGekVWSjVZVklSVzBnMWxMTDU5S1RWSU05X0h6ZFRjNnJEVHBvbzhsdG11dXBDYnFieW53VUttTE42SXNWbHZDOWpQUWdhVGI4SmNUazMtMmptWHNiZE12NVMxclBqXzRJQjh2Z3JTTmxCRmNHb050QVE4WDdkUkowV0dO?oc=5"
    }
   ],
   "creado": "2026-10-26T22:35:17Z",
@@ -325,6 +454,43 @@
   "creado": "2026-10-27T01:59:04Z",
   "metodo": "reglas",
   "id": "2026-10-26_chetumal-4"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Dos choques por alcance dejan daños por 30 mil pesos en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS0JQejd6NGt6cWs5UzhKUXNhWGZjQV9FVTc1bDBfOGN2RVhHdXdzbVh5em9wWElXZ09UYTc5cDlvNms0VWM5aXVJTlg3Szc5RXRqb3ZMQmIxS0I3eHltWWZHejhKTnVFRzEwdW0wX2ZvbUtQbWlsYkFKYlBPeURDRUpGb1Z0ZDRsQ0lTSU1WMXhfUmxFYXfSAZ4BQVVfeXFMUDNKM1E1UXVOczdCNUF6OXhLMUxzaWlQbktXQlpVdHhEYlMzbVltbHNxaTMtT2p1MVU5ZnNYVDZSR0NLcHRfOXhSWmIybGI1LURBTXdPb2RCUlVBM1ZJUWVKRFZfelQtSVRRUWxzM0hRZEc5OTlzVTRlbUJYSGdyQWJzeEZMaEVoNzBxT1B1M1VVRVpfeFhCbFoyWkxqMnc?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "id": "2026-10-26_chetumal-5"
+ },
+ {
+  "d": "2026-10-26",
+  "h": "",
+  "ts": "2026-10-26T12:00:00-05:00",
+  "t": "Manifestación de transportistas colapsa tráfico en el bulevar Colosio de Cancún",
+  "p": "Bulevar Colosio, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObEQ4U2NXcTktME1MNmRxU21wUlVyNzAtZzJReEdFTDNJQTRsYmJrWHdyRE1QZFBQdE5SVlJvcURXU2ktT09KYk43Q3J3MmdrcUIzOHFuLXVYTWs2LWJ5aHpUOEh3MXlUX0IyQVEyQ3dQeWxyVUFkc3kwQUpkMGNUaXhMSVlqUDNWU2N3WGUzNVRyeDhGNjhuLVhtd1UzTWVxUDdMTkVaRjZUb1AyZC0tM9IBtgFBVV95cUxOLVdZZVlnUkRuRmV4VjVvMnB3cEFFTjR3SndiV1hWbFpXeDVNTzY1WDhtTkN1bWc0Rmc5N0h4eS1VODJ3Z290eWNmLTh1ODR5anRyYmxaUkdSbXJIQXNES2dWeFBpeGN3RHRUWGItQ0ViYXh4MzNjQmN4Y3ZVT1I2NVk1Q2t5blA5R3h3V0VmYjRCSEh5bDNVc2hQbEF5XzNGTnZwdjRTRks2N2VNQVYxTnFvalJQdw?oc=5"
+   }
+  ],
+  "creado": "2026-10-27T07:40:52Z",
+  "metodo": "reglas",
+  "clave_lugar": "bulevar colosio",
+  "id": "2026-10-26_bulevar-colosio-cancun"
  },
  {
   "d": "2026-10-25",
