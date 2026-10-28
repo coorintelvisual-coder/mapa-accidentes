@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Exhiben Omisión de la Policía Municipal tras Ignorar Accidente de Tránsito en el Centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOGdWcGJzNG5sNEt6V0pvU0JfY2RvWDRPMndYaVlDazdDUDlWWVRZR3I1WjZVM0FMbEZYN0RJazhzNXhfOEhCRExzcUpsVzRnVWtlUmlYNFRURmNHbFFoR1VDLVJiTkpzeU1xQ1ZPWnNPOUFkeGttclZuNGdaQjV5N3I3LTBxSXVKd0lDMjNZSU5DWlY1WXl5aGkyRFFiRVBkdEJGY0RYMV96THpyRzhKZDFkNmFWU0Q0QTN4YjZZVmE0dGRv?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_chetumal"
+ },
+ {
   "d": "2026-10-27",
   "h": "",
   "ts": "2026-10-27T12:00:00-06:00",
@@ -322,6 +340,114 @@
  {
   "d": "2026-10-27",
   "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Patrulla de la Guardia Nacional provoca aparatosa carambola",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaW1GMjdHTjRuNXR6M3loTUxrdk5hdkVmcFd4b2twTUotTFNGVW9Qc1NRVzZLNnB1YzJNNG80WmNDVVBWMjJzZ280ZFEtRHRUUFVXWUswYS13UHVZTXpaQnVfU3FCTzE4QnJ5QUZXclk5SE1qMGZLMG5sZ3JHWmlmeFdvYmh5Wks4T0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_patrulla-de-la-guardia-nacional-provoca-aparatos"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Camioneta de la Guardia Nacional choca contra dos vehículos en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUdDVVk5MWwwRWJkLWxrbmxjRWlvcFBKcE5VOWpHMks0NHFVM2lyQVNVY3h6RXJfVW9LMGp0RlFNZ3FCQmE0MndocWZNdFB6ajU1UTR5Z0c1SjRTZlBSYUt6TjI5c184RGVIWlR0OExtazJSNWNJZk1pRkpaTGlsMmFITmZUcVBKdm5yTmRfbTBVckxCckExVkhYV3poeTM0?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-8"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Motociclista Alcoholizado Termina con Fractura Tras Derrapar en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOME1GT29jSzQ5dTlIVHZldHZYSVhTTnVtRzNiNTVlRnhlM1BHd2hkdjJTVGRYczRRRVE0VXE1MGZxakQ0RXV6dWpZaXM1VDJYZEEwbG91cHpabkx5SjRkdDIxV0NBWlN0YlhsMUhGTTV1cklwQ2VrUzZxUjRnUnp5UkZwOUNnNk1sUF9scldRMnZ1Y1BQRWRiVUNuVjVLbFE?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_tizimin-2"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "Tremenda colisión en plena glorieta del Siglo XXI",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "De Peso Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWnV0dFJTWFhON2E1Zy1LVDZyVndPZmRNeE5TTkN6QWVOeVlvV0JfUlhkTV9NNkR6OVdQYkRvYUhNT191d201ZlBzdy1pZk1vMWZwck5Wc1RoLURFTHVMSm5GeFN1anF6ZGRZQzJJenhVRWpLSnlJZWFrWUR6bkIyTm9RTHdXYnRNYlk2TmM3c2dlWG1iVWNjODE0bWNPTUNmUnJFVDk0TXBOdFJwRHc2TUJVbnlOdFXSAbcBQVVfeXFMUFp1dHRSU1hYTjdhNWctS1Q2clZ3T2ZkTXhOU05DekFlTnlZb1dCX1JYZE1fTTZEejlXUGJEb2FITU9fdXdtNWZQc3ctaWZNbzFmcHJOVnNUaC1ERUx1TEpuRnhTdWpxemRkWUMySXp4VUVqS0p5SWVha1lEem5CMk5vUUx3V2J0TWJZNk5jN3NnZVhtYlVjYzgxNG1jT01DZlJyRVQ5NE1wTnRScER3Nk1CVW55TnRV?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_tremenda-colision-en-plena-glorieta-del-siglo-xx"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "¡Voraz incendio en Mérida! Fuego consume bodega y DAÑA una habitación en Ávila Camacho II",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0NodzlnT09IOTV5V0g1eWhaV2FwaUFSRFducUNhb3ZBTnhTY0hGSE5QaTFZNnRna19RWHhYSmhTRXkyOFZWOUhRNTl6bkd2VG1LeV9mTTVfUUZ0TGpRYWNNQm4ydV9wdkpWSHhCRmZtVFFjR1EtakF3WFJOLS1fQXlsQ0VMbHppaTVMU3p0aWQyUlJ5andqWVB0M0VYMGgwSk5STm04RThVYk00cUVaMVJoTFZ5UHlYVk5EZ3VCUUdfY0ZOYVE?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_merida-9"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-06:00",
+  "t": "¡tragedia! monoriel derriba grúa tras aparatoso choque que cayó sobre conductores (video)",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXUwYzVfTV96Mzcwc040YzMyWlRlejVSeXZXMTNSMG9YV3pXNllEV2pYdUFOcUp3ckE0d3ZncXlKLW4ySWZUNzRZc1pMS19ieGFaaUlKckpjd0Vqb1FrWlIwak92MmpVelJ4UllaTldvbVhZbjlXNzdIMUo3b3Q2VXg5Q19ZbGVEbWhnZ1c0MUdGLUd3RlBWNllxLVRHeXFuenZVd1dudnBhYXpMRUpyRzM4VG1nUXBvN3lKQjlMT3l5dGxTTDNOcjRBWHhRTUlF?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_tragedia-monoriel-derriba-grua-tras-aparatoso-ch"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
   "ts": "2026-10-27T12:00:00-05:00",
   "t": "Autobús mayab provoca accidente y deja cuantiosos daños en Felipe carrillo Puerto",
   "p": "Felipe Carrillo Puerto",
@@ -373,6 +499,60 @@
   "metodo": "reglas",
   "clave_lugar": "villas sol",
   "id": "2026-10-27_fraccionamiento-de-villas-del-sol-playa-del-carm"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Mujer y niña de cuatro años resultan lesionadas tras choque en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZWxpRkxFWWdsSUxQSS1PU2ZzVk1WYnRVQ2VJNzRzZDJKeWtjZTBfbzR3b0xEbmw3UkdjU25KWnczU0lhX1RCalN2SDdQSy1wV3VTQXR2WUQ3VlAzdmFrNXhzQk83RTNGM1B4TUtWdjd2MjZJeVducGJSajVnaDJkcHh3TUtqUFpIR1dBMTJaOHo4MnhjdjlyX0RfRnpYRURQV09na0w5bw?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_chetumal"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Choque involucra a taxi y vehículo particular",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnlqb3ZIWWdqWkNYY20zYVZEQXJ3XzlKUkx6X2lJNW5VRGVZbEhNNnY1b1dPb2NKNTBPWDlYSE1xMGpXaDdReWxYYkdFTzd2eDhkRHZfWmxjdklZQnhwNTVzMWtESXJpRk81bzVEVG1tZEUyTGFqRjFVdEt2anJRUEY5Yzl0U0RLd3BHWGhR0gGWAUFVX3lxTE9JRzc1cXFuUjRmLWhpRFZKMHlCWEs3U0lfcW55WVpvYkZvRGppb0dSTVFaQk41NW5wME5uTUJiMXZEd1d1UXRVYzc5VF80a0pFRzhKWDhVQlpwdDVTQW13M3NJUnZQY29KLWItRWZROHQ2U3FpWmJTN29ncVpBZkxIZTV4ZDVNZU5IbGpBYUpHT1RveUt5UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_choque-involucra-a-taxi-y-vehiculo-particular"
+ },
+ {
+  "d": "2026-10-27",
+  "h": "",
+  "ts": "2026-10-27T12:00:00-05:00",
+  "t": "Motociclista resulta lesionado tras chocar contra un automóvil en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1JiTzlXblRKellmTjlUaGk1U2JPdHNtd3MyVkZ1Ynl3cUxRMlNGS0FleE9TVTg3dEFURG5kdktIQlJadGItMXItYVVUZ0R6ZXBXb3loWUZidzVBVDN3Mi1GVkNNUEpPZmtuZmU0dTN6OVhZYV9nVC1lM1RwdjVuZWk3R3N1Mk5ZMkIzRExENmJpaGlvbXlXNg?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T05:25:20Z",
+  "metodo": "reglas",
+  "id": "2026-10-27_chetumal-2"
  },
  {
   "d": "2026-10-26",
