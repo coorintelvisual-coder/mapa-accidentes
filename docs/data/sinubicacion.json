@@ -56,6 +56,170 @@
  {
   "d": "2026-10-28",
   "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Conductor no respeta el alto y provoca choque; madre e hijo resultan lesionados",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVjRHeXBrMDJzY081elRVQ2RfSTZidkgtdzNpckRzVDhqR09tdTczRzVENFpPaVp5RXN5ME5KUjZTTVFHV2wwaVNKTE4yUjQ5WkJKY0ZtdUUzVnRES2pyc1oybVV6UE51ZGJTWGdZQ19uVDRuc3puZk9ZN08yM1dZMTllNEhfczBNbzF4WEVvTTJVZ3ZZVW1xWUxoYnZ4SlZtODN2cGhmeFNSRDBtcXA2MWhHX2M3VjQ4?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_campeche"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "¡Fuerte acc1dente en la Mérida-Progreso! Reportan ch0qu0 entre vehículos que deja importantes daños materiales",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ObmtrM1QwTjllVDNYTXhESVBFQ1ZqeFFFUnVtdUlILVc2WWpubFhxam1sWm4zVERGS2pHVndWYnVpOHNsMmdWSUd3R2lNWXhmSmFISm1n?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_merida"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Volquete Vuelca en el Periférico de Valladolid; Conductor Sale sin Lesiones Graves",
+  "p": "Periférico, Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzRCcnQ3WHA4aEhRNXZfUWc3WkJRZlNCXzZ5RVpNMl9JSmxsTXU5Sk9zZG5ZTlM0VHpVSVNvYnJ6SXV1eVZ0ckp4SDJVMnRDY0RvZ3JfUUphSUJkcDNIc2tURTV1TVBlNElHREVtOHZLbjZuMnNmdm9uM1k5dVFjVHdtU2E2VEhXOFRfN0lyc0lXbnRXd2F0ejRIaHFpdVVFNDVsM3ZUS0Uya3dz?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-28_periferico-valladolid"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Gravilla Suelta Provoca Volcadura de Automóvil en la Carretera Tizimín-Río Lagartos",
+  "p": "Carretera Tizimín-Río Lagartos",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaG5oZW10ZlBNdHVWZEY0UE45S2pDdjQ2cGlrLU94SmhRR1VjOTlybTVadlhlbHAzckFQaWZWcjcxNG9vSHBQU2hrNXVLcE80SzhQTE15dUJwdzlYOGprUkpsZnE5RHlRbXlnb0RYYnU4RTB5bDQ1bW9fay15dnd2TjdHZnFhbVpXRzN1VFdiay1NNjhIb1lVUHZxSEFZQWZOeS1ndVNSOGktd0tXQ3o0?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "clave_lugar": "tizimin rio lagartos",
+  "id": "2026-10-28_carretera-tizimin-rio-lagartos"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Vuelca camioneta con siete albañiles en el entronque a la vía Kinchil-Celestún",
+  "p": "Celestún",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkJmb1NTOE9YRmRuZlNMVTh1NzlIWG83MWI2Z2NDaWRabmZBSnk0dHF0aXFXTXRqbzhCdDgwS3NrcDhEdHdDUGF5anhpY1dUTVZsd2pNenpucDRYQTk1akJocVlHYURlQk8yanhCT1duNWlFR0FLUFpRNHI1STRFb09jZ0xjTUNjR1pkUmRnWkk4WEpjaHNBRkRST3RVcGxoNmVHa3FkeU9yYlNPRDVzUHItNNIBuAFBVV95cUxPZzlQbkFhbGk5ZzJaTDFTVmZZYm84NllmYzRwWVJUeWtJWGwyQkZhcDI0Zmh5dXFUMjZqbjVsRWVhcnFtc2FTOGNyeHI1R051UGc5aDJEbUJDeEVxWklqU3VzbFZLYWlDNWVpeGFtU2tfa2lhckJwUjF1ZnlFVl9NSnBNY1dMdUZvTDJCaDRscGQyS1gzaVI5cVBXcGdfSlZIZ3ptbjBHX2k5cG9RNDVINnpvc3RJMFJV?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_celestun"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Vuelca Automóvil en la Gran Calzada de Umán, Yucatán; Viajaban Tres Personas, Incluido un Menor",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnBBNFdETU5zUU1nU2pJdDU2bTJTWjR6QUlMTC00YWRpWWdRcllOekVXNF8tWmZmTVhXZEk3R3V1TXJwaDg4Y2pnXzJFZ2RhNzN2Y3FkQVFPUi12ZXJiaFgyLTllX29jYWo5cWF5TXhOU3FzMUIydDdRekg0SENUZTgwMXBWc2FGSjlOSnlwY2FCc1I0VFNrSl9DdVNKa3RSRG93bDBnNFRyVWF6WE5uanNINVg5ZFhTOUhF?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_uman"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "¡Aparatoso choque destruye la reja de una casa en Mérida! Auto ignora la señal de alto en la 24 por 21-B y man",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wY01mcktKQ2I0eHU4UTFBVFpiOXh5VlZiczV1M08zMERfTTlPaWxmMXdxRjV2SzRsS3JGbVNjNGJRRkNNNElqVEItcnI1ckpqbWEtLURn?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_merida-2"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Vuelca conductora en peligrosa curva de Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NcmV3LXpJbXN3aFhpZEhqYnBtbzlEdVdmWWJMbWJDNUZlRUpkTFZQY0xSSXhBanNZYy1oNVlUU1dXa1NLdkNNS2ZCODB1d1NXOVhiRkEtenA0M3FtRllncUpEWEl2Y1doOFhwNkNhOVZPU05wY3c?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_uman-2"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Reportan amenazas contra alto mando de la SSP; investigan si incendio de autobús en Kanasín está relacionado",
+  "p": "Kanasin",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX1FkbVZHUGRqbXdNcDRyUHJwbGxVZFhEbGNCeGtiT0duemVJaXNzZ2pCS1VveUw4R19pZUZLRGRBWUI2VXpjRW91UEUzRWEycU1hcTQ2cTdRa0NGUmhJNXBQb0lReWVybUEyZFo4ZEk3bXZoNWxFdHVOZG5Kb3M3Vm1yV3VFSFJQWUJ1SWpWVkVKVFFYLUpMZS1BSkJCU2t3M2pCRWZITmVPQ0xYSUU0aUN5djZfSklTQ2doWHdjbUUwdFdibWFwcWZCakEtaFlCakpLTXBWY2tWRk9FZUVWSlV6NU5ZUVRTODRjU0RONV81ajl6ZWRwNnczZWNfUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_kanasin"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
   "ts": "2026-10-28T12:00:00-05:00",
   "t": "Exhiben Omisión de la Policía Municipal tras Ignorar Accidente de Tránsito en el Centro de Chetumal",
   "p": "Chetumal",
@@ -124,6 +288,64 @@
   "creado": "2026-10-28T18:47:12Z",
   "metodo": "reglas",
   "id": "2026-10-28_chetumal-2"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Choque entre dos motocicletas deja daños materiales en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHFlUl9VLWJ6Y3hZcWZEZDZlUWViVzMzU29pVy1nNTdtaURxY3JtTVJIQ2NIWUYxdjJfVl9QekxIUlk1bWNaR25EazZYY19oYzZPcVdPWTlDMmZ2MVEtc1FvaE5LbkhPVEV2QjZJRU9NRGhhSm5hZUVfZHRleE1MQklyRVJTaGo4bFVJcTR5aVJyZC15MjQ0?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_chetumal-3"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Accidente de Repartidor en Chetumal Genera Quejas por Presunta Falta de Respuesta del 911",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUphUmxXY3JEMmRNT1oxU2xTN2hNd3FHT3JPOFVORTZBOTk3bkkxN3VHQ2JYa0t3MjdOVHM5YWxPeE1ZLXJqZ0RLMDMyYzQ4VmhyZ0JmUkJZV0dZMUZLM2R5Q2lpZjFQS0dxcFNVM3BsU1dtbk9HZW5DYjVtdUczaWFTUWpiNUFUY0NFMnZ1WFVvZ2t3b2hEMnJmdjctSTQtOFlyRGtxZWZDWWZkU3JObkJFdGJVOFE?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_chetumal-4"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Cancún: incendio deja a un abuelito sin casa y con quemaduras de tercer grado",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcEJMRlItcjZEVGU3U3FvbjIxeDU3SF9wM1dOWDVWU1hiUWRuRHBvZ25kZzBnekQzUEVEZlZ0Z3BKY3JUWlh3bDk0SFNiWHhmNXZhWlQzckxPV2lHRUtBR3FzSWJfX1dwSERrdk9HaHM5QWdXb2VhbTlycUVjZFpwNXV0WjRDeVVWZWJTWE5ybUEtUlhialNTcDNOZmo2RjJfVFk5aGV0Z0tDZmVPLXptazZnbWFLQmM?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPak54Ti1JZUdfM1Yxa0JOUjladU5fMWt4cXZuZXRfQVlWSnQ4ZmZMSy0yQ2VoZXgwTERMNnNIRHVhWDlEandCYm5ZUlRfME9yUExESDJwWDdOcWdxaW1wU1NzRzh5d0dXSnBVV3hPNlVzUXNVY2dKLVZPNE1YVnhBcXU3NlRQM201TXRhMFpTR3VPeTZDbEFJakhORE9hSUFzcEhVeEUwVVJ5eVk4MllMd2F3?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_cancun-3"
  },
  {
   "d": "2026-10-27",

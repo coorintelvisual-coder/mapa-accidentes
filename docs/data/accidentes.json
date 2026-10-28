@@ -50,6 +50,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3JZWUFmbW1USktaQmhGaUYyc2lSc3hITWdpVk1CN0tkTmZWU0lMcGcwSzJkS3JEMVNsc2RRUEdqQ2wxV21JcTVlQ3AtbnN0Ync0TjMwTDRaZ25yVVFkYjZKelBINVN2Rm1adVExZVRTZXhYVEV5RTREVVBuVEdoMXJabE1kdlZMeGpVOXBVYkExcHZFR1V2TEJ4VnRPRjhKWkoyRUFZLWRyVjlJ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWjViZ0tiWC1fZlNwOVVENXpsZERXNEJndnRJbjVPZEo2MWlJVTBaSkZzcnN1M1NLV0hNOG5YaEprYTY5M01HUXFDM3dFbUpmSkZmU2RLcW10X2U4cHhvbGpoWnJvNzdQMVhqZWZQVHVNbGgwckVIUGhpZHV2NjVlUENfYmR3cHNaNm1LNUQ0UTEyeURRWTdwZzlwNjAxcVg2UDlwd3JaUURfTmNMZGlPc1hwem9iQQ?oc=5"
    }
   ],
   "creado": "2026-10-28T18:47:12Z",
@@ -105,6 +109,28 @@
   "lat": 19.574572,
   "lon": -88.039743,
   "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Dos mujeres lesionadas tras fuerte choque en colonia de Chetumal",
+  "p": "Colonia, Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWVpKbXpBbVh2c1dlRkQ0TTVJdGh0LUcyMTNRQ0V3UENxZEtGWEJfc1lrZmFkY3ZYbG1NU1p3VVB6TXc0d3MwZ1BiNzlTdzlzal9ZWHZIWk1VMlJDZkwwNDBMRnBXTzFva1dzZ0dHYnpSVFJzd01YRjdGeTRYMnlZdFpiMzU1UTRLMGxVMm54V2xlZ3NpMVFuYw?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T23:06:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_colonia-chetumal",
+  "lat": 18.526359,
+  "lon": -88.276964,
+  "pr": "colonia",
   "sev": "les"
  },
  {
@@ -2391,26 +2417,6 @@
   "t": "Pareja en moto queda bajo un camión de materiales",
   "ts": "2026-09-23T20:49:00-06:00",
   "id": "2026-09-23_calle-71-x-60-reportado-como-col-mil-piedras",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-23",
-  "h": "14:53",
-  "lat": 20.99037,
-  "lon": -89.60372,
-  "p": "Calle 21 x 28, Salvador Alvarado Oriente",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/videos/28434383749588986/"
-   }
-  ],
-  "t": "Motociclista sale volando tras un choque por alcance",
-  "ts": "2026-09-23T14:53:00-06:00",
-  "id": "2026-09-23_calle-21-x-28-salvador-alvarado-oriente",
   "estado": "Yucatán"
  }
 ]
