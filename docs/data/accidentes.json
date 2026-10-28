@@ -1,5 +1,113 @@
 [
  {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Motociclista se queda dormido y se estrella contra un remolque en Campeche; intentó huir",
+  "p": "Avenida Justo Sierra, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/28/motociclista-queda-dormido-estrella-remolque-campeche-intento-huir.html"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "justo sierra",
+  "id": "2026-10-28_avenida-justo-sierra-campeche",
+  "lat": 18.649826,
+  "lon": -91.818094,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Veladora provoca incendio en vivienda de la Región 228 de Cancún",
+  "p": "Región 228, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/noticias/veladora-provoca-incendio-en-vivienda-de-la-region-228-de-cancun/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/28/incendio-consume-vivienda-region-228-de-cancun.html"
+   },
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVZKcGtSUGNRNTBrLWVHOTh3R09SZlpiOFp0dnFLZWtJRHY5VEUwZFdkR2xhbW9VWEo4bFc0ZUZYQlB4eGRnZUZqR3VyWHE4anRNRWpLX2RqYWVPX0dPckllQjVhejNTSVJsQmg5cW80SVdZdF9Oak9xbjJvekRUWlBiZXVLRXJiVy01bmo0RW9ta3ZTZEg3aU5Hd3Mwd3dvU2hiQlBMbVo2R2hwMTFPNkx1aEVKLXdaUk01N291QWVZQXM?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQW1KamE0UDAwdmZxUHh6bHl0RFJaN0VJRy14aWUtYVc3OFJqZy1PLThNUmo4eEMxYmh3WVZVQUdlbFExU0JheU1mVk1OOEZpTURSV1l1Skx2YjFmeDRIcUFpbUVRZVIxeEE0LWtzVnZROE9mQm5lR0xNdkdWYTJDR0RuUVgyTVlsQW8wUlV5Z1BoaG9hOFM00gGcAUFVX3lxTE1yeGZMTjRMTy1LUklZZWN6M05rYnVOalBTUmloeUExZ2I1WldYUVhpeFBmT1dLRlZuaE4zV2l0LUY2THhhUi1pUUdLcTBoZzBSYU54VVlvMGtUQl9vejRDQkstS0o1dUpXTkpxSWhfTF93enRYemZKeWg1b1oyTDV6R21KeU5ac0ZLSkl2d1M2UU1VTGVzT0ZzX2Uzeg?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3JZWUFmbW1USktaQmhGaUYyc2lSc3hITWdpVk1CN0tkTmZWU0lMcGcwSzJkS3JEMVNsc2RRUEdqQ2wxV21JcTVlQ3AtbnN0Ync0TjMwTDRaZ25yVVFkYjZKelBINVN2Rm1adVExZVRTZXhYVEV5RTREVVBuVEdoMXJabE1kdlZMeGpVOXBVYkExcHZFR1V2TEJ4VnRPRjhKWkoyRUFZLWRyVjlJ?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 228",
+  "id": "2026-10-28_region-228-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Choque entre motocicleta y triciclo en la avenida Leona Vicario de Cancún deja dos lesionados",
+  "p": "Avenida Leona Vicario, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/28/choque-motocicleta-triciclo-deja-lesionados-avenida-leona-vicario.html"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "leona vicario",
+  "id": "2026-10-28_avenida-leona-vicario-cancun",
+  "lat": 21.146218,
+  "lon": -86.916542,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Conductor atropella a dos mujeres en moto y huye en Felipe Carrillo Puerto",
+  "p": "Avenida Santiago Pacheco Cruz, Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/28/conductor-atropella-mujeres-moto-huye-felipe-carrillo-puerto.html"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "santiago pacheco cruz",
+  "id": "2026-10-28_avenida-santiago-pacheco-cruz-felipe-carrillo-pu",
+  "lat": 19.574572,
+  "lon": -88.039743,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-10-27",
   "h": "",
   "ts": "2026-10-27T12:00:00-06:00",
@@ -2303,26 +2411,6 @@
   "t": "Motociclista sale volando tras un choque por alcance",
   "ts": "2026-09-23T14:53:00-06:00",
   "id": "2026-09-23_calle-21-x-28-salvador-alvarado-oriente",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-23",
-  "h": "08:33",
-  "lat": 20.99,
-  "lon": -89.563,
-  "p": "Periférico, bajo el puente de Los Héroes",
-  "pr": "tramo",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Tráiler atropella a un motociclista y sigue su camino",
-  "ts": "2026-09-23T08:33:00-06:00",
-  "id": "2026-09-23_periferico-bajo-el-puente-de-los-heroes",
   "estado": "Yucatán"
  }
 ]

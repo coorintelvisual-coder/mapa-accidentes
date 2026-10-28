@@ -166,5 +166,21 @@
   -86.825096
  ],
  "n|colonia manigua, ciudad del carmen|campeche": null,
- "n|fraccionamiento de villas del sol, playa del carmen|quintana roo": null
+ "n|fraccionamiento de villas del sol, playa del carmen|quintana roo": null,
+ "n|región 228, cancún|quintana roo": [
+  21.149141,
+  -86.881346
+ ],
+ "n|avenida justo sierra, campeche|campeche": [
+  18.649826,
+  -91.818094
+ ],
+ "n|avenida leona vicario, cancún|quintana roo": [
+  21.146218,
+  -86.916542
+ ],
+ "n|avenida santiago pacheco cruz, felipe carrillo puerto|quintana roo": [
+  19.574572,
+  -88.039743
+ ]
 }

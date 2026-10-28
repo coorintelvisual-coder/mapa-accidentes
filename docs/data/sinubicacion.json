@@ -2,6 +2,60 @@
  {
   "d": "2026-10-28",
   "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Conductor distraído causa aparatoso accidente en Gran San Pedro Cholul",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSi12dlRtZmtkbnhwSlZBQ1hOMkxaUVQ2bDJKNGpSRGtIN1hNekRyWEQtekdncW5MYUE5WjdlRVRnY0puVTVweDJPbU9KTUFmdzZ6SXVfRDZ1UmhRcmxsQnhZLURmQjZWOE56WnNjbFZJUmNVbGtjOG9PS0VxekI2Yi1uWEZPM09VQ3lvbmpzcXpPd08tOFRyRQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_conductor-distraido-causa-aparatoso-accidente-en"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Yucatán busca reducir muertes por accidentes laborales",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG1ySkFCN1lnY3FOVW9yN2VqRUFnZzJSMEVDS0VkUGV0VFlfSDlMWEtFdkxFeDduSWJsNWNaQTJYclFXUVJ5SnNSVVNaemRmOHBhTG1NNU81VE1jeEM5ZDJFSWFqdVBvQjI1dmpJYWRIXzJZNk1SMzh3dEV0VkZ3MzI5WEliZEU5Z0dF?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_yucatan-busca-reducir-muertes-por-accidentes-lab"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "¡Aparatoso! Vuelca camioneta con 7 albañiles a bordo en Maxcanú, Yucatán; ¿hubo muertos?",
+  "p": "Maxcanú",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVnYwemp3bW8zemFONm1LNFBZZ0R0WVh4UHBleEZQOXhnd0EyRi1OUW0tdGJDdnNlNmVLTkt3bUVxOVpZR3l0ejVMSS1DMjRHelVjTG9NVW5jcWlZbWJoNjUyT0NZUERoYkpwSEVtakJsaHdWdUo5MnlEbm1tV2YyRUhwaEpobkdwT1pSUTNUdFNLdVF2UTdyUXdOQzZhY3BHb25mNUFYbWVuTERfS3N3bmRQUDFyMmlMSnE4RlBQYmZMdFowSzRZZkZkSFVfbnRRSXFHVg?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_maxcanu"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
   "ts": "2026-10-28T12:00:00-05:00",
   "t": "Exhiben Omisión de la Policía Municipal tras Ignorar Accidente de Tránsito en el Centro de Chetumal",
   "p": "Chetumal",
@@ -16,6 +70,60 @@
   "creado": "2026-10-28T05:25:20Z",
   "metodo": "reglas",
   "id": "2026-10-28_chetumal"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Reportan presunta intoxicación de estudiantes en el CBTIS 111 de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/28/reportan-presunta-intoxicacion-estudiantes-cbtis-cancun.html"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_cancun"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Cancún: accidente mañanero deja tres lesionados en Santa Fe",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHc0LW0yZmNHNGV4U1Z3c1d3M3NZcnZSUWRIS1EwWjdaUC1ncFlFX2FnLUFkbmlaakNLU1RUWlFmTWwtX3FPTHVVOFdKMTA4VjhSb2tBWlBOWnNwenZ5M2d4V1czOUZUaDV2RE1iMDFzNGdaWHVoVURRamVCalQwazZMa0tIbzFvMjNZR3Myc3Mwam1yN3gxbUZIR1J2QnM?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_cancun-2"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-05:00",
+  "t": "Choque en Álvaro Obregón deja a una motociclista hospitalizada en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakpBeVNUaUtPaWNqV3RGdEpZcmVobnBQQzhVbm9CaHhMZUdET3duSmZJZmRhQkp2TGwwazFnYURCYTRWaTNMaXZmVkFtLVBTYTJOSGdDS1BzU1BOSTZMOU1wZjdVdW52cG5MWWhld0xSdjRmelBLRW5TcGNZbTJhSEZ3OGpHcVJZOHFEZVRtU3BuQk04T2tfMlRpcXNPeU80?oc=5"
+   }
+  ],
+  "creado": "2026-10-28T18:47:12Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_chetumal-2"
  },
  {
   "d": "2026-10-27",
@@ -8116,38 +8224,6 @@
   "t": "Jugaban carreritas en estado de ebriedad y se estrellan; dos detenidos",
   "ts": "2026-09-26T04:31:00-06:00",
   "id": "2026-09-26_periferico-sin-tramo",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-23",
-  "h": "",
-  "p": "Calle 15 x 24, colonia no indicada",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Cables semicolgados tras una poda provocan un accidente",
-  "ts": "2026-09-23T12:00:00-06:00",
-  "id": "2026-09-23_calle-15-x-24-colonia-no-indicada",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-23",
-  "h": "08:48",
-  "p": "Periférico Sur, sin tramo",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Fuerte accidente de un Tiida; buscan a familiares del conductor",
-  "ts": "2026-09-23T08:48:00-06:00",
-  "id": "2026-09-23_periferico-sur-sin-tramo",
   "estado": "Yucatán"
  }
 ]
