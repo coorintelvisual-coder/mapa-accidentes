@@ -11,6 +11,14 @@
    {
     "n": "Instagram",
     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQmNfbG9XNWpvMEF3SUEwVjJLYmJsNXlXXzJ2c2xUNWV0RVBLVlhCbHVORmUzSnpiZl9fUUs0aTB4NkFrVnktT1FwbkVuUlR1SWNTMnN3?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/29/difunden-video-aparatosa-carambola-carretera-merida-progreso-lesionados.html"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQ2ZpcGhSclFtU0xqaEItNHR1dGxBSnlYckliOEVxcDFUcjJSQjhPS2MyajhuWkljc3BqdVJpNTRPdG5IbXNwM2JpZW5MYUthZy1UcUl2b21aOC1rRTF6bjJkUWtlRVJLbF9TSEg4a1YxTnFEVTNQaHBHc2ZKZVdtN0V6cnBoendFVUZEUFFiWm55UHlyUTg2YThTRjVPWTJsQVR4NWotUm9zendxSmpEYUhpSW13cldrbFdBc3dxZkplZGRISjE1N1RGNUR0dWRVSHJhZEVqN2lwbE50NzZCdXpKM2NmeGF0eU05blBieGZXTkM2Snc?oc=5"
    }
   ],
   "creado": "2026-10-29T09:48:01Z",
@@ -30,6 +38,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/muere-motociclista-chocar-caballo-carretera-escarcega-candelaria.html"
+   },
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW9Od1oyVmJDSVZCWWxRTTBDOEZObmJWWjdFQ1F5LVdWM3VYZWZpVS1mdEVFWXdxazQwRzFfaGpMdDNrNko4RDZnTG02U3lEVm9HcUllMm1WdkdQNmVNX0JiZ1dSbXR1RXFwYlJTZW5RMHdCRG1jVGtJWnF1akltTTZfZXRWc1Zlei1FY0M2OF9fSjBfUjVCWVFhc1Fsdlk5R0tZbGVCNTVock1kZ2x6QVl3?oc=5"
    }
   ],
   "creado": "2026-10-29T16:51:39Z",
@@ -112,6 +124,97 @@
  {
   "d": "2026-10-29",
   "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Choque entre camión de carga y camioneta causa caos vial en Ciudad del Carmen",
+  "p": "Colonia Petrolera, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/choque-camion-carga-camioneta-causa-caos-vial-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "clave_lugar": "petrolera",
+  "id": "2026-10-29_colonia-petrolera-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Tragedia en Peto: muere un estudiante de bachillerato tras choque de motocicleta y camión",
+  "p": "Peto",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWJWUUNCQWVUQ2lNRmRHblZBZlhWakQydVpEcUhodVo2YzhLUFIxcmxSc0ZqNnNsQmJTNk9nVVdpZldiLU1Sc3N6RFRFNU5HMXlMbEsydFNOX2tmN3daQ0ZLV182ZC1ycndWM2E2blNWcms4dDcxR3BXSmFVQUtrQ1BJd2g1RFN2alV6ZEYwR2VlWDVjTjViTFFOYVA1SWQzMms4N1RVeHlQSHRCNFVUUEd0ZDRWb2I2LUF5M0xfOGl0T2Rpa0tXeXFtamljd21tY3d1cFB3?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_peto"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Congreso de Campeche solicita programa integral para prevenir accidentes en motocicleta",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGM2OGJ2cS1TSXRselJKTDV0ck1Rc3pCcVYtLVB2TUMtb2M0am5qZmRjY1dKYjFfUFVOUEJYSFBucUQ2bVRmUEN2NVdBa0h6ZWF6UGpBX0Y3TmI5UUtEbHZtVkNBVjVPS0dfSUpKWmRGYTBPVFFTQzgxVnhzdHROVlVoLWtHci1KTnJhYkxYRnZyLUNLM3BfMUhXVEphYTBEUTZha19ISzdxYmdkbXoweGZvTTBseVp0SUtjZkxyLXFJamPSAcgBQVVfeXFMTVdGVjI4Mm1WcjNScTRROTBLWVJocTlMQVk1N3B0NldpeG9NY2ktU29zdkJ5Q2tPZjFOZTdVbWJDbnV1Y0VxU1FzU2xUbzV2VkZUZ0psV1Fac2dSS3lHQ0lHcVVyMUw4U2paVXUwbVdxRnRfbTRpVDBET3JYR241bnRDVmIzR0kzSkg0MWNNQlRVQlM5bHhvckxhcWVGYjA4TV9DVGpENFdwLWF6bF9kaFRXNEllVnJOOVZMczEyT1BmY1h0ZmxveUM?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_campeche-2"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Día del Ictus: Un yucateco muere de enfermedad cerebrovascular cada 13 horas",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb0Q1WlRwaE10RmVDNVREeFZNc2pIVExrSVdqY1U3RXdRblZocnpBMWlXY3lpQzhteUdUY25oQmJjaVVqS2xGaGJXN3ZUT2tmRk9fQVhZVnF6Z2Rwcm4zZkUtSURBb0l0ZDV6X3Zicm1aUzlQUG54emdTV0twb2Q5WEswNHhxbnFvOEt1V1NNaDYyVF9kNlhQeDhfQWlMcWkzWV8wNWVWcEFpTU8yZ3I0b2VvWGlDNkNsd1Q5TGlXdjdtRXM?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_dia-del-ictus-un-yucateco-muere-de-enfermedad-ce"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Camiones de transporte público protagonizan doble accidente en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa3g2VWJtRS1MSTJ3T195ZXlLMmNjSXp2c1dmUXlxcWIxd0FLYkI5a1A3Qm5zU1J2MHpCenpYNFVZRU5ZYlFCTnkyYkNJb2E4ck0tUjFoWmJaTEM4dWl1QWFST3BzdTRocVN2Q0dPZENNd2U1UWhJMzBNR01jaFhFT1dUdTNFM0cxODlOVk5nZl9wb2pUaDhiUUZ0V0t4NjIzM0xTb0NKc3B1a3BkYVlUS0VUbmpWN0VyZE0ycmVtN2YzWkVkOUdtUnZSMXNpUdIB0wFBVV95cUxPeU5pazh3dXM5ODVmcjA0dFRXY0dXUlJmWXc2R2Y0VHVDV0cyZVVCMFUxV0pkdXZ2ZXo5ODZZRFdpb1BOcEpCU1Fhb0E2QTFXSGs1dVkxWFFkT1pzSDdTaDJQX0ZlMW83VEdqWFppX2htckUwUXIzSFdzYmJaTkplWnZCU29NZTg3azZHZTRmZklnVlFjYW5kSnhUVU04eDQxUmQwNi1SV0JzZHczWFI4dUVyRlVkTW8xZ3l0d1hsdlJCdjlHQlZFNTNOLW9Ybmdsa3lR?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
   "ts": "2026-10-29T12:00:00-05:00",
   "t": "FGE investiga caso de intoxicación de tres estudiantes del CBTIS 111 en Cancún",
   "p": "Cancún",
@@ -126,6 +229,29 @@
   "creado": "2026-10-29T16:51:39Z",
   "metodo": "reglas",
   "id": "2026-10-29_cancun"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-05:00",
+  "t": "Accidente en el Puente Nichupté dejó daños en el separador de la ciclovía",
+  "p": "Puente Nichupté",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/29/accidente-puente-nichupte-danos-separador-ciclovia.html"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDJrR3ZZZUZjMWJ6dlk3ckhfZEo5Tlo5dWM1Qkx6dmZnc0R4R2kydEJsTnB3LXJWWHYyMzJBcXdldlIweS1NLUNQS2ZvUzhZbkN5Y3ZuVmFuTjFGSTdGX3hEd0J4X3hURWdlcGc2Nm9FczVaeU5kSkJCSEdoT3hQVFU1MFBaWU0ycTZSV0l3Wnh2VzNobnhWX1FRb3NuWHZNZmgtREdaaXg4bHlnVWlocm91RFdIUG9taFQw?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente nichupte",
+  "id": "2026-10-29_puente-nichupte"
  },
  {
   "d": "2026-10-28",

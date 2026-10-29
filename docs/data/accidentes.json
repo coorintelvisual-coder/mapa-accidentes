@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-05:00",
+  "t": "Cateo en Chetumal termina con una persona escoltada y un choque",
+  "p": "Avenida Benito Juárez, Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/29/cateo-chetumal-termina-persona-escoltada-choque.html"
+   }
+  ],
+  "creado": "2026-10-29T21:44:04Z",
+  "metodo": "reglas",
+  "clave_lugar": "benito juarez",
+  "id": "2026-10-29_avenida-benito-juarez-chetumal",
+  "lat": 18.50428,
+  "lon": -88.297645,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-28",
   "h": "",
   "ts": "2026-10-28T12:00:00-06:00",
@@ -2273,50 +2296,6 @@
   "t": "Motociclista derrapa; la atienden paramédicos de la SSP",
   "ts": "2026-09-25T12:00:00-06:00",
   "id": "2026-09-25_ciudad-caucel-cerca-del-puente-del-periferico",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-24",
-  "h": "",
-  "lat": 20.9154,
-  "lon": -89.624,
-  "p": "Calle 145 x 48, San José Tecoh",
-  "pr": "cruce",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Motociclista ignora el alto y lo impacta un March; queda inconsciente",
-  "ts": "2026-09-24T12:00:00-06:00",
-  "id": "2026-09-24_calle-145-x-48-san-jose-tecoh",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-24",
-  "h": "11:24",
-  "lat": 20.97929,
-  "lon": -89.62095,
-  "p": "Calle 41 x 60, Centro",
-  "pr": "cruce",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1728866768343106/"
-   },
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Camioneta termina contra las oficinas de la ATY",
-  "ts": "2026-09-24T11:24:00-06:00",
-  "id": "2026-09-24_calle-41-x-60-centro",
   "estado": "Yucatán"
  }
 ]
