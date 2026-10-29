@@ -19,6 +19,115 @@
   "id": "2026-10-29_carretera-merida-progreso"
  },
  {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Motociclista muere al chocar contra un caballo en la carretera Escárcega-Candelaria",
+  "p": "Carretera Escárcega-Candelaria",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/muere-motociclista-chocar-caballo-carretera-escarcega-candelaria.html"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "clave_lugar": "escarcega candelaria",
+  "id": "2026-10-29_carretera-escarcega-candelaria"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Menor de edad y mujer resultan lesionadas tras choque de motos en Calkiní",
+  "p": "Calkiní",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXJsVUpscWtPQ3h4Z1lKSXpWTGt0eXFCQ1k3UG1RN3JjamNJcDduNHRtYjhBZnNfTDBhOFI2bE1ReE1vQzVES0JwYzlsNDR0NTljWmtScDR2cE1kMU9Vd2E1WDRiSmlHTVRac1B1OE9URnQtdW1pb2J1OUMzaUtUQzBvcjVSRUV5bmFZdEVaSm9ZWHNsMnRfVW1scHpRLUllV1R3T0c5RUFMUQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_calkini"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Captan el momento en que ocurrió una carambola en la vía Mérida-Proreso que dejo varios vehículos dañados y pe",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Facebook",
+    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdFdfcFJxZUdQOHpOdU9fS0h3R2ZoNU9SVlhpYlBteXVCSl9ScjZMSEtKN0xFM09FemRsS1ctZEkxeWpqZk04ejJRYzVyYkFOUUVKSEhYOWU5ZHdJNHlqVGxLRzE5b2Nac0RYbWU0MHVEd0l0RXpia2Ntc2h1X0NIUFU1Y0tSdUJXRGgyZmxVdVQyWlAyb3gxZDMwUUhUdzhnX2Y4dG9Dc1k3U255WnZUQW00WmVGYWZvemNidklpZ2JYbzJDbUpsNTZZbGhUODVqMDZOeHJiZ00xUGJLR2VCTWI1ajNwZEczUG03M2RrVQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_merida"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Mega carambola en la Mérida-Progreso deja cinco heridos y caos vial",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Chispa",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZXhxZ2t3Wkt3VEdNTUp4SXIxY0FFTy1NNGc2cFdXdXl1UmNHcmtBVnhLa3Q2OUhIZzRwREJXVlR3NEszU21jci1keTI0SGZrTk1zRUQyc2J5bWh4YlBwQVBPQTl3ME5ObDZVZERQWlBhV3IzTFpLS3BqallMZ2lVYXFWUllPMkVqVXE4VW5rMHV4Zw?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_merida-2"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Orangutanes rescatados tras incendios en Borneo: 53 reubicados a reservas forestales",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Novedades de Campeche",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3hWYTFhWFc1M1hhR3l2RWFfXzNZc3lOckl1aEY0eHg2NG5mRVZmeUVlWkxIWm9SRm1LWGRzb2E2c1ZyQ3ExeHJHcEw5bFVDNGFYcHFHZnNPQkY2czMxWWd2TzNwamxVT1dxWXd1bEZfdEwzdTJ1ZUJucVlUZjZDdlFibkNPY2lmRDh0ZGM5LTRXTUlRNVpqWFFkRTJXVTVsUVJYYTRpcS1sMmNJSHNLcUFBaWxGUnVzbDJFOGJR?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_campeche"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-05:00",
+  "t": "FGE investiga caso de intoxicación de tres estudiantes del CBTIS 111 en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/29/fge-investiga-estudiante-intoxicacion-cbtis-111-cancun.html"
+   }
+  ],
+  "creado": "2026-10-29T16:51:39Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_cancun"
+ },
+ {
   "d": "2026-10-28",
   "h": "",
   "ts": "2026-10-28T12:00:00-06:00",

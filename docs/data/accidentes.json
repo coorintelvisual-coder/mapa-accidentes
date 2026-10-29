@@ -2318,25 +2318,5 @@
   "ts": "2026-09-24T11:24:00-06:00",
   "id": "2026-09-24_calle-41-x-60-centro",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-24",
-  "h": "09:49",
-  "lat": 20.94109,
-  "lon": -89.59599,
-  "p": "Circuito Colonias, frente al parque Kukulcán",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Choque entre un Va y Ven y un auto particular",
-  "ts": "2026-09-24T09:49:00-06:00",
-  "id": "2026-09-24_circuito-colonias-frente-al-parque-kukulcan",
-  "estado": "Yucatán"
  }
 ]
