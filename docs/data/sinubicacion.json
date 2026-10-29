@@ -83,6 +83,10 @@
    {
     "n": "Instagram",
     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ObmtrM1QwTjllVDNYTXhESVBFQ1ZqeFFFUnVtdUlILVc2WWpubFhxam1sWm4zVERGS2pHVndWYnVpOHNsMmdWSUd3R2lNWXhmSmFISm1n?oc=5"
+   },
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNVZ2dWVaQnZiSVZFUWhMUEh1cFdDRWk2WTZVZ2hKMlRiVXY5dFItSnRnRVNGWnNPMzVzR3h4TVVtRkJOM0E5UzBvSS1sbVh2TnJlSnFVZG56N0VHQk5ZdkVjdGJQQjVYUFdGeHliYTdBbC1nR2ZQbjl6SWFmRVNtckVhMnc3Zw?oc=5"
    }
   ],
   "creado": "2026-10-28T23:06:39Z",
@@ -216,6 +220,60 @@
   "creado": "2026-10-28T23:06:39Z",
   "metodo": "reglas",
   "id": "2026-10-28_kanasin"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Fuerte choque en la Mérida-Progreso: seis vehículos involucrados y dos personas hospitalizadas",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2JTdmZvV05GY05tYjk3MC1qVWJwV1pnWFl1VTlkeUJMYlpRTVc3Y1A5UWJ6Y2dJZzNmdExxZzU0aGxaQ0RNVGhNMmR3ejQxd1U2d19RU1p3WUhBTXFFNF9mQy1Xa2JNN1AzNG1mVTY5Sm1tcng1SFgzS1dSU3RFZ0NIOUhxYWVDalBiRFlNOXd5bGdRcXZRSm1Zdy04RTM4ZFozdVEyTnBTZFNNanBraW55a3gxYzdobVFlMHFScFd0ZHc?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T02:22:41Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_merida-3"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "¡Tragedia! Vuelca Autobús con abuelitos a bordo; hay 2 muertos y decenas de heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYnhXYnFSUDVVNTg2NVNIdWpFSDRnT01ueEpXOF9TUFpTZkQzU1RIZG1yMF9OVU1TdnlJVksxSnlzUWhEcDJpdkJzZmExMXBCRVlYMjItaGN3SGQxN2tJUG96b19Gb2lPdmhsUjJlV2hjRlNWU2RRREhZd2xUR1JwWmZVcVZEN2QwSUtoeHZOWDF3S2ZMTzZTYm1RR1JTU0diQkNfc2ZsYXMzaHB2MW1VVE55VWg1YV9FRWRxLXNrNThnSlRSY29aUzBR?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T02:22:41Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_tragedia-vuelca-autobus-con-abuelitos-a-bordo-ha"
+ },
+ {
+  "d": "2026-10-28",
+  "h": "",
+  "ts": "2026-10-28T12:00:00-06:00",
+  "t": "Fuerte accidente hoy: camioneta termina derribando parte de una casa en san pedro cholul al norte de mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMG5HSFN5blJNWDFRVXh2aVJrWEZvSlpMMmVCd1dtQ1dkYlEzUGlkR05YbVRXc3d6dERLYmpxLW9tTG42dS14V2poR01VUXZqRmtFc19Oay1HRnFxckIyQVUwQzN0S0gyNldmRHJhYjFFRDhYeDB5V0dKS1lsQkF1azhrempFTmVtNmtjbUZBaC1JOWU1ZUtXSldUYkkwVEwxOTBBVDlIdTgtZ2tnVzlZMk1TeVl4YWpINzhUaTZnNzJyQU1OYWttUWpaYU1HQTZPNWowZnRmODBEcFc3SmZURw?oc=5"
+   }
+  ],
+  "creado": "2026-10-29T02:22:41Z",
+  "metodo": "reglas",
+  "id": "2026-10-28_merida-4"
  },
  {
   "d": "2026-10-28",
