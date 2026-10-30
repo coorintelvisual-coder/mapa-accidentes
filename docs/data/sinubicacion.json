@@ -1,5 +1,103 @@
 [
  {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Muere joven motociclista tras estrellarse contra un árbol en el Periférico de Mérida",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/30/muere-joven-motociclista-estrellarse-arbol-periferico-merida.html"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBkb2ppU3lwb09HQnBtYWRGaWk0b1lQVFdGVGd6ZjRnTmE3NUhyTHVxS2xYbzlrbWR1MnQ0aGlxZDNnbkVmNmZGbWtoa184dUQ2d0J2TVNMWm9kdTNncFlVaDVVcVBuc0RDZ0UyQXpORmk4aEc0TGV2Yk9IemkxeU5PeWNmRTk2Z1dvdXg0U3Jwd2c2Y0IydG16TjZrVDk3UWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T15:49:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-10-30_periferico-merida"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Tres estudiantes de secundaria en Mérida se intoxican por comer frituras",
+  "p": "Periférico de Mérida Tres estudiantes de la Escuela Secundaria Federal",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/30/estudiantes-secundaria-merida-intoxican-comer-frituras.html"
+   }
+  ],
+  "creado": "2026-10-30T15:49:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico merida tres estudiantes escuela secundaria federal",
+  "id": "2026-10-30_periferico-de-merida-tres-estudiantes-de-la-escu"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Accidente en moto deja a una mujer fallecida en Periférico",
+  "p": "Periférico Yucatán a la mano",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0VxY2JDY25ndkpWSEhXdTJSMWFnOFpGenE3alZLaVNhYm5uSFVDaTVQUmluMHhiREFDcWZhN1NCazlOR1dPX1BzbEVJZ2pnaWRJN0VGMFFrZmROQk1FQXdmSUxKYmdVUEdsbXNiLUJCcklDNEIwUkQzUWduZU1kSEFPdUNsWlhTcDZtZVB6VQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T15:49:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico yucatan a mano",
+  "id": "2026-10-30_periferico-yucatan-a-la-mano"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Automóvil embiste motocicleta de mandaditos y dos mujeres resultan gravemente lesionadas en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdVBlWWVjVUEtTlJGSF9GWFpjV01KM0hZN2xyY2s4Q0JzS1NPYmoxeWtZVmt6N19FR3cwbUxDaEdDTnVldmdQZEN0MUItY0djUHltMUdRdEtXMU9nMWVWSS1pUlVGdXoyTWRJV28xSUdXM1hXWVh4ZHNPYzQ5ZG1JX1IwakZtSlBOcmhiNHZIUm9aTTNWR0YtbkRHYjZUamlWU3I4R2lFd1QyYjM4SEhxRUNHWHVoajR3WUVSa2FqcERudw?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T15:49:38Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Automóvil impacta por alcance a motociclista en la carretera Playa del Carmen-Tulum",
+  "p": "Carretera Playa del Carmen-Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/30/automovil-impacta-alcance-motociclista-carretera-playa-carmen-tulum.html"
+   }
+  ],
+  "creado": "2026-10-30T15:49:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen tulum",
+  "id": "2026-10-30_carretera-playa-del-carmen-tulum"
+ },
+ {
   "d": "2026-10-29",
   "h": "",
   "ts": "2026-10-29T12:00:00-06:00",
@@ -156,6 +254,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWJWUUNCQWVUQ2lNRmRHblZBZlhWakQydVpEcUhodVo2YzhLUFIxcmxSc0ZqNnNsQmJTNk9nVVdpZldiLU1Sc3N6RFRFNU5HMXlMbEsydFNOX2tmN3daQ0ZLV182ZC1ycndWM2E2blNWcms4dDcxR3BXSmFVQUtrQ1BJd2g1RFN2alV6ZEYwR2VlWDVjTjViTFFOYVA1SWQzMms4N1RVeHlQSHRCNFVUUEd0ZDRWb2I2LUF5M0xfOGl0T2Rpa0tXeXFtamljd21tY3d1cFB3?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RRzRJWmxyWVF4N3MzLWlaX3hLSE81eXluTVRrc21ZZE9adnU5YVQzTkh4TDdvZUlteTZEY1lOVkNLQmR2UHRSTkZnZ2VaRnR3cnN6UDAtZXN6dm1ueEtrMDBJYVJPLWVfRlhVellQRUVYXzctSUdvRWZB?oc=5"
    }
   ],
   "creado": "2026-10-29T21:44:04Z",
@@ -247,6 +349,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/conductor-ignora-alto-provoca-fuerte-choque-ciudad-carmen-atienden-personas.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMEZQc3hHdEs5YVVVUk95S09UemNjRUt6ZWd5QldzUEFBa2tTYXNTOXVPSEpPcGg5UGpsVlN0NDFrdDZUVHBDZW85aHZWcGo3bG9va0UwZVIwemFuY1p1bGl0aUVyTnNMYUFFcnZvR1pjUkpOWlNZSkdJTXQ4Q2RoS1Z3NGppcm91ZFhURHAyRThwMVFiVlJkQ2ktaEZwSzdFTGRHVzlhN1ZteDV6ZVhzR3M4c3BRdEZuRkVSTmVrdWdkQQ?oc=5"
    }
   ],
   "creado": "2026-10-30T01:51:15Z",
