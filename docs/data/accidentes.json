@@ -2,6 +2,29 @@
  {
   "d": "2026-10-29",
   "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Choque múltiple en el malecón de Champotón deja tres autos dañados y caos vial",
+  "p": "Avenida Carlos Sansores Pérez de, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/choque-multiple-malecon-champoton-deja-autos-danados-caos-vial.html"
+   }
+  ],
+  "creado": "2026-10-30T08:30:13Z",
+  "metodo": "reglas",
+  "clave_lugar": "carlos sansores perez",
+  "id": "2026-10-29_avenida-carlos-sansores-perez-de-champoton",
+  "lat": 19.351213,
+  "lon": -90.728706,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
   "ts": "2026-10-29T12:00:00-05:00",
   "t": "Cateo en Chetumal termina con una persona escoltada y un choque",
   "p": "Avenida Benito Juárez, Chetumal",

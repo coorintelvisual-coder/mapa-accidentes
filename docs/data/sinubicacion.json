@@ -420,6 +420,60 @@
  {
   "d": "2026-10-29",
   "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Automóvil pierde el control y choca contra dos vehículos estacionados en el malecón de Champotón",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDBlVFhBZUQzWm1SS0dBVDJ1LU8tYjZmR1FPMWFzaUI1d2Y5dHZHbG5kaEJCRkZGQ2hLdy1Cbzlwd3QzbGlCTkRWU2xSaC1LbVdaTUs5eEhET044SXZ0R2E2ek9rZnl5SUdudlY1YlM5ZFNYekNuNkExZG9La200VGNQcDNCQTdDUG1oWUkwVUdHeG9KWE1NaG8xN3FROTlIcHp1ZTRBQjRnNVNYNDVsbVk1VFBVNlZpOGRSSFlxOHM2UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T08:30:13Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_champoton"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Centro de Mérida: custodio se dispara por accidente en la pierna",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaDc1em40VnhibmlMdUZUQ0MzRE5jTnhkRDFtc0Ita01seUxNNWw2ZFphQzdUNnlzT0w2aFlYMmlnS01lR0JvQWMtUHBBNUY1SlczWVp2ZXZ4aVhPYzJRNjlwejZieGtocEhJc2lDelNHZE4wc2M0c2V0d2htOWQ2aHRKTS02clZod1FfOWw4TQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T08:30:13Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_merida-5"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Conato de incendio en un Ie-Tram; ATY intentó ocultar el hecho",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVY2R1NhZDg0ZHhkZkkxdVJSQjJoLVotODhtT1dKaGNGc21BS3lCMDVXS24tdzR2VkxyNE91WE5SVU1JcGNsV2tCYkZyZEtOMmcwaHF0N055T0tRWFl1aHdhaW5QcVdRSkRESVVTaXJTM1Vjb3N5bDJJSXVuZHdRY3BVWktGVG5yY3ZDeg?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T08:30:13Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_conato-de-incendio-en-un-ie-tram-aty-intento-ocu"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
   "ts": "2026-10-29T12:00:00-05:00",
   "t": "FGE investiga caso de intoxicación de tres estudiantes del CBTIS 111 en Cancún",
   "p": "Cancún",
