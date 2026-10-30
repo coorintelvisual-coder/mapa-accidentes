@@ -15,6 +15,14 @@
    {
     "n": "La i Noticias",
     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRTBkb2ppU3lwb09HQnBtYWRGaWk0b1lQVFdGVGd6ZjRnTmE3NUhyTHVxS2xYbzlrbWR1MnQ0aGlxZDNnbkVmNmZGbWtoa184dUQ2d0J2TVNMWm9kdTNncFlVaDVVcVBuc0RDZ0UyQXpORmk4aEc0TGV2Yk9IemkxeU5PeWNmRTk2Z1dvdXg0U3Jwd2c2Y0IydG16TjZrVDk3UWc?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNDhtSElDb2lHYkZjYmI5dWRNTkxCZEMyNzlwa0swZ29ibHEtQzRyQWZhaERFeDFEY3RPMC1jOU04S1RSNER1UkFQc0hVWkdkdVBlSmZEZVBfTjdTUlc2THk0enF2X0VDVkZTXzNRaF9GSHIxcU5HbEtOZEZiMTBqVy1ZazRVQkRpUTR5U1h4MFVNS3RIUzlSRGk5bnZzM0NIVHhDeG10T0hUWGZickRGQS1xNUJMTEZKbnhZOFk5Ni05NndOR0xXdG5sR2VtM3J2MTdfVDBjMVp3Rl9kYloyag?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOU5RRjBPeDVQQWJRcmVwX3h1T0djU2VhSHJjbFJES190aVR2MUd3d01JV1l6UEUyOVZJa2tqQjVRcXVFcEo2SWNEUXlsalZEYWtOblA3NU9LVjcyeVR2cjRxbUU5cTJjcVdQc3gzQThUY0otMVVpeDE5TUhmSkJrMlpyWEJVUUx3?oc=5"
    }
   ],
   "creado": "2026-10-30T15:49:38Z",
@@ -81,6 +89,60 @@
  {
   "d": "2026-10-30",
   "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Topes sin visibilidad provocan accidente entre dos vehículos en tramo de Champotón",
+  "p": "Tramo, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVkV1bmN3LWwwNlZoOEN1RnJEZ1hVcUh4ZFlJTk5jb3p4ckc2N2piNXlMTFU5TUg1OE02NWstTGZiZ1VfN3AwSTVPMjI5ZEVaZGQ4bWJsZ0JWZlVXNkJUcFR2XzRHSFZmbWRnYS1jRkJiQXlZaVpVV2F2cGxqN2h2ZlJyVmJpcUhtN0RId3pKRU9BNU0zSmdPeXdkOFlnMThxWFlKNVR0dG05X0NJZlJiMUFqTUNBbEVEcVVGVXNKT1jSAcABQVVfeXFMT1ZFdW5jdy1sMDZWaDhDdUZyRGdYVXFIeGRZSU5OY296eHJHNjdqYjV5TExVOU1INThNNjVrLUxmYmdVXzdwMEk1TzIyOWRFWmRkOG1ibGdCVmZVVzZCVHBUdl80R0hWZm1kZ2EtY0ZCYkF5WWlaVVdhdnBsajdodmZSclZiaXFIbTdESHd6SkVPQTVNM0pnT3l3ZDhZZzE4cVhZSjVUdHRtOV9DSWZSYjFBak1DQWxFRHFVRlVzSk9Y?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_tramo-champoton"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Camioneta arrolla motociclista dejándole probable fractura en una pierna",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ21ab01aamJFcDlodk5GV0V3YmxQRmpGU0RwSmZjeWRuTW04dUxPbGFaX3RVRzZVWVZuVTdfS21JMkM1SDBabVA5bE1ndUpkeGxoZWdPR3NOM01xS2psUWlqRGx6WGFlS1AzOUVGVkNNR0NkY3hLSW9aWXhwQldhLWh3V1ZxLWZDVF9hQ1hXLUJNejczZ3VjczdDTG15V1Nyekw5b1NhRUdoQXNtOG12cg?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_campeche"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Chocan dos helicópteros en EU: Desplome deja tres muertos en Oregón",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkt1bnNvSDVCSGxjdFNwZDlBbF9wbkpNbFVUOVY1Q0dLLURtRm50RW1lbmFfQ3FSZFc5c3F4elBtMnV0dFhrdlU1QlJxX3hSZzNQc1l2bDVMRnRKSzB5MkpEUmJaVmZfdkNfWEo0d1RwY0VXRWNKOXlQTHVfMGNvQzFqckVYYUxValFXS1ZNNUZ5TlVrdnVnVmhn?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_chocan-dos-helicopteros-en-eu-desplome-deja-tres"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
   "ts": "2026-10-30T12:00:00-05:00",
   "t": "Automóvil impacta por alcance a motociclista en la carretera Playa del Carmen-Tulum",
   "p": "Carretera Playa del Carmen-Tulum",
@@ -96,6 +158,60 @@
   "metodo": "reglas",
   "clave_lugar": "playa carmen tulum",
   "id": "2026-10-30_carretera-playa-del-carmen-tulum"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Incendio consumió dos motocicletas y dañó otros vehículos en Cozumel",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbnhwODI1czF1TlZlYjlWSk9UeG55OEd4ZWEzVGhRTHUxUTdacmZOSlhrb3kxejJwWjhxc1hjMmktdVNUd0NwWmNBdTE2Y0lwUUpPR1RpaG1xVkVpUEY4YjAtanFBU2tDWnlUUTlib1pNYlZkbHlkZUxVYmVEemlReWtIbjlCdDNLLUpabUtLQnpqOUg0ZFFoOUpadlpIODRiNUt2dVFuSS00UmpzZkZpWjJoZk1CY2txWDlDRE8xWjLSAcYBQVVfeXFMT0thWmpSdU5ra2V5X3JuZ0RvQUk4TWphZDZhSDY1aUNVTnhoR2RDMHR5Y1M3Zm5qRlZpSnA1eGswZHRDbHE2a2ViVXBwZWNmcFlpTVE3NHJjbGxERm1TQ0NRR2VmbndvcFliRzBsNXhCUEMwU3dRTUVySktoTUdCVENVeWMyLWdmSFRzdmlvTFBlV0ZRNDlsX0tSdklnb2VWenNpZXB3ek9wWlRiVGR4Y0lwVW95SHlDNV9waDU2bG9xcWhRYV9n?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_cozumel"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Joven a bordo de Mazda provoca accidente automovilístico en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTV9iNUJDZnZMNW4zUmV0UGdiWjRoZmgzVVFsc2VYQ0VnU1dUNEQtVFlyN1c0dHJxTWlyQ29sRWZsN3VlXzlVMlduQWJfRDBmdmVaOHdqNDFXbnJyRXBNNTh1SzBuMWE0N2xmaUtCam1TUmpqMXdzc3QzUzBFWHMzWWZjNUp0MjgtX1N0Z1NmS1hZTnhxbVhqc3hTMUc5UQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_chetumal"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Damita al volante vuelca su nave en la A. Huayacán de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5SXzdZNlJHQmdYRGNRdWh6dzhkRzV2WWxPNHlFdTFxQkFjVFRMb1dRcjdKVGZBdVZMM0lrbUUwZGdlNWZXa1NodF83TGh2SHEtQjA1N0k1dXFNUFZ6N3JuYzRjRVc4clVJelIyZzJ1MGxaMkZoYWpsQkZ3aGk4YjhlSElSbmZNaklMSEo2Z0h1TmhkdWpnV0hOWEh0alRS?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_cancun"
  },
  {
   "d": "2026-10-29",

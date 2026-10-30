@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Vuelca automóvil en avenida Huayacán de Cancún; una persona fue valorada",
+  "p": "Avenida Huayacán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2FDQ2FIRExpVFpaajhRbHFIeWhSZVJiWU81cnUyRjR4NlJxTTlzSFl5aUhGYnR1bGp6V0FMZDlYQURWOWNMaFFINVVTYjl5TV8tZHljSC1zTHJicGpZcFFubGdpU2V1WkV1bVlaSENTMDZfRDZIT3lZNDM2aHNqMTA4Mmt1SmF4c1NaaWJrbW43MWhmOXpFMlgxc1M?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T20:40:40Z",
+  "metodo": "reglas",
+  "clave_lugar": "huayacan",
+  "id": "2026-10-30_avenida-huayacan-cancun",
+  "lat": 21.11475,
+  "lon": -86.849434,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-29",
   "h": "",
   "ts": "2026-10-29T12:00:00-06:00",
@@ -2279,46 +2302,6 @@
   "t": "Motociclista no respeta el alto de disco y termina en el hospital",
   "ts": "2026-09-25T21:59:00-06:00",
   "id": "2026-09-25_col-nueva-chichen-itza",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-25",
-  "h": "13:08",
-  "lat": 20.97765,
-  "lon": -89.62403,
-  "p": "Calle 64 x 43 y 45, Centro",
-  "pr": "cruce",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Jeep se pasa el alto, choca y abre un boquete en una vivienda",
-  "ts": "2026-09-25T13:08:00-06:00",
-  "id": "2026-09-25_calle-64-x-43-y-45-centro",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-25",
-  "h": "",
-  "lat": 20.99,
-  "lon": -89.68,
-  "p": "Ciudad Caucel, cerca del puente del Periférico",
-  "pr": "tramo",
-  "sev": "les",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Motociclista derrapa; la atienden paramédicos de la SSP",
-  "ts": "2026-09-25T12:00:00-06:00",
-  "id": "2026-09-25_ciudad-caucel-cerca-del-puente-del-periferico",
   "estado": "Yucatán"
  }
 ]
