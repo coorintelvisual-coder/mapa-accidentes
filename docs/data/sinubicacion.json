@@ -42,6 +42,10 @@
    {
     "n": "Tribuna Campeche",
     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW9Od1oyVmJDSVZCWWxRTTBDOEZObmJWWjdFQ1F5LVdWM3VYZWZpVS1mdEVFWXdxazQwRzFfaGpMdDNrNko4RDZnTG02U3lEVm9HcUllMm1WdkdQNmVNX0JiZ1dSbXR1RXFwYlJTZW5RMHdCRG1jVGtJWnF1akltTTZfZXRWc1Zlei1FY0M2OF9fSjBfUjVCWVFhc1Fsdlk5R0tZbGVCNTVock1kZ2x6QVl3?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWlc5bFR6M3ZGMUI3dm1Lak1VaDJLM054S2NEYi1LN3NjTW5rLWtBNk1nYXMtQ0tOVUhrOUhYSHo4ZVFvZnhsNlJVamY2UXFNOHVkdUdvQ3hlVzVURHc2aW05RDV6NEM2WkhPQzdzT1dZdS0tQW9FSlpYbjkzTG1ISkZKWElTZElUMGhhYkJqY1lFa3NqOGhRSlB2LU1jNkN5bTY0UkxNTy1jTmc0eWVpVFlQdkdDNEdYR3JlQWlsSDNEdw?oc=5"
    }
   ],
   "creado": "2026-10-29T16:51:39Z",
@@ -211,6 +215,207 @@
   "creado": "2026-10-29T21:44:04Z",
   "metodo": "reglas",
   "id": "2026-10-29_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Atropellan a dos repartidoras de mandaditos en Ciudad del Carmen y terminan hospitalizadas",
+  "p": "Colonia Benito Juárez, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/atropellan-repartidoras-mandaditos-ciudad-carmen-terminan-hospitalizadas.html"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "clave_lugar": "benito juarez",
+  "id": "2026-10-29_colonia-benito-juarez-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Conductor ignora el alto y provoca fuerte choque en Ciudad del Carmen; atienden a dos personas",
+  "p": "Colonia Tecolutla, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/29/conductor-ignora-alto-provoca-fuerte-choque-ciudad-carmen-atienden-personas.html"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "clave_lugar": "tecolutla",
+  "id": "2026-10-29_colonia-tecolutla-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Se Vuela el Alto y Embiste a Joven Motociclista de 19 Años en Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLU9rdVlNbENoVGIxNldhbVEyLWF2YThNeWd6UUpPUEt1NnlmSVRybjRrYWtWQTVHcUVhZzJNcHdwMFhRWlFQUUNXc3VSdGtDRXAxUTZNMVVaZnRIV3htU3ZjdW5xNHpJVkdhRmFYRUVWSmtwZUhReUlaSE14N3JHWlJiZ3hSVmdXZjEwbmZyMmZIR2hIMksxUA?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_uman"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Accidentes del Va y Ven en Mérida: dos autobuses involucrados y cuantiosos daños materiales",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR09GMkNwT0Q1WlNUenNOZElScExHSmpKLVFmRU9jOUNrcGJBN0NTYm1LZXBENHh0MDh6MURfcDFfMGJ3UzduSjB5NW0waXJlZmZnTHJLU0FSdUh3SmNjUGlrUE5Ha1VEWWowUGhnSlBKa1hZUV9peTViY2g1M1hKVmpuTFNtYTY3aEZtZjdKZjg0N2FKWGpNcmc4bmdzRU10ZU9DQjFhcmpCbThHUExYRWloSFBuZUJvaFgtUENuTTlKOGd5TlRXRFlYNnp3YlBjNElLSFdfYw?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_merida-3"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Pierde la vida estudiante de Peto, en Yucatán",
+  "p": "Peto",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWdtcmcyZkRvaWg4SXF4WGZXdzBrREV3cnA3NnAzQnpMMy1HZXBEdVVUZ0JHdmpJTnlxRFpBSmlITmM0QlpsOXZweVA1cURQZW53clAwTzAwVjdhaGJ0bk5TTDk4Q0tUaERldThIeEItNldlVWRqUDZEMExYZ2ZsXzdPREZTanAxQTVSMmIzWkJpZHR1UVFVMG9GMkxrM2E2MGxlTjc0U05NcXUzLXBOQmRvVkMtY0I2?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_peto-2"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "¡alerta vial! reportan fuerte accidente en la carretera hunucmá-celestún; ¿hay heridos?",
+  "p": "Carretera Hunucmá-Celestún",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeUlNTEk4Y2FBU210eXdGOV9CQWJqa0lrQ2xicnd2LWU4ZUs3RXdZRnVtZjlSOWQ5OGFlX1laa2RSbVdLYmx4XzAteXdUWEFvTXkyYzVwdF92bXAxTFpnemlManlralNSTl9SWjZDMGFoVzJfZXlpb0d6NXhKUzBBUUs0OEdmZHpBYXkwem1rNlBZMDk2NXJPNHV2MGF1amJqcVdJY2VvWVBieEwxZkphR0tYQ2x0LUpMa05OWTNtejk?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "clave_lugar": "hunucma celestun",
+  "id": "2026-10-29_carretera-hunucma-celestun"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Accidente letal: Varillas terminaron incrustradas en un camión de transporte público",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZF9IMTdxWHZWRTlfQlNJVlZvR0NyUDZtZzB0LVBTZml0TWdwSDFPRVdPQ3JHTkVZd0w2UWlaNVBYWW1HZjZTY0NrbXRTeGpGOEktT01nSHJ1M0VzOGJSQy0yclVrVGNSaDZ1YTRLS2lnWFNEc1ZkZk1FWjhTZUhSTVdzWk9EZ0prZEtHTlpqdGs0LUlwSE1qQzZRb1V3bndZa3lnSzhDTjNDMXlhMkpDSWhnN0NISUFycFhnbTlqdEppYlQ4cHM5ODJrbjVqTVBwSHpmSEhRSTIxLWEwbEFpOFJn?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_accidente-letal-varillas-terminaron-incrustradas"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Explosión de ambulancia en Pakistán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUt5cE1IZWtEcHV5dmhpdVNuZzNiaEVJdkJvb2RldkhTbHZ6VDU3bXlTWWR3RWZrM1c4bXBZSTdmYXMtYl80dFJkXzJnZXEtMjU5SXllYkhVNFFYcThjSmNoQl9sMURoX01NUUp3eDJJcDZENmRqMUVKZ3hseTZ0MHpBWUF3NXhVU01lVDZNYkFldm1Lb3o5TzZGWFRlZ3d2VzVCc3RMNkpndUhfYmRHbzlWejNlTklic0xERloyZm5zb2RpaWo5WFV0VG1lOHJBN0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_explosion-de-ambulancia-en-pakistan"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "¡No frenó a tiempo! Fuerte choque en Las Américas deja camioneta VOLCADA; así ocurrieron los hechos aparatosos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOR2tpWTJxbmZHbG9yaExhS1BidXM2eE1CM2FzR1dEUDNSY2JnZlhrUHhoYlQwQ1I4TjdaRWVBcER2S1N0MFFmTF9Nbl8xdkNGTmFCM1VZUDFmVlh6TzlKX0pXYzVEb3QzMk1USkZHNlVwWEROcGZpYURkSklQQXk0OUhaTVZBSS1icE50TU1ia0NsdFdGbDRvUkpRSUdmOW5Cc012d1lNTGxNYkNFTXF0QVZQWnZIa0psUjd4M2dieUdQMDFTNUVWblNLWk1kNm5JOUFaUnZ1d2ZfR1RIbTJsX0pn?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_no-freno-a-tiempo-fuerte-choque-en-las-americas"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "Choque en Las Américas hoy jueves 29 de octubre del 2026",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeE12OXpIZ3JXQUlyb015MjJjREJJYmFxM2syNXlmZ21qc1FuT2dRZVk2Tzg5THg4ZzZnRmdnNGlkVkNXdkJWWktsVklCd3FXUXJkd01odnIzQld5dUxhb1pVdk5wbVN6M0k4Uk1Bb0NTdlBoQ2VrS2pLSkpkaFRVMVctaWd6R1dyMTdHb2s0M216Vmhkc0tBUFI5TGVrZFp4cDd5WFB5VkRWLUNXeTFSd09yNW5ONE9pTU5kNkdJbk1TM1Vwdnc?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_choque-en-las-americas-hoy-jueves-29-de-octubre"
+ },
+ {
+  "d": "2026-10-29",
+  "h": "",
+  "ts": "2026-10-29T12:00:00-06:00",
+  "t": "VIDEO: Revienta llanta de tráiler y desata carambola en la Mérida-Progreso",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWZ0ZkMwanB4aW9na09wWWhmN2ZXY2p5RDN4WDFuRXVZWHZDMlp0RHkydzdYRHpmTzFONTlzanpyempBQlZoaUZIekNYd2tlTFlKRnVWbDdiSm02ZENZV0dOUVFLZk9BQTkwa3FFWGNzai1yZ2NqY1lCQmVqRkhPajJqLTJuN29zem44TzdacUNUYUZmQU41enZERWFkSk9IZjBV?oc=5"
+   }
+  ],
+  "creado": "2026-10-30T01:51:15Z",
+  "metodo": "reglas",
+  "id": "2026-10-29_merida-4"
  },
  {
   "d": "2026-10-29",
