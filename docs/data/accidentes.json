@@ -2,6 +2,28 @@
  {
   "d": "2026-10-30",
   "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Multan a Motociclista por Realizar Acrobacias en Avenida de Tizimín, Yucatán",
+  "p": "Avenida, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWExFV3VZYVhDeEFWX1ZIdVQyZ2NhX2IzRlVGdWVqUkZMMXN5SGtvdlZCTGxUYWpEWUlDWFRMdDBUNXYtdjNiSG5rS2JacVJ5NzNfZ2VtS21PMmtoNFR0LXBXSzQtaVN4aWkxalVwOEJ5MXFERHZmcE84bXFTeDJvaG9KWEVLRi10Mms0NVgxOC1yV2NkbUVEWHR0b0wzMUtMU3R4RA?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_avenida-tizimin",
+  "lat": 21.154058,
+  "lon": -88.169035,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
   "ts": "2026-10-30T12:00:00-05:00",
   "t": "Vuelca automóvil en avenida Huayacán de Cancún; una persona fue valorada",
   "p": "Avenida Huayacán, Cancún",

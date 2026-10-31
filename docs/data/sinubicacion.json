@@ -143,6 +143,115 @@
  {
   "d": "2026-10-30",
   "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Volquete impacta camioneta familiar en fidel velázquez: policías no llegaron pese a reportes al 911",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQ1hUQmhpNEJJN084b3BYWkxBbVJuR1pXa3lxNjBOb2x6QllCdlk0aEI4TGkzcXB6V3hrVjM1b1puWVRGTkhxTDYxZ0w0Z1gwWXZwRFZaUFdlRTRuZndiVloyX0Q0cldTcXQzUXZSUmlYTUVlbVJ3TjZMQ2xMSGZlZWZpR3Z2M2c3N0l2WDl1akVkbUlsN3A4czJJOG93X0JCMTFkSXRyTlBqUGwtTzFrOHRVWmdFcnc2Q3gzWnhpS2hWOG5uN0hRYXV2V18xNm1tNHZn?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_campeche-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Conductora resulta lesionada tras salirse de la carretera Motul-Muxupip",
+  "p": "Carretera Motul-Muxupip",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnVQbmhvZkFuS2pRVEVLMHhsS3hOMW1hNXZhZnVYMzJhRVdPQzM5LTk0YlVfcm1Uc0dCMng3QU1rbFNNdnljMUtQSlZCUmRSUzNRQXpkTEpaYmxzVXEydGNSOW1QdWoxa2VNOHNNMVN4dFhzODN6LVFrRTVhQUpBRkdZTU9lUHFmdUlUdHBkMXBYcU9WMFRPb3A1bHZyZzVfRXJFSWln?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "motul muxupip",
+  "id": "2026-10-30_carretera-motul-muxupip"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Conductora causa dos choques tras intentar darse a la fuga en el norte de Mérida Vídeo",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT0o1OWZjVElheUZDckxHRlFSRFNndi1rRWNpQjhORDV2cGJwblBtcGp3R3ltMVZUOUJva3JyMWUyb3o1ZFBmMXQ0NHBnQnZRQ3g0Vm1uRXp3eDV1dVRVSzlqTl85OGJpZE9lX3VUbWdNa3VqUkEyYnI4YnJIa1NKNGZQelBWYW5qNWZ3akx1RE1hSFdkN09YU0hvOEZTeld4MjVTRHdlRDk5WWQyY1FpanBKY3VJOTBfS09NQlVYclNoQ3MzWXQxYjZRaENtMllKMUE?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_merida"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Flamazo por presunta fuga de gas moviliza a Protección Civil en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdWlJTEgyaV9GUUZkTnRUeXlGQ0U1bjdRMmtJR0JtV3pibUpma3JwYmg5S2d5OEhwVEU3Z0JQWW9JRzBmRHhfVjR6dFoxclFBRDhsWlg2ckk1eXliSHZ1WHFiWEZYQTdJTlJicmFNbE8yODFiSmNfVThwcWRqaUNmdHMwWXByVXhHeDBPcE5jWDNXY2dNTEVhREVZUXEzV3VlVzZxcGF4LTVhUkdxVy12NkotdzFSU1JmNHRwVkEtcEF1N1900gHEAUFVX3lxTE11aUlMSDJpX0ZRRmROdFR5eUZDRTVuN1Eya0lHQm1XemJtSmZrcnBiaDlLZ3k4SHBURTdnQlBZb0lHMGZEeF9WNHp0WjFyUUFEOGxaWDZySTV5eWJIdnVYcWJYRlhBN0lOUmJyYU1sTzI4MWJKY19VOHBxZGppQ2Z0czBZcHJVeEd4ME9wTmNYM1djZ01MRWFERVlRcTNXdWVXNnFwYXgtNWFSR3FXLXY2Si13MVJTUmY0dHBWQS1wQXU3X3Q?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_ciudad-del-carmen-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Conductor Inglés Pierde el Control de su Auto por Gravilla en Carretera de Tizimín",
+  "p": "Carretera, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRm1BTXBDa2RSNDdpQkFYYmtSUEViSHdleldaSmNMWUR5YWhLT1BNcEkyUU04QUF6R1lpWkY4Zng5UlUtLVZoU2h1N055aG9ESWduVFI4cHFGTHBIZTcyOWNpRy1ZaEx0R0xqNmo5aUpkbWlKbHZfZHpCVjlyYXJaYVgxN1U3Rm1MOXpWMHFXdUw4TUpvc2c3aFBNWHhxUHNnU1BCMHZYekx3eXl5Z0E?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_carretera-tizimin"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Choque contra puesto de tacos en Coyoacán deja una mujer muerta y siete heridos.",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYVhpRUNhNVh0NldzTEo4NTFqdVJSeXAyY2t4TEhwdk4yaXdzbXNPX1ZTbmY2UGVvdm5XQUJ0anRtTlRleTZUdHRUZnl5WVY4cGlIWUpmV1hCeVR1dXhjX1NVNHBFSVVoS0hHU1FpRnk1S1NHVk83VHlfWEdwN0x4anR5OWVkY1BCMUJuRHJSRFI1NUVpWjI3NXVQTVExZHJ6b1o5TElpOXFQa3hxeWlLR2p3TEpLQ1FtR3RYU3BEb1drOUNDV1ZiMg?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_choque-contra-puesto-de-tacos-en-coyoacan-deja-u"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
   "ts": "2026-10-30T12:00:00-05:00",
   "t": "Automóvil impacta por alcance a motociclista en la carretera Playa del Carmen-Tulum",
   "p": "Carretera Playa del Carmen-Tulum",
@@ -212,6 +321,42 @@
   "creado": "2026-10-30T20:40:40Z",
   "metodo": "reglas",
   "id": "2026-10-30_cancun"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Accidente deja a conductor sin poder llegar a su boda en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnc4WUg4ZjZIaVpFZ1NReDFHSTdJUkNpYVZXYmlia19uT3RkOFctdDBoWVY2MUxIbE80c3BSSXhZOWNldHlpY0RiSUd2al9MLUx5bWl4Mld3Vzl0Smc1akpEcURGNktCeHNSOGFZbk85TlI4TEFhMzZSRWh5VlE5QkRrVmZtT2NnVzFoa0ZSeGZnQl9US212c3RfNHpYUDZTbDk4RjV3Z3JWRnVPZjc0MQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_playa-del-carmen"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Atropellan a motociclista por una funcionaria del gobierno municipal de Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd21udnllc1FPazVPR3lfZ0VfS0RTYmoxeFZpMVozbVRBRktCVVVwTnRPbEdFYTV3OVZ2cmJvOXB4RU96VEtxSFREZ0dzNmttUUpobUNxd2d1OS1yWkZQZXBHOW1rVnhhZXQ2QXpsTXl1TkF3dVpieWdwOVNrTS0wVGtRd3A4bjVPbV96bXljdjFaWHNucFQwNFlody0tM3lVVmROcTBxM0ptLUIxZ20yaFNBMldWaFRsM0xQT0RtLTFfbVhvTV8w0gHMAUFVX3lxTFBYSWRSaHVTbHh1dWw5TjFZb1dTTS0xVElxSHg3VHBFTXljemhsWDNfRzljdzBLM05ZUXFOYUVRM3ZVVEFLUXRsck1nRXhEMm9qUFVWZ2xUa2Z0b2xtajU1dGJlSVltZlBiSDhHNmlvNlVhRklOaVRNQTVxZlBMMHZwN0NBRkpwRjNLSGlIdVR1Qm9MRXdYV1VVeVIwZ2RKT2ZMQW1PWmJINld6QUJqRnZwRDY0ZFVwcDZHNkhvblZFQlQ1R2pLamw5TVpUdg?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T00:41:02Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_playa-del-carmen-2"
  },
  {
   "d": "2026-10-29",
