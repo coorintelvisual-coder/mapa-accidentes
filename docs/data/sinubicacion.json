@@ -252,6 +252,42 @@
  {
   "d": "2026-10-30",
   "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Atropellan a hombre en la Mérida-Seyé y el chofer se fuga",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2poQ3RtVHdTaEdwQkowOU5YMUZNYVdNZUNjRFNVbXNnQTVNVF9mODJJdmxlNlhnWEl4RUp0TnRNamxLaDBReDBvcXY3VFlyRUpzdnBVcEg2ZzZrYzdrSUJqb2tnVnhYWi1IM2Izel82YzhZaGhxdXZQRWJrRU9SSHRaQ2g5N3c?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_merida-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-06:00",
+  "t": "Rescatan automóvil de turista inglés que salió de la carretera en tramo de Yucatán",
+  "p": "Carretera",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3FsTzVtSlRHTi16NkMtamtIck5aQTF3S2tHanZTcDJBVm00OUViNHU2QWdJUE9rbUVsZWVHTjN1NUdSUjdFWFJad0lTV2t4eVZRZ1BRSXZvek1JaVlDbmJtMEllclZySmtVYWx0MmZOTGlaeDNkX0hqbjI5ZW5oRGZlWTQ5SUliWlYwTllaTmgzSUh1S09KNnF4Y1ZOdUdSYkpCNGhyMmVHdDdaRmpxM3prYXg?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_carretera"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
   "ts": "2026-10-30T12:00:00-05:00",
   "t": "Automóvil impacta por alcance a motociclista en la carretera Playa del Carmen-Tulum",
   "p": "Carretera Playa del Carmen-Tulum",
@@ -334,6 +370,10 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnc4WUg4ZjZIaVpFZ1NReDFHSTdJUkNpYVZXYmlia19uT3RkOFctdDBoWVY2MUxIbE80c3BSSXhZOWNldHlpY0RiSUd2al9MLUx5bWl4Mld3Vzl0Smc1akpEcURGNktCeHNSOGFZbk85TlI4TEFhMzZSRWh5VlE5QkRrVmZtT2NnVzFoa0ZSeGZnQl9US212c3RfNHpYUDZTbDk4RjV3Z3JWRnVPZjc0MQ?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/30/accidente-vehicular-deja-conductor-llegar-boda-playa-carmen.html"
    }
   ],
   "creado": "2026-10-31T00:41:02Z",
@@ -357,6 +397,142 @@
   "creado": "2026-10-31T00:41:02Z",
   "metodo": "reglas",
   "id": "2026-10-30_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Brutal choque en la carretera Carmen-Isla Aguada deja un conductor gravemente lesionado",
+  "p": "Carretera Carmen-Isla Aguada, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/10/30/brutal-choque-carretera-carmen-isla-aguada-deja-conductor-gravemente-lesionado.html"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "clave_lugar": "carmen isla aguada",
+  "id": "2026-10-30_carretera-carmen-isla-aguada-playa-del-carmen"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Muere Mincho en Cancún, delfín que inspiró ley contra el cautiverio",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYi11SVhmVVh0Q214QnlKVjBEaVp3Slg5c3M2Y1ZwS2cxYU5UNV8yd3dUc3o0OThTc2x5LWdicEhrbk05UTh4UHZVaTF1T2hheHIxTXllNGZmYkN3VGdrMk1CMnJBeWZTVUFQUC1kNkxidDI2aVlqVXBqRGQ0eGhia2s3OVZISFJPM1pJdmswNA?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUlh4OVhQNkRnLWh2MUZ0UDV1RjI2WlVpOUI4Z1M0d0tRMmJ2amFOX0VZTndUYUR6OUJEM3hyY3NsdEpKeThjY1dPMHI5T1lqaTQxQ3lkTWZPRmZLdndrYXNOQ1pMSERPU202bnRBQW15MGlObURMTngybC01R0FPYVlSWFlndkowdTNwUGNQYldCNkRpaVhweWsyd185NE9ELWRlb1VfbkFja3pIa2ozSnd1Tjg0RTNyNWdRWHlrcldyZw?oc=5"
+   },
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb3hYY1pYai1UOVRNdE9uOGh0eGMzVW9LWksyaVk4UGhvd0l1Y2d2UTZOTF9JUENRbFBzcS1KZmNFT0ZQVTZralpkWDBnQVN5Wk84RkM4VlFwZ3ZnRVNiUG02YTh1R29XQ2tzc3c4eURORlVxLXpoMF9ucEhxUzN0Z01JZ3dMbHIwai1ZbTV3bUNHbktGc1FMU0x4YTRoMnNpU010aUNlVlJyZEZtSHlQd3lVNnA?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_cancun-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Evacuan céntrico hotel de Cancún por fuga de gas",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY1RzQ1Y3NDlyRzRHXzdaRlBQazZPNjNxTnZKN1BGWm1oODE5YzRLRGRYcG9Fc0FIUnRHSUJaU1phZmVPQS01OUIzbk5VRC12ZHVmTEF5X3ZycENabTk1enQ3aEp4YzZhZzVEM09vbHJuMXFtaTJJOWcxUFBXT21fVkdhRQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_cancun-3"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Cuantiosos daños: incendio afecta tres viviendas en chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoYk9DTVNhQm5QcVpXV25PNnFBNFRNblQ1cEpYUkVuYnFxTTNVcHBHeThsZkVuTGljNUZPOHBCTmt4NnBTejZOX0ZDMjB6Q1BYTDRqXzJkVi1FX1FTeHNUSkJSNmZVbG5GblF6X0gtU0taX0JEZGZ2dFh4Yw?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_chetumal-2"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Adulta mayor pierde todo tras incendio que consumió su vivienda en el fraccionamiento Caribe",
+  "p": "Fraccionamiento Caribe",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZGNham5BUzd0bjZwZGZMWFVHT01QaWQxeXJSOWdnYURUZkw3LWxLaTgxWjlVdFhndkxuZ2piZE5UUS12T2d4LW1KTV9pdGxnczlFb253eG16dUdKaEcwNktZenNpRXl2SWIyN2dyZi1JZWp0TW9zNTNVWE5OdFVITHhuVWN6TDk1bjlhV1hWVHdBSi1BRWs3VFFPY2tXMW1tSXJsYjRJakdaT2JzUE5iVTgtZnM0cklndDRB0gHDAUFVX3lxTE8xSVlIcld6cHFiUE5OMURsdktJRWJ6d2FrSUx6MGVEbkRTSW44UkhNMk9WU09jdnlISHU5NGVwQmlIcmNaQ09aaVFGYW5RSU9mVF9wbXcxMjh5bGttNUg0Yjc5cEgzNXdzMEk3ZjJYU0N6Ynd3eXZPcEZJZU9EdEw1WkZDanFfcTB6eFZDMkppYmx6Mmp0N3l6UWE1NkhjSEJXXzItZ28tbzdCdDBfQnRIYUtaaVhHeWFQYWVfNGRoZW5sbw?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "clave_lugar": "caribe",
+  "id": "2026-10-30_fraccionamiento-caribe"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Fuga de gas doméstico provocó miedo al estallar en una casa del fraccionamiento Palmas II en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcWJva196QVV3dTh6dzdoYXlZb1dITENQZnVMUU5NTDJrNV96SXEweUdJbGw5VVE0SDgxZzRwY3BlTVNzbk1pWHhvdWZYNEtLREV0OUI1dkk5NjQxSmdVM1NVUHZDcHBUcWFZXzZMdkgxTl9YWGpORFpjX1RHVXRILUhkSTlXaldKei04Z08yUzJtMUwwemFkR3R2LTB1cWNkeklGc1QyQXlLSlZDeFEtQ0tVUUZqb2FtWThXX191Mm5KdjF1YmVONnlnelR1SUVGZTV1dk1FRGxBS25aN1d4SjlKVULSAeQBQVVfeXFMTnFib2tfekFVd3U4enc3aGF5WW9XSExDUGZ1TFFOTUwyazVfeklxMHlHSWxsOVVRNEg4MWc0cGNwZU1Tc25NaVh4b3VmWDRLS0RFdDlCNXZJOTY0MUpnVTNTVVB2Q3BwVHFhWV82THZIMU5fWFhqTkRaY19UR1V0SC1IZEk5V2pXSnotOGdPMlMybTFMMHphZEd0di0wdXFjZHpJRnNUMkF5S0pWQ3hRLUNLVVFGam9hbVk4V19fdTJuSnYxdWJlTjZ5Z3pUdUlFRmU1dXZNRURsQUtuWjdXeEo5SlVC?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_playa-del-carmen-3"
+ },
+ {
+  "d": "2026-10-30",
+  "h": "",
+  "ts": "2026-10-30T12:00:00-05:00",
+  "t": "Choque entre automóvil y camión de carga deja a una mujer atrapada en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM0FrcjJ2NEM5cHNyd1d4WWgyUDFlb2xkNENyTjk5NmFSQWFyVEk3SXpMT0dXZjE1dWFSMG1oSmVSeEhqRldCVTdZYWxSTFh0Y1B0Q1BZaDhTa0JOeUVPa3JiQmg0cU9FeWVXM2dBRGFGWWNLeUJ4dzVabi02UDV3RVpuVjc4eDktZmNlbTJxLWpxcjRoWEJTRVFNSWtPNFJPbDFqTk1XRWVGSnN2U2FxdDhuMkUySE5CQmJKZUYtdW4yQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T06:54:03Z",
+  "metodo": "reglas",
+  "id": "2026-10-30_playa-del-carmen-4"
  },
  {
   "d": "2026-10-29",
