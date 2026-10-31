@@ -1,5 +1,78 @@
 [
  {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-06:00",
+  "t": "Trágico atropellamiento cobra la vida de un adulto mayor",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTThpaFhFSmVieHFlcmlzZGF1YUJuR1R2alJOZjM5OTRFQnd1ejJ5Qm1DZ3ZkMTMtS1h4d09fMl9mbEhVOXNFaFJ6c3FGYkROUU5UOExwVGozemtsQi10UzU1enNuTmprNUxkUlp4akxscG50NGNHenp2LThqdUx6RnZCenlQQQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T18:27:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_tragico-atropellamiento-cobra-la-vida-de-un-adul"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Muere \"Mincho\", delfín que sufrió un accidente en un espectáculo de Cancún; Profepa ordena una necropsia",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMmw2Yk04WlB1ZzBwQ1Y1RWhyNFFrV1dGdXFJTkpUMW15RHlXaGNOXy13VlE3WnRnYmJMY1JuY0JuWktJYjJFR2tVaFhzSEd5TG1ZeDRNLTNWRG1EZ1FVUm43OGo2dFZFVmpyRldRZ2ZaSGdDR2o3V3ozc21QMWdwNEZPNzVJbnJNcnZZZzR3dDAwZ05CcjlsdVo5NjdPSUJtdVlWU3NBOThfcWctbV8tWG83bWlKSDRXWUNHVVJFZXdsOTBSWlNXd3ZwSXNOdFRFMDE2N0c5U2hZd0lPaVF5Y3BwOGg?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T18:27:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_cancun"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Dos lesionados tras chocar automóvil contra tractocamión en la carretera Felipe Carrillo PuertoTulum",
+  "p": "Carretera Felipe Carrillo Puerto–Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlYwZHZ3eGg1ZndMTWtKS0U5Rko1d0luLU9CQ3lrUnRtaE1BaVYyN3Y0X2hqVDdCc1l4N0Y4SUNfN3ItMUpXODJzTHVhamlIMGRJLXNpZFlteDNSVHp6RTBUeWtpc1JIVzlDMjlUM19ZM09YRXdwVGh5dEZfVHlvTUFZcGhkQjNRZzZ6ajNxaV9yZmExWlpEUUdrdkp3bmQxb0dabzdyaGhqRzhFekxoTkcyT3BIYjVMdy1GeDBLRVNwRUotbzh0el9SYVdlUE1vUlBGUkl3?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T18:27:04Z",
+  "metodo": "reglas",
+  "clave_lugar": "felipe carrillo puerto tulum",
+  "id": "2026-10-31_carretera-felipe-carrillo-puerto-tulum"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "MINCHO: Muere el delfín que conmocionó a Cancún y cuyo caso impulsó una ley de protección animal",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMVBONUtqLW9POW1SMVYzREVxSmJWV2h5UHROYzdKbEZlME5NNFBwd0lNcUFWZGtXR01EQ0UtY0thb3Q4NVNYS1FOOG8yd3pmRF9WWUhfWk5zbG50TThfWQ?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T18:27:04Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_cancun-2"
+ },
+ {
   "d": "2026-10-30",
   "h": "",
   "ts": "2026-10-30T12:00:00-06:00",
@@ -261,6 +334,10 @@
    {
     "n": "Sol Yucatán",
     "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc2poQ3RtVHdTaEdwQkowOU5YMUZNYVdNZUNjRFNVbXNnQTVNVF9mODJJdmxlNlhnWEl4RUp0TnRNamxLaDBReDBvcXY3VFlyRUpzdnBVcEg2ZzZrYzdrSUJqb2tnVnhYWi1IM2Izel82YzhZaGhxdXZQRWJrRU9SSHRaQ2g5N3c?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlNiandkWmNmNjdQNlNMMTdweGZ2ZkxrdUtVVGREeE9LZDBuRGZFdXppSG1lcV9kdklCTERZVDFtNWpqTkVTc0dvb1FnMkdnNDRZWWFxYnpXdVR0ZkV0cUZWY0tmVGdHc3dPNHdIMWExUGJ3QlZnSFo5WWwzck9XdlVpLVhfXzZ0MVZYRThRZHpnQlcwTWNsa2Y0M0FfNGh0bzRfTlJSYi1aXzlUaVFWcHY2YUg?oc=5"
    }
   ],
   "creado": "2026-10-31T06:54:03Z",
@@ -9546,26 +9623,6 @@
   "t": "Conductora en presunto estado de ebriedad choca en un retén",
   "ts": "2026-09-27T02:39:00-06:00",
   "id": "2026-09-27_periferico-km-30",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-26",
-  "h": "",
-  "p": "Periférico, km 34 / entrada a Tamarindo",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   },
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Peugeot vuelca y derriba un árbol",
-  "ts": "2026-09-26T12:00:00-06:00",
-  "id": "2026-09-26_periferico-km-34-entrada-a-tamarindo",
   "estado": "Yucatán"
  }
 ]
