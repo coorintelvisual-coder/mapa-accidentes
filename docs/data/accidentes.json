@@ -2189,25 +2189,5 @@
   "ts": "2026-09-27T03:27:00-06:00",
   "id": "2026-09-27_av-libano-col-mexico-norte",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-26",
-  "h": "13:11",
-  "lat": 21.128,
-  "lon": -89.6455,
-  "p": "Mérida–Progreso, bajo el puente de Xcunyá",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Motocicleta Kawasaki se impacta contra un Tsuru",
-  "ts": "2026-09-26T13:11:00-06:00",
-  "id": "2026-09-26_merida-progreso-bajo-el-puente-de-xcunya",
-  "estado": "Yucatán"
  }
 ]

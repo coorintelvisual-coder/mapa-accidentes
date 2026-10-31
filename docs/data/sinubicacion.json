@@ -20,6 +20,24 @@
  {
   "d": "2026-10-31",
   "h": "",
+  "ts": "2026-10-31T12:00:00-06:00",
+  "t": "Motociclista pierde un dedo tras chocar contra muro de contención en la curva de tepakán",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXhJaHhPR21NbnBDSFVvMnhhWEh2Szl6YXhVMTQyVFpNNU15bUk1OEt2akQzRF9feHJ0cThDZGkzT2Yxc1hvY2FDNnZnZk0wSXpySkJtMDNKeXVMQTJLeFQtal9TTUlTd2VEVHB2NnhuLUZhTVdxR2U3OFV5WmltSE93aS1jS0tzU2hPOUNieGJJQkR4bV9vRlNfWjNEXzVWbFRTQXdkZkxkbUtjX2dnLWVLV2lQNlRJZVpvMHBRTzBrQzNCSWc?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T22:24:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_campeche"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
   "ts": "2026-10-31T12:00:00-05:00",
   "t": "Muere \"Mincho\", delfín que sufrió un accidente en un espectáculo de Cancún; Profepa ordena una necropsia",
   "p": "Cancún",
@@ -29,6 +47,14 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMmw2Yk04WlB1ZzBwQ1Y1RWhyNFFrV1dGdXFJTkpUMW15RHlXaGNOXy13VlE3WnRnYmJMY1JuY0JuWktJYjJFR2tVaFhzSEd5TG1ZeDRNLTNWRG1EZ1FVUm43OGo2dFZFVmpyRldRZ2ZaSGdDR2o3V3ozc21QMWdwNEZPNzVJbnJNcnZZZzR3dDAwZ05CcjlsdVo5NjdPSUJtdVlWU3NBOThfcWctbV8tWG83bWlKSDRXWUNHVVJFZXdsOTBSWlNXd3ZwSXNOdFRFMDE2N0c5U2hZd0lPaVF5Y3BwOGg?oc=5"
+   },
+   {
+    "n": "Carlos Martin Huerta",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTJMOS15M3V3cjJTUmN5VGdfLVRfRWllSUJuNmw4UXFBWmhYX19BNDdPc3ZWZDdPTHRMT0ZONDVzTmlrdnN2RHJLQnd1UG1HTkw5aXdnMkRCbUl4RDJtMHVyZ0huVnEwb0RvSnZiNmNLM1dsakpETUZrb0ZhYlBqSWo4VEpXUkQ3NFBRV2hCZlZsR0NuSC1SWGY2XzFUeTZnb09F?oc=5"
+   },
+   {
+    "n": "Grupo Animal",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWlRZ2VQUVNUT1gzakFMY3k0eGpTU0ZZdlRaZkd4T1lyV1pSYnlKSDc5T0R1TVdnTVVoS01RMi1oOVJKLVhqN2dLc2s5a1o2X1pHUXNKa0txWnNrekNTYmdtUzdUSUhTZ1gwQWZFaUdCekkwbXdiYVFCeEhIZGdlbGl5eDRJajh3TURzQ1JNWjhtYVk?oc=5"
    }
   ],
   "creado": "2026-10-31T18:27:04Z",
@@ -71,6 +97,61 @@
   "creado": "2026-10-31T18:27:04Z",
   "metodo": "reglas",
   "id": "2026-10-31_cancun-2"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Cables colgantes ponen en riesgo a motociclistas en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUDlOWU92R1dEYlVRTHNkaThaT1FvaTNRYmhCbUtTeW5qMU1MVlM2MjY3SkpLeTVRNGs4Y2NTNndGdS1NQ1VRRWJtOHVsYVBsU0ZDMlNWQWtfTk1YcS1xRUFmSkRzVk5uMGNHRkdZZ2k2QXZPaV9RdUtTTHNuMDNuYnFFRXMwQ3BxRmJ1WHo4WjbSAZgBQVVfeXFMTWNpNVR6YUNTUXB0a0haazJnUGhhdGFCd19sS0kxRFIySzBXSnFHaVg5dmNGUFQ2Z2V2YmpERjMwaklOdmgwV1haanUtcktaMFR4NGlkdGJhRExHbWFrOFpqQlZOLXQ5RHJxT1d6QlZoQ0FJSkQ0MFU0S2ZnRTdhVHV1MHNDd25xaGdUdnBydUY1NUF5a3NjZjU?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T22:24:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_chetumal"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Dos lesionados graves tras choque contra tráiler en la carretera 307",
+  "p": "Carretera 307",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1VqZzRfb3FHZFBURkhHRlFMdVMxTHhfWWxlTmJER0RhYTFfcmgwcXg1NlM1VjFuQURNbnZsZnc2R1NFOXpEUnlxVW5QNHFuM3JGMzlIbDY2X1Y3UnZlVzV1dEx6YmppU3lQMDRSWi1GT3lweXJ4dEVvOEJHTHdGR0c4UzBtT08tNmZrN1lNaUtpWVRQM0Y1ejJnc9IBowFBVV95cUxPdXlWQUFZclU5VkhJVDZFOUNfSVB4cDNoY3V0dWtySTduM3FjdlhXZWRUaTNiSmFXNUMtRlROZk4xS1M4VHVFMmFUblU2elYtckpsZDdPdHNlU1lyOE9ZXzdJWUVqV3EwcDhuR0Y5em42ZFlXODZPTF9UQVFqMTZMTGZjRDJfbnNzX0RHS05mUnZUZ2IwTklUdlNvSlhwVjdwVWlv?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T22:24:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-10-31_carretera-307"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Evacúan a 120 personas por fuga de gas en hotel de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQTRUczdvYWx1QmNTSmY4RHBncXBwLUhrc1RVTEdnSGNfTmtNUm0wYzk3NVVFelpFRnZjLXh0RC1GbXJIUEM2bUdzbXNkMVhOOFBvQnFoUTZRcnpWdEtJMlFGMmw3alc0blFDUGxYQU9xYzBySWY0TEZYNzcyZlBkUThZcG9hRHdZWjVfbtIBlAFBVV95cUxNQUk5VzA5Q19mVWRjZ21rQjJSN2ZfWkJtajZmM3JIYVk2NVU2ZmVySGVDRlVMNFR4cVVDdGRBY3dIRldoRC1ha29iSmRiRFd1VUN0ZlRXVEJIeEFRSlc4Q3ZFTjlBaDNuTUE3aGhsS0dzVWlqVVNsMV93cGtNY3BlSnRxdXZEOVFjbEJTQjhTVDVJNVJH?oc=5"
+   }
+  ],
+  "creado": "2026-10-31T22:24:53Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_cancun-3"
  },
  {
   "d": "2026-10-30",
