@@ -2144,53 +2144,5 @@
   "ts": "2026-09-28T12:00:00-06:00",
   "id": "2026-09-28_itzimna-frente-a-centro-comercial",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-27",
-  "h": "",
-  "lat": 21.04219,
-  "lon": -89.67755,
-  "p": "Calle 49 x 88, Real Montejo",
-  "pr": "cruce",
-  "sev": "les",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   }
-  ],
-  "t": "Camioneta no respeta el disco y proyecta a una motociclista",
-  "ts": "2026-09-27T12:00:00-06:00",
-  "id": "2026-09-27_calle-49-x-88-real-montejo",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-27",
-  "h": "11:23",
-  "lat": 20.8594,
-  "lon": -89.4869,
-  "p": "Mérida–Chetumal, tramo Tepich Carrillo–Petectunich (Acanceh)",
-  "pr": "tramo",
-  "sev": "fatal",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   },
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/md.eco.yucatan/"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/noticias/tragedia-en-la-merida-chetumal-reportan-hombre-s1n-vida-tras-fuerte-choque-esto-se-sabe/"
-   }
-  ],
-  "t": "Muere mototaxista impactado por alcance; el conductor huye",
-  "ts": "2026-09-27T11:23:00-06:00",
-  "id": "2026-09-27_merida-chetumal-tramo-tepich-carrillo-petectunic",
-  "estado": "Yucatán"
  }
 ]

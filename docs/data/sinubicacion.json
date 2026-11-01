@@ -2,6 +2,96 @@
  {
   "d": "2026-11-01",
   "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Incendio en bodega junto a un hotel moviliza a cuerpos de emergencia en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzFON2dCaTdvNVNEU0VqSlA3TFRhNTF1LUViVFdsMkotSGhvSEh0VFFscnBvWVJuRFBLaTRCc1NPOUo0TDNyUF91eFltRk14NEZOTTk1ZWNocEJzcHZ2UjZNeFhtd2pESmM3ZlNnd25CYkpITUdDcFU1dnF0enB4Y0lSWEhnTHA4N1p2T0NNU0FpSkdoQlZsWmZXOHFlVmo0NHFkMWF0YjkyV2hyRlUzem9NcVRjdkk1U3hJ0gHAAUFVX3lxTFB3ODFqMXBFaDdUUFhYRTVzV2NQNmRJQmVRNXRwbmlXT25odnB6ajdxejBsT0F3OVhKUjdZaWctYnRFdlozZFVGd2ZqdzM5bXplNElsMFlWUkU5aWZzT3NZbElzM1Z2UVFWeFZrejNMWVd3RnNpMUxPS08yYUgtSjJyX0k0SDhrV1pldGRVUHJyX0tKZUpPaFpjTzY1Q0JQTDFyRDExbXVMeWIzYkNXUllhZXZTYlVGa0Y2bDJfc0piQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "¡De miedo! Cámara capta el momento exacto en el que dos AUTOS chocan en cruzamiento de Vergel II, al oriente d",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNHlTM2tEbjhYQlBwcF9DWnhodzdrNHRpTV9SZlNnSWRnZGxuTHNaeGdPQWtKMHhPbTVKYU0yWFI0SlVJSlV4bW1XMkxjQjlDdkM0SmNpY0ExMXo4ekIwdmhLLTJOb2tfUFZQRmZ5RHlmTnU3TjR2UUxjakhqMzZxT2hvblc2ajA0NTgzTnRRdjd6dWlrdklRWFhtaWh5Ym9wd2ZhcGNaaUlZRGNXVGJ4alZ4alZOMTYwSzNWam9ITUUzZ1lXdWhTQ1JsOVhKNkFZUzhnQXlRSzZteGxPamtKalZWb0JaM2Jnck1SRWNJSVNoTEoydlB3VFc3WkNtdVND?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_merida"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "¡Halloween TRÁGICO en Mérida! Muere hombre atropellado en la Felipe Carrillo Puerto Chuburná",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZUVSWkF6Zzd1MDBHT0prOXhhbjYyS0g4VUZZTVlJVFB4UmFZMWY5OUVwNlpRZWRwTWdVUFlpSkZxaHBJdXA0d1I0ay14MDVTS0p0NEdEN0JKLU83SVVuaGxIdGozRU5mZmxERlFGdksyVG01bkJVNUdrUkxqazI3cHhwQkdnTnJHRXpGM1R6TFFWSTZjMWVPYy1DQmpiMk1RX0dqTDB5Q0FPMmpOa25XZ3hocElxOHpsamptSEtnS3pyZG8xVDBiaXpKUExKQVQ5dXdFTVJUTVFfeTFhYjdZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_merida-2"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Vuelca mototaxi en Ciudad Caucel",
+  "p": "Caucel",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sX2xlUXZwOFduMHNZbUhBc1VFZlNXQUpxUUY5NEUwNW1xeFc2NTFqRnNQOElxcUNTOFBPUVd5WWw2dXBXRVJRWWFMa0pfaWh5a09zUlowcWR4ZmtYdWRsV0RSTDlsb3VKRklnSkJkUFlqNzN4X09iMUFn?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_caucel"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Fatal accidente en Yucatán; conductor atropella a un peatón y choca",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Michoacán",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdW4wTno0dmFndFNkWEhMMTdWRV9vUTAtcEpfZVZXdDI1SmJ1R0RSRWF2MTlpandNdTBfb3VQR0tPV3c2RDBBdDF2a3FSN29PUzgzSGpqTTZCR0R5d01zY01XYzFkdWdrZmpVMlNBTl9qbXRXZEZmUWl1Qk02eHFseGhuTE5CdThITXNaOV9fWGVMa01YdTNEOEJlNGM2c3UtMnc?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_fatal-accidente-en-yucatan-conductor-atropella-a"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
   "ts": "2026-11-01T12:00:00-05:00",
   "t": "Choque entre auto y camioneta deja daños materiales en cruce de Insurgentes y Héroes en Chetumal",
   "p": "Chetumal",
@@ -16,6 +106,72 @@
   "creado": "2026-11-01T16:44:40Z",
   "metodo": "reglas",
   "id": "2026-11-01_chetumal"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Cancún: Motociclista termina gravemente lesionado en Rodada de Terror",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTHpBejJFOVRLRHcyUThoRkR1S1lNRVBGZzNZSm1velFfd25ROVdOeGZQUW9palZLR2lYQ0JzWXJKWFZ4QThwbi1aODNYa0w0Z0VLcjNqUVRaazVSa1F6ZER2ZXJnWjdrOGRaMjdBS1V2Q2ROam02Z1djVkhLaVU1WjlOTjRyZzRISDRMQVZJMEVTdFJvS3BJR3RWU3Y0OUZreWFTVVlwLUFLVV8w?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW84MzhaelRYNU5wcURvUVhSemZ3XzdEV0JrWDRvNUk1d0NoV3MxSTE2UXRYMzdHNEF4WTBia1g1S2tzc2JOak1rR0FUckFHMmYwZkt6WlNINmN4VkU5V0FEa0NzRkdYRE01VzhVaU9xNVBSckdaZFBnU3pTNkFUZEhyVFNETURHakxEY3pDOG9FTk1DcHNFVEZ2LXBkUE1QM3kzLUtSb29xUUZMeUVnMkRjZlBObW5BVFYwM1M2d9IBxAFBVV95cUxNT3NoLUtGWmFaS0RJTzg0QWRGRW1RT3J5eDZFUTZVWVA0ZmRSVGl6eGk1NEhiQWY5al92WDE1djJBTzVUSXQzMDFRWHdTclllLUp6QzhuNnF2TDJ6UW1fNE0xM3RUS2M2TWs3YU41d2NoZExybnQ2M0NUTHhtR2NMZVRDRE1zWjY1SjVEM3hIR3VPM1VBbUxCTnRlcVl4aVpkRkttSzJ4Q05STDVEYzZhZGIzN1cwcWRaMktmQzJLdUp6dnRB?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcDdnVlFUMFpLUUZ4WXRSU19PdUo5MlRtT0I4WjVZSzBCMVNaWGUwWlpYZF9YMm5XX1RvbHVLYVpiRlp3VGdqMGxlWUNuUEJHTlNkeEZqZjhQM2JlbWNqZW9COUxFSWNWd085Sk9ZMFVqcE5aSzV2TE1vbkJ0TmYydWlZOTVyaFlIWEtBR01FWHYzaHRXQXdhNHM1Rlo2TE9Ib3Nwc1lFS2d6S05BM0hrSQ?oc=5"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkZRWmtLUXJ2S3lFZGI3TG5OaUlxanJwUTJQUTJGLXZORHZjay1MeldWZnZOT1ZVSkE0SkxfeDJjNks2Z3BvZjVqbmhPNXIycG9BTXpqYTI1Sl9aTlVvV19oc3VWZDduMHJITVV4NVlFeWY0T3lMRm5IanZxdjdubnlVZHpEekRlbTVLWjRKVXZhSDQ5ME4tSTJmYW4yM0xfVzMwRm5UVHM3Ym5LazBQYzZoOW01bzRUQWswMXRn0gG-AUFVX3lxTFBmRlFaa0tRcnZLeUVkYjdMbk5pSXFqcnBRMlBRMkYtdk5EdmNrLUx6V1Zmdk5PVlVKQTRKTF94MmM2SzZncG9mNWpuaE81cjJwb0FNemphMjVKX1pOVW9XX2hzdVZkN24wckhNVXg1WUV5ZjRPeUxGbkhqdnF2N25ueVVkekR6RGVtNUtaNEpVdmFINDkwTi1JMmZhbjIzTF9XMzBGblRUczdibktrMFBjNmg5bTVvNFRBazAxdGc?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_cancun"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Muere Mincho, emblemático delfín cautivo de 36 años en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Ahora Tabasco Noticias",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUlZWXZSbTRtNmtzNzNGdFFvbUxhNTZEeV82Uk9iV3NNRk5SQmtIanMyc3BLTVVoTEpabFZQaF9WU3Z6Tkg3cEdaaE1YU2ROV2dwc2NGRnQ0N0tLcjg2Ri03ajBnY3otSkF0UTZ2dk02c0p0SWMwSnlrRjI2WFp0MHlPN1J3X3N3ZjFLeDVKQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_cancun-2"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Mujer y su hija escapan ilesas de un incendio que destruyó su vivienda en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkdVUWlZVmxzRTF4eGdpSE04d3JIQ3hjZmVUSm5aZHBJdFRuWlphcEpSUXJPSDJoRWxXRm9SVGxiU2FCM2Q1c0cyYWpVVnZoa3hWVVNCeUJBdWxYMEpYWGJuTlFfeVViVUdXZzFPMmZoUGJwRlZmTlByUTJnXzFTZWNWaVRyT0ZkT2kwaDVhbm04Y04wRUdBYW16UXlpU3N4TTRCV3k5STFrNFY4SnpRY0dwVnVOUlRXY0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_chetumal-2"
  },
  {
   "d": "2026-10-31",
@@ -335,6 +491,24 @@
   "creado": "2026-11-01T02:06:03Z",
   "metodo": "reglas",
   "id": "2026-10-31_chetumal-5"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
+  "ts": "2026-10-31T12:00:00-05:00",
+  "t": "Aparatoso choque deja tres lesionados",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uS2xWOHRPWTMtRGVOZW42dnpwS3ZwaU5oTTJfd2JSZ21QbEFJSlJWQnVDYnVzZDk5UWZKV1lUWkVyMGVkTE9FYkRFTGlya043RmpWd1hyWmppcjFETGg4dGt3UTBoNHVlcThFYjFjSi1tR05X0gF8QVVfeXFMTkF6UkJ4MS0tTFJMQjZ0WVVWNDJKZktOWlEycHJfaTRhMjlwQ3JidTA1Wkhia0NycXZXNllMVXlhZFpGQzhEV0VZTHpxQU9IN0lvb0tONEN3T3l1ZVZhdUEzMlRrTDBmRHBDVXBzVVlTMXp6cUd4U3pRMkVJQw?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T21:05:17Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_aparatoso-choque-deja-tres-lesionados"
  },
  {
   "d": "2026-10-30",
