@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Choque entre auto y camioneta deja daños materiales en cruce de Insurgentes y Héroes en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVk8zVWZxMk1GWDZJaWtNTVVHM2ZoX1hCNGZYbVltc0pTbzVQTXFXdFZYUjZpY1hMSzdQVzRxdm1iT1JRR1Eya2c4WUstSlZYYUo3TS16dGZESS1oVlcxWmZwV1JNelVxYVhfcnR1YXB0WldrSGZHYjlDQUJrMXRqS05GOEdVQXEtOXQ3elJtRFd2YmFZQzJ0NTVrTzhMZ1ZLNm5nYnFVZG5veW5lSndFVktYbzloZDRpMjhrbmpNWnN0Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T16:44:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_chetumal"
+ },
+ {
   "d": "2026-10-31",
   "h": "",
   "ts": "2026-10-31T12:00:00-06:00",
@@ -93,6 +111,24 @@
  {
   "d": "2026-10-31",
   "h": "",
+  "ts": "2026-10-31T12:00:00-06:00",
+  "t": "Automóvil queda DESTROZADO tras chocar contra tres vehículos y una grúa; ¿Hay heridos?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTktGZ3FHRmhHQ0cyMWllcGZWRVotZVlTYUNQckJVR2FxY1lpLVhYUDduTFNmdEtlS1NUNl9zSEM5ZVJETmRUMGNWejhuX1dvVnBtYVA1eDhjaUNKakhGekF5RHV5d2dyOXVUMUhDdDd2SnF1XzRJdWFxMFUzbElyYkR5Q2V1RGg3R3o4OGpjWWlSMjZOVnByeHJBdkZtT0FMR2J0UWxZTkFpV2h2RTljdFBnTUp4MURTdVVxbU54SjU?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T16:44:40Z",
+  "metodo": "reglas",
+  "id": "2026-10-31_automovil-queda-destrozado-tras-chocar-contra-tr"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
   "ts": "2026-10-31T12:00:00-05:00",
   "t": "Muere \"Mincho\", delfín que sufrió un accidente en un espectáculo de Cancún; Profepa ordena una necropsia",
   "p": "Cancún",
@@ -136,6 +172,10 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlYwZHZ3eGg1ZndMTWtKS0U5Rko1d0luLU9CQ3lrUnRtaE1BaVYyN3Y0X2hqVDdCc1l4N0Y4SUNfN3ItMUpXODJzTHVhamlIMGRJLXNpZFlteDNSVHp6RTBUeWtpc1JIVzlDMjlUM19ZM09YRXdwVGh5dEZfVHlvTUFZcGhkQjNRZzZ6ajNxaV9yZmExWlpEUUdrdkp3bmQxb0dabzdyaGhqRzhFekxoTkcyT3BIYjVMdy1GeDBLRVNwRUotbzh0el9SYVdlUE1vUlBGUkl3?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzdFMG9JRHM5alpVcGRxXzl0WEJobnNJd2FvaktYbzlHdU9uWlUzTnl4YTlhQ2s4X2VMa3IyWjNsU1NMa1MxVy1vQTZ6V1BzZDZHS2FieDVnaTd5TGhVcWtna0VSekpJRXRqOVdYcEtuR1FtdEV3cXdTMWYwUFRNTmI1OXdaT3BTWEtyWmU5Zlo4djdRMi1obTkxMjI3a1B5WWdOOGd0US1GdTRq?oc=5"
    }
   ],
   "creado": "2026-10-31T18:27:04Z",

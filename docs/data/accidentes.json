@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Conductor volcó su automóvil tras chocar un coche estacionado en la avenida José López Portillo de Cancún",
+  "p": "Avenida José López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNEpsMG9NRHphcDRPV2dBWmI5c1Nvb2p4OEhhQ1NvWnJxVFR1MnJISng5em1LNmdfb3hWNk1odFJRbV9qeXoxN2lFeHZWOUgxUkxlSzIxcHppXy1tTFBIRy1TdlZDVUVWSlljRWJUcGJRY2FmN3ljZ2NIRzF1cG5JXzMxWHRDYlI2OW81eXY3bDBZUHBFcUdEelR4RUZYNWpOYmFUNFRTajI3bXFyYk9vZXRQbjRUZElzYko4aXJoOThRTTczNnc1RWRLbjNoWkZxNC1XVkhkUTJXUy1KY0VQQk04QdIB4wFBVV95cUxNNEpsMG9NRHphcDRPV2dBWmI5c1Nvb2p4OEhhQ1NvWnJxVFR1MnJISng5em1LNmdfb3hWNk1odFJRbV9qeXoxN2lFeHZWOUgxUkxlSzIxcHppXy1tTFBIRy1TdlZDVUVWSlljRWJUcGJRY2FmN3ljZ2NIRzF1cG5JXzMxWHRDYlI2OW81eXY3bDBZUHBFcUdEelR4RUZYNWpOYmFUNFRTajI3bXFyYk9vZXRQbjRUZElzYko4aXJoOThRTTczNnc1RWRLbjNoWkZxNC1XVkhkUTJXUy1KY0VQQk04QQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T16:44:40Z",
+  "metodo": "reglas",
+  "clave_lugar": "jose lopez portillo",
+  "id": "2026-11-01_avenida-jose-lopez-portillo-cancun",
+  "lat": 21.109123,
+  "lon": -86.957296,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-10-30",
   "h": "",
   "ts": "2026-10-30T12:00:00-06:00",
@@ -2168,26 +2191,6 @@
   "t": "Muere mototaxista impactado por alcance; el conductor huye",
   "ts": "2026-09-27T11:23:00-06:00",
   "id": "2026-09-27_merida-chetumal-tramo-tepich-carrillo-petectunic",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-27",
-  "h": "03:27",
-  "lat": 21.0129,
-  "lon": -89.6062,
-  "p": "Av. Líbano, col. México Norte",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/videos/2013554385972927/"
-   }
-  ],
-  "t": "Fuerte choque; la camioneta la conducía un menor de edad",
-  "ts": "2026-09-27T03:27:00-06:00",
-  "id": "2026-09-27_av-libano-col-mexico-norte",
   "estado": "Yucatán"
  }
 ]
