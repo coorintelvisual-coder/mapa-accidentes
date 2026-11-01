@@ -74,6 +74,25 @@
  {
   "d": "2026-10-31",
   "h": "",
+  "ts": "2026-10-31T12:00:00-06:00",
+  "t": "Choque entre dos camionetas en Ciudad del Carmen provoca tráfico en la colonia Holkan",
+  "p": "Colonia Holkan, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSXNaQ0xqc0RVMVEySjZTZGZvQ1ptbXh1Wnk0NlpQNzE4eUVmdmNQM0tweU5DTktZNTNfMHJEbG9KM0FaRHZGMTJNaXZyUklsWU9WUjltT0FLNUEycDBlZ09nQ1gzLUVGdS1jcF9IWTlXYlJYX1g1S3c4S00tWThqY2ozaEtLWEZvU2xWQl9odXA0UHBQU2l5bHVkcGpudV96aF8xTGVCNWJYNGRFWFBfYVlGTXZlazNYNnJTM20xU2Y3RDFLVmZ2etIByAFBVV95cUxQSXNaQ0xqc0RVMVEySjZTZGZvQ1ptbXh1Wnk0NlpQNzE4eUVmdmNQM0tweU5DTktZNTNfMHJEbG9KM0FaRHZGMTJNaXZyUklsWU9WUjltT0FLNUEycDBlZ09nQ1gzLUVGdS1jcF9IWTlXYlJYX1g1S3c4S00tWThqY2ozaEtLWEZvU2xWQl9odXA0UHBQU2l5bHVkcGpudV96aF8xTGVCNWJYNGRFWFBfYVlGTXZlazNYNnJTM20xU2Y3RDFLVmZ2eg?oc=5"
+   }
+  ],
+  "creado": "2026-11-01T09:08:00Z",
+  "metodo": "reglas",
+  "clave_lugar": "holkan",
+  "id": "2026-10-31_colonia-holkan-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-10-31",
+  "h": "",
   "ts": "2026-10-31T12:00:00-05:00",
   "t": "Muere \"Mincho\", delfín que sufrió un accidente en un espectáculo de Cancún; Profepa ordena una necropsia",
   "p": "Cancún",
@@ -95,6 +114,10 @@
    {
     "n": "La Jornada",
     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWUdfYWRRX0dlbzROYkVmR2VwQUdqR19TcWh0dzBtUHN0N0RqUjNPOF9QYkQtZjNYS2xJZjIzbmNxeTlKSkdCUVpKSVhZdnpqM0JiWldvSVBDZ2RJdFE5bTlsSF9lNWJTc3N6MTRzck5XSXVTYmJkTE41LVQ5Y3Q0emRGeWhlU3V4cDQ4NDlqQ2liOWRTWDdOZXR4QmZIbXpSQk1aU0d1RUxJbWdpTnBZaE55aU5pZjBUWjRnOHdMSHFUSkRtalJ5V0JZeHNFYVk?oc=5"
+   },
+   {
+    "n": "Periódico Zócalo",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUZzTTZGa2tuNTBoTHJKendmcTBTeTh2TG1jNG1TZUEtSlF1RG5DQzhNaGQ2LV9TMDBKRUVtU1lRMEw2dEVKNHAzXzNJRG01akZpUzN0ZmlRZzBGdUF5eUZ3NG9mUEZEWVBiX19ndzZCbFEwaWJrMl9qZHc2c2VrelhsSTBkRUlFUFR4QkE3eDRYcHpzR2hTWnZLYXVuVUp4?oc=5"
    }
   ],
   "creado": "2026-10-31T18:27:04Z",
@@ -245,6 +268,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObWx1WV9lckRsaDZqMTVRMDF1bk1uTXR1M1MyQ3dkbWhSWmdWaHFRMDJlUDZOM2tEcm5YMjByZjBJRldwYzRTQ2NUb2dJTndFN1RUMldHUnJBeENEM2dHdHhaZXd2NS1CbUVCNWpiR19selJQWXdOb1A4X1JNYzNISzVjV1RhSHRzcHNmN2J4T0V0WmZ3aWNkdTR5WEJQT0ZhMzFWNU5vRm1iVnJYczNjb0UtYjc2SmgxRFE4U0l0LUd3dFh1RFdGTzdVONIB0AFBVV95cUxQQ2NwLUx2NjFsMXhaUzd3Qm5XZ1BkdTllT1UzVHdhMW1jZHozazR2WW03MXhnZFZtZl91M2RvOWpRMUg0ODh0V3VUT0tJY1JUT240RlA0cUtVa19YT0FZcHVBaXpMMC1NaFFhem9JaXlfdEd4cExOQUdSUHJGQUVySkdTQ1dLQnNfcHdvXzNJamF2YUZhM0RSamctR1Q5dkM2cGl5T2VheVZSZXBCZlY1UGxXdkZ0ejBlT1lWVkFLSTk0ckc1ejZKVk1FeWx2RmFn?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcFBYZXNJdk42NFdadi1TNmdlTEM5eVRKWS0wV2xqb2U4aEJQWUJDWDJIWFlYTkFUVWVpSzZBWnd6M05XM3ZMVThadnhTd3ZEWUIxaklGYXNabmhLRlZVeFgyNzB5Xzd0ZTZjWDliODBaMTNNeE9JLXFNVkFxUXB2SWRn0gGKAUFVX3lxTE5jLUZQMUtmN3VVcTA5ekZnei1JSXlkVkNiektkSTNKaUhCLWt3TVBoSjdETVhZVkY4OXNKU0dXOEk0VHVVakh0N3NJN0picE5EU3lYRkpTNmk2T29SZEdwQjMtTlJIRWpKbW8yNXZZWjlkRmVaVDFNaFo2UlU5UGdDVXJLckEzU2hIUQ?oc=5"
    }
   ],
   "creado": "2026-11-01T02:06:03Z",
@@ -9808,22 +9835,6 @@
   "t": "Conductor se pasa el alto y manda a un motociclista al hospital",
   "ts": "2026-09-30T10:29:00-06:00",
   "id": "2026-09-30_sin-ubicacion-en-la-publicacion",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-27",
-  "h": "02:39",
-  "p": "Periférico, km 30",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/videos/1634507928162206/"
-   }
-  ],
-  "t": "Conductora en presunto estado de ebriedad choca en un retén",
-  "ts": "2026-09-27T02:39:00-06:00",
-  "id": "2026-09-27_periferico-km-30",
   "estado": "Yucatán"
  }
 ]
