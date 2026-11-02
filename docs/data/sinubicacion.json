@@ -1,5 +1,100 @@
 [
  {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Accidente en carretera 307: muere mujer en moto frente a Akumal",
+  "p": "Carretera 307",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlFhcFpLUFY0Z215YlpYTlNrV2VEUkpaOXZlZmdlYno1YV9ieVl3Q005WW9OR2xsSGFfYTRaRXVndW16ekdlSzRvcHFVb1lLNGVINFp1eWVHSjA5U1dSZTFrTm9iVWZFbEF6OS1XVldpZElrb0JlQXQ0cUkwbkNCZll1RDJ0UHRFUUZ6anVwdTFtNzRCeUxMSWpFYzhGZm1TeW9RY01uSVh6Y0Zq?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-11-02_carretera-307"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Incendio consume por completo un taxi en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoT3V6eTBwM1BTUDhPTXZwRnFYTVoyQ0t5czVfU3lyNVk4Q3lVajNWSEZFN3JEbVVRbmNabVM4ZlpMRWxtYnpoMi1LSVhLNS1LLVd6cTNQTUI1UV9GQTc2dVI4ZVFRbHZiOUJiSWRITWpwNE9D?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk5UYzhQMUdkV3RxQnBLZl92NWM4SFZhamRzcE1vajdBcUJtSk1xSjRiaU0tV3ZKZEtISy1hV1dGdDZLbmVFZlI2Y3AxdjRNYlBSWWd0ZzcwTnZhQkhnOURDd2RicnpzY1M3RzhPSmxaREt0bDg1bXNWQl8xTGVsOElGWUphRWZCX0ljQzZXRnpQcm81aDBfdXlRcVUyRVJxZjROQ3hXdHNYc0dMNlZGbGRjSXZHNFNycUxiZDFwWmhDWmR6cDZqdzN1UFFGUVpGV1d2YzEyX1d6d9IB2gFBVV95cUxQTk5UYzhQMUdkV3RxQnBLZl92NWM4SFZhamRzcE1vajdBcUJtSk1xSjRiaU0tV3ZKZEtISy1hV1dGdDZLbmVFZlI2Y3AxdjRNYlBSWWd0ZzcwTnZhQkhnOURDd2RicnpzY1M3RzhPSmxaREt0bDg1bXNWQl8xTGVsOElGWUphRWZCX0ljQzZXRnpQcm81aDBfdXlRcVUyRVJxZjROQ3hXdHNYc0dMNlZGbGRjSXZHNFNycUxiZDFwWmhDWmR6cDZqdzN1UFFGUVpGV1d2YzEyX1d6dw?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Dos personas quedan graves tras choque de auto contra camión cerca de Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdTFZb3o0MjlPRWIyODZxbUc2YjYwUGJvVUZwc2M2amRTRmpxcW9VTVFHSkd3LUN2SHQ1NDNDSEU4Z3N1dGR2T2pleFVUcHltMDdxTllLRkRLd3ZZTjBEd2xKdUs2V290YXZ5dmE2MC04MkFiTnFmQXRwRExvblM2OFZoLVYwWEItZlZfYWIycjh0WEtjZXdCS0ZKM0h5cEVtN0dVamlOOThjeVlrZnBmdg?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_tulum"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Choque entre automóvil y camioneta provoca daños materiales en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnU0Vk1QVFhuVTdMaVlRUlNCY1pWNTdCTEMxZ3QzektUT2l5UWc4WVJucldRaW54WS03SG5NNWFnUFYzTm9Talp4QlFPQ3J3dXd2ekVZVFQ0VmRIVGdOeFpHUUxMUEEyNUxDRF8xY1Jfek9TQXNudlo4emthd1hmMFNWdHBuaXR1Z2haa2plQlo3NG42S2I0TE45cjd6bUxGeWdsbUhpd214SDg?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_chetumal"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Motociclista resulta lesionado por cables sueltos en una avenida de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "www.salrevista.com",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEtYMWtFcXJEYXlGLXFaMmNsdTVYNkpZOEhsS01WZVo1UWhrTVlEbWlBbkpoY2hJbzVUU3g2YS1HY3NuWUxCSWNmd3BHM290TnZoRDZCVk1nSUp6UnFUc1FSWnlGVk1iY1VRZnVxMlZybEVDMHRlWE94Zkl5Q2RyZVBWampQNzRnOVpoeFNWWEFzWnRkaWFORE1ackF6Q05yUEhUcms5QmN1XzRkMkl0eHFR?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_chetumal-2"
+ },
+ {
   "d": "2026-11-01",
   "h": "",
   "ts": "2026-11-01T12:00:00-06:00",
@@ -219,6 +314,24 @@
   "creado": "2026-11-02T07:35:08Z",
   "metodo": "reglas",
   "id": "2026-11-01_campeche"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Ayuntamiento de Mérida aclara retiro de árbol de huaya en Santa Lucía por riesgo de caída",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1c4SjV6bHRXaXU1TEE1QWxsNlp2cm41Y3dqZ3RCTURpU29MdFhnRFBidm41Skl6Uklaa2xYUmcyRVVVejY1SEk5TW45Y1JqRlBZWEhhb2NsckR6QndWTGhYZmwtYnhMendPNG9GRGx3a1d4aVJqMEdlbWxaODZ2VVRZMndNMHJ2dnluR05qbWx3Sk5JaURMRXJPQnhyOVVQaVl0ekhBU1p1SzQ5VTZvRkRvMkE2eTVZQ1pmd3pXeGZHZ9IBxwFBVV95cUxQT3ZSMmhjempzbHR1d1B3M2t4RnAzSTRoUkZNQUtnR1ZjdVZTZzU4OTZLTDlSa0d6STJMY2dZQmduZ1Z2WHVuSm1ZaTFEallNM2dqRXgwVzl4REdqOFpUOVRBMW92b0otZm1LTW41cFdINXQ3TU1YX1d1S1FIczJpOHpXS24wN0V5UmUtMmxWZ2NOY1Q2QkxuWm42REdlazJ5bmxCWWR6RGpQeEFzZGNBRHRVeVdrWXFIOGFKQmNsNm4zSERHdDc4?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_merida-3"
  },
  {
   "d": "2026-11-01",

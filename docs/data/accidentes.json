@@ -2,6 +2,29 @@
  {
   "d": "2026-11-02",
   "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Motociclista Queda Inconsciente Tras Fuerte Choque en la Colonia San Juan de Valladolid",
+  "p": "Colonia San Juan, Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZl85VERaZkdpQUpQSDFFU0l6Y2RiSkowU2l6VzhOTG9EbkJOOGthYW1DSW5JZ1ROUUVHUlFkVFBUN0NRSWlWZG1FdHpvR2JacThsaURiSGRxOFlsWmtLbnRVeUNBUWRSZUhJX3lOUHdyNHo1dV9iMjFPQy1IV015RTZtdU1FWnVqdXE2bldaM2xmYjQwV1ZpbjJHR2pfQXZ5R1RDQ1hzVGxIYm9fUWk4ZTVEbV8?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T18:11:58Z",
+  "metodo": "reglas",
+  "clave_lugar": "san juan",
+  "id": "2026-11-02_colonia-san-juan-valladolid",
+  "lat": 20.685195,
+  "lon": -88.199777,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
   "ts": "2026-11-02T12:00:00-05:00",
   "t": "Rescatan a hombre que cayó en un cenote urbano de la Supermanzana 100 de Cancún",
   "p": "Supermanzana 100, Cancún",
@@ -15,6 +38,14 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xajdmd0RKS3hXVHZFUVJRYWdNUWhvcnBrZGN2WDBzYnFRRTY3U2ZGcGh6YXVxMUZtUFZBcmNGT3V4STlwcGNEanBURXdvM25EVXlnUy1NbjVOT2Nid3BaNVVWclBmam9CeVVQNUdHQjI5a0JwZW9rY3UtbWRkYlk?oc=5"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWU9BUGNBLUtRVEkzZ3FEenlzODQ5WTAxNXVXeWEtUXFQeUVfQzQ0YVlTXzNOOTNvaVkySEwwUGtkdWhsRVJaX1FqR0RyM2ZQcUpPdFplQXNicUxlRU5BR0hrd1BCczZURUozV2ZVLTN5ZUlHMXk5UWs2Z2lvVUd0WkpvM04wRGNqb1k0XzZ3X1Q5YmZ1elhPMnR4THczZw?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM3lycGlJNDB2cmJiMFhKZW5kR3VUX1RpQkJYSmNLbmlaYWJjTzBmXzAzeHVMWEZzNERwR1ZXR2d4UktIdGhZV3U3aFM2Y2s5ZzZMWWVvTHMyNUNMaGFiT2gxZjZRNEFLNG95ZmtHaklhRlctaGVBMURMV1ZNNkVkcmVxTV9uemFFbU5CMi1BS01OWVJxaktvdDVKTzNsam1laXF3Tm9IM001a3Q4WEFzWk8xV2stNkxSNTFFc0pIOFNGdw?oc=5"
    }
   ],
   "creado": "2026-11-02T07:35:08Z",
@@ -2172,26 +2203,6 @@
   "t": "Camioneta repartidora de gas pierde el control y cae a la hondonada",
   "ts": "2026-09-28T18:26:00-06:00",
   "id": "2026-09-28_av-149-x-calle-2-los-heroes",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-01T21:20:00Z",
-  "d": "2026-09-28",
-  "h": "",
-  "lat": 20.9918,
-  "lon": -89.6108,
-  "p": "Frente a un centro comercial, Itzimná",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/caos-vial-en-la-colonia-itzimna-por-choque-entre-dos-vehiculos-hay-heridos/"
-   }
-  ],
-  "t": "Camioneta impacta a un auto frente a un centro comercial en Itzimná",
-  "ts": "2026-09-28T12:00:00-06:00",
-  "id": "2026-09-28_itzimna-frente-a-centro-comercial",
   "estado": "Yucatán"
  }
 ]
