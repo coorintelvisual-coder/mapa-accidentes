@@ -11,6 +11,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzFON2dCaTdvNVNEU0VqSlA3TFRhNTF1LUViVFdsMkotSGhvSEh0VFFscnBvWVJuRFBLaTRCc1NPOUo0TDNyUF91eFltRk14NEZOTTk1ZWNocEJzcHZ2UjZNeFhtd2pESmM3ZlNnd25CYkpITUdDcFU1dnF0enB4Y0lSWEhnTHA4N1p2T0NNU0FpSkdoQlZsWmZXOHFlVmo0NHFkMWF0YjkyV2hyRlUzem9NcVRjdkk1U3hJ0gHAAUFVX3lxTFB3ODFqMXBFaDdUUFhYRTVzV2NQNmRJQmVRNXRwbmlXT25odnB6ajdxejBsT0F3OVhKUjdZaWctYnRFdlozZFVGd2ZqdzM5bXplNElsMFlWUkU5aWZzT3NZbElzM1Z2UVFWeFZrejNMWVd3RnNpMUxPS08yYUgtSjJyX0k0SDhrV1pldGRVUHJyX0tKZUpPaFpjTzY1Q0JQTDFyRDExbXVMeWIzYkNXUllhZXZTYlVGa0Y2bDJfc0piQQ?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2p0LWhFRkdXWjlabTB2NHVadGFHRFZUdC1aM3U1RjJJQUhYVmJYZ0RvNzFwUWYyUkVPaVFCVFQ4NzJ0bnE2dTFCckI2RXZLZHpRNEFiaVpnWnIxRVNYcFZFQ0ptQkVtZV9IN2hpdmJRY2haaHZxRl82cDVFVWpxNGJ4YUJlOGZvNjIwQXNTMzVDTTFlY3VYQzhwOFFtb213RzVqU1pxck95OVU?oc=5"
    }
   ],
   "creado": "2026-11-01T21:05:17Z",
@@ -92,6 +96,60 @@
  {
   "d": "2026-11-01",
   "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "¡El Verdadero Terror se Vivió Sobre Ruedas!: Rodada Termina en Choque, Daños y Fuga En Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGc2ZGJQSkQ1SUJhRzRPSGZ4dzU1bnZMZmRQa01qVktOdlVwc0VUaEFmTldtOEljeXlGZ05PNkx2bFJlcTlvRW96bjlVRkRoRWEwSUhrNG8xNmt3NmE4VTlnSnRDXzdwb0puVmZyNjdEQjVqaXMzZnZNMlo1LXRNUDJCdTFVaGVVZWpydGhBb05XQnR0cjVxS0pleWhfWHF0QzN0cjhtZGJGRVFwZ21hMkJ6ZENvd1Yt?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_tizimin"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Movilización de Bomberos Por Fuga de Gas en la Zona Centro de Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWWpxbmpCM2tJZG0wVFNKZG1WSUI0WERKNGZpX0N5dXBMVDhTVlRXd0pGTVN4UVp4SzFrYmlFTkRYV2UwUEJtamdtYUJzMkh0TkFKOGlKdzFCRjNzY19NcmtSRkU4eDZKdDFXazF4djVXbXM5b01EY3k0V2pYdV9HZFhEZFBRSU9sRGtPUHJNWk9OT0JUTnpsMUpjaXQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_tizimin-2"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Menores resultan graves tras accidente en Halloween",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUFMVnhSWkIyLXF5amxkLW9jNjVfWlZvSmhGLW1VSExMUzZuVVhMb2RrSV9SVEt1cW02TC1NU1lkSFlmUFp4UzZzWTRTOTRmaUdUWmZvbHA4YV9OeXIyNVNhRl8ySldlcGdHMm9kN1J1R2hvcDhqQ1dpZC15YkZYQldwUmZQYmpHeXJfZk5UY2VWZXRkWDFLMnYzc1lpY2VoZGVlSTBIUDU2QjFEQUFfM19yVHA5YmNKSVJndQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_menores-resultan-graves-tras-accidente-en-hallow"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
   "ts": "2026-11-01T12:00:00-05:00",
   "t": "Choque entre auto y camioneta deja daños materiales en cruce de Insurgentes y Héroes en Chetumal",
   "p": "Chetumal",
@@ -131,6 +189,10 @@
    {
     "n": "PostaMx",
     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkZRWmtLUXJ2S3lFZGI3TG5OaUlxanJwUTJQUTJGLXZORHZjay1MeldWZnZOT1ZVSkE0SkxfeDJjNks2Z3BvZjVqbmhPNXIycG9BTXpqYTI1Sl9aTlVvV19oc3VWZDduMHJITVV4NVlFeWY0T3lMRm5IanZxdjdubnlVZHpEekRlbTVLWjRKVXZhSDQ5ME4tSTJmYW4yM0xfVzMwRm5UVHM3Ym5LazBQYzZoOW01bzRUQWswMXRn0gG-AUFVX3lxTFBmRlFaa0tRcnZLeUVkYjdMbk5pSXFqcnBRMlBRMkYtdk5EdmNrLUx6V1Zmdk5PVlVKQTRKTF94MmM2SzZncG9mNWpuaE81cjJwb0FNemphMjVKX1pOVW9XX2hzdVZkN24wckhNVXg1WUV5ZjRPeUxGbkhqdnF2N25ueVVkekR6RGVtNUtaNEpVdmFINDkwTi1JMmZhbjIzTF9XMzBGblRUczdibktrMFBjNmg5bTVvNFRBazAxdGc?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0NvNkJjZ043QTQxSmpWcmlBbUZYV1U1dmVleUNLakdhdWpJX2g3VUhXY3FwakZFQlQ4SU1xelFtVmtQZkpDWVpUb3ZaaFRlbzRfVkFWbEpGZHYzVzg3WEJXbWZvcnhaMzZ6bHlYSlZZSGJVX3B6NG52UUdMRHFNN1BwZldlVXlFRVU3RFdGemFjajhqc0tTcUhrekRfV0pTSWdFR3BTRUN4MkJEaWxWenlXVzBOR0wyTkJZWlZuQWhpQWxBSVBFUk1Ic9IBrANBVV95cUxPMGswcGJFS0lxVlhoMUstMmRNWVBxdC1OTExQMmtDSy16dFBSMHEyWjZIYVFqdEhNb1ZDWWd4U0YxcGpESHFZLWJ2dnhBV1RZbDRsYjFGZmRiTWphTFQycFpzTG5PTzBxc1BSNUlrUTdreTlUa2RrU0tfNjlQWmNTbWwwbFB5UU1fMnRmRzZkTzVWYnpSQXRVUnpmTDBUVXBkQ04wcjV2ZHRMWVZmaVJTM3UxVFZ5UUtyeXBxZFZiTEtqam1ic3RGY1BrZFVKdktLenJGN0JycDhjY1E5Q0piX1VMeURndFF5b04xSWFPZ050VmI3NG9jLXBMdnAxZ3ZjR2E1am4wck1wQWowTmdWYzY3Vm5KUVg5Ykx3UmZMenk2WDVQWEJlV3I2MXh3ZmFzWnI2RjdLVmlMdmNfU29RY2FLc3dfS3oxY1NIT214QVU3ZmY2cmFtckZiVGppRXZpSjY0eVl2TUZHM1pERU9pSE9hY0JaMDFvYlVXM3l3SGItdmNaS2pmR2Y2OERsM0lZX0dXVXdJaEZmYUpCdENHYXF1dFN0TVVJcTJVSA?oc=5"
    }
   ],
   "creado": "2026-11-01T21:05:17Z",
@@ -149,6 +211,10 @@
    {
     "n": "Ahora Tabasco Noticias",
     "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWUlZWXZSbTRtNmtzNzNGdFFvbUxhNTZEeV82Uk9iV3NNRk5SQmtIanMyc3BLTVVoTEpabFZQaF9WU3Z6Tkg3cEdaaE1YU2ROV2dwc2NGRnQ0N0tLcjg2Ri03ajBnY3otSkF0UTZ2dk02c0p0SWMwSnlrRjI2WFp0MHlPN1J3X3N3ZjFLeDVKQQ?oc=5"
+   },
+   {
+    "n": "Zócalo - Monclova",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjI0U0wyRUhYdlFCUWdtTUxGdXhlNHBJSnNwdlRYdVhSRTZXdXhPYW1jUDA3akpVZXdXU0dzRnBaMUJqOUVhS2lwRHl6N0FVRTVvOFdGdFJjQ2Y3Sk9rNHlHSUF3SXl2UjUxeV9kRENWb1BYWFMzVjB5a2hkTmdXN2oxcklXUQ?oc=5"
    }
   ],
   "creado": "2026-11-01T21:05:17Z",
@@ -172,6 +238,64 @@
   "creado": "2026-11-01T21:05:17Z",
   "metodo": "reglas",
   "id": "2026-11-01_chetumal-2"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Automovilista se vuela el alto y arrolla a una motociclista que termina malherida en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3NaYkhVLTM3N2hodEhXRU01d1FKdjE5MlRnajJBRlBvMmFvbVFnbFNDdTdZc09ZY3N3TmRSNDJGUGVVX3N0TjFUckt4ODR5YktfNVNrcm84YU5qVmU3UTFVVmdXVjZIWk5xbzY4bWZfTjI1Yk9hajZsUGZVcmlaWDliY2Fzb3E2cFJzTmNsWVFjZDRhVkhjaDVWbHNNbUpoVTN6dTN2bWRnV2N2UUg1U2R6dS0zZ19ETDZvRlJfRURhMklPUHRFYXctRnB1Z1duYXfSAdcBQVVfeXFMTXNKdUtnSU9CUEhSbnc4SnpkdThZWjdTSUNLN2lsWk50cHBpNkg4ZkNiSkJOeVV2bzBhZllRdDNMbU9URUZSUFRoS0JxcnFFcVVrejBlb2x2NDZmYWZ5VlNOMnBoUDhTZG9QSlNmc0pxT2RCRTFWVklFSFdoYUN6d2lnZVJBMm5od1VxSjdDbURVVi15cmMyYjQtQXdiUldHcDc2LTd6NTR5WFdQWW1tQXNtNlpzQmhaYTVBTGtMOTU5UE5ERll1WUpka0p6VGlRMmZ2eTVJd0k?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYnYxdWxqRllmeWJUU2JTQTZ5cDd6RUFQZEZyQm5VNmhYd3RsdUVlVElfeGZWUFRKYm84enEyU0F0emdFWGRsUjhtTlRKVmItVXRaQWVtUDFVZGpEdUxyVEdSWTdDaElobnZPSU1jZVdESnRRdzBUT3MyTHRJbVdyRXlPQzlCdUplY013bnM5dnNCS0xNWmtPeXlUMDROU2MyNDg3d0J5dlFhVnZFVFcydk80Vnk2Y3dWMEx5RkhROUdKcDRTYU9rMHNuUnkzOGxKVzJaQmZzNFY?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Motociclista estuvo a punto de ser degollado por cables que quedaron colgados en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeWZpSXdBVFNxWVRWdElmMFo0Z3VXdDBMcGMxVUhBMmxMSGQzU1NwRVBHblVEWjlWOWMwZHBRSndpR0pHUTViS1RoOC1WT3NPc1J4bG5hQllZdXJBSTZwQzRZRzFrcFRYT2s5eGhWVm9QZ2VmZV84TF9zTDd4aW5jTFZOQnlsMnIxQl90Zg?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_chetumal-3"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Ciclista cae en Chetumal tras quedar atrapada su rueda en una rejilla de drenaje",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN2Zmd3pBMUh6bHQ0WVFERHg1RDVzTFNySHU0LUVBOWVMMmR2TTlJc2ExcFpNN25fX05vOThBbk4wZWd0YU9rWDVmUmxVNktjQ0oyMmZKQTdNYmRzMXNjdjJJZGVBSnlNTWE1RjFrVjhYZ0taN2k1aHhmZjZLanUweU40cDVacGQxSUF4TEw2aEdqYTdYWGRsQXZKYXNNLUZoOHl6TTNWcFkxejRaSUMwTWZQMUgwdzJKYWdIMmY0bjhUdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T00:37:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_chetumal-4"
  },
  {
   "d": "2026-10-31",
