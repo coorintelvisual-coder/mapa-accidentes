@@ -1,5 +1,32 @@
 [
  {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Rescatan a hombre que cayó en un cenote urbano de la Supermanzana 100 de Cancún",
+  "p": "Supermanzana 100, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzVrMlVkNnpLd3ZuLUJlSXhMelFSRmg2QVR6VS1SUWlyalE3NWV5WVkwME5rVHBSekJoZ2s2RnRteXlaRXlITWVjUHJpS0F6ellhSWUxcWQ3MG4ySU9ERXFIelA4emM2ZlRSNTJaZFNSZTBCVFRnN09BVFhSenZYRGplZnN3SGFLVElPamdTNVpURUFHbXNQMnl5cWpEUE9UWC1XNGJ4NUJET216czlpa0hWMNIBuAFBVV95cUxPWHpnVTdMSGlJNWFPTDBxVHAzcGF2d0JvWFFITkdhdllDd3A5QUtWZE1zbFUzTzBTaE84M0RQQUxDemhrM1ZsUGZabVZzd200TDNackNtVG80NkdBaWx1aFFSOEtrNUpHSkJQOWdVVXRtSlJLd2FNNE4zSWt0a1QyXzlndEw5S1NsdGU5Yk1ZMjFiTkR6dFo4cDdFUzA2a1h0N0tUbGJHZC1jd3UwZ2xyTGVnODVzdmNH?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xajdmd0RKS3hXVHZFUVJRYWdNUWhvcnBrZGN2WDBzYnFRRTY3U2ZGcGh6YXVxMUZtUFZBcmNGT3V4STlwcGNEanBURXdvM25EVXlnUy1NbjVOT2Nid3BaNVVWclBmam9CeVVQNUdHQjI5a0JwZW9rY3UtbWRkYlk?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 100",
+  "id": "2026-11-02_supermanzana-100-cancun",
+  "lat": 21.157214,
+  "lon": -86.871801,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-01",
   "h": "",
   "ts": "2026-11-01T12:00:00-06:00",

@@ -150,6 +150,79 @@
  {
   "d": "2026-11-01",
   "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Accidentes de tránsito dejan más de 14 mil lesionados en la península de Yucatán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTd5TnBBTGJLNHRUOXhubXROWGktZ2FhUTNXMGluRnE5SjI5UGJqMUpURFA5NDJvYzE0MlpXalY5RmZFM0tOa05pMlZPZ002bTd4b21vZnR6MGpWWGxVc25zQk5NYU55RGVmb0pNZ0xVdDhoVGJYb0pDU1VidmVWbGs2VzVXUXN4S1Y5c2Vad0IzUHNqSnNhLThBdmNIbmhqVDZ1Zi1QaHJUV3ZtZVVMZW5LS2ZMcjFCMlN3MUljRExuYW9yT01yS3J3?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_accidentes-de-transito-dejan-mas-de-14-mil-lesio"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Camión de transporte publico choca contra autos estacionados",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnFZNTdzTk41UkhESnREVG9ObVVJMGYxd0tEbHFERFV1ZzhsMG1oTjZvbVVrLWxvSnR4TTh2bV90WTRuNGtEMDdLVi1fbDhjWktRcXU4V0lEb3p3WEVpLW9FN1VZNnVERy1vbEF4SG9oUUZwVnF5RHNDNDgzZDRqaktjTEZ5ZnZHME0wTDF4dlItbEpZNlFTMEpoWEtScTRIVlhHaTRtWFpkSWZEUzlueXd3YUw3MXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_camion-de-transporte-publico-choca-contra-autos"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Avión privado explota en carretera de Florida",
+  "p": "Carretera de Florida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSXk4SzRMNDZwR2dpdXNwSzh3VW9OWm9mcVhFVW5SVHNORm12ZElxQXY2RnNfT3U5VERmNU5abzBob2dfUXY4a2RKN1BKb0x2anRqRUhtRm1TMlMwcFBPR2Z4SzZNQTZXakFQRHlkU1BlLVNXUGRZRmdRcnIyTUVzM29mMVNmT1JNNzkzaFZrd0Eyc3FrMnpCZEExeS1rTXZ5dTVCelNCX0F2ZEtMVXN0RHZ0enZZSFFMUWZOaUktUGl6MWlnU00tNjJpVWQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "florida",
+  "id": "2026-11-01_carretera-de-florida"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-06:00",
+  "t": "Campeche registra caída económica de 2.4% y queda entre los últimos lugares nacionales",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTVh3N0tETWlaRUx4TXNKb055cWF5OFdFdGhMdEpRaUY4SUp0aW9STGpMZGV3RlBfVFJOYzNwcTlPMW95VTloak1iOWpZUFQxcmxpRTZzSWZobGI3Wi1ZSXlhbUZscFhiZVFOdHF1M1V6YlRDNmJONThrRGhSTllZTkM4eVg3MmFJYUxOSUpQdXJ5a21aWjJaVXZBdEp0YTJka3RkbHE0TUZiZ9IBrwFBVV95cUxPNTJGeFE1bTlZZ1hqUzFidDE1Qlh5R0x5bDExTTM4NlFLWUlVYVg4UngyOWNtVTJnSWc0bXljN3h2MENzbG5iX3VsQ1BRd0YzZHZ4bEJQMVgwWUVCWkdEaFZGY1VzN0xJb2FjQUtfc1dTSF9xTEl2ZnpVRjkwVklEX0lCc09VYzhuQjlUTHRSTkI0cmxVOFFzUENHSGVJZTB6alhMOHFfbjREck1FRU1B?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_campeche"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
   "ts": "2026-11-01T12:00:00-05:00",
   "t": "Choque entre auto y camioneta deja daños materiales en cruce de Insurgentes y Héroes en Chetumal",
   "p": "Chetumal",
@@ -215,6 +288,10 @@
    {
     "n": "Zócalo - Monclova",
     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRjI0U0wyRUhYdlFCUWdtTUxGdXhlNHBJSnNwdlRYdVhSRTZXdXhPYW1jUDA3akpVZXdXU0dzRnBaMUJqOUVhS2lwRHl6N0FVRTVvOFdGdFJjQ2Y3Sk9rNHlHSUF3SXl2UjUxeV9kRENWb1BYWFMzVjB5a2hkTmdXN2oxcklXUQ?oc=5"
+   },
+   {
+    "n": "Super Channel 12",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDBKZDF1a1hvMF9rZ0NWX1dackwxM2ZFMnM3MGxCMlBLSF9pMlhyUU40X1RjWWc4UTlvY3NNNWJTQWx1aDdSUWtMTVp2Rktjb2NzMFg4NXlXYld2Vk5QdDRSWFNwd1ZKdlJRcWxneEVwb2wxWkZEeE83ZDJYM1p4M2o5ZlZYbEtoMDg1RVhsTDBpdnlObk9BcS02ZVNDMUtzLXVJQXZPTTRKdFNWaWN1aEkyTi1aQQ?oc=5"
    }
   ],
   "creado": "2026-11-01T21:05:17Z",
@@ -296,6 +373,51 @@
   "creado": "2026-11-02T00:37:05Z",
   "metodo": "reglas",
   "id": "2026-11-01_chetumal-4"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Fatal accidente en la carretera federal Playa del Carmen-Tulum; ciclista pierde la vida tras ser arrollado por",
+  "p": "Carretera federal Playa del Carmen-Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYUVnM0RqNkdZMVdHOVEtQUgxVjdEempnSFY2T2JnWWhiaWJIUWlTS19ZZFNkNlhJR2xMV1R3Q3ZvR0ZQaVI1aEJyMjRJYmFBNXpyeFhwMlNUel9QbXliUDZkYXlqQXd0WEt2LWw1VHhib0lMYkVVemx4ckE2U1NKLTBRQk5RVkdfLWcwM29pT3hSazBaWGczSTVJdmh4OGJFLVJRNzRBZmw5SlhYdFhEc2p0eTlQZnBGR0JmM01mTmlxSlVrLUNvX0Q0LUIxYmk0Q0oyLVZiT3V6dUk5dU5KdWZIdFl4NFHSAecBQVVfeXFMUGFFZzNEajZHWTFXRzlRLUFIMVY3RHpqZ0hWNk9iZ1loYmliSFFpU0tfWWRTZDZYSUdsTFdUd0N2b0dGUGlSNWhCcjI0SWJhQTV6cnhYcDJTVHpfUG15YlA2ZGF5akF3dFhLdi1sNVR4Ym9JTGJFVXpseHJBNlNTSi0wUUJOUVZHXy1nMDNvaU94UmswWlhnM0k1SXZoeDhiRS1SUTc0QWZsOUpYWHRYRHNqdHk5UGZwRkdCZjNNZk5pcUpVay1Db19ENC1CMWJpNENKMi1WYk91enVJOXVOSnVmSHRZeDRR?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0SFp0eGlCTDV0UFpKMl9SYkRsMGFmY1htZk1OeFN3RnRwRHdQU2t0VTdrZ08wMDUzVjl3akZEVWVfa3FBdDBqWFRlakhiRnkwVlJkd2RrTEdMaHBfMHZzMHljZWdjNjBlcmMyNXFQLS1lZ3cyd0I5dXhIY1h3QQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal playa carmen tulum",
+  "id": "2026-11-01_carretera-federal-playa-del-carmen-tulum"
+ },
+ {
+  "d": "2026-11-01",
+  "h": "",
+  "ts": "2026-11-01T12:00:00-05:00",
+  "t": "Motociclista sufre fractura expuesta en Villas del Sol",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUUNtN2RFc1ptLXc2TTJhQ1lKajYyU2VjeHJ4enktRld1MlZKOUhzaTFkOFI4TW5MMjdlVWVvSzAtWWpfdlJ5dkhfcGt3RWFZZEhwNDdheERLTW9kbFBhcTIxRjRWVG5Tc1FyblBfYmQwS1liQ3gxWXhNZ3VMOFdSZkRhVXhWWExxSGVKbXBCa3jSAZABQVVfeXFMTlFDbTdkRXNabS13Nk0yYUNZSmo2MlNlY3hyeHp5LUZXdTJWSjlIc2kxZDhSOE1uTDI3ZVVlb0swLVlqX3ZSeXZIX3Brd0VhWWRIcDQ3YXhES01vZGxQYXEyMUY0VlRuU3NRcm5QX2JkMEtZYkN4MVl4TWd1TDhXUmZEYVV4VlhMcUhlSm1wQmt4?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWowLUlVdy1nRmtnVmVEVkxleWgxZEcwR0NsU1ZYckZxQjIta1l3OS1OQ3RFREo1cnhnUUJuSWM5OTZjOFRqTXV1OFFPYWR0QWQ1ZExJYWFkSVEzaWVZR3poVFZ4M2JLV2NBZG9fSUJQczQyOG5MU2N5U19mQUhMVmNWOC1hVHltRC1OWnZSQ1FLZ1paS3ZmNWNna05Zc1MzbE4zdnJqUEl0amFlRld2d0wyYWxKaWJuaGFIaFZDaldUUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-02T07:35:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-01_motociclista-sufre-fractura-expuesta-en-villas-d"
  },
  {
   "d": "2026-10-31",
