@@ -58,6 +58,29 @@
   "sev": "sd"
  },
  {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Motociclista derrapa por pavimento mojado en región 201",
+  "p": "Región 201, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/seguridad/motociclista-derrapa-por-pavimento-mojado-en-region-201/"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 201",
+  "id": "2026-11-02_region-201-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-01",
   "h": "",
   "ts": "2026-11-01T12:00:00-06:00",
@@ -2179,30 +2202,6 @@
   "t": "Mazda cae a la hondonada y termina contra un predio",
   "ts": "2026-09-28T19:32:00-06:00",
   "id": "2026-09-28_periferico-sur-oriente-km-14",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-28",
-  "h": "18:26",
-  "lat": 20.9914,
-  "lon": -89.5332,
-  "p": "Av. 149 x calle 2, Los Héroes",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/2341220636708011/"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/chofer-pierde-el-control-de-camioneta-de-gas-y-causa-severos-danos-en-los-heroes-hay-heridos/"
-   }
-  ],
-  "t": "Camioneta repartidora de gas pierde el control y cae a la hondonada",
-  "ts": "2026-09-28T18:26:00-06:00",
-  "id": "2026-09-28_av-149-x-calle-2-los-heroes",
   "estado": "Yucatán"
  }
 ]

@@ -2,6 +2,200 @@
  {
   "d": "2026-11-02",
   "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Fuerte choque entre dos vehículos frente a Banjército provoca caos vial en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnJ1UlhBc2xpd19CcG1wWm5uQTljQmllWUNLa3FWQi02VW9IaXpfVWVTcEFGUkpCbFRtMnpDX19pdHNMUm1IWjd1N0h4OXdxYUh4bDlENjB4d0lYZllfYVJ3dkJIQ215aFpwUGV3V0kzRU5BZUlkNTBXcEZ5VzVtdnh4SjBTMnZiVXRjM3UwU0xGOU5NZTgzS1BnZGYtLXdsdDlEZkV3NGUwczF2Z0RhOUVLc002VUJSMHU1TlJINTF2d3Q5S3RrONIBzgFBVV95cUxNREpvbHBIY0NROE5FS1Fla0VuZVdNc0RIbUZTLTliWUNfZTRlSDhvTHRPbDV2VlFMSi00M3RvZDRtaUlWamppWlZrSGh1Z3Y5YmpMc1BRcGdxQ3U0cDNTUnFNRWlnTzNwRlIxNnBuNWYtVXNyOFF3eHk3SFZ0V2xUWWFqSXhGZmpOVFdHRXE4YmZoRnBlVG9IQ0pCRHZlMzlnNzB0czJYZWF0TEZ0R0tIaFRXSXdFMmlra3BwXzBxSVJGUGhUWW5uRmRMOXhNUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Identifican a víctimas de accidente aéreo en Florida: el empresario texano Adam Robinson y su familia",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODQwNm52bm5ya1B1aWdXZTdZOF9kRmdSeG92TUNmZ0VucndQV08tWU9tR3VFVldEeUlIZURXdjhrR3k4QWZlNmxsbjItd1ZsMzFCRUZaVjJsWDl4YVQyMzYyb3RKbk9YaGtFTkFiM2NyMUpLNzlxWHpONDVNWG9kNVV0MlNkckRObHV5ek1oUTlSQ1dOTjZ0QUdWRVhQN2FMeEVtdjlMeGNIWEhGR2Jmck9hUWIzaVNUVHZlUV94X3RMQzNLUHdDekhTT0Rwc1RiX05EWWVTbXRiTHgtWTJkTXBQTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_identifican-a-victimas-de-accidente-aereo-en-flo"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Muere ganadero en volcadura en la carretera a Tizimín",
+  "p": "Carretera a Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZXRtNVdta294Q1V0T1BuYXM1cTN6VE9GbkhxOUFBbE4yS3dwSE41aEFfSEtSNHhoMDhXN3RoZEduR2JrcWMtekcwaFI4Vk9jTUdvbDNGcEc2YkR0YURqeWpXUDJPWGZadHA3V0lCM2xBQVdSV2pWeXB1X0J6WGVuQ0EwT0dHU283dXRhY0JCejJLMVhCWmRjb2tuR1NjZ01acUtyYzF0Yw?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUJUWnkwcUhaMzJZaTBwa0RLSXV1c1Q3TVJJN2ExWjJHenBabWZ4ZnhYeFpGUnJQT0lyYkcwQ3ZHbm5PdXZySW9IUS1fc2I2WFNQaU0zRXAyb2RoVHIzMTcxczVWQW5oRUFXZkh3M1lHc1l6emlsY29UMnNTNldsUzlBQ0Y3U0FzOERzbVl1bzcwbWttSVE4M3B1ckhaUmo1djVCUkF0MHI4dU13cERrUHBjS3NYTDNkRHY3LWZsbS1sYzDSAcMBQVVfeXFMTXFCVFp5MHFIWjMyWWkwcGtES0l1dXNUN01SSTdhMVoyR3pwWm1meGZ4WHhaRlJyUE9JcmJHMEN2R25uT3V2cklvSFEtX3NiNlhTUGlNM0VwMm9kaFRyMzE3MXM1VkFuaEVBV2ZIdzNZR3NZenppbGNvVDJzUzZXbFM5QUNGN1NBczhEc21ZdW83MG1rbUlRODNwdXJIWlJqNXY1QlJBdDByOHVNd3BEa1BwY0tzWEwzZER2Ny1mbG0tbGMw?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdFVXZmtQeEtkNGh6VmhEc0tHNFE2U0Z0VUhNZmJYSDh4N0pub2NEQXQzUVhndUFmYkpPZzRzYmk0ZTN5LUhHd2V3aEZpd0twMnhHbW1JaVNNVlRKMDJrMThxQmc5YVVxOVVzcU1aazctQkk4am8yVGVwcTZyYXI2b2hNZklPNzNDeHdDRE5aMkFQLWE0eGhaYlJ1SmRKUXc2bk4tRFJqaG1meEJ6N3l5enZZUnA5a3hycmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "a tizimin",
+  "id": "2026-11-02_carretera-a-tizimin"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Se nos acabó el tiempo revelan dramáticos mensajes antes de accidente aéreo en florida",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHM2TkxGVWJKZWFZVFJwQWZ6bW1LWklkR0lNeEFtXzc2OU1mY1J4VWdPVUI2TDgxeFJMNGVkNk9jSGVIM01QM0dhZ2NmTGQ0dDY0Z1lCbUdpcGZMLWVsdVljZUc0XzZMTUV2ZjlTRUlud3dZa1FTOE5QSUg5WVRyalZLWWlZbTFPNWo3bVJxM0xRbVVCRG5uR2lnY3c1SXM5T09vOWFJTkJNSERCOGg4T3UwMzROTEFaOWh1WWRYSUdLY1U?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_campeche"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Fallece comprador de ganado tras volcadura en la Tizimín-Colonia Yucatán",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkRRUmNqODZNcWF2M05SR2N4X0RUdnkwTDc0OUJub2ZOaFAwWXdqNWkzLUZKdDAyR0hFdTRoQlJwR183QUFSYWlLYVZ6bFZnVU1Dam5OZ0FWbDZUV0JIR05hclc0OXBOUER6SlpheEltTmpSTmc2WEJaa29OUXd1Z1RUdExvc2Q1YmlOdXpSQmFraFAxOThHZzhUWURiRGRWYnR4bnB6R2ROLW5LWGoyWURLRUY?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXBXRFZ1NXZRTFpwRFhVdFpmb2psZVZ3emJuTGY1QlJCUngzSWlGQWMtaEZxMHNwb3FuUV91WVpXSHRPZkt1bHVFSW41T0d4UGJuZWtoMHczX3lQYUMwLVhnU2hKX0F2V1lfS0FZV0JkQWlXckFRdFFNeWEweU4wVlZaNC1qVm1nYmpMSFFRa3FuMnlUR05ZT2hQaXQzazg?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_tizimin"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Identifican a cocinero que perdió la vida en chiná tras derrapar en su motocicleta",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWQ2WUR2SmZGT1NJU2tGbjNTVE1NNkNPYkxnc2NNcE1reFJJRHdhdUFQdV9mU3B4U2RnU3FZMDJ0Vm9HT2NxZlRSc2J5TGRUdEU0VUhESUIzdmxWbTBqeFh4SlFyN2hUcXZUSWVqcGRncjZpTXhfOFVoVjFwTENmMy1FMURMWFZUaHROZENfXzVtQnByWlBuUDBzTGNIaWtVS3NWeEZubmY1enlqMWJYQWt2OXdXblpDWE82Y3ZR?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_campeche-2"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Fuerte accidente deja cuerpo sin vida en pleno Día de Muertos; el hombre salió PROYECTADO de su camioneta en T",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc3BaamJDbmhqbDB0VGdHZ1ZlTUtLRjBRcVNkRF9JRHpldm5NS290VmwxUlpBbTNKc3ZMYnFPbnZFUkdVRXFJRS1nd1ZtWjV5bTMyc1VpcGJ1V0JDYlVZc0g5bGZyVVROZ3F6R3BNQmlFRFVqSzNjRW1uWHA1OVNJTjZGM0M2X2hWZ3J0aDBNTXA0VTJRV3FObXlFWlBJdTRESmJMcFRHcjY4YkxEZV9sek1OSHBzYm5NZkx5SndlZTdmQ3RtWG5aaEp4X2xTWnh2ZU1iVmRheGdMUFdmNmRmTThRS0hJOWpOZHZzTUFMZnNna2RfaWFyVC1NNjBYcHhiZ2l6bU81YnpSUXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_tizimin-2"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Avioneta se desploma en Pachuca; dos muertos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvczNkWEd5S285Y1RoWW0wZFl1em9YVTlObC1wQkpKcDZFb0dMZjNIRWRfREZzeUVuTTc0RXpoczBKMGVrQ3dlcjdaRER5T0ZUdkp5MHRPc0VLeTVTVDl1anlhWnBvcGdFQW1tSllTS1pnUDJ5?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_avioneta-se-desploma-en-pachuca-dos-muertos"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Tragedia en Día de Muertos: volcadura cobra la vida de un conductor en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "lachispa.mx",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3R0cktwZVlOd3QyTkg5NFFvSm1mSHI0N01HdTc3dXF2UE50U2o4RW1Qb2JTT3FDVUplSU9mQ1BobXA3Uk0zeE10d2ZTa2hWaWh1dC1welh6VGdSbHNzNG5mZXFPa1d6SUxJc1FZSWVkLTJEN3ExWE1sTUR5cFRiY1N3QUhsSmlyNnZuZG9WQ3VteUwtcWxyMlFtYmVyX2s?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_tizimin-3"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Al momento: registran peligroso incendio en la colonia bojórquez, al poniente de mérida (video)",
+  "p": "Colonia Bojórquez, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDB1V3pNSTBxaS1pUVd6UHE0aEREQWpGakxhXzltcHNaaFZoUXRGNnNjMmFaOUEzN3NtZTQ3TEpnM0NaMU5qZGN0eUl4RFlUWlBkOUZxQV9HTEdqLWdrNjh3UmM4dUl3WEhuencwcFRjZ1ZvNnhQclc2TlRYVUJrWjZZbjZYUWNydHgtdHFxQ2EtcmR4ZnppWmdaX3ZISGszU2xNdzJmOVlBN1RHOVFHV3dBUUkxNUVCWHByV2Y1QW9yTEMz?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "clave_lugar": "bojorquez",
+  "id": "2026-11-02_colonia-bojorquez-merida"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
   "ts": "2026-11-02T12:00:00-05:00",
   "t": "Accidente en carretera 307: muere mujer en moto frente a Akumal",
   "p": "Carretera 307",
@@ -11,6 +205,10 @@
    {
     "n": "Quintana Roo Hoy",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlFhcFpLUFY0Z215YlpYTlNrV2VEUkpaOXZlZmdlYno1YV9ieVl3Q005WW9OR2xsSGFfYTRaRXVndW16ekdlSzRvcHFVb1lLNGVINFp1eWVHSjA5U1dSZTFrTm9iVWZFbEF6OS1XVldpZElrb0JlQXQ0cUkwbkNCZll1RDJ0UHRFUUZ6anVwdTFtNzRCeUxMSWpFYzhGZm1TeW9RY01uSVh6Y0Zq?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjdUQkRTNGtNS09QRnVWQ0tOc0N4MllzdEI4Rmlwdm9BWHBYM2NQMmw3S21FaHRud09WZmN5VklNSWg2cUVEVWlqVnF4enZwS2lHX2lFMHRsRWY2T1h3OEN5c3NsYU1yVXlBeThGRC1kOHRvMnVNZlNMR2MyemVGSUtjblFjc2VoR3VKSGVwRk9fVXpBaWRWOWVNcjRZMnB1c2c?oc=5"
    }
   ],
   "creado": "2026-11-02T18:11:58Z",
@@ -70,6 +268,10 @@
    {
     "n": "www.salrevista.com",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcnU0Vk1QVFhuVTdMaVlRUlNCY1pWNTdCTEMxZ3QzektUT2l5UWc4WVJucldRaW54WS03SG5NNWFnUFYzTm9Talp4QlFPQ3J3dXd2ekVZVFQ0VmRIVGdOeFpHUUxMUEEyNUxDRF8xY1Jfek9TQXNudlo4emthd1hmMFNWdHBuaXR1Z2haa2plQlo3NG42S2I0TE45cjd6bUxGeWdsbUhpd214SDg?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd1UzWDQ4eUoxTXp3RW9nMHlxaTZQYjY3TV9sdnR1d0h1NzhEeG1aNXh2Z0RBZ2NwRWRUTXFmRk1TVWF1OXJEWThCdjVyS0NUODVZVGFHRzd5WUxUcmZFYkIwX3ZYMzR0UDZyaEVQYWNMMXNnNlJlTHRrRFdWMDlNa0ZnWDBEZWhHY2FiODdENDE?oc=5"
    }
   ],
   "creado": "2026-11-02T18:11:58Z",
@@ -88,11 +290,95 @@
    {
     "n": "www.salrevista.com",
     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEtYMWtFcXJEYXlGLXFaMmNsdTVYNkpZOEhsS01WZVo1UWhrTVlEbWlBbkpoY2hJbzVUU3g2YS1HY3NuWUxCSWNmd3BHM290TnZoRDZCVk1nSUp6UnFUc1FSWnlGVk1iY1VRZnVxMlZybEVDMHRlWE94Zkl5Q2RyZVBWampQNzRnOVpoeFNWWEFzWnRkaWFORE1ackF6Q05yUEhUcms5QmN1XzRkMkl0eHFR?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXljTlY3Vnp4MjhkbklkZmUyRElIejhGNHRiZXB1SUtYV1J4ejBqNGk3MWFNdU9famc5WlIzTWhMNzllMnlRc2FFSGhRWmJBQzJxbnlLa3JaUHJ2d3Iwc2hYTjhNcXU3aGJwUUV4cERqZHRDUk43QkU5UWFmRXZJM2xhWnVVd0p6cGtmXzgzbGo?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2xkc3VkYWdQUlg3NjdPbWwtdnRHc3dBbUdGdDdUenVYUlF4cWZ4U1pRSU9sMVV2bDBnVHZZeW0yN2dlbXR4eVNZM1pZeFI0NDNUZnlRR3AtNjhFeUNXajBrZHhpT0MtbE1UeDBPd0x0dnVSMzM4eW1LM1RHWHRZampzdVRUOGJLTzhTUmxsNHdfdzVX?oc=5"
    }
   ],
   "creado": "2026-11-02T18:11:58Z",
   "metodo": "reglas",
   "id": "2026-11-02_chetumal-2"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Auto impacta de frente contra tractocamión en Playa del Carmen; conductor termina gravemente herido",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbUJvNTRiYXRubkdkQXlTY2lIdlZzTDJSN1h5R2xISnNYVHlWUmNUMkVaNWgxZHNNMWhWaE41enpDTDNodUpPbU10bmE1QjQ2TEVlS0x3TUxUWmFLS0JiN3NTNWktN1B4eGpSckZHMnhUd29uQWZpX1pmMFN0WDdrRzY3eDJJRGpTZ0JSc3VQb1NCRnFfdlkyT0lrOTd1dEcta1U1R0d4NVlGRkxjemp1bkhmdkNYT3RRX09MVTRYalpfdTIzYVdCd1Z4bG0zMWtYcHQyeWdEeTHSAd4BQVVfeXFMTnZQdS10d2VpTWR3dHNSMk4xWGNJdENVY2l6WkxDYjhFTTRrdV81MjA3TGt4ZzB3eFVHZEFHX0E4NHhfNkxPZGN4WUlxcVFYVHF1NDc4WXBUOWxDZm92eE12RGZSMnBxcjhzd3VsZ1B4WEQ0V3JsU2VMTmRKRkFkVTNvbmlNZFp3RURCOU1YMHowTk5KOWJXTm1EQVFfUjJvXzYwSFc0QUoyLXpQLUhhakx1R3dpbHd6bFJHdzctZ0pvQVpSRkJKMFB3VTVacEZjYXZQbHV0eHVVWHlJSU9R?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTHpZNnhYUllFbDN3a2I5aV9iM1dSWnZ4aldtYkRWTU50LWdrem8zbHA5VmNhS2pwajlISlVNSU11Z2RiY1BZTTBJcG5qaWtLdFd3emx0OVgycTNQYkV0bzdBTk43aWFxN3FwUUEwNC1fbkM0OUlvTExYc3hDZS0zSlFhMUtxSEo1V3llX1NWZ2k4NGhJWEVwSEx1LUZpQnpPN3BzM3ZjYVRoQUpwZmpma3VQRkhNV2c?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Fallece ciclista atropellado por taxista de Playa del Carmen afuera de Xcaret",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVzRveC0tVENmY0gxWjNpVnMwZkgyTGlRRFhUWDljbWVoVDhCM2IwbUFLZjBwaGJ5LWxJVkNnTnRzYkVsNWU4VWUtaWctVWRpQ1FfTzBEeV95VHF6ZnNYSmJVS2pOVjh5U3BNVzRJb2ZhRkRsd3BiaTVTRzk4WTdzMW1zbWV6akYyamxkNEdZMnF6dkNYMlFSUzJ6UVhoRXN0d0RNc3BvY3JmVTBLd3c2bEhPNVhqM09rNUxqMFlyRQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_playa-del-carmen-3"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Atropellamiento en Cancún: señalan posible irregularidad",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcmxGZmlTcVhuR0VfS25xa0F1dlJCalVpZ2EzM090VVh1cnBmMndoaW03MnF4MDVLR20zM3pJU1lWRERWVzBiREpQUXBOYVZmUFlmUGN5OTUyd29xakJhczNSdnZxSHZmRUhGWUNvMDdvdXFwdlZncEJQc2hqblVXYUVwRDFsbncwSFNlc2UxOHBMWkg4S01jOA?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_cancun"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Muere el delfín Mincho en Cancún; Profepa ordena realizar necropsia",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "NewsDay Caribe",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRXlJQ3RZT0ZCa1NFLVdpZFNqVEFfcWtpLWkxaEtIRHQ2YXAzUVY2SmFEWUc3VDRHMmlZQzZCZml3TEkwRmhfMXBpX002Z05wZzdRX0R0d2tSYVYzMG1GbC1qdDFqMGVQaE1XQmxxT00tWkZ6QnRZbnhMSTFzRUdKek5ma0hKcGtwd25tam4tNlRkblBpeTc2eVpTanYxUXUtMWZsNWFR?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T01:31:30Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_cancun-2"
  },
  {
   "d": "2026-11-01",
