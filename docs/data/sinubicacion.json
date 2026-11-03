@@ -1,5 +1,134 @@
 [
  {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Hombre quiso encender la fosa para los pibes con gasolina y sufrió graves quemaduras en Motul",
+  "p": "Motul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONkhUVUxPYWdZNmZpNHdGdXlMTzg5MHdDd0pmd29qY1haTkI0TW1mdmlwekhqN1l3dkFYbElIVHdGaU1WaDd3QmFjaDd1X1JMNnpFb1FUeF9CUUgwTEg4MTJ4bjRyZWpWbWdfeW9Lb0lTOHFvU2d1NHBzOVpDVWhVazRKQk9IZERKYXYwMGlnSG11cW5PUFZrVE4zMkJGZzdxSkJvbnF1Y09qNXp0cTBEdzdnLXBoUmdnQ0NpaF8zdWpsRUo1N2JIeTB2Z9IBywFBVV95cUxONkhUVUxPYWdZNmZpNHdGdXlMTzg5MHdDd0pmd29qY1haTkI0TW1mdmlwekhqN1l3dkFYbElIVHdGaU1WaDd3QmFjaDd1X1JMNnpFb1FUeF9CUUgwTEg4MTJ4bjRyZWpWbWdfeW9Lb0lTOHFvU2d1NHBzOVpDVWhVazRKQk9IZERKYXYwMGlnSG11cW5PUFZrVE4zMkJGZzdxSkJvbnF1Y09qNXp0cTBEdzdnLXBoUmdnQ0NpaF8zdWpsRUo1N2JIeTB2Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_motul"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Una ambulancia en servicio urgente y un turismo chocan en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV2pBTkxIRG84R2dENk00ZXZYVlZCVnpYSXFFX1FHSUZjU1RiY3E2Uk5BRjB3R3Z4VXN4WXptcWcxTjJBbnpvR3hKcWpGNTdmQ2VoTTlreTRuclBvcklFM0ZHRUxNMWtCR2NVekJmYzU2NGJjSWg4aXo4U3JHY1NiWTJYSG9SWFZPUkFKYnV6aktDVXhZbm1ibzBLOF9GSTJoMDJyZkZLUUpkVXctM0R4ZGxHRG3SAboBQVVfeXFMTy1KWkQwUzJjaWN3RzZGcnJXc1RVekNZMm1VdVhITDdjZEdJMnFCQkZPUUlqREZjR2oyRXAxdWFhd3RyOGJ4UXZWT3U2eWFnVjZzSlBnNzhQRXplX00xQ3FMRFowbVBYdzRYRmN3Q0tCa2p2UFNUbHlEM3pSc3dGU3VtWDdrNDdHNk9RYTV2WURiWEhPLWxMU25Qb0xnRnBBbVJTbmVPY192Q19nTXQ0VUJrOVVBYXVlWFln?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_merida"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Mérida registra tres accidentes con patinetes eléctricos y denuncia a seis conductores",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Radio Interior",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOckZpNmp5NkI4V2pSNnU4Ni1xbUpFbWtyN0JmbmxQQ09BbUtlZE1LUjFVS0R4NnRSbDhfTUxDVEZ6R0MtWUpjdi0wXzd1V1JhUEdoTFBMV25XU2xkYmxRNXl6RVZZUENNUk9wNi00WnR6RnJST1dZV3k0N2sxendOUnQ1RDB1aUc3WTh0d3AyVl80V3MteDFlZ3VnSDVLakc3U3BFR09GajJTaHZvc24tZE9ZN1JKODVvSG1ubU9XSWhYOXlsRnd1ZU9iMWl4Q3p6VEE?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_merida-2"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Cables sueltos en calles de Chetumal provocaron dos accidentes de motociclistas en cuatro días",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQX2d2OFBxQjRMamZiX0l3TkdpTTBZSTR4U3U1LXBNOXdPSXRucTVZNTY1N2JkTVZKcnJkb1BSaTdOXy1EMjgyV0Z2LTFUc0hHalcyc2RNT2tybkxRREhuVTJxaEJ2TEw2WUh1QVZrUkxRbkxaLVhZYWxSR005bWszUXRYOUY5Wm4zcVBmZk15eVRxUXF0SW9UUXNERlotekJieEE1Q3lkMnd6RjJQdVdQS1hQYjdRaU9Fc2pxeXVRaUV1UjNIemhaUm9sc9IB0AFBVV95cUxPSlBnanpURmlnajJEWVA3MFVVYmFxaVJ4MnNkdWt3d1hyYU9JQ2JjUk1ub1pJQ19TTWw4Rm9sazJrZDJMQVFxbUlKaERoeXBNT3l1UVRYYXJvd0RON1hIQWxGc195WWVxbE9pZnVIWlVGOG1md0JyTDctV0xoTmFldkltRUVyVC16emtXMjdNM1dFakFIbDZjUkNHWDJJMncxOEk0UDFpOGw2QTk0MkpnNm5lWVNuQjBsRmpQTjljVWlSaVY1MnNBMUtaaVZIQVBz?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Accidente de autobús de transporte hotelero deja dos lesionados en la carretera Muyil-Tulum",
+  "p": "Carretera Muyil-Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUl93LXRBZVZNNkZMcWhydi1Qa2tBN3l3VVRmUENkUGd6R3l1UGFaams0SVp3eUQzZ3FjRXlBMWFrb0l6WWFyS0UwRmNfZ0JqTXFwMGNKb2ozUlItZGRPVzFwckpwY2RhVU5wS2JKZEx1QktBWjMzMkNaeGRWd1lENlQ0ZzJrbTAwbUZSam5JS0NZei12cWJnenQ1cUU3dzBqcWtMVEIybXBvelpLeXRpTHB5S2NEbXZXVkJfX2FjVVZLNFVn0gHEAUFVX3lxTE9SX3ctdEFlVk02RkxxaHJ2LVBra0E3eXdVVGZQQ2RQZ3pHeXVQYVpqazRJWnd5RDNncWNFeUExYWtvSXpZYXJLRTBGY19nQmpNcXAwY0pvajNSUi1kZE9XMXBySnBjZGFVTnBLYkpkTHVCS0FaMzMyQ1p4ZFZ3WUQ2VDRnMmttMDBtRlJqbklLQ1l6LXZxYmd6dDVxRTd3MGpxa0xUQjJtcG96Wkt5dGlMcHlLY0RtdldWQl9fYWNVVks0VWc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "muyil tulum",
+  "id": "2026-11-03_carretera-muyil-tulum"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Camión de personal del Hotel Conrad se accidenta en tramo Carrillo Puerto Tulum; hay dos heridos",
+  "p": "Tramo Carrillo Puerto Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNlowR3BHUVlPTDM1X2s4bVp3MmxNdDhid3VTNWJ6SEgwQnU5cml6ZnF3VXQ5UWxicmExMEh6MnZ6RDlRZ1Y2bktHdUg4QVgtRktGNkRzRFFOZS11d09ucC11NHJsX0llVjNkaHpqNTFHUUcyN2lTYzcyXzJaTUJOOHZKeWFOWU9RUkdtSTRFRzVmNl9zV2IxT051NllqVW1kdXlyWlhHak5zVWgxTVZOX01zREJWbG5uVFJ0ODlTTk9ZQkFxaUVqVWZDU1hoSGZSVWU4bHU2MzlMMS0xS1cxSnpsTF9fcHZmQnU40gHwAUFVX3lxTE8wU0NOOGtEa25yN0NGblJSMjlycEk0VnFJY0w1NlRYWW9PUzVQZnRuM0hRM1B2WE5Fd0REYTFDVFVWMS05OFp1U0tpOGhveGd2ZFotZndKQkt0S3FzRmFPeGNNZ24tRV9tczhGT01jZFBmdTJrQ0kyWVlJMnhqMFFIZXo2dmtITGw2S09ZM1Zrb3Z6bmp0VG9OZ0ZSWUlJNWpKZk8yUmJac3RkVFhzaldPem5sYmZuRWg0RjZxSlhRUVRHN3lobkJkVUI5dzZvVzh5UjlwUUJ6Y2kxNG13bUFzbWVlV3dGYnBWT2xJRkItUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "carrillo puerto tulum",
+  "id": "2026-11-03_tramo-carrillo-puerto-tulum"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Dos trabajadores resultan lesionados tras salir de la carretera 307, en el tramo Felipe Carrillo PuertoTulum",
+  "p": "Carretera 307, Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOGFPZl9QdE03QW1Na0VUdGltWm00bFFSRGZVeFFNY2JKWGhYWmxvWVotTThsREZWN1I5ajl2Z3FjS0p2YWVsSU1zX054RUxVZDBiWU5Pdzd5VWp6LWYxRjAzaExrc1lsZWJMczlva1ZpLWJnUERqWUkzM05uRmZJVHhnbVk2b1VjdG1oeG9NMWRGMVRrcC1HWEFyNGx5dDRpTXJPa2R5SWxGS2M0N1h4dzFKbkVMWWRoM0FGNnVUUDB0eG9OanVqaks0NHFMZ2IwM1V3d2drbDlDS011Skk3R9IB4AFBVV95cUxPOGFPZl9QdE03QW1Na0VUdGltWm00bFFSRGZVeFFNY2JKWGhYWmxvWVotTThsREZWN1I5ajl2Z3FjS0p2YWVsSU1zX054RUxVZDBiWU5Pdzd5VWp6LWYxRjAzaExrc1lsZWJMczlva1ZpLWJnUERqWUkzM05uRmZJVHhnbVk2b1VjdG1oeG9NMWRGMVRrcC1HWEFyNGx5dDRpTXJPa2R5SWxGS2M0N1h4dzFKbkVMWWRoM0FGNnVUUDB0eG9OanVqaks0NHFMZ2IwM1V3d2drbDlDS011Skk3Rw?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-11-03_carretera-307-felipe-carrillo-puerto"
+ },
+ {
   "d": "2026-11-02",
   "h": "",
   "ts": "2026-11-02T12:00:00-06:00",
@@ -194,6 +323,10 @@
    {
     "n": "Sol Yucatán",
     "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXplSWwwUlZaVXlaMk1mOEMwWW9CM2FycUJwLW5WNEpnN2RtbjZPQkFrcERaLXFSTHE4Vk5NZHpzNFI2ZktqRUgxeUVzT1czUXltbnZCcENsTHBJclA0TVJuczI5eFctWGpfOWtteDJVVUdZdVlUbHVwbW52M2FCTmpVTGtkaGpqZ0U0Rndn?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFB4TUpZRWVwLVJPbzd6SVIteHEwWnJFRXdscmpqeE00VzI4MDNfeFNzbFJRYnZjeWxNUl9ZTFZQOW5ISjNBZmNhOEd5UzQzckFIck4tMUpBbDVKT1J5c3ZoM3lJMGtoTG9CTG5DaFJBb0F5SlFHNkJJRVFZY1h0UlBqbm9VNXpRU2tuYV9WSXdVOWRsSTY3VUxqbmZfRHhMTEJaUTdDaTg1alJZdUh2eWdUYm1RME53bm9rcDBGZ1pGUjZtVWNBbmNwRnFYVVBJcWROYzJLLVVSd9IB3wFBVV95cUxQZ182TzFZa2JzS2V5amRhLXBoRFppOTI0NFM3Q1d2NlN6cWthVkJHUXc2b1JDS3lsSnFZQlc5aHFVQXNvOElYUi1aWkxpMk53MlVwN3lsY2ExNDdGRkpHQWQ2VTBTeWxDM0k0b3YwMXgwbFd6LVBZUi1iRnpjWG1rSkh6YVhOSm90OVp3SDVuc2ljVGRLS09aS3M1dmRtSlNzTy1mMi1qVTBYNjlXWFNVTVpLSjhick9OalpHdDBfYzdNeTBiNkVNQ2M3blBYZHBiSkNaeGhhV0VpV1V1UUZn?oc=5"
    }
   ],
   "creado": "2026-11-03T01:31:30Z",

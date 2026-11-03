@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Conductora pierde el control y choca en área verde en la Avenida Huayacán de Cancún",
+  "p": "Avenida Huayacán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY2xXUm5FU1UyUXMwbm5PQnNOeUdKdWp6X0ZFQXBlLXI3WGxQZkZsN2RsRWJCUkF0VDItb3kwUkxOTXgyTGJwU1YydkxxTG9peThLNGRWVWZSaWFveHhLX1U2emE1TEJrcnRTeXR4VmtONjNTN3Q1cWxhQmltVzlDaElWaTVNQTdKNTNJbTBpWlhVN3Y4QlREcllxWDdDWEc1c2I1QWZQa1ByblQy?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T17:43:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "huayacan",
+  "id": "2026-11-03_avenida-huayacan-cancun",
+  "lat": 21.11475,
+  "lon": -86.849434,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-02",
   "h": "",
   "ts": "2026-11-02T12:00:00-06:00",
@@ -2158,30 +2181,6 @@
   "t": "Conductor pierde el control y se estrella contra una vivienda; la deja sin luz y agua",
   "ts": "2026-09-29T12:00:00-06:00",
   "id": "2026-09-29_calle-38-x-38-y-40-piedra-de-agua-uman",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-29",
-  "h": "10:39",
-  "lat": 20.97058,
-  "lon": -89.63492,
-  "p": "Calle 78 x 59-A, Centro",
-  "pr": "cruce",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1630700541791963/"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/noticias/precaucion-reportan-aparatoso-choque-hoy-martes-en-el-centro-de-merida-hay-lesionados/"
-   }
-  ],
-  "t": "KIA no respeta el alto y choca con un Mitsubishi",
-  "ts": "2026-09-29T10:39:00-06:00",
-  "id": "2026-09-29_calle-78-x-59-a-centro",
   "estado": "Yucatán"
  }
 ]
