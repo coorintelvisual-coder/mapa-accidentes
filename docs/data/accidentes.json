@@ -2,6 +2,29 @@
  {
   "d": "2026-11-03",
   "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "¡susto! explota motor de patrulla motorizada tras reventar su cadena en la avenida obregón",
+  "p": "AVENIDA OBREGÓN, Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTS1jaFpCQ0lXR0RUZ3BxNUlmY0tFbGRtbDlTdy1nZE5GbnNqa3pCdXB0N0NEc1c4MnlMOUJvZ2lXdmJSTWJ3R0NObjMyeG80eHpOTHVoZlFEeTVnVzFhd1dfTzBUYWZiczdlOFRHSXY0UUVWRTVPdkNBTU9zRFJlbFBFZHJENUtoV1RXbFh2QXcyWUdYOFd4dzBRQWZOckpwTHNsVUYwb09nNEc3ZEpza2JFaTV1TTNpUVJvUHVqRUxuUHpEeHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "obregon",
+  "id": "2026-11-03_avenida-obregon-campeche",
+  "lat": 19.849782,
+  "lon": -90.51969,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
   "ts": "2026-11-03T12:00:00-05:00",
   "t": "Conductora pierde el control y choca en área verde en la Avenida Huayacán de Cancún",
   "p": "Avenida Huayacán, Cancún",
@@ -2161,26 +2184,6 @@
   "t": "Conductora choca contra una palmera",
   "ts": "2026-09-29T17:17:00-06:00",
   "id": "2026-09-29_av-francisco-de-montejo",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-01T14:18:00Z",
-  "d": "2026-09-29",
-  "h": "",
-  "lat": 20.8836,
-  "lon": -89.7466,
-  "p": "Calle 38 x 38 y 40, fracc. Piedra de Agua, Umán",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/9/29/conductor-deja-sin-luz-y-agua-a-una-familia-en-uman-tras-estrellarse-contra-su-vivienda.html"
-   }
-  ],
-  "t": "Conductor pierde el control y se estrella contra una vivienda; la deja sin luz y agua",
-  "ts": "2026-09-29T12:00:00-06:00",
-  "id": "2026-09-29_calle-38-x-38-y-40-piedra-de-agua-uman",
   "estado": "Yucatán"
  }
 ]

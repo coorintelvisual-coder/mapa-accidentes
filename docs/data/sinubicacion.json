@@ -56,6 +56,62 @@
  {
   "d": "2026-11-03",
   "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Conductor choca contra un auto estacionado en la colonia Azcorra de Mérida y huye",
+  "p": "Colonia Azcorra, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU3FqbmV4cUlTX1BvN3dQYTZPLXhsclVtU2MwSUxNSW9ZT2RlLVVkbjNZXzNWM1pNOGNzMTlJU2Q5ME5wZThqNUhaOFBZakhkajlyM19vWkNsZFYxZ04wT0stbGlqdDg4dmtSXy1kY3h1b3ZKNkh5OXFpMTBlQ01PbjlhN3RZM3l0Rkl5aVp5UG44VWZJVkJZV0RuU1hQamhNWHA5RTEtdV9BV2x6RHdNNzN6WmvSAboBQVVfeXFMTWF3M1M3eHcwYnAwc2hORUpKUzlzNzZ4WEt4eWhpbVhQTE5EdlhOZHFiS1dnd2x0LTgwdlBVQTVqSjBSdm1OZmNpZEJXLTVULUY2TEx5NTBhTlc2TDd1cHozTDVwM01FUDVqNnBkY1pjNGlNbnU1Z1lDSWVMLTNIejd3X1U5WElkSkFKTzRvVUcwelFNNkVvYS1rNkZ5ZTdhNVpIWHhrVnpTbHAxUFBzRXVrLTVNYmxydUN3?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "azcorra",
+  "id": "2026-11-03_colonia-azcorra-merida"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Trailero se estrella contra muro de contención en el puente de Hecelchakán",
+  "p": "Puente, Hecelchakán",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPamJSb0M5U3gtZTRzVkREWkNzc1Jqc2lla01LcGZ4c01sNFBuUEl5NDNvSXlrMi12ekdiSS1Kd0o2ekdTWTZJWVY2NHBLc2R5T0p0b2pYV0JES3NzbjF1dUR5SVhfRVlSdzlTRkh6bERtMkpQUHY3bDJYQXdudldZMUxZRVdPYm9HMENpMHJaUF9FR3RFOE5mTGJGa0MzNTlJRmYzYk0teFROcWxkYXh3QWJB0gGyAUFVX3lxTE9qYlJvQzlTeC1lNHNWRERaQ3NzUmpzaWVrTUtwZnhzTWw0UG5QSXk0M29JeWsyLXZ6R2JJLUp3SjZ6R1NZNklZVjY0cEtzZHlPSnRvalhXQkRLc3NuMXV1RHlJWF9FWVJ3OVNGSHpsRG0ySlBQdjdsMlhBd252V1kxTFlFV09ib0cwQ2kwclpQX0VHdEU4TmZMYkZrQzM1OUlGZjNiTS14VE5xbGRheHdBYkE?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente",
+  "id": "2026-11-03_puente-hecelchakan"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Muere Jesús de Miguel, delantero del Tenerife, tras choque durante un partido",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemdWQ1c2RWZIMFZSYWYzMDd4d0JOdjNoVGJLcTV5d3BybllaZWI3clljc2NuSDFhX0ZaU3BWTGMxTDBHVWZ4LV9oS1lRUjdXSmk1bjdBcVV5aGFUckl5SGdBZ0I0SUUwSnUwRkpxdThiaFRPSXZBLWNaZzRoQnVuRDhwTGhONXNQTE4xa1pkQnltb2hNOG9McXc3M3Z2eDhKb0I0Z25OQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_muere-jesus-de-miguel-delantero-del-tenerife-tra"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
   "ts": "2026-11-03T12:00:00-05:00",
   "t": "Cables sueltos en calles de Chetumal provocaron dos accidentes de motociclistas en cuatro días",
   "p": "Chetumal",
@@ -83,6 +139,10 @@
    {
     "n": "Turquesa News",
     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUl93LXRBZVZNNkZMcWhydi1Qa2tBN3l3VVRmUENkUGd6R3l1UGFaams0SVp3eUQzZ3FjRXlBMWFrb0l6WWFyS0UwRmNfZ0JqTXFwMGNKb2ozUlItZGRPVzFwckpwY2RhVU5wS2JKZEx1QktBWjMzMkNaeGRWd1lENlQ0ZzJrbTAwbUZSam5JS0NZei12cWJnenQ1cUU3dzBqcWtMVEIybXBvelpLeXRpTHB5S2NEbXZXVkJfX2FjVVZLNFVn0gHEAUFVX3lxTE9SX3ctdEFlVk02RkxxaHJ2LVBra0E3eXdVVGZQQ2RQZ3pHeXVQYVpqazRJWnd5RDNncWNFeUExYWtvSXpZYXJLRTBGY19nQmpNcXAwY0pvajNSUi1kZE9XMXBySnBjZGFVTnBLYkpkTHVCS0FaMzMyQ1p4ZFZ3WUQ2VDRnMmttMDBtRlJqbklLQ1l6LXZxYmd6dDVxRTd3MGpxa0xUQjJtcG96Wkt5dGlMcHlLY0RtdldWQl9fYWNVVks0VWc?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUpTbV9GSHdFUmZMeDVFWmdib3R2alNlN3JKZF9OZk1pdndFc0NyWWgxTGZKYVhnZmRSY1dJVHJfVXY5RUNGemUwajJKSzR4ZGRIN2txU1hPcFlsMHdQS2lEMHZ1SEhVWUlfZ1puSkhZci1YWUV4ZkE2c001MEUzcDlqVGRvNW5qVXA0dEN1SVNaVWNjdmgwOUdNcmxVVld6TUdTWFBxQV8?oc=5"
    }
   ],
   "creado": "2026-11-03T17:43:08Z",
@@ -127,6 +187,133 @@
   "metodo": "reglas",
   "clave_lugar": "307",
   "id": "2026-11-03_carretera-307-felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Abre puerta de su auto y provoca accidente en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONER2QmVjU3Q2Z1lUU1hiSlJBNVdKeWt4S25QNkJ1dlBiTlVCaU9vYnUwRjN6WDhZUV94ckVPRDIxMmN5R2w5U1Y1T0ZWODRiT1pHbzFmeTl4OEhFd0ZzWE5TOS1nT2FDWVowTk1sdzNnNFItdDkwSEQxZl83UUc2MEJ6ZHFWZUQy?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal-2"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Conato de incendio moviliza a cuerpos de emergencia en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUtPdVRoYVRuWkZDR3pHSVdWbnFzNEZ3ZkpQUl9XXzA1MnNod1V4WlgzYllOajFudUxjWjNQTmhMWTZEYTMyMzh0NFpubUlVT19fWW1Wd3NLaGs4cWtFcC0zdk8tVHBoeGdpaWxRMmhmR21zMWptNTFibDRlLWI5bVFZZ01scXNjMG4wUEZialBhLU80VzM4?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal-3"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Pláticas en prepas de Cozumel buscan frenar accidentes de moto entre jóvenes",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Heraldo de México",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWFVkYnJOOTZzdmhKb0wyaTVQVXRob2Z4RVJuNFRhemFERE8xc05RTFowZlkxdzZ1UU0tR3Q4bzJqUnRlRF84enFmUXg3cVM0NVM2cm9icndqLWptQmdCQkdYdm93bFBNUTNCTUY2RUQ1TlV0aGs0UjRLY3lNV3ByaUpWV2luQnpVcUlDYThVZDc2NGRiY2I0cDRySC1oZVhYcURTcU1TVldpZzFFYkhvOHZ6bGg3M2c4aDZRM19BNzdBQ3ZfU2pwQjNyeE5ZeWswWjhmVjVqNWhBMjlNNmNr?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_cozumel"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Incendio en una vivienda dejó dos personas afectadas y un conejo lesionado en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1NFbm1tNlpscGd5YmFfdFZtNzI4SlpuQlZrN1R6enhsWDNVZGdFX0dya2dKdjJWWWFYZXFIUndBOEpRS24waklxUTN5SUszNmFJYS1fbFFTMF9TMXBwVUFrVmRqeTN3WFNmTlM0SXhNSXd2VEZoQWVWTlJZZklVeHdpRzlwQTJjVERKZ1JIX2xGSklPNFI2N08yRG9oTkFJZlA2ZHpLZWpxX3FYaFpOQy1Gd3BJSGNGanVUNlk1b0VyMkxBRlZ5dWRBRdIB0AFBVV95cUxNZ3BLUkxFNWwzQ3JPRnV4dl9SZFhQeklRYy1PYVBUbWVkSWFYVVdGMUFIeXFKSWZMbVBVZXo2Tzc5RDh3RGI3dnIzaUZoQ1hPR29wcUJtNjZlU3BZblZvS3haaHlJeEcyenliVUJQR2VjbHk1Y0R3Nkduc2tFQ25OZ2k4a2Jsa0pzcmZzWk5zUjZnLXJhSWxuLUdGX1BwTzFaR0ZTUW9CbndkWFQ5eUh5anVWQUJneTBOajlXczJ3dkRrRkNVdmcwM3F3RVgwRVhi?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Video de caída en rodada del terror no corresponde a Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVmQyVk1UWldvSWROMFVCb2ZSNlBpMjdlVG4tMEFOcGVfZGd2aF8wQncxaE0tM0xOSG9mZllwcHMwWWJiandoVmVvXzREcUVISUIxbGI1bmxEOU03b21UamNMWmI0Vy1nbFdYcTloa1BuejIzNjc4ajB1ZHd4T1plekRqWFRjWVlvYWs2U0UydWRmc0pRR3NySHZaT2gwa0ha?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_cancun"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Choque entre taxis deja dos pasajeros lesionados en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUlhQeTVXb2ZuTjYweVh4UVdfakIzSVhYS3ROcEFWMlJNNzFBYnBsMFY0MzU1eDlhdm9WeE9fcXlsdWVmbVdaWjVTeU0zSWJJWTE1bWpsQmRrSThwUlVEN21oM0c4N19QZkNsLUFHQzFfMGswZEtMOG5QaGtmZ2lCVk16Q2dZZDdaSzZmOEpYMU_SAZgBQVVfeXFMTUhVZnYyeEtRY3JjamdWNUF0RUdFM1pWYUdTSDVRaHY4MkRmSkUyUmJHS3Mzay1aLU9US3NrdFdXZTFuU24xMkdLT3dYTkJIS3lNaDNXdG9qR1JJRGtvMllRWHhhOFA3YVJpWjVVeTl3Q2YyVnFpbmdJcFpsSUJvT2gzOC1oWmxaaFJWUExRUjJwdWZ1MXlkemw?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal-4"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Cable suspendido sobre la avenida Bugambilias derriba a un motociclista en Chetumal",
+  "p": "Avenida Bugambilias derriba a un motociclista, Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdHdKNkM0aVZCUnhnb1RWbUtVOVk1RkpqakZXbmNGbVFZWDdXdmhxczJEMURQc0liX0xmc19PZDlnajRsTnBhSWJweTRhLUlHeUlTeU5ET3lZNmxtM25vZl9RWXR6am1JT1BNSF9QTVE0V0lYakdTT21rc28tYlA4MjdPb214Y3pRaEdoUWhmSXNoUkx1V1VZMklSYUVVb0lMdktXVlNnQURWOHZyakZrMjlpbm1IWW01Q0FoUHVfVkRKUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T23:12:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "bugambilias derriba a un motociclista",
+  "id": "2026-11-03_avenida-bugambilias-derriba-a-un-motociclista-ch"
  },
  {
   "d": "2026-11-02",
