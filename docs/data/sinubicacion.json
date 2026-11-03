@@ -96,6 +96,10 @@
    {
     "n": "Diario CAMBIO 22",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXBXRFZ1NXZRTFpwRFhVdFpmb2psZVZ3emJuTGY1QlJCUngzSWlGQWMtaEZxMHNwb3FuUV91WVpXSHRPZkt1bHVFSW41T0d4UGJuZWtoMHczX3lQYUMwLVhnU2hKX0F2V1lfS0FZV0JkQWlXckFRdFFNeWEweU4wVlZaNC1qVm1nYmpMSFFRa3FuMnlUR05ZT2hQaXQzazg?oc=5"
+   },
+   {
+    "n": "Quadratín Michoacán",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVVVJZUs5V0dWQlBzMmhOcUJqVmlBbkpBSnpHaFQ5TUxzZnNmM1k5MXRKQmJ5cGhBcl9VNUh6RXV1OXZVWWtSRzFnMFNhZXg2WWs1SHFCV3VrbEtSTU94bVpMd1h0NkR5VTRnRjg2Mm9aSDBqVzAxR25veGhHbUU3NXlfa3FrWHlGX0EyVngxT1Z0anREWDFmT09oSVhlQWphWHR1REZEU042dw?oc=5"
    }
   ],
   "creado": "2026-11-03T01:31:30Z",
@@ -186,12 +190,145 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDB1V3pNSTBxaS1pUVd6UHE0aEREQWpGakxhXzltcHNaaFZoUXRGNnNjMmFaOUEzN3NtZTQ3TEpnM0NaMU5qZGN0eUl4RFlUWlBkOUZxQV9HTEdqLWdrNjh3UmM4dUl3WEhuencwcFRjZ1ZvNnhQclc2TlRYVUJrWjZZbjZYUWNydHgtdHFxQ2EtcmR4ZnppWmdaX3ZISGszU2xNdzJmOVlBN1RHOVFHV3dBUUkxNUVCWHByV2Y1QW9yTEMz?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXplSWwwUlZaVXlaMk1mOEMwWW9CM2FycUJwLW5WNEpnN2RtbjZPQkFrcERaLXFSTHE4Vk5NZHpzNFI2ZktqRUgxeUVzT1czUXltbnZCcENsTHBJclA0TVJuczI5eFctWGpfOWtteDJVVUdZdVlUbHVwbW52M2FCTmpVTGtkaGpqZ0U0Rndn?oc=5"
    }
   ],
   "creado": "2026-11-03T01:31:30Z",
   "metodo": "reglas",
   "clave_lugar": "bojorquez",
   "id": "2026-11-02_colonia-bojorquez-merida"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Accidente mortal en la carretera Escárcega-Champotón moviliza a las autoridades",
+  "p": "Carretera Escárcega-Champotón moviliza a las autoridades",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkdMMUZuUGwySmpmYW5mT0hma3dVeDhHSmZvYUdIOFdmUWsyS2QxdmNJNWhNUWhvTmdMVHp1c0J5VmZ5S1ZsNWdqQUtOVl9yUndaQ0pnZnlmQVhfR3RhWXg3a2tRTUJaNTdkbzk5S3Y4ZFJOaTlkdFpvS1lmMWhMQWxHaHNYSVpwUXJXZkt0SVJmTTdtNjVycGcwd041Q1ZNRmxUZmlvSTlMVFZYd1NfVnJR?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "escarcega champoton moviliza a autoridades",
+  "id": "2026-11-02_carretera-escarcega-champoton-moviliza-a-las-aut"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Silencio y rosas blancas para despedir en Cerdedo a Mari Carmen Vázquez Nieto, víctima del accidente de Urda",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Progreso de Lugo",
+    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWUtLdFlobEFXMVphZXBGWi13blBzR2xVeWltRFRtQ3NSbmQyN2NUWmJuTENOLTF6MGVmVWNKN2FWWE5FZ2pmM0p0UHNpdzNyZ0dSS210OW4ydTFEcUdDUG5rVTBVUDBmYl9ZUURraVVFZjBuTFlFR2FUT2wwM2gyS1FMWDRhN1Z4YXRELVFkamlmakpCWXlfRGQzQVJKaDRIZ1FjZk45amtPVHhabWZqMUN4bXM3aHRTcDJNWmJUTXRpYXRXeEl1SmV4amJUaWF6bU55YWlkLUR6alpQdVFVM0d2d0hSTzdQQzA5bmlMQdIB9AFBVV95cUxQeHhRTk9pU2p6cWdvMjR6b0xJQnlWc3lncUxjc1piOWVZRnRPaGRvYkZJOVJCWXlvWTZON2xKTHcwVFQ5bWhMalZ4WHRUUlFDaXFabGJ3bnI5T29hVmpvSlpETTNBSkxiR2lHYlB6Q2xXcHQ5Qi1aTldpUk5oZDR4N0x3Rk41aG00Zm5fczBkQ2NSTjdxZGw3dFAxZndnbHZuYzFLUF9GSGV1aGpuN2gwaTU4eUFtaDAtR2stdUc3aXBWQVZfdk1nQ2U1eS0wTjMxNHY5Z3ZDdmdxRWR6ajZ1cllvQ29zYTZXcHU3TV9FRkR5bTBn?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_progreso"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Detienen a motociclista por presunto narcomenudeo en Seybaplaya",
+  "p": "Seybaplaya",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmdoTzZXYnoyRms4azM2blZPR2QxUXNRcUZ3dU5rZDVZTzJYdHJpdWY5QWFsQ3dac0hCTjRRa1MwSU5BWHhPamNUVENEWEdOeHo5blNibkxLcnVQcmpiRWQ1SG9lVlF5T2ZpM3FpRVNsOGZvUVZNMDJjTXBDQlZpYXZldEVVNHVEYTBvMHRIV0lwSF9rMFBreDlPUFJjLUVyU1pUcGJ2OURreVFnU1dB0gG0AUFVX3lxTE4yeTFIRWdDeUUxRFVrcmo1d0Q0T2E2OHVLMDV2d19USm1acDgtaWphMm02VzRNU1RNYUZ6RUhBRmljR2xSUXRoc0l5eWlCMEFNRk84TEhFeDc5X1JySGpCUHRLSWF4UDVQZWIxUXNmVnA0VXl5dDEwc3hUaUFxNWNTMnBvanBpUzgxcVRlaV9zbmVaYVZ5VTA0VlR2LUVhYUdWajc2aTFoazNINnN2SzlPd2hWOQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_seybaplaya"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Nathalia Gadelha obtuvo su licencia de piloto a los 17 años, víctima del accidente en Florida",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGk5S2hpUmptYnRXR2U2X0NzSUY3Wl9XM1djTUJPLWhrYWxoVm5zVFBJMmFlVER4TmZMM2dZdUcxVXhpRlZ5TVNLSUtQekM1NUsyVzZEYWp1YXNXbVE1bXlBZl9EZHd3Mzd0RVdwd1ZVbXVrcGtxMXhYOFlTbDZMVndEYXNxbXp1eDA5dlY4QXhlMzVSanVaSDV2eXR2VXlsOTBMNg?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_nathalia-gadelha-obtuvo-su-licencia-de-piloto-a"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Hallan sin vida a mexicano desaparecido tras choque de trenes",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUldtR2hlTnRyZXRtZklWSUtlUE1RdTZWbFpaTHNqdUZtWHU0RDd6ZzJidUt4VGhnRkJCelgza1RCSnA4QW5Db0tVc1UtcllnQkNRYUtVWUwtNGIxeFkwekpYN1dHTTM5bm1iLUZMQ1d5U1V4em04Q0FPdE5lZjhJNmtIa29oMkxocnM1Wg?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_hallan-sin-vida-a-mexicano-desaparecido-tras-cho"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Hombre muere arrollado y cierran tramo de la carretera Escárcega-Champotón",
+  "p": "Carretera Escárcega-Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGVfRHhrMzRGTGlmcmNjazlnR0RUZ1hra0piNzk1MFhtTjMxWkhMVGNhMXE5cGtwNFJ2VkUtLUxCTFBSbVlBaEczMFZmU3FXeFNkdVltaDRLdVRSbm5NY29IdURhODVkenloNVFqUFNDMjlQX1ZvdV92dU1ITDV5ZGl4aHVGblZiSkRyODgycVhacFVlVlJJYm12NjVtRE5hSEdhSTlGOTNHOG9h0gGyAUFVX3lxTFBoTURNenZIdkpYWWdJQlRIUmR6ampmY05RaGwwcWlwYXA0NVNzclhjU09WcGNqd094cjlhSTJsek5yUmxlRXhvYndYeTNMZVRJal9wMEgwRjdocFlwVXVoenlZWFAtYjV1YkhDTE1PVlE5NWx0U1ZYdVQxOTVQX3hMN3VHbTlPQnpRbmROajFCZnUyd214U0JCOGtpTHpoSXgyeTNaVXNkUzBJem9oMjg0dHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "escarcega champoton",
+  "id": "2026-11-02_carretera-escarcega-champoton"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-06:00",
+  "t": "Motociclista muere tras derrapar en la carretera Chiná-Campeche",
+  "p": "Carretera Chiná-Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXllbEtibWFhVlBqMkJ0WF9wSzFBRnV2RlFoVVlyRDRyVEtsZ3hxNUhtaVI2ejRRM0U0Y3o1T2VacWZwWXllS2s1TTRFN1MxR3RBbHdweWJ2MWoxY25uMnBCcUtRVmhReFJDcWJzUm42T294cG1qb3VNWmdDWXdmMDdaVnZydlZrS01sdHBHeHRiOXVlbmFRUFowR250RGJVVVdEQmszTlJIYU950gGyAUFVX3lxTE9qd3gycGp0WDZTUWlZcDJnS284Q0VFeFBRdW5Ba3Z2a1FGeU9jU3QzdHlnbzBCZ21hVTlYVTZEeUVxNThmV3cyRkprclFsa1pjNml3UDZ5TUZvcGtnTzM5R2JiQU5rODR1MG9JM0syWTM2cWoxaS1lRzJCeGg1S1hCMkctaHJuaTc2REFMMkhJSWxkWVllajlWUDBJZVFrYUJEelFJTkR1RGtLZl9LYW1lVXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "china campeche",
+  "id": "2026-11-02_carretera-china-campeche"
  },
  {
   "d": "2026-11-02",
@@ -209,6 +346,10 @@
    {
     "n": "Caribe Peninsular",
     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjdUQkRTNGtNS09QRnVWQ0tOc0N4MllzdEI4Rmlwdm9BWHBYM2NQMmw3S21FaHRud09WZmN5VklNSWg2cUVEVWlqVnF4enZwS2lHX2lFMHRsRWY2T1h3OEN5c3NsYU1yVXlBeThGRC1kOHRvMnVNZlNMR2MyemVGSUtjblFjc2VoR3VKSGVwRk9fVXpBaWRWOWVNcjRZMnB1c2c?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2Q1elhoSXdUb1hBWW1XMmlSTEtrc0h2Q0pFSERlM0dvNjRGNjl6SkprcUxKVy16SFBaZDk5dWhjbVlnakYwa0t1VXc2OVlnSUFlYllYN1E5TkxWYXpXZlppUG1TVk0zVC13M19xWFVEZjlsLVBZaWtNTVUtanN4Z25VZmU4Z0trSm90Mm9scm1BeVNRQkU00gGfAUFVX3lxTE5iRnNFcWwwTGd2THlCRW5VTTlaTEU0Y3N4dWFFOUtIQjZ0Y3EtbVBpMTZzV0NzWFVsWHd2cDd1RUN5RnpGOEZ2OWVCQkFIZHBqa0pYaUJCRUIyUEFUVEMzWFJ3NzZYcnBvOThCUXBCNTNPZmZ2ZU1pS0h5V3A1LWZkR2N2WjVRSGFMNkh3SHlDdElxUlY5U2tNbDVWM3R2VQ?oc=5"
    }
   ],
   "creado": "2026-11-02T18:11:58Z",
@@ -232,6 +373,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTk5UYzhQMUdkV3RxQnBLZl92NWM4SFZhamRzcE1vajdBcUJtSk1xSjRiaU0tV3ZKZEtISy1hV1dGdDZLbmVFZlI2Y3AxdjRNYlBSWWd0ZzcwTnZhQkhnOURDd2RicnpzY1M3RzhPSmxaREt0bDg1bXNWQl8xTGVsOElGWUphRWZCX0ljQzZXRnpQcm81aDBfdXlRcVUyRVJxZjROQ3hXdHNYc0dMNlZGbGRjSXZHNFNycUxiZDFwWmhDWmR6cDZqdzN1UFFGUVpGV1d2YzEyX1d6d9IB2gFBVV95cUxQTk5UYzhQMUdkV3RxQnBLZl92NWM4SFZhamRzcE1vajdBcUJtSk1xSjRiaU0tV3ZKZEtISy1hV1dGdDZLbmVFZlI2Y3AxdjRNYlBSWWd0ZzcwTnZhQkhnOURDd2RicnpzY1M3RzhPSmxaREt0bDg1bXNWQl8xTGVsOElGWUphRWZCX0ljQzZXRnpQcm81aDBfdXlRcVUyRVJxZjROQ3hXdHNYc0dMNlZGbGRjSXZHNFNycUxiZDFwWmhDWmR6cDZqdzN1UFFGUVpGV1d2YzEyX1d6dw?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDJFYmM4TTVhN3RMeVk1SHJqRVlJWTBmSklaUjI0ZGlwbEthd1lscVlZVFJrbEN1NUFNYWhUaC1YM2RQVWliLW14VkJzcE5MNlZYVjFhNmZzNVFWU0pTV3NLd2hfN0NLYzc2NWxkNTBiWVZrMjI2ZURwSzVfZHFFdFptTUtWMmk5d29YbG5lWmlYV01vYm5hYUtvVU4wc0JL?oc=5"
    }
   ],
   "creado": "2026-11-02T18:11:58Z",
@@ -379,6 +524,66 @@
   "creado": "2026-11-03T01:31:30Z",
   "metodo": "reglas",
   "id": "2026-11-02_cancun-2"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Autobús de Pasajeros se Incendia en Carretera Chetumal-Escárcega",
+  "p": "Carretera Chetumal-Escárcega",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHpVdFo5Q2xuMHo1V2tqNmVzT09jUzYySUE1U1BFUHY4U2RMR2hUOU4yclhRcTN1Wlo1WUpOQ0VIUVdpd1pjMldlTUJjMm80VTdoQ2RJdmp2SlhPM2ZWQjNwZUlBaFlZeTdmYmQya1hWbE9TMzNKdFFqbWxQUzkzMGVmMWduNC1OTnVxeF9TMWpkdXFnX2c?oc=5"
+   },
+   {
+    "n": "Quadratín Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMkc1dzlvNGhiUEtQQXdYWFhjWW5qSUpkT2dIMnJjWXhtVEFoXzhpX19MRE9YeHl1VDhUR2VrNnB5TTNGV3kzMVhMQ25JaDdzaXU5c3JRVGZYRDUzTmZoSE53eFBSZEdHUlAtWHpWZE05Ym9xbGdFbThXeGVEX01Zejd0alhxb2dQQk9WUmVTY0V5emJ1WFh1R3k1dUg1U3JjOWN6Nl9Xdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "chetumal escarcega",
+  "id": "2026-11-02_carretera-chetumal-escarcega"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Tres muertes en accidentes viales en Playa del Carmen reabren el debate sobre el mantenimiento de las calles.",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWh4dXZQQlBmV3J3ZklISWx1T0M2UWdWc0RoV3JoT1dtZ3JEU2gyTjZMUGk4Vl9CMzFpOTdMcU9tTktzQ211ZXJTek5Ha0pkMkR1RzVrNzhpdTQxRXN4dWltZ250SlpZdTRSM2xqQ3RwRFYxeExZb3JjMXB6LUFYZ01vdzc4Z3dYR1pV?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "id": "2026-11-02_playa-del-carmen-4"
+ },
+ {
+  "d": "2026-11-02",
+  "h": "",
+  "ts": "2026-11-02T12:00:00-05:00",
+  "t": "Muere mujer en accidente de motocicleta en la carretera Tulum-Playa del Carmen",
+  "p": "Carretera Tulum-Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS3UySTc5MWVEMjdZY2ZoQmdnTzJqdkdmS3FBbUZiMDRLZklJdmc0TWdxVWRoVlNhSmZ5NjJ5TWl1R0laT0RNNURIeDBtODlZYnBFSlFQMlY1Y1NvLVhNUXd1RWl6SDdheFRVV1VocVhVWGpfREg2VF9XeTNPZHQ2bEhtTzY0Qk0yWGZYX0ZmaUtHS2daU0RMQVBad2hSYVNlTFpTREt3?oc=5"
+   }
+  ],
+  "creado": "2026-11-03T09:26:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "tulum playa carmen",
+  "id": "2026-11-02_carretera-tulum-playa-del-carmen"
  },
  {
   "d": "2026-11-01",

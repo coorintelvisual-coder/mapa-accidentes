@@ -2183,25 +2183,5 @@
   "ts": "2026-09-29T10:39:00-06:00",
   "id": "2026-09-29_calle-78-x-59-a-centro",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-28",
-  "h": "19:32",
-  "lat": 20.93,
-  "lon": -89.595,
-  "p": "Periférico Sur-Oriente, km 14",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/2226654614791410/"
-   }
-  ],
-  "t": "Mazda cae a la hondonada y termina contra un predio",
-  "ts": "2026-09-28T19:32:00-06:00",
-  "id": "2026-09-28_periferico-sur-oriente-km-14",
-  "estado": "Yucatán"
  }
 ]
