@@ -2085,25 +2085,5 @@
   "ts": "2026-09-30T17:04:00-06:00",
   "id": "2026-09-30_calle-16-x-35-37-y-39-col-brisas",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-01T18:13:00Z",
-  "d": "2026-09-30",
-  "h": "",
-  "lat": 20.94567,
-  "lon": -89.58572,
-  "p": "Av. 69 x 8A, San Antonio Kaua",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/videos/1119457220511940/"
-   }
-  ],
-  "t": "Motociclista arrolla a un ciclista; ambos terminan en el hospital",
-  "ts": "2026-09-30T12:00:00-06:00",
-  "id": "2026-09-30_av-69-x-8a-san-antonio-kaua",
-  "estado": "Yucatán"
  }
 ]

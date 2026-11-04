@@ -15,6 +15,18 @@
    {
     "n": "Noticaribe",
     "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZXZQb3U5U0kzemYzU281dEdYZWtHVzBzNGN5aDh6a19IenBnNG5pVnN2OVB3RFNab2JYRVNyaGN0Z1VqYkdBbEtQdU1DdU5UZmtWaXBYN1dHUEpKYjlwM0QxY1JHMGNMTC1Wb3I4YW1TSC1iUk1GQTQxYTYzYUUzcmJCeDFYaGdwVk9zRWpXXzctTmdkN1I1VzdaWGc1Wm5LaWt3cnR2YnZyZ2RWLWg1dzhCaVV3UWM4TnZrVi10Ym9CdmE4T19BemFIRnZlUEtMN3hURzFtNHk0NEc1WHh2WDZkRUd4UDRhVDlEblpNby1ZS2c1SEVhcw?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUpIVW5xMlR0alNlVE8xSXRIclZrbndmeUh4a1RRZ2V1WHpJVkVNdkt0YXlkS2ZzcmdMWjVuVlpGS1FGbXRpaGs5bG5fbl92Tm5jYWJzbVc4N2xsMDZsMUZGcjhjSWtyX3JvcHlySnhnaHhzcUJMS05xNW1vUFhZeDlrQ3VuNGNMV3EzZ2o5TnJIeXRfSWJTc2xRaw?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZTFxV2ZNZ0V3SnF2MXhMRDZFVWwtWlZnbFlOVmpfOHF5NlRWZGJyTjcwdnEyalFwcW0zN2dPTXZOU1NYVndTY0lORGNPc2VYSWNxMUEwSV82bkZvS2l6YXFneV9rLVU5a09zZzA0UmIya1JZM1d4ck82cDJkV0c3Z3FocjBUclgtZHJwQTY0OGQxM04wSW84NmNESV9RNjNWSmlGNFBR0gGuAUFVX3lxTFAxUFpieGJRT2lGdFFQaGJ3LXB3U3o3Y0ludW1PZno4ZlZzcTNteEdqOXlXYUlEU0tQakNhSkdMWUZtZ24yUUVIeG8zRDBQNWNtQy00anNJQktQYzVaeVZqOXVZNmxYcE5YMXJSbmRjQVRPRnVzVVBXRzhYbWtndGxEbjFiaDM5NjFlcjdJWThtRXhQRVpEaHpxNHZTc1ZiaXRkd1EyRXNQYzU0QWVJZw?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZHJQN09Oa2pNZzVHOFhkT3F5LVBHTTJ4NDR6TERqOXZCa1lCaW5LYmxiUEItYnR4T3dtQndWNDFFeF83bEk5NmFhT0ZwTEY1eEV6UHpSdEZ5eUtIeXZlN3A1SkFTTWFpbWE2ZHkyTDNIQXZTVDFYVWZnOERNU3dMbXhBSy1TQURaeWd1bUF5LUl1ZHkxNTFTYWpfN2lhUDhkSFZqSXg1SXZjNjV0cEZjMVc0WnZqdG1sbEdIbS1CRjdSbk5jcXFMUENkdnM5QQ?oc=5"
    }
   ],
   "creado": "2026-11-04T06:01:34Z",
@@ -56,6 +68,79 @@
   "creado": "2026-11-04T14:19:31Z",
   "metodo": "reglas",
   "id": "2026-11-04_tulum-2"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "21 trabajadores hoteleros sobreviven a volcadura en carretera 307",
+  "p": "Carretera 307",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkxOOGJQN3pJbThUT0lCZ3dDX3IxcXRydWxZTlRIMmhXMGpFM3pMVnQ4U0loSy1GVk5YNFV5UUpBNGhnWjBSaE9MdW1DcDZKY2wxNFF6SlhrRmRQQ3RUeGs0elZsTGFlOTYyRzdVZXp4M0k4X1V1SktlVW9ES1F1bjVjVjRFdGlrOWpmZDVqOHpIZk9UOW52bmcxNVBieXhtaTg1QjZkc0JSWHZpV3c?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T21:14:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-11-04_carretera-307"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Alertan por atropellamiento de animales silvestres en Cozumel",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2VyZGt1WmFmaVZLQWZid2d0SVZCR3BKaUhnNkdYTEhSMGtfNGktdXpTY1RLZW9hR3V6Qy1QUzdSdG1yZjdPeFJ3eFdpR2hFX3hSUnBLYk1BWkx0TEpPd2w0N3k2YlRHaGM0Z0ZwV2oyRU55MkxzS2NESF9VMXBpM3psUWQ3SEJXYXpFSjNSR2JsUdIBmgFBVV95cUxPMVNhTkZ5dWJJdEM2NmV3UUhZeUx3emtKY3dzNF9ZS3VXU3FXWFRsVnFZNXgxaEp6YWNQX0U0WGhSSEVpcU0zZ1dNQlRWdWV3RktlcFNicEtKUmUzNW9JdFQyTVUxWVJpOXRKMUdyRTlaajJ3U0M4TlAzbFhEMl8tMEV6SUtXODdFaTRzR2lJekFtMDRrS2R5bGVR?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T21:14:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_cozumel"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Captan a pecarí atropellado en Cozumel; ciudadano pide señalamientos para proteger a la fauna silvestre",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2Jqc3o5X3ZnX2R0ck4yc2xabk93ejJxOVU4T0d1OWpqNlQwS3VLbUxxQWxzWkhseUxMS2hjcXRHVVlNWnE0TFFtV3hrcUNBd1dJM2ZjajBNU1d0NmZZNjhRZEZDVjRHa2Nfc21ucmRmR1NMamgwQWcyN2x5ODU0ZWRYY2dwSnBtc2Z3VW5xWVNQWmtDZUpzNUpxeXFkRnU5VG1aZ25pSDh2OHlqYjI1VlJOYXZlQ1FWQnBIZ09LdGFtVFI2d3lITG1XbW90V3NkY1HSAdIBQVVfeXFMT19ianN6OV92Z19kdHJOMnNsWm5Pd3oycTlVOE9HdTlqajZUMEt1S21McUFsc1pIbHlMTEtoY3F0R1VZTVpxNExRbVd4a3FDQXdXSTNmY2owTVNXdDZmWTY4UWRGQ1Y0R2tjX3NtbnJkZkdTTGpoMEFnMjdseTg1NGVkWGNncEpwbXNmd1VucVlTUFprQ2VKczVKcXlxZEZ1OVRtWmduaUg4djh5amIyNVZSTmF2ZUNRVkJwSGdPS3RhbVRSNnd5SExtV21vdFdzZGNR?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T21:14:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_cozumel-2"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Chetumal- bacalar: chocan taxi y vehículo particular; hay cuatro heridos",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lUEJQckNyQTgzMVRXSzVNejlZZGJaWGNYa3NHUGVha2dKY2JmTkVvQXBOcEJQRDN1NDAzaGNtNmhpUjczV0lEcldyU3lncjM0UWI1ZHplZFBMUXhzQy04Z0Q4S2xrdDV6MzZCTlpOaW9tN1VYSmdZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T21:14:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_chetumal-2"
  },
  {
   "d": "2026-11-03",
@@ -183,6 +268,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXNDbEdVQWg0bGZlT2VpbVJNcmxYWXpuZ2U3cmZKVVJOZTJXMnY1N0RBaDlPMkVocTR5dVRCTWYxNk5EN245OUlmLTUxSFdIbG9mMW9VN3hCdE9tMlpDbk9RcnNidEd1UW5jc19LYlRtRG5oWWpITWIyREM1M2gyRWhKQkc2T0NUN1kzcTJiandwVWVFblMyLUtZOXlQX2tvTGp6MFBXUnRUQUpIbmxIT0FVMHJKOFMwbEhYRjJpajQ2dw?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcjlaT0U4RkdNd0dVVHVZcHk3WlZLMHU0WGNXdVNSREpKTTZSQmtMZS1uNEhlczhldVNvaU9RcVUzWlgxZnJvWUpBSU9DbnM5ZUJDdTV3aDlYbjhiaWpDZ0tPSmhSZ3pHWmdZUmlRTnNxNlpicVhKQjBERWxNUHFZV1JaT1dhOFdQYUVFWnZZdEdaWlRQRnQ3b3NWZlNGSWIzcUhnZzE4Z3prZnRoaGotdUVSWDlLdmlkM0s5Zl96dHZJRHNycGZhZWcyY2pfbzNqWS1hMVF3?oc=5"
    }
   ],
   "creado": "2026-11-04T06:01:34Z",
@@ -11436,21 +11525,5 @@
   "tipo": "vial",
   "ts": "2026-10-07T12:00:00-06:00",
   "id": "2026-10-07_tizimin-rio-lagartos-sin-tramo"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-30",
-  "h": "10:29",
-  "p": "Sin ubicación en la publicación",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Conductor se pasa el alto y manda a un motociclista al hospital",
-  "ts": "2026-09-30T10:29:00-06:00",
-  "id": "2026-09-30_sin-ubicacion-en-la-publicacion",
-  "estado": "Yucatán"
  }
 ]
