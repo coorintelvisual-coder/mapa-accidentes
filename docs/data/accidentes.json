@@ -2105,25 +2105,5 @@
   "ts": "2026-09-30T12:00:00-06:00",
   "id": "2026-09-30_av-69-x-8a-san-antonio-kaua",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-09-30T23:00:00Z",
-  "d": "2026-09-30",
-  "h": "03:52",
-  "lat": 21.0073,
-  "lon": -89.6322,
-  "p": "Chuburná de Hidalgo",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Motociclista accidentado; lo trasladan al Hospital O'Horán",
-  "ts": "2026-09-30T03:52:00-06:00",
-  "id": "2026-09-30_chuburna-de-hidalgo",
-  "estado": "Yucatán"
  }
 ]
