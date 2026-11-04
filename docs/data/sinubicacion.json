@@ -1,5 +1,27 @@
 [
  {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Choque en la 307 deja casi 20 trabajadores del Conrad Tulum lesionados; conductor del auto huye",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm1pN3FwUkc1ZHlORFBMMEVCdXUzUS1JNlM4U3V3dWFmazRzUjJQME51MHEtNVJwU3duMU5sd1ZwWUgtSkc2ZFJQaUtSNUpSZkxjeVdYWkJQdmRleTFzRWdFTHAyb2lCbGxqS2NvRzlQVDdVaXJEdThxWlEwMmMxd3otRHg2dw?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZXZQb3U5U0kzemYzU281dEdYZWtHVzBzNGN5aDh6a19IenBnNG5pVnN2OVB3RFNab2JYRVNyaGN0Z1VqYkdBbEtQdU1DdU5UZmtWaXBYN1dHUEpKYjlwM0QxY1JHMGNMTC1Wb3I4YW1TSC1iUk1GQTQxYTYzYUUzcmJCeDFYaGdwVk9zRWpXXzctTmdkN1I1VzdaWGc1Wm5LaWt3cnR2YnZyZ2RWLWg1dzhCaVV3UWM4TnZrVi10Ym9CdmE4T19BemFIRnZlUEtMN3hURzFtNHk0NEc1WHh2WDZkRUd4UDRhVDlEblpNby1ZS2c1SEVhcw?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_tulum"
+ },
+ {
   "d": "2026-11-03",
   "h": "",
   "ts": "2026-11-03T12:00:00-06:00",
@@ -108,6 +130,78 @@
   "creado": "2026-11-03T23:12:31Z",
   "metodo": "reglas",
   "id": "2026-11-03_muere-jesus-de-miguel-delantero-del-tenerife-tra"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Cárcel en Yucatán por difundir fotos de cadáveres o abandonar atropellados",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXNDbEdVQWg0bGZlT2VpbVJNcmxYWXpuZ2U3cmZKVVJOZTJXMnY1N0RBaDlPMkVocTR5dVRCTWYxNk5EN245OUlmLTUxSFdIbG9mMW9VN3hCdE9tMlpDbk9RcnNidEd1UW5jc19LYlRtRG5oWWpITWIyREM1M2gyRWhKQkc2T0NUN1kzcTJiandwVWVFblMyLUtZOXlQX2tvTGp6MFBXUnRUQUpIbmxIT0FVMHJKOFMwbEhYRjJpajQ2dw?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_carcel-en-yucatan-por-difundir-fotos-de-cadavere"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "CFE mantiene sin reparar registro expuesto por la colonia Puente Viejo, en Champotón; vecinos denuncian accide",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVnBpVDBzYnJ3S3Y0Qm9oWmZGS3NzWkl4SG9VZ3lOQzdsWFZzQjlVNDZIbms2cmpGanBTYnFwd1NWRk5WcjJQREhyQ1dvUDJVbkZQU2NvWi1teVFNc0ZiemhvWDJEblRyQ3kxWHNpeXUySUdmbFdnVUVHRTk4ckFwcTdhclhxdEMxSTk2d1NZdVlpQjYyakotb19lUzQ5V1hybDZITDVKWjY2bTdCQ3JKUzNGWWVJREdBa2ZQeDB0OTlxU2RTcWtxWVdoZUNmX0pBblVsNk51dnEtQlhtaE9tOGV4SndKSnczN0HSAe8BQVVfeXFMTTdsSXhxVE82b3BZOFR5TDA1TVF2cFYxUUh0Y0lUWGNXZnFQNXVXWV9mWGxZLUl3WEt5ekFYd3pFMFRCN2U4bVJtZW1weVhpV2RQTG9XZldBd3pfc1VFWGN4X3JJZkRJRFI2aWp0eEJDZ1ZCZ3NPQk1SZE55RUNwNkxYdW95Z0x4TlZaWV9QdjlmWWItVVo4REItRExSdzB0NkpoU0RzXzh0aXhwWHlNZHJWZ0VwMG1tdU9mbWxQSTFXOHFqOENtdVpFOTUzWE5janNSQmg4YnFvTDh4dC1wOXdDMFhwNTVBYzNZa0ZsZWs?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_champoton"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "Accidente en Motul: motociclista cae en un hueco y deja su moto abandonada",
+  "p": "Motul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNHFZOUswUDdwWWZDeEJqUXcxeEgzS25xWXhmazdlQVkwcXI1djB3WS0tX0R6cWM5bm10SDVwU0pYOTJsRzk2VWhIdG1WeXFDX2hTYmcwSzNVdFRZdXhwdEdITng1NTRybDNrYjB4MXN5U0pvaW43dnY1eWVjUHQ5a1JrSWZjV0laSXpLbFh0clRMX0JNWEhKMlJ3YXFaNFZzUEFxTWpRMVU?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_motul-2"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-06:00",
+  "t": "¿Murió Lenny Kravitz en el accidente del jet de West Palm Beach?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVg5NWNuU0lidjAyV2Z5b2hzN2pwVnB2QlpCcEQyN09scGNEdy1lWFlDUFVySmtLU2ZWT1hFX0lNRzAxVFk5Si1VOEV0X21aTlBFNHhxVEJHaHdtX1Z1U1E5bGtScUJ1dU8yb0d4TTN2R21rdXU3MDR0b3hDMWNWM1R6Q0ZXYW9iOHVTSWduSmtjYWljN0p3dWlOSW5zTks1SHJsUl8yNWRRMUtzUU1VTUM5TGRsQ1dmdFE?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_murio-lenny-kravitz-en-el-accidente-del-jet-de-w"
  },
  {
   "d": "2026-11-03",
@@ -314,6 +408,78 @@
   "metodo": "reglas",
   "clave_lugar": "bugambilias derriba a un motociclista",
   "id": "2026-11-03_avenida-bugambilias-derriba-a-un-motociclista-ch"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Autobús de personal del hotel Hilton Tulum fue impactado por auto y volcó con decenas de empleados a bordo",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2ZlZEtreEZMRTBEdE1MclJmUHpXaWFTVGdtbVlPWlpZZWx3MGFDWFBuSEhXWVBVNmQ1Z2lPcmdocUE4aGxhSjFBUVBiRk1GUjBGdW51ZmYxcnpvd290SkJZQVpRcXpqWVFLY0RqOEt5d0ozVUFTNGZhZXkxamFTZ1gtVGxqbEdsLWRGUTFrSTRTZ1JJS2VpRE5OeG00UDYxTnZOV08xWkFlanRWZ3h2UFV5U1htUWZvazE0MnljVjJhYlVPMFBFRHctU0dtbTZ1bFhqLXBFb9IB3AFBVV95cUxNYXU2WERhSHpuVTBJNHp3V25od1VFT1pHdUVTSG1TZXpoTnlnVmJCc0IwNGVYcVJKLUVadUJPbW5kY2VHbVhYdU1RWmpxaVBQRVcyU2pFcjZkMnFqcmhabFZFWk1NUThfRzVSTkxyVzhqOFViLWRJVGstTDl3RUFUUUhBT1ROT3JYQjBqYi1hbTlpNlI4ODkzdDVrUlN5Q3FjbExjclR5bHpJWXJwQTBPb2VrRWhEbDFwNEtJUGVFVU1QVXlhMHhKM3lTLUhqMnNhRmNHWmpFbXQtZTZi?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_tulum"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Camioneta vuelca en la Chetumal-Mérida",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFNqRDV5UER6ZWx4Z01na0RLNDJEYW8wTkh0UXRkWjlVVUExOFBlNFBqSjRYak9oRGdaczJqNFozM3B0dXVoYjQzTjdUZmlUQ2UxeENMYnFXOERlNDgwak1oNl95SU1mVGJnUTZuUmItbFRsOVpaUE5fcHU3RTRPc0FB?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal-5"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Incendio consume habitación y causa daños en vivienda de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVJsWTRlbmVVcUNYZkJuSl9jbHE4RUlnWVJReTNDd3l6MHNaWjhRS0tsSHloRmphSlUyR2dZSnhJWGRmNm1lckFxT3dZanVGeF9pVUI1bmF2dGRxTkFjLXlCVUk5X09TWTJsb0lXeWxTbEdFTFBzUEUtTUEzOHRFRE1Ma0JuRVMtdDJzRUdpaWVyNXJ0?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_chetumal-6"
+ },
+ {
+  "d": "2026-11-03",
+  "h": "",
+  "ts": "2026-11-03T12:00:00-05:00",
+  "t": "Urgen mayor coordinación y equipos cibernéticos contra la explotación infantil en Cancún - 24-horas",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "24-horas",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmx2SXhuR3hPLVJWelZ6YjBrckJTbGdwSS1XVDhaRUdHTUNfdi0tNlhWTHdEMmhtY2hfNmNDN0swYVYyS0d2dVdQdkZZelQxM0dnZWo5LTNERXdhWGx3RFVEVmd3TUJiaGVPNzJzaHVBSXRHTTJlZEZEeDZ3MWNBcUlPUUxMOFkzOGY3RUEwZkEwNVF2TC1XNTZ0VXk5Nnp4aVVmZHNuam0zQXVyWi1nQzl2aURyMFlF?oc=5"
+   }
+  ],
+  "creado": "2026-11-04T06:01:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-03_cancun-2"
  },
  {
   "d": "2026-11-02",
