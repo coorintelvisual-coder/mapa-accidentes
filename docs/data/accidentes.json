@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Accidente entre motocicleta de plataforma y transporte público dejó dos lesionados en la Región 100 de Cancún",
+  "p": "Región 100, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ051SzJoMlk4MDhVRnlhZjY3LVFBeHljYUllMXl3OEU1QUgydkkxMFoyT0xWeXRJT2JpQUdhbWVRUWdReDM0Y2Q3SzQ5b19JbnVQSUEyaC1jdU1vc0d6clA0bGtiY0Z1SXpzTFhuejg3ZFpnVzdzRkYyMTBubGxTclpXd0JuSGROa0lCc1pDTFhxZWpiSlFLOVRGd2pjenVNVm00bkVaWGdRN3kwNnhtQzh3M2Q5aHc3MzZ0V0VTcVRFczVQUURWZ3ZoVTd0VDN6MWFIdTNpRU96aDVT0gHcAUFVX3lxTE1DTnVLMmgyWTgwOFVGeWFmNjctUUF4eWNhSWUxeXc4RTVBSDJ2STEwWjJPTFZ5dElPYmlBR2FtZVFRZ1F4MzRjZDdLNDlvX0ludVBJQTJoLWN1TW9zR3pyUDRsa2JjRnVJenNMWG56ODdkWmdXN3NGRjIxMG5sbFNyWld3Qm5IZE5rSUJzWkNMWHFlamJKUUs5VEZ3amN6dU1WbTRuRVpYZ1E3eTA2eG1DOHczZDlodzczNnRXRVNxVEVzNVBRRFZndmhVN3RUM3oxYUh1M2lFT3poNVM?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 100",
+  "id": "2026-11-05_region-100-cancun",
+  "lat": 21.153711,
+  "lon": -86.868533,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-03",
   "h": "",
   "ts": "2026-11-03T12:00:00-06:00",
@@ -2005,45 +2028,5 @@
   "tipo": "vial",
   "ts": "2026-10-07T12:00:00-05:00",
   "id": "2026-10-07_carretera-307-fcp-tulum-cerca-del-aeropuerto"
- },
- {
-  "creado": "2026-10-01T18:13:00Z",
-  "d": "2026-10-01",
-  "h": "12:00",
-  "lat": 20.9295,
-  "lon": -89.5155,
-  "p": "Mérida–Cancún, a la altura del Cedis de Walmart (Teya, Kanasín)",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/photo/?fbid=1638596740965121"
-   }
-  ],
-  "t": "Fuerte choque entre camiones en la Mérida–Cancún",
-  "ts": "2026-10-01T12:00:00-06:00",
-  "id": "2026-10-01_merida-cancun-a-la-altura-del-cedis-de-walmart",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-01T18:13:00Z",
-  "d": "2026-10-01",
-  "h": "11:55",
-  "lat": 20.99697,
-  "lon": -89.70087,
-  "p": "Ciudad Caucel",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/videos/1781004863049142/"
-   }
-  ],
-  "t": "Dos motociclistas lesionados en Ciudad Caucel",
-  "ts": "2026-10-01T11:55:00-06:00",
-  "id": "2026-10-01_ciudad-caucel",
-  "estado": "Yucatán"
  }
 ]

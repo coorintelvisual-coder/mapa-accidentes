@@ -2,6 +2,80 @@
  {
   "d": "2026-11-05",
   "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Dos autos vuelcan tras fuerte choque en la carretera Mérida-Tizimín",
+  "p": "Carretera Mérida-Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRml5eWVlSFVoYWRWcVBMNFFqMjJ1M2F4OHcxMUV0MWNvQnRfcWVjejNyZkdjR0N4a243RDBNSEx0WmlKMjF5WGtmbjFkOWprckM3bzY1cUd4SXF3WWF4QkpPUW9NWmhPUjVZeFJ6TXRuLW8xa1NXdFF4b0xRZjllZDJwVFJDNzUwYjF0RjlkNS1adDkyMDc2RHNqUzg5YW5KUlptRmVGN1JOS0xCNEVqNdIBsAFBVV95cUxNRml5eWVlSFVoYWRWcVBMNFFqMjJ1M2F4OHcxMUV0MWNvQnRfcWVjejNyZkdjR0N4a243RDBNSEx0WmlKMjF5WGtmbjFkOWprckM3bzY1cUd4SXF3WWF4QkpPUW9NWmhPUjVZeFJ6TXRuLW8xa1NXdFF4b0xRZjllZDJwVFJDNzUwYjF0RjlkNS1adDkyMDc2RHNqUzg5YW5KUlptRmVGN1JOS0xCNEVqNQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida tizimin",
+  "id": "2026-11-05_carretera-merida-tizimin"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "¿qué pasó con la niña mordida por un perro en tizimín? revelan nuevos detalles sobre su estado de salud",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNW95V0pJU2xTeFZvUmFzZVA3a1Zzc2hJQzZkdXNyQUFURjE2bkdXbU50NWZ1T1l1WjhfUi1wcDRHZ24tT3ZRMzRPVnhXR2xITGVJeEZhVV9pTW9zYkVhalF0WWJnWXJlc096XzZwVDRrX0pJQnkyLWFhYUpfZWRUVnBsV1FpbWthc3BkZkFWcm83bjNXa1RTcmkteno3UlBTUnM0NWRmWGE2NnFSdW9RNjQ5eHBHX0JOTkwxRzNRZmJDYzBMRmdlVmFwNWhaV0laaVJuNFNfMk0?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_tizimin"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Fuerte Choque Deja Dos Vehículos Volcados en la Carretera Buctzotz-Tizimín; No Hubo Lesionados",
+  "p": "Carretera Buctzotz-Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXhJNUR1WDJuZVEzRnd4WDRCUmhqMmVvRUtyX2NSODAxNFA0dk1DMjZFa2ZJZWFmMW9pdWFBY0tvODB6LS1NZF9xMTN5ekU2bW5VaDFZeDBDZXBJSC0zczhrTzQ5emh6blZOZm04QmFzSmhpMEREMEhlNTdwcXNuTHhVSEVzSTQ3X3ZyUFRfVWhicUpoc3pKX1pha0l1TExxTDBydElvX2k4SnBYMnJaRHRLNmxpWjhnTzFoRA?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "buctzotz tizimin",
+  "id": "2026-11-05_carretera-buctzotz-tizimin"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Menor sigue hospitalizada tras ser mordida por un perro dentro de su casa en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUptVW5kSC1Tb1NUX0NjclBxTjVUU3FoN3NMclVaZ3E4WjNZWmZhQXhpN3lwajMwY09HZDdxLVZyOGJCVmRsV2hTYnBZeV9OcHQ5ZDZDc2ZsZHgwV0V3YWkzYW5SZzBlNkhsd0ZCMEVfYjRiLW52bFZIYXVzaVNfZUdESEdBZk9jbmtLampNT2VBSldfUGlCZDZpYzBadGZhemc5SzE2OGjSAagBQVVfeXFMTzVKbVVuZEgtU29TVF9DY3JQcU41VFNxaDdzTHJVWmdxOFozWVpmYUF4aTd5cGozMGNPR2Q3cS1WcjhiQlZkbFdoU2JwWXlfTnB0OWQ2Q3NmbGR4MFdFd2FpM2FuUmcwZTZIbHdGQjBFX2I0Yi1udmxWSGF1c2lTX2VHREhHQWZPY25rS2pqTU9lQUpXX1BpQmQ2aWMwWnRmYXpnOUsxNjho?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_tizimin-2"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
   "ts": "2026-11-05T12:00:00-05:00",
   "t": "Cancún: viaje de Didi Moto termina en choque; conductor y pasajero resultan gravemente lesionados",
   "p": "Cancún",
@@ -16,6 +90,61 @@
   "creado": "2026-11-05T10:43:00Z",
   "metodo": "reglas",
   "id": "2026-11-05_cancun"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Tres lesionados: se vuelca van turística en el tramo playa del carmen-cancún",
+  "p": "Tramo Playa del Carmen-Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jczNxWGhrLWI4SGJKLUN3dEtKenZtaHEyTjhmdUJRaDNMVWZad3pWemJxMk0yMUR4SS1RMTBZV1JHVTZQUU9YWFJBLWowQVQ1X201b29kQjhsQ0xpeTBway1BSTE1T1BLMFluaG5CX0plSGJsTW9Z?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen cancun",
+  "id": "2026-11-05_tramo-playa-del-carmen-cancun"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Carretera 307: choque entre automóvil y autobús provoca volcadura cerca de Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb1ZWZnBSZlZnYU9XakVrM3lvYll1RUtNNXRQdUJFUHBDd2lNaDN6NmJBcjE3U0hEU3pFODcwQldFZENhbkhHTUFfRGRUeTBabGc4dkg5RnBHVGd6dXI1NGZKNnJkVmxEa0E5TXJmUWtwd2hhY3F4VXYwSmpRZktBTVZlbGxXekZHanFKMHRYVk9FV1JkT3VMQTJZdlEtVDhUNzFKZ1kxRTNkZ1FZcC14RjdjZHo2WkZPdFJsZGdPblhqVVBNMFB0RzczOEo?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Camioneta choca a dos hombres que viajaban en DiDi Moto en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZERVNEhnT3M5aG9rVDdMUU1JQzltQUMtRXhfbWxNcXhNUndZOUVnUDQ2MXJTdUN6Zm1UOG8zUEczRmoyUlFfU2ZfOE9ieXNRTk9rSjhlZVNidDRsRHN0ZUNhcWhXVTU3WEJ1amdwYTJGZlc3X19pc2w3N2d4eU5wYmFfbGxEM21mRkUybjFCR2piUE15?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_cancun-2"
  },
  {
   "d": "2026-11-04",
@@ -403,6 +532,24 @@
   "creado": "2026-11-05T10:43:00Z",
   "metodo": "reglas",
   "id": "2026-11-04_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Incendio de basura moviliza a bomberos",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IT0F1YzJIRC1oZGFWM3R5NTV1dXE3OUpBMnV1OFVkOG5IaFFuWElyeV9OVTFoelE2bjdpV3pXRjdnc21FT1NkckFZcTVXTm80bmtsVmt5RHFnelQ1cDRObktWcXM2RmdyOXJ6MnI0QzAzRGvSAXtBVV95cUxPOGhOZ1JoOVdZV2hybU43R0RjSG12Nk5SZHpYekl6OFBoS1VMZjdSODJaUXd4QV9FWFp6QWlYM3owZ3BlaW1vZGl3dzlrQUZYWG1KT1czcS10MF91MGdLWXRDMzJWS3F4NDctTFE1R1VQQmNvNFB0czIzZmM?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T18:40:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_incendio-de-basura-moviliza-a-bomberos"
  },
  {
   "d": "2026-11-03",
