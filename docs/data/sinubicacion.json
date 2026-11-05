@@ -2,6 +2,97 @@
  {
   "d": "2026-11-04",
   "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Carambola de 9 autos deja lesionados y daños en la MéridaMotul",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTVQtcm9fenNwbmtab2FxRkl2MHZCdWNGMllBMGVsdWNkaldXQ0g2VDlxSjQ0MGlBaHFqdTh1b1ZIZ05oanlfOTl6Z3otNDFfN05JMlJFbUhuMkVTRjEwUG43MENZT2RSMGUwb3FPc3YwRzItTTJ1R3o3aUZYYTNta2lETWo1S01ZR2J5Y1ZIdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_merida"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Accidente entre taxi y motocicleta deja a mujer y menor lesionados en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDNnSUFWNFJIMFoyRC13aFF0TGFOYUl1aDR4TkxYZ0RPY1dGaGdmQm5fQXNMV0Q1WEc3T1d0Z2kwUVNzd2JKaGgza2cxVTZaNXRPY2t1QWJQZHpTYy1XeFVUUXZ1ZUpqeE8zNkw2NlU4Qmdvbm0zMEhvazVvNEUtaE1sbE5BZDFCRjNvNkt3eENodEd1Z2lJRm9aN0R4aVBHSUprMm1nSUpndVhsTHFOcg?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_campeche"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Choque hoy miércoles 4 de noviembre del 2026 en la Mérida-Motul; ¿Qué se sabe?",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOEZSbllMR1p2X1ZRNGhUaFl3andXMFQyUGkxWktXVkZ6V3hCZUtZOVlRbGZma1EtWEZ5dnlvNFU3Z1FjbER2dk42bld1YjlMX2JyeUoxdTRWbF8tVjBnMUhsd196Vnl3d1pTeC0yS3I5aFVBOGpGQkllZDg0QUJkOUxZbk05UDM3QUZRMWp2TGk1RVM5Znpmc3JwMTlDSzVzem9RNE5aQnJHM1pCQV9qV0dHZU9SOXhGWEsxRHBQVzNxck1NLUhZekVhcl9DamNhYVFNSVEzTVRQVmhHZTRj?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_merida-2"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Ciudad del Carmen: Choque entre automóvil y motocicleta deja a mujer lesionada en la colonia Héctor Pérez Mart",
+  "p": "Colonia Héctor Pérez Martínez, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeHRTOVdseGFudHNiN1FUS0dMQnF5N1hpRlVBUTBxa3llaVFKWldyRkVQYnJ2S3lWUEQ4aDVabzZkZjBlWkd2dFRmdVZMMEpjd1p1WDBDWGJnYUwyWjRTQ1lqYmlVNjVBS2YtVHUtMllGQ0I3UTNRSWtEbW94MmxTc0RZQmhiREtKREVobkJ0ZVNMaG4ycXUtTkFNZ0ZqZFJYdHprRW0zUjZDM2J1MHVJcXlteUpqRFdodVFFazFoUWxSVVZ3djZaWFNoVXNCNE5JbU16dGxYU0pEbExDek1kbURtQU9BdERlUVBra2x4ZEjSAfABQVVfeXFMT3h0UzlXbHhhbnRzYjdRVEtHTEJxeTdYaUZVQVEwcWt5ZWlRSlpXckZFUGJydkt5VlBEOGg1Wm82ZGYwZVpHdnRUZnVWTDBKY3dadVgwQ1hiZ2FMMlo0U0NZamJpVTY1QUtmLVR1LTJZRkNCN1EzUUlrRG1veDJsU3NEWUJoYkRLSkRFaG5CdGVTTGhuMnF1LU5BTWdGamRSWHR6a0VtM1I2QzNidTB1SXF5bXlKakRXaHVRRWsxaFFsUlVWd3Y2WlhTaFVzQjROSW1NenRsWFNKRGxMQ3pNZG1EbUFPQXREZVFQa2tseGRI?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "clave_lugar": "hector perez martinez",
+  "id": "2026-11-04_colonia-hector-perez-martinez-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "¡Todo quedó grabado! Turista argentino e instructor MUEREN tras accidente en Brasil",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGxKTHJCRlBaQ21PNFh6RlMzNXFJQWtEQnZzWVRwdFVoM0VjOTlQTFhva0REcVhUc0hhN3M4WktpRHZTa0JjaWNmdEVoaFJQNGtnNnhLa05sNWNwcHhWMFJMVVhibTRqaFlndm1DN1dNV1h0SURpME00dGRjVDNtUWNXSnIyd3ptX2ZKM2NCZnBHWnlSNGJDSFdHbXZtc1pMT09XMDhQNTZTUTVUWE5wakxqU0ptXzlrdEl0NG1TMGVfd2ZvRzlRVHo0TQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_todo-quedo-grabado-turista-argentino-e-instructo"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
   "ts": "2026-11-04T12:00:00-05:00",
   "t": "Choque en la 307 deja casi 20 trabajadores del Conrad Tulum lesionados; conductor del auto huye",
   "p": "Tulum",
@@ -63,6 +154,10 @@
    {
     "n": "PostaMx",
     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0pkNWpUU05HYndfdllCTTVybU1EM0ZjWEVXNDFSbW9vcUJZN05EYm5pbUZYa1FuSTRvSUJMYkdQczJkdUVuNVdtSTlkbWJoVVhfZzR6dUR3MG1HMW10RW5QRGRWYXF6ZllMblZJQkc5Zzlya2l3VGFMNUdyLWhJMGZPeEtmSGF0UVZBaUhBQjEtWGVpZlo3Y1RLcTNVSDNKVTdRZkQ3ek9TUWNVcV9abnN1LTdlU1lVZXJueDFsQ2PSAcYBQVVfeXFMT3F6b1lGdjJLeTRibnFPeWh4VHJMZXRBcy1xZDFaZURseWV6Ti1FbURWNEEtRTk5bUh1bHdVUy1pWTc4X25TTnViNG1VQ3NyVUZsaVBESTFXcFUybjdFRXlpQ0ZXMXhTQzRvRVh5cUt0TnR2QVYxWnMtejNFZ0xhdW9JcDlIaWZlaW52SlotdFlnN0MyeE1uRV9IdmxQZmwydWQzWHJtRS1QbWl4NXUzX2xXeGhEaURhVTJwLXM4cE9nbGpoYjRR?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVzV5ZUMtUWVqQ1FQWmx6dnZwZ19pWjdRWVJhQjRGWW9KYV9Qd3J0Sk1YWU1ZM0tMMHN1Q0lYT3FHZG9qcWZ2RXRTbjdJS0NGRG45RzNCV1pvOTctWVhZNEV3cXhmOVZjOTlFMzJIY2xkTXphS3M2LVBxcnVKN2tUSnVUbXFPSVNNYV8zTVhPTjRvelBMbVFSazl0MUVTc0xGcUpIbUNVUExDR0NXNWhJUW03WlY4LUFJN1BtTEttYmdGNzliN0xPcFRmVWtieWJ0ZFhCdy1mMGx6ZGc?oc=5"
    }
   ],
   "creado": "2026-11-04T14:19:31Z",
@@ -118,6 +213,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX2Jqc3o5X3ZnX2R0ck4yc2xabk93ejJxOVU4T0d1OWpqNlQwS3VLbUxxQWxzWkhseUxMS2hjcXRHVVlNWnE0TFFtV3hrcUNBd1dJM2ZjajBNU1d0NmZZNjhRZEZDVjRHa2Nfc21ucmRmR1NMamgwQWcyN2x5ODU0ZWRYY2dwSnBtc2Z3VW5xWVNQWmtDZUpzNUpxeXFkRnU5VG1aZ25pSDh2OHlqYjI1VlJOYXZlQ1FWQnBIZ09LdGFtVFI2d3lITG1XbW90V3NkY1HSAdIBQVVfeXFMT19ianN6OV92Z19kdHJOMnNsWm5Pd3oycTlVOE9HdTlqajZUMEt1S21McUFsc1pIbHlMTEtoY3F0R1VZTVpxNExRbVd4a3FDQXdXSTNmY2owTVNXdDZmWTY4UWRGQ1Y0R2tjX3NtbnJkZkdTTGpoMEFnMjdseTg1NGVkWGNncEpwbXNmd1VucVlTUFprQ2VKczVKcXlxZEZ1OVRtWmduaUg4djh5amIyNVZSTmF2ZUNRVkJwSGdPS3RhbVRSNnd5SExtV21vdFdzZGNR?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZXVBZjdKXzdZS01GbFNNU3E5Sk5aMlY5QUpWZzI3a1VvcThxMFhOVWlGeHRxSnVJTHZFbUpYZ0dObVJUTG5OQnFsay0wLWdQNzVtV2V2WFZKWGVPbjFmOFRjMUM3ZlE0MF9GcUNNNFNqcHZ0dFFaS0lFYlRmTF9mTThsVjRnMXdXSnRSczVaOS1IcUtHY0pwTVFYYnNlYmphQU14RERJREVGOE5KaXl2VWJORHFLXzZMaUFwcGs4UF82UQ?oc=5"
    }
   ],
   "creado": "2026-11-04T21:14:07Z",
@@ -141,6 +240,79 @@
   "creado": "2026-11-04T21:14:07Z",
   "metodo": "reglas",
   "id": "2026-11-04_chetumal-2"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Reportan cerca de 20 lesionados tras choque de autobús de hotel Conrad Tulum y auto particular",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXdTazVOS21rUjVXZUltY1Zsb3dPMFNWbVk2TEY3ZzZpZFJGVXlxb1p3TFRvXzktZkJHM0tDN3N6M1BMZ3BMNnY3c0JuZFJpTUxFaUFjX0E5aTY5aG1mSGtHSkllamRkd1N1czdOOFNRaWNSd0ZNdWk4RUVUNG9ubTVXRGdNM1Jwb1JVX09HLTFjelJUOTQ5Y1UzWGxPVUhlOUVpZjVMSFcxdTFQbkRlRUJ5OF9qMjNmc2U5QkF1Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_tulum-3"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Cinturón salva a trabajadores tras volcadura en la 307",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1VTcnVJMm5RTjhQY3daM2ZNMWZ3cUJ5Sl9aMWcxLTNoaWsyVU93U3U1dHFnb2xISG1CUzZmV19ETklneHBGNEVUQmRkeTAtMGl2Q2taMlFtekRoZ0ZwN1paZGdiTVNMMmdESjFva0RsaHRVbkN6R1BCSzcwalBsYVhJZ1ItZVFzWmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_cinturon-salva-a-trabajadores-tras-volcadura-en"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Muere Mincho y crece la incertidumbre por los ocho delfines que siguen en cautiverio en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Enfoque",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNDREQ3BCWE4yNG9RMHBOSnJ2VDhsTjZTSU1Mc0ZjdlZOMVNQMVp4SzU5NElNR3NxbEtzanRUUWRCdHA2OUtXUkdBNnFDOEQ2UG9TNGJtNlhWRWduTzVOdUxyQ1VXQTIzRmxQSHVYVmhtT01ELUFveVE2SElxb3RLN3FkVEhYTFBRYnpmX2hrdEp4WUp3cVpxSTBGaDZ3eUROQ1pZeS1PSVozOGs2azE5UHpNMGtreGVZWkpTYnhxYkh6dzVkWnhFckhRcFhSaUVBUDVUa9IB2gFBVV95cUxNZVJla3NRNzA5RU5XRjhBdEZ2QnZkS1k5N01vQ1FLbU9TUF8xLXVjdEN2cGNuNFJGVEtrT3A5SUtfZG5GSksyNWJ3UHo3TmpVZC1TdHBHOXNWcE5nNENVczB3NlhUSmN2WEpZYlJra2d3UGVYWl9mR2pyVW4zTURONmJHUElCNEtUVFd6T3FRbzVybGpscVd1NVRzU1JPOTZpZnVzMEFsUE5mcWtQNHZlbVZUR0FTNG1JbGdza2V5QVFrcXd1bFJ2VFdOVkZwdEhCMzNNRExJanprdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_cancun"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Fuerte choque entre dos vehículos en la carretera Chetumal-Bacalar deja personas lesionadas",
+  "p": "Carretera Chetumal-Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTUdVbjlQbmhOWHI2V1dhakVHR2FYdDV1SjhJU0pkckFIeDBxM0FVdWVCRi1RbldOcTBKb0NXS3dqeGpkY2N4eGhPQ0J6TlNpbzBwZ0ZhNm1DV3ZOVUhkd0NrazBsS3F0YS1LaWgxNWZmVWJ4TlZ2RllnR1IyeFRMZmdrVHdPVkdwYmYwM0NrTVFCUW5xelM2VnJqdThabEg1Xy1EQ3R1ejlHU21yV3d6UEJLbHROWFlYYm1oXzFJOVRUTzIyel9BSWxnbzdWQVFz?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T02:15:03Z",
+  "metodo": "reglas",
+  "clave_lugar": "chetumal bacalar",
+  "id": "2026-11-04_carretera-chetumal-bacalar"
  },
  {
   "d": "2026-11-03",
