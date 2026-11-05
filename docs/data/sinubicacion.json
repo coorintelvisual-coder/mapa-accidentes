@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Cancún: viaje de Didi Moto termina en choque; conductor y pasajero resultan gravemente lesionados",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMjh5WHdfWlI1VlpJb1Q0YkJ2TDZYTXdtWHFNMVpmMWJWZXhBYk9iZEVTMlVIS3ZMd1k5a0ZEUnBMT1BCNThWSEtjNEszMXhtRTVWclc3bVllYkJ3bTVyVEtvTG9JNUUwMVRtbVJDdjh0TlVySjBad2JsME51dy1IeERsSGFkRVF0cWlHSTlsMUZjeTlSSDlsMnN3VVJrcS11U3EzbHBDay1WZGktT1dvVUxnZ1dERlNQa3BVM19pSlh4TTB2MllN?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T10:43:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_cancun"
+ },
+ {
   "d": "2026-11-04",
   "h": "",
   "ts": "2026-11-04T12:00:00-06:00",
@@ -89,6 +107,60 @@
   "creado": "2026-11-05T02:15:03Z",
   "metodo": "reglas",
   "id": "2026-11-04_todo-quedo-grabado-turista-argentino-e-instructo"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Colisión múltiple genera caos en la salida a Motul",
+  "p": "Motul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMm9MMV9GUGZ1NThyU3J2ZkZTX245X3Q5ZlpjeFBzUFB0akszczFYS0hTbkhVUFlsQXZ4OTJ5R1U4dWFmcm8tRjJpNVlzUmx3X1A0SHBYazBlTzF1OUNSZENUTDZxamZPS2xEYWItMUoxeFdKdWlIZVp5WWZ0RVJsSGVuTTd3SlJGenVfbGEzbXNDQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T10:43:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_motul"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Tres personas, entre ellas dos menores, resultan heridas en choque en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXk1SjNzOV81VkZOLXVPZk9US1N5QnRwRU9sRGJlMmlpMEVUN3pHNnNpcXNzYnZLUGtoUDdLaTg1TzhaRkdaTU1pVmRCVGxnVXdzT3pyQnZ1SXdqTVJCRm9QYk0tQ0J5SlROM1Zmd2w4cTI1NFdKMlNVQkw2bzBlLXdoSTRnZlRKalhBM0hKRTFCMzFhSnZ1d0ctb2FlZUg2V3JaTTdVdlJSaVEz?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T10:43:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_campeche-2"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-06:00",
+  "t": "Última hora: aparatoso accidente hoy miércoles en el centro de mérida; reportan una persona s1n vida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOckpacTFYd29QWldXVVM1cGEzd1ZfaTRJUXdsTTRHUnBFNi1UT3FHQ2ltMWdvOUJBRnNDY3NFOXpjT1pmMjc2UHpraFN0aUFuMmtGdXJ6RVBEQ3J4QkZaZ1lXa2VyYnVXc2ZzQmNYVjlLLUZfMWl0OGs0Z0Q4NGItMG5HTEd1RGp0OFpJNXE3OFFFOWlHODJhX2V1SjZxcFBmUmwyblRZYk52S1R3MUVyY1pvbE1mWE9hcVFqSDM5d1pqMHBRUXVQaHNXX0xKM25aNGZnbg?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T10:43:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_merida-3"
  },
  {
   "d": "2026-11-04",
@@ -313,6 +385,24 @@
   "metodo": "reglas",
   "clave_lugar": "chetumal bacalar",
   "id": "2026-11-04_carretera-chetumal-bacalar"
+ },
+ {
+  "d": "2026-11-04",
+  "h": "",
+  "ts": "2026-11-04T12:00:00-05:00",
+  "t": "Veladoras de altar provocan incendio al interior de un domicilio en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHVlNEw4bS1ZZGxONXppcDREUV90RDB5c1Y0Vm5ZTU1zN2NwUVFqcFFqcVpnX1pUcEN4SE9ZWEZydDJYX004N3cydm9RVXBmc0c3X0oyM3dJTkR6UW5qOGJJbHpmRkE1ZE5OS3VEOUNEY2VxZURTZnYyemxleUh6LXc5RUdZM3Vsb0ZPTGtVRU53TkJiN2F5SkpvNm5yM1QyQnZzbjJjaGdpRzlWdmlSN0FYTE1FQ3lfdHlSX1pkTGVua0NmUkNZadIByAFBVV95cUxNTHVlNEw4bS1ZZGxONXppcDREUV90RDB5c1Y0Vm5ZTU1zN2NwUVFqcFFqcVpnX1pUcEN4SE9ZWEZydDJYX004N3cydm9RVXBmc0c3X0oyM3dJTkR6UW5qOGJJbHpmRkE1ZE5OS3VEOUNEY2VxZURTZnYyemxleUh6LXc5RUdZM3Vsb0ZPTGtVRU53TkJiN2F5SkpvNm5yM1QyQnZzbjJjaGdpRzlWdmlSN0FYTE1FQ3lfdHlSX1pkTGVua0NmUkNZaQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-05T10:43:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-04_playa-del-carmen"
  },
  {
   "d": "2026-11-03",
