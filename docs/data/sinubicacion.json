@@ -11,6 +11,14 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRml5eWVlSFVoYWRWcVBMNFFqMjJ1M2F4OHcxMUV0MWNvQnRfcWVjejNyZkdjR0N4a243RDBNSEx0WmlKMjF5WGtmbjFkOWprckM3bzY1cUd4SXF3WWF4QkpPUW9NWmhPUjVZeFJ6TXRuLW8xa1NXdFF4b0xRZjllZDJwVFJDNzUwYjF0RjlkNS1adDkyMDc2RHNqUzg5YW5KUlptRmVGN1JOS0xCNEVqNdIBsAFBVV95cUxNRml5eWVlSFVoYWRWcVBMNFFqMjJ1M2F4OHcxMUV0MWNvQnRfcWVjejNyZkdjR0N4a243RDBNSEx0WmlKMjF5WGtmbjFkOWprckM3bzY1cUd4SXF3WWF4QkpPUW9NWmhPUjVZeFJ6TXRuLW8xa1NXdFF4b0xRZjllZDJwVFJDNzUwYjF0RjlkNS1adDkyMDc2RHNqUzg5YW5KUlptRmVGN1JOS0xCNEVqNQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFRPV3ZZTlJJbnBaRVByYVVQb1FCZWg0RUpWTnFVVHlYQzd5RUs1R1BjTHdCYzhlVDNIdTZDczY5TUFNVHhYbTBvOHc2NXBldVprVnJoTjBHamRTd0txalFIVlpJalRZV2pkT0l6bGZ2SGN6V0VndWhDaXlDSUtZVXdnUE0yRmQyX2s4SEotbTFxdThpUDd6NUdXb1c3RkktNl9tbkZTcFktUzV1Ui0xT09lNA?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORFZVeXpqZ1AyeEFWTHpYLVlEY29XbHhCRS0wdFNJRWhMSVp3N0x5NGQyMVlmRzNGcFdISTJNS2V3T2tYZE9mMlRwcmRPN0w1MG44OHVxREhFQzMtYldJQ2pGd085VFd1cGVOWmpTNGtaVUZQbFNkT1hQNC1vWEZHa0VPVHEweDVIWmN3OHhRVGJySVBzS014emlHdWJVTFVlcjZUUE1qOXJjT2tzOTJ6Tg?oc=5"
    }
   ],
   "creado": "2026-11-05T18:40:34Z",
@@ -72,6 +80,42 @@
   "creado": "2026-11-05T18:40:34Z",
   "metodo": "reglas",
   "id": "2026-11-05_tizimin-2"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Conductor se desvanece tras chocar contra una patrulla motorizada en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkcwVVNvVU1FTlhYV2hEcVp3WS1ucGZ5SFBHdTdVYjZhdG41S09zcElZSjJwejZDbWhyVkt5NTF5ZVgyUVNlM29SdzA2NDZLUEozYkRIV3luLVBxWDZMOElJdHBYV0lfM1VkQmhWZ1ZKVmVyMnBzemZlaEZldllpU1Z3LTVzdXVJMHFXWjVUYWx3ckZYeURwLXlGVnlrd2pfamswcng1cXcyaEs2a3Nr?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_campeche"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Falla mecánica provoca fuerte accidente de autobús; reportan dos muertos y 15 heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWFZWekpvWUxVWmNqcTlUbVJQTUtfN3g5RHEzd1QyV25Sc0pCNEFHc0RmSXdBd25JX0I0eWNTVjRjY2NJRndZTzNmRmtkYjZUVmY0dEE5SEpvRWFLMGhzaUtaUnhWbjhpYnRnTHhvRmE4eW9fZlFVUUIwaDBCZlRYeHhoWE5CYjZXMHhrdmstSE1SYUFHX3pJVGhCNHJIYVE1LU1OcDN0X05IMFNzWDZPaFJhR21YeUhCQ1UzZkZNZVdWbmdWTUJlcmJxY0hpTFE?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_falla-mecanica-provoca-fuerte-accidente-de-autob"
  },
  {
   "d": "2026-11-05",
@@ -145,6 +189,61 @@
   "creado": "2026-11-05T18:40:34Z",
   "metodo": "reglas",
   "id": "2026-11-05_cancun-2"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Mujer resulta lesionada tras choque entre camioneta y motocicleta en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTU1c0ZvXzBweVEwM1hCSnkxV3FHdUFqMmo2MWFNd2U3M29zNVNpMHNRNnc3V0oxZEZxMmFXSnE1NmY3ZWlMNUFQVlFjdHhVelhTZ1paWFhFVzl3VG1iR2Q4c3F0a2EwOTFPMmg3cWxnc21tZS1OOERFbnJkSXE5bkIxS056TnFnUlFDc2dGSWI5V3lfa1Btb1NB?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_chetumal"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Choque en López Portillo: dos motociclistas al hospital",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ2owb0x0MnhxU3BJV1F5djZJcGQtazNxYWZxTTl4T2pwYkZhZmpIZmZTU3V1YW9zRmV4ek15WlJYWnBIeFI2dTFWUHN4ckZxemRlMHBKV1VUd25JQWRNejNvVU9zbUlOWU5EM1Y3blVPeDlXenlkc2ZGdEN3SVFPaldyLU9jOVVOb2JNdWFROVU5aHRORU9r?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_choque-en-lopez-portillo-dos-motociclistas-al-ho"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Accidente en la Región 100 manda a dos al hospital",
+  "p": "Región 100 manda a dos al hospital",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjgxRXBJSXd3djhOdTlDYm5vRHBHRkl3ZU5vWlM4UTRhRlVJQ1prWXdYZGRRZTFmLXRDSUdtTWlRX3lhWDE3Ni1ZMGNKOG9pNWxSdTI4R21ZeDE5YnFLRWxOcXdEX1RLeFdBQzBSeEhrQUtBOHphY1JVbW9FSTgxLW9pa9IBiwFBVV95cUxPeUprLW16Q3V6SnhKbUhQM3VEeDFPeEJidGxnbzV4enAyUk9vWjlDcGpHaW0teTUyOGk1SW9xbDlDT3dfZlVnUnpObTN2a0o5RmtVcmhkbGFlUllwYU1hdnpBQVJfMEQ4eWhxRW4zMzBrZ1dKWTB1enZhTXRZRTk5V29qMkxyYTNROUxB?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 100 manda a dos al hospital",
+  "id": "2026-11-05_region-100-manda-a-dos-al-hospital"
  },
  {
   "d": "2026-11-04",

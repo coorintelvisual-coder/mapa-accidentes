@@ -23,6 +23,52 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Ciclista resulta lesionado tras ser impactado por automóvil en la colonia Benito Juárez",
+  "p": "Colonia Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUowdmtCSEpTZ05XalZuNU03MmwtckMxYjJMTkVrQUJwaXlQQ3lRSTI0WEJZQm11dEhFSzhzNFZ3REF6RmozZE5rUTBvZi1RYV8xQTBCYUROWklIZEUzc0hOMFIxRWc4cjNGYkcxb2dSSUxpSnd2cEFrcHlDVU1CNGdWdEcxNzE5R0o0WlpxTVVkRU5BQzNBUkhwQy1LTUJCMUZ5aG1SSXRSSmNLZy1QWm5UNHFDTnowdDZlMDFUQVNjUdIBxwFBVV95cUxPd0RKQWNzamowQ0VkbTd5S3ZYSllMX2FSbjBHak9sVmNpU2N0c3FkVWlDSi0xdUFHZU9yQ2tHVExLeU1xZ1RaQWxmSmRUY1lBSU5ILVFrZVYyczAyMlBzU2U5UEpLdXdfNkdyazhOVzRZRHFUYkJqNmVFZE4xWkR5OUIzWndfSi1yLXBaSjB0YXpqTmJ5WlRpRmNGUkN0d1ZYTkZzRHRmOWpMXzdHQUtFRnZRWXQxZ0U3a28yWDVKdE1sSzlTSnR3?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "clave_lugar": "benito juarez",
+  "id": "2026-11-05_colonia-benito-juarez",
+  "lat": 21.071648,
+  "lon": -87.006092,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Vuelca camioneta en avenida Bonampak de Cancún; conductor resulta lesionado",
+  "p": "Avenida Bonampak, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOFBScFNCSHBWUFBrZmFGblF3WllpRFNENko1SUlIVWNhSllScUlmMWtDMVRQZFhMLUg2bTE1NERCaDhGUmY2Snh5OVNvWm1QOWpQWTFVVGpmdkY4ajBsSEw1MDV5eWJ6RW9xdFdQM21ybmJWT09lemR6RXFLaWdYM25tVzFiaFJKNDMyRWs5Zk9KLTFWY3VVczJPalIxY2Fn?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T00:04:28Z",
+  "metodo": "reglas",
+  "clave_lugar": "bonampak",
+  "id": "2026-11-05_avenida-bonampak-cancun",
+  "lat": 21.17531,
+  "lon": -86.819945,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-03",
   "h": "",
   "ts": "2026-11-03T12:00:00-06:00",
