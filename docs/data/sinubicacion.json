@@ -1,5 +1,41 @@
 [
  {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Volcamiento de patrulla del Cicpc deja ocho detectives heridos en el límite entre Mérida y Zulia",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Soy Nueva Prensa Digital",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ2xYQnhzUjJEODFDU1M5cVR3QmpxcTFVTFh5T2tOLVJPNmJOU2RPZ2ttcjFjOTJtZXAyc0daalVaWG1YQWFHUVFvNThyS2NWZ1MySkNXNWpudWZQbVp5am9tcGF1LXRmNmpFR0wyUDQ2U3lGYXNjRmJqMUpheXFYQ1dzRnByWVEwcDdxdWVMTGtlNjNwbVZiamVNNmt6VWNCTXdVNEZBa0xCbW9YbU0zc3AtVk9BOEo3cXNWN19qeUY4dGpKUHg4UmI3VHhJZTRl?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T14:56:39Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_merida"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Fuerte accidente en el centro de Mérida: el impacto dejó a dos personas lesionadas",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONndpMHRMYTYtUWlESGlycVJVT2ZUU0NnUTVOOVA3eXdJMlpCeG5SaDZFMTVUTzZiTWQyNS10eE80QzZyT0lpOHFuZzhEbkhMT3VxSUVGZThUN1FVUW9uSEtaVHFRM0sxdkNpdWtTMGRGem83djhQSl8wMTd5RkVTUkhtUFBaekNvVk1LekhjQ1hhQlphV2t5QUJ1dkoxZWUxT1lNNkhENW9XWFN4dVQ1aGdWWW1ialNXVXJhZ0xlaFprdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T14:56:39Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_merida-2"
+ },
+ {
   "d": "2026-11-05",
   "h": "",
   "ts": "2026-11-05T12:00:00-06:00",
@@ -337,6 +373,10 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1lpME5uVVVHZ04zeHBFT3pVTUZBZGNwanhNSURTemRWVFJjQWdSSmZNNFZfaHlTa1dqN09oZ2dsdWpFQ0lKLUZmRjk4TkZ5MS0wSzNWdTlkWUo2S0xCN09aLTZsM2hLU2NveHFNWGYyNXQxRjZ2STc1ZmpTckRpMVhpaG5leGg5VVFjNFF4d09pa0J5X3Y2QWdJT215VHlwUHBMUGRQNGV5U213NmZqcnl5aXhiUG1TSlRrUGw0Zw?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb0hRTjNfc3pvR2YtR3dPb1R3aGM1aHcwQ0s3OGlvekNDZ1N3LU5ERlJVY2JHYUVlZlpwa1lnVkRxUTRtbnk0RVdGZDdUdFlHVS0tdE5zQmpTQ0JBRS1aWmNWaTRETkZ6ZFFXV3duek9ZdWJXbjcyZVNSc0N4czNZNExmWGRkV05jVmp2VGNWcnlWMERTdXc?oc=5"
    }
   ],
   "creado": "2026-11-06T06:27:56Z",
