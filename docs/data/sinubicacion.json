@@ -36,6 +36,124 @@
   "id": "2026-11-06_merida-2"
  },
  {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Un camión pierde los frenos y se lleva por delante la terraza de un bar de Mérida, sin causar heridos",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Telecinco",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2NYVWVvNkVwWXdDUFMzU1YxcTBobmJzNldYSEJfOV9DblpRS3hvQzUzbm56XzFQVnE4T0owVUlTTFlLS24xVmpNdUZaQnhOSnV2S2ZWeFZoOTA3M0RfRV9DU0FRdFkycmJScWVWNTJpNWxSMlZyQ0RPdHQxRGZMVFAwUDVQSTNtN3A0TDAtSnlFbmJteGQ4U3d0SGthSW4wUGdnU1NycE5tZmZUZHZfQW5OVQ?oc=5"
+   },
+   {
+    "n": "Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQVlmSjF2N1VsMmVZSk5xT2R1NUVMNXdrN3RDLTVUUTFwRGNpVTg3cEg2RzNhcHduRVQzSEpNQ0FLR2pxaUtvRHF4M1YtTHZYMmgtaTdWTmZfck9DLUJ4Z3dGd1REdW9BanZDWklINkFmSnl6LTVqc0dxMjg4WmhtZVF5X3hvQTVpTl9jYm10YXlPTGE3ZnVZaGcxOGNhUndBX1HSAaIBQVVfeXFMT0FZZkoxdjdVbDJlWUpOcU9kdTVFTDV3azd0Qy01VFExcERjaVU4N3BINkczYXB3bkVUM0hKTUNBS0dqcWlLb0RxeDNWLUx2WDJoLWk3Vk5mX3JPQy1CeGd3RndURHVvQWp2Q1pJSDZBZkp5ei01anNHcTI4OFpobWVReV94b0E1aU5fY2JtdGF5T0xhN2Z1WWhnMThjYVJ3QV9R?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_merida-3"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Cortocircuito provoca incendio de pipa en tramo Bacalar-Xul-Ha",
+  "p": "Tramo Bacalar-Xul-Ha",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1JGTElxLUxBdWl0TTdsRi02a1gtcWZ1NTBZY0d2SzJDNzljUmdQemxzR0RPaUpoTG9WcGNuOHdicnlqN0I0MFczUkhjdHA0NUktRU1RX2dGOURQMHU2RFJOMEFEME9abGxSdS1XTXhFOGRIbFdjMjc3QlQ1YmlkTXRMREZMck9JZUFGN3FNRy1wbi10ZVE?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "bacalar xul ha",
+  "id": "2026-11-06_tramo-bacalar-xul-ha"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Vuelca camioneta en carretera 307, cerca de Puerto Aventuras",
+  "p": "Carretera 307, Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbURCZG0wSndCeG1ubGJGdFF0bXltSDMtc19Qd0oyQ0dXUldKdVhKYjdkbWV2a0FCLVJfQTFIUUJXWGFtbmpLTVM0NWZfRzRCZkF1Uzc4N1BUNS1vWGxBWDh2U0c3REk5dy1tWkRPVUJGWGhBSE8tYUdtclBlXzFxR2pJT2vSAYQBQVVfeXFMUG1EQmRtMEp3QnhtbmxiRnRRdG15bUgzLXNfUHdKMkNHV1JXSnVYSmI3ZG1ldmtBQi1SX0ExSFFCV1hhbW5qS01TNDVmX0c0QmZBdVM3ODdQVDUtb1hsQVg4dlNHN0RJOXctbVpET1VCRlhoQUhPLWFHbXJQZV8xcUdqSU9r?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-11-06_carretera-307-puerto-aventuras"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Bomberos de Cancún salvan a perro durante incendio en casa",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRjQ1c1pRR2laZ0l2Z0Ryb25kM3dsWU1yNmxZX3dYOTZack5JaHZPaFMwRVgybk5mUE14dU5YVGQzaXJkYS1YdTR5MEhoTFJjQkZtSXZ5dDM3OWFyTk9DVzRJcU9KTW1qbXF1cjdUbjZ3V0x6VzVUV3lWY1JicDjSAYcBQVVfeXFMTjBsWlNkTWlXb0ROX3RxQzk5TDR3LUtCY05UekxIa3hsWmptdldzeGotVjJ6eVF0LVNzeXd6QldMN0k3T3JqTnpSZ0Z5WmZkX040dEtKOW9xQVlxaW9nVGNTbHBRY0t6aEtTcThDdGN6LURWV0tHLWE3NGJJUC00TzRJN1Jrem5j?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5acWNZZV9xNGtnUHcwQkx5SUwyd3FObXlOeUwtUGtKUXloeGN5WGdIYVRDc3I4ZmdnQ1JWVEZxLW92Y3RwQUF1cHZDOE1QTWdaLVFQVnNwR21IV1lId09MMGFoRXJCQ1NGU2Y4NWNRZHQ0RjJiM1ctZXNFVWpjdTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_cancun"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Conductor derriba árbol y poste en fuerte choque en FCP",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1UxcFB1MnpNZDlxNEJIWFBoX2g2ZC02bElNNmRfZjI0S2FKVTV2YUZXSktycE9WdXpaX0FTcW9aWTBqbXhmTFNEcWtobFR4bC05M3hWTTFtc0pua2piTUp3RWE1bDF3MHRlT2kzc2V3T05NeERHNDI4RmlyVklpMFB4Q1pEZG5KMXfSAZIBQVVfeXFMTTFNQXhCcmplNXVWR1RoLW90OEFIeTZ1dDRVcDN2WXpIbFY2cm5MWlZybzN4c3Z0WDdfZjljcnl4cDBKak9GN2xwSjZCT1JadnAyVFEzY1c3VkZIaEFJRElUQ2RVcWZYRHpxTDRQTXNLOUV4a3UwZ2VZM1NaQXlDS0R2MXV5aTg1R2ZYUEpiTW5HNHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_conductor-derriba-arbol-y-poste-en-fuerte-choque"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Trabajador pierde la vida en construcción de Benito Juárez tras caer desde tres pisos en casa contigua",
+  "p": "Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "TV Azteca",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUm1XbXFWQ3JKb1Jxc1pQUVc3TXkzeHNSM0hzZy1VWHlhUlllYVNuVEY0bS1Oa1M5X05qZm9LVnpNRG1XdUpBMEVjYmRTakdQUEdKcExLbE0yUGxwZk5qd3ZrNjd6MC16aUVQOHRNSVQyamNCRlVxTFlaa3lLZTU5dGhXQldRUjRYWFRGdi1NMndBLXhpV01OWVB0TGlOdWs0ZjFNNHNGQ184eG5TYUdHWThFX3BYMURXOUpqSGR1cjlHeTRLRGt5TDNiSEV2R2hEb05sUEFIbW04TW1TR2xz?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T20:48:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_benito-juarez"
+ },
+ {
   "d": "2026-11-05",
   "h": "",
   "ts": "2026-11-05T12:00:00-06:00",
