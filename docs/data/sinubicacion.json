@@ -120,6 +120,82 @@
  {
   "d": "2026-11-05",
   "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Rebase por la Derecha Termina en Accidente y Deja Lesionada a Estudiante Motociclista en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVZRS3lvcTcyaG5hLTY2SDZJaHM3LUdwbUtWMWhKcVJoTmdBOWJvbG5TMVZsc1k2aHNkQXdsME9ORWxFWGFnRUdtUk5wTVVFSDhNS0tQZHFRZi0wdnBQQ01Xd0phQjdsV0NnbTRFaFhDZ1VjZFNHbFR1SzJFNEpXRER1SVVVQzhuR0JvNFUybXZfcnNWakJTZnRzNUE3dzBzbEpGdFdJN2VGWjNfUEp5alpUSExRdlBYb2Y4aGk0UEw?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_tizimin-3"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Adulto mayor resulta lesionado tras chocar su motocicleta contra un automóvil en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb3VvbWY1TnFTdlFzUFRxZXhPNVBnRWpIZWZ3eHhqbVM4NDJGNVhPRnJFM3lwVHhqUTRjcmJwLTdpelFXWndLWjgxTXB4VlhOVjMyWDkzZnMxLVVFcmVfNVZENy01eEloR1dfbzJ3eWNjSG5IUE1naEFqQmo0cVNQZl9qdE5CNFVVbF96TEFKTWZUMkFLbEJCVGVBYnh0QTVvUVlyeVhhQ1VXVy12c0ZtbUNobG5QTlA4bkdDS3FNTQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmtMV2F0V2tPaTg0RGpQakRzLVNPeUE1a2F6SmFxMFdCdm1vY3d5WlkxcVZRcUxXNnhid3pBYjN3UzdqMHFMMzJYUFAxR3dJRjhaZXJWMzJvdGoyZ3Fyd2p4UzFhMFA1NkVZcW13dzFjaXRQZXlnSXNkTFpYUm1PelBVMXlmSVRtcC00c1pZcWw5UWN1VWU0dGdfNVdGZGpyUHVCMWp2QTZVc0U5MW5EekFsRFdXSGtFbV9RbGtwVVlRdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_campeche-2"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Motociclista de 25 Años Termina Hospitalizado Tras Chocar Contra Camioneta en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUDlLUDZ6M2JCelRwVERrNzgyYWplYkdsSHNFaW1qeHRfalp5VXBXNXo5Qk9SVGJMb21HOHE1b1FhUU9MRjQwZjNLdkE3aGpsclFXY3I1V1otRTlfTmVxOEw0eEFpUzJjMGZzNlo1V1Bla3BfRjR3QTZXcVhwcGZPdFRmcXB2amFuclAzdU9uTkpXcjhvWldBMTBUYXUwUDhMOFBiZjZoU2F2a0xCZXgyWXZ3?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_tizimin-4"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-06:00",
+  "t": "Auto se queda SIN ESPEJO tras brutal choque en el Centro Histórico de Mérida; toma tus precauciones",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTTg0Nmszd19UeVF3Zk5YbW12a2ppVHMyUzlBYWo5TWNPMDBwVy1GRGkzTVYtcGZYRjBJNkFnWVFMNHkwWWEwRGpVTWtaWkFMQXRHY0JISzJLTFV0WTNtcEpwNW5mWWs3aWZuUUVSZ2lHbXNoell4b1Z4dm02V3JKN3VwcHVIeFcwYkxHNTRlWEZmNUFZaVd5b21wZEwycHpTd2l5aXlnc2ZsTXhKMEhRdGFRM2ZpRDhGdUUzc2VkTEZuQzJjWl9oSmRDZUFGeTdJWjNXSQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_merida"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
   "ts": "2026-11-05T12:00:00-05:00",
   "t": "Cancún: viaje de Didi Moto termina en choque; conductor y pasajero resultan gravemente lesionados",
   "p": "Cancún",
@@ -244,6 +320,47 @@
   "metodo": "reglas",
   "clave_lugar": "region 100 manda a dos al hospital",
   "id": "2026-11-05_region-100-manda-a-dos-al-hospital"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Incendio Consume la Cabina de un Camión en la Carretera a Bacalar",
+  "p": "Carretera a Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTUtseFVxZUQ3cS1HakVDbGdadENxRGF5LXVSRUFNSXFGblFJTjJseGhER0E3T19La05JUmZOa0xpcEtheVNocGs2U01tUzJkUlIxN3VrOGd6M25odFJGeVpwcGxYS2JsbWdOUGN3MUI3VW5SaC1DVVB2bjdlV1QyYzRPbW5US1NfVUUwM2dWMU1LUC1yUGpz?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1lpME5uVVVHZ04zeHBFT3pVTUZBZGNwanhNSURTemRWVFJjQWdSSmZNNFZfaHlTa1dqN09oZ2dsdWpFQ0lKLUZmRjk4TkZ5MS0wSzNWdTlkWUo2S0xCN09aLTZsM2hLU2NveHFNWGYyNXQxRjZ2STc1ZmpTckRpMVhpaG5leGg5VVFjNFF4d09pa0J5X3Y2QWdJT215VHlwUHBMUGRQNGV5U213NmZqcnl5aXhiUG1TSlRrUGw0Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "clave_lugar": "a bacalar",
+  "id": "2026-11-05_carretera-a-bacalar"
+ },
+ {
+  "d": "2026-11-05",
+  "h": "",
+  "ts": "2026-11-05T12:00:00-05:00",
+  "t": "Un accidente en Cancún deja a dos motociclistas hospitalizados tras impactarse con un Nissan March.",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzYlByOGViRmNObmNKcmpPbUJVQkhqUjhkTmw5MmVxMVFWcTgxNURoMlNqS3BqUTFWRGRPcjhEbzB1OU4ybUswN290bHljSy10M21VREtSYjBKSnBoWDhTbDdMUGtpLVVHYUZPOFhaWlZWRk1zZEo5YTVCekt3dXM?oc=5"
+   }
+  ],
+  "creado": "2026-11-06T06:27:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-05_cancun-3"
  },
  {
   "d": "2026-11-04",
