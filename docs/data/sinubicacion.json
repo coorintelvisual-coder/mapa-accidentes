@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Niña de dos años muere durante traslado de urgencia al Hospital General de Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNW1EdHVtS3NJZUZyRUdDNXp3V2xYc09BVnA0M0dINkFrNXF2cGFFRXBsVFJYV2IwOXkyUUpSQkRnc2NHeWZaZ00xQ2kwVjdKQ2I1cUt6QTFkRmg5V0FqVkYwMjVQY0xLMkhRMGRpQVFndEdUby1kRVN0MXFuUlFQeWlTXzdLM01rc1IzOW9EZ1E0aElrZjFuSklHeVRjTTJORElvVWhuOGVkOWhKY2pKeUw3ZVRDVXJSYVRwZUE5WQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T13:53:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_felipe-carrillo-puerto"
+ },
+ {
   "d": "2026-11-06",
   "h": "",
   "ts": "2026-11-06T12:00:00-06:00",
