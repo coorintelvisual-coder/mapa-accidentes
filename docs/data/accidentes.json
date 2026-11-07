@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Taxi corta el paso a motociclista en Cancún y provoca aparatoso choque en avenida Nichupté",
+  "p": "Avenida Nichupté, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGp3XzRGWFVjWnN1UXpfdmN2Z2xDQ3VoZ2lmNjRHS0psYU1MWm1BYVZKZnpPQmpjWlcweGp1ZGxtbnZUOFdIVW1pU1pfRndzRWxxdk1TWTJWZEZOYWMxcmZpdV8ydFVadFExTThVc1RQZWQ0Z3YwNDZvVlh5c2ZuVy1XcEpjQVQwOTAtUXBWblVqVW5hYTZHMHJhOTd5eE5Ebmo4Ynk3elFBQUxqUUEzaVdrc2M5ZjI5SGh1Vjl0QTJCdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "clave_lugar": "nichupte",
+  "id": "2026-11-07_avenida-nichupte-cancun",
+  "lat": 21.139901,
+  "lon": -86.863225,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-05",
   "h": "",
   "ts": "2026-11-05T12:00:00-05:00",

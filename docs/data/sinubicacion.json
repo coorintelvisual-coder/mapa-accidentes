@@ -2,6 +2,42 @@
  {
   "d": "2026-11-07",
   "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Motociclista Choca Contra un Automóvil en Tizimín y Da Positivo en Prueba de Alcohol",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFpCUVhfZkhzbi1iWkxEM3pHLXBBbDNBUTFRQWIyNFljMkxYcmJyNEFNSmpYSmZJWkhiN1RpZHBiQzlRSC11NnlUOWdCY1ppeFhveDBhRjBxVGtSNkNEREhRQ25yMk93eXo3Zl8ydnlsbzUxYkNtbmtDaGFTb1hVQmYwV3F4aUtTN0tQR0IyNzRsY1FnM3ViTmk4eGZkNDF2TW0zX0FRWU9PelY4YUdYVA?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_tizimin"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Motociclista choca contra camioneta en cruce de Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFJQay1Qa0ZjMVJNNW83c3ZvOGNsbVB5YUxJLWVoWTVHbEYwMDlKRnBpR29xVEE5MHBOMDkwQkVvZmdTdzM4ekk3TFpsZUxtNF93OS1CekpRTXBMeUJoMmRTVFJaR0ZvMmJNa1lOZXVtTG84XzJSaEk5ME9VblphWmw5QWtGRWNJS3VlU2hzU0c3Vk1lNWczdUhGc1hpX1FyZnpndWpydzdua1YyS1E?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
   "ts": "2026-11-07T12:00:00-05:00",
   "t": "Niña de dos años muere durante traslado de urgencia al Hospital General de Felipe Carrillo Puerto",
   "p": "Felipe Carrillo Puerto",
@@ -11,11 +47,51 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNW1EdHVtS3NJZUZyRUdDNXp3V2xYc09BVnA0M0dINkFrNXF2cGFFRXBsVFJYV2IwOXkyUUpSQkRnc2NHeWZaZ00xQ2kwVjdKQ2I1cUt6QTFkRmg5V0FqVkYwMjVQY0xLMkhRMGRpQVFndEdUby1kRVN0MXFuUlFQeWlTXzdLM01rc1IzOW9EZ1E0aElrZjFuSklHeVRjTTJORElvVWhuOGVkOWhKY2pKeUw3ZVRDVXJSYVRwZUE5WQ?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenBUeGlPQnIwcEluZWFqaVFOUlZwS2YtR1lJcVYtZ1lLVVVwbF96dDk0b2l2MlptNU0yVmZTYmQzUkJqemhRbDFIbmFEQlNvZkdPcFlLTko1dFNfSm81Mlg1Y0tWcG5ydnpJQjZiMlhqNUVqWWt2Y0lRX05tWkM1aTduMW1WQkRpLXgyMGtfaEEtQ0JFVFR5cHoyQU5tOExTOVpYckh6NVVIb2dIWVdiVUh1ZTNyTmsw0gHAAUFVX3lxTE01R2JEQWtOWDdDSmM1dEdWbGpWMmhiWVlUWnhnYTg1eTBfVEJVTnM2d2w3VnFzQWF4dlBHSW9LbE9wMVFtdVpfQ01yVkRUdFRyVzFXNndqV3pDYnBSajhRU3lESEpvU25GcGZKTjQtUEJhSjRjV2dzVmFJOS03b2s1VWoySXNQNzdBanh3UDlfc3dNU2RIbTFySVk1X2dIc3NKV0ROT0VnT1pqLUFIdm5ZUDJkNmRoUEYxaWhROGV2Rw?oc=5"
    }
   ],
   "creado": "2026-11-07T13:53:49Z",
   "metodo": "reglas",
   "id": "2026-11-07_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Incendio consume habitación en vivienda de Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0hQUG5CdVRoV2duUHYzSnRjS3NvN1pqUFRoaUU5N1dzemo2RVB4YXU5Q2YydVVXSHdVM1FVOTFGTFllNjVmU01RWjlFX3F6YTF6TnQ5bHQ2ZElXVEdfVjlOTVp4NDFrczczYXJOdjNwYTduTjg2VktsQVViODR1R1gydVNZYVQ5NFctMUdBa2RHU3htRXg4?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Pierde el control y vuelca camioneta en Puerto Aventuras",
+  "p": "Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGNfWG5VMG9ZUmJHZW5hOS1EWDBDa2pMb2ZSRmFHaTJmbkZRclJQYldZVUVCdDNBd2R5RTBVd2hzNk9sc3VuS0hEODNOS0UyM01FaThjaVZCRHlWQldFM0ZnSHJFZlBVTGFZYnZRSVJsYTNMX2EzOVVMeXdISWt3WjJJRkE5S3ZITXNN0gGTAUFVX3lxTFBxOHgwS3I2NjRWbW0zS19ZQnctUndBZTlFaWFSZV9XS0VjZUFRV2s4RXRtZXR1dW5uMzJKWDFlVW43Z2JXaVNaWDExdi1BZE8zQ2tiSnlBS3QtSzRzQWJfOXVQeHItRG5Hdk1lc3FBRzRUd2pxdWxRNVpnOFZJVHNBRXExZFR4Mk11U0xHZGh2UE5qZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_puerto-aventuras"
  },
  {
   "d": "2026-11-06",
@@ -195,12 +271,34 @@
    {
     "n": "La i Noticias",
     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjdBYmhIWVUwQXI0elpHUjNqaTZQdHN0M3pRXzE5VFlZOTlKMjljVGppYnRCVkZQVVo3S3dOeDcweDM4aFFUSHMwVkdsVEhfeVk5TVdESlpWcW5IRFFWSi1DeWtkeGtUMkdkNFV4U04zcTNHMlY1MFVCRHFxWFpCeGxaS2h4ZlNNRm50RHVmejdpOXU0T19USXRESk5lRlhUc2Q5TXcxN1N6Vy1QZlRwdW12NGp5VnYyNVlDQU9rdmIwNG8?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGdEZ0N1aG9FOE16b0IwWW9fZS1ZTFNTTzlEd2pVV0RfdGpvSk9iNHpyUkI4TkJEN0R6YlNoN1B6RHpYTzZIbVRWVm03T1dsdTh5RXZCOU1ySWJCdW5xUG1sZWpjYjgyTDdsYmwwSGI0bGVDSVN6UjNRcFdxb2lyRnZjMHVFMWVXNXhjWVZaSHRWaWVmdFE?oc=5"
    }
   ],
   "creado": "2026-11-07T07:00:13Z",
   "metodo": "reglas",
   "clave_lugar": "santa rita",
   "id": "2026-11-06_colonia-santa-rita-tizimin"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "¡Insensible e indolente! Joaquín Díaz Mena, gobernador morenista de Yucatán, ignoró la protesta de un padre de",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVRlZXQXNyRmlhdVF6NXJyZ3BoaTRxVHNqdUxVS1ZYN2RWVU1LajU4VzdEVEthZjE5RjQtWFpJOWI3QjlUT3BMcUVLbEtjQTZVdHBVdWNn?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T18:39:26Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_insensible-e-indolente-joaquin-diaz-mena-goberna"
  },
  {
   "d": "2026-11-06",
