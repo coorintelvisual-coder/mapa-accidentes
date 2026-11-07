@@ -29,11 +29,71 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFJQay1Qa0ZjMVJNNW83c3ZvOGNsbVB5YUxJLWVoWTVHbEYwMDlKRnBpR29xVEE5MHBOMDkwQkVvZmdTdzM4ekk3TFpsZUxtNF93OS1CekpRTXBMeUJoMmRTVFJaR0ZvMmJNa1lOZXVtTG84XzJSaEk5ME9VblphWmw5QWtGRWNJS3VlU2hzU0c3Vk1lNWczdUhGc1hpX1FyZnpndWpydzdua1YyS1E?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRG1zTFczSGNKUEJKUlFXZUIzMmJRb1FPdTlVMDdpM0hoWHduRk1pX2ttaUJxTFc1NGxwcnZER21JN3JhcFhWakZPVDJGNldjV0pVVkZjSU5TOEhsbGYyUlVoVEVQanUwOS15WGY1Tld0eEhNRmxhZTdicVgwRGI3UEsyek53UGVmTTZnV0lmNjJnUkpUbWd1RFZ6a2prVlpfQlRjQkd0cHJnaGtmdWx6M2VTblA0d9IBuwFBVV95cUxQU0VmMXZqVTBLUmJ4RnFTeWFtY3ZScmd6SmxCZllUOHYwUU1SSjgtODdYZ3NOYXpuR3VPYjQ1ZzlINlUzaU5VT2xkOEhQcTZ1TFB5em5wSDc4Z1laSlVRQTQtbWVRT3I2SndLMVVPZGZ5Qno1TUIyWEhBNmZNRWw0dDFlemIzRHNyc25aYkdLRFlVR0NPM1BqMEYxMEd1TVVscWM5cGozNFhITFJfalhTUjhOaHpFZkIxdzZr?oc=5"
    }
   ],
   "creado": "2026-11-07T18:39:26Z",
   "metodo": "reglas",
   "id": "2026-11-07_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "¡Momentos de tensión en Umán! Se registró un incendio en una vivienda de la colonia San Carlos en Umán. Bomber",
+  "p": "Colonia San Carlos, Umán",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50YlBuelM1a25tOUZGWUYtUnVDTnd6VUF2alNTZXdIdjJ0dWYxejFqMzBNSm1BUkNvalpSWldoRVFwb281amNyX3phSVZ0RnRaUHRIcmJR?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "san carlos",
+  "id": "2026-11-07_colonia-san-carlos-uman"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "¡Violento accidente! Le dio un roce por alcance y pese a sus disculpas; el conductor le reventó el parabrisas ",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOak9iVko0MTRtRFUybklFVE55cVhJYl9kTVRNQXlWTXRDOXdrbXEzMVhKUkZ4ODdfRl9PZzlmVzVQNTN3MlVDbEl0bFJnemMtazl2UDA0SlE2djEtZVQ0VENNMkFWaXpJNWdxTzhLU01OZmYxYXpYY0NZc3JQb0d2SFNqazFNVVNzNnkzblB3NWVlcVY3NGdJZDkzMVY1cXAtWWs0NXFFUDNpTS1yRVQ2UVFJWWp1VmlSQ3ZUUHFGdTNMQi1GampjU291QWViR3oteWNNbnZJXzg5VG1ZUEQzaHZoZGJXQl9rdFJHY1RtU252b3ZrM19XQl82ZklDemNSc05OalZhdkQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_violento-accidente-le-dio-un-roce-por-alcance-y"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Última hora: reportan aparatosa carambola en el periférico oriente de mérida; conductor salió proyectado del a",
+  "p": "Periférico Oriente, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPaVRvdVNTZnpRc1h6Y1kybXV2bjV1WTltYzFxTWRzeWs2clEzbEU2S3BVR2ROcUlCNFlpX1JjeW1SM2RndW9XU0t6eXpyRDF0RTl4NlpYYmUyVXBVZzE1Rk01U2psLXZ2aDJweC1kWVFIejZGbzV5WFVfMmJNa1JYdUhSc1hXT1ZVOG1NZ0hlbF8wVHRJWGVzVFRDZFpjRlhrWXpOb2lyN2ZrN2xtcmc1cjFHdTFfOXhLV3NqbFhfbk02ME4zUmRHempWSXA3SEdOX1l5T1h3OW14VnlmT29OazI2WEtNdk5jT2hMX1ZMZEdJS2E0ZHVBem5UaWRfUHNhT3FxeHZtR1I5OWN1VDZ4QWxXam8yc1IwNy1MLW9Wd3VWMWNpcXN3UUJ1WDE2Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico oriente",
+  "id": "2026-11-07_periferico-oriente-merida"
  },
  {
   "d": "2026-11-07",
@@ -92,6 +152,80 @@
   "creado": "2026-11-07T18:39:26Z",
   "metodo": "reglas",
   "id": "2026-11-07_puerto-aventuras"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Choque en la colonia Adolfo López Mateos de Chetumal deja una persona lesionada",
+  "p": "Colonia Adolfo López Mateos, Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHNWSnRvNDRsYzdoZzVxcU81eE5vdjBTcmsxZUh4eV9MUHZ5WExpWUkxZXUyc2xuTGdFaHh4YkdrQ2tsSXlFUjF3dDNjRGl6VlFXdmNLUkZWRHd0ZGRqVVFvVkxDbFpaNGFVeFk5anA0eDRaTl9QbHlweTdwbkdGV3ZGLU1qdlJhSFFveEE2NlpCcEQtcEtiOUVLX0hxMkxpNWVHTU0xLXVtbFd3Q0tieFpEeW12NlVKQ1HSAb8BQVVfeXFMTl9mVXU2SDJuOTFBWkVGOWc5R25TSXMyVEpLM2RhZ3N2WTBDSGN3M0UwNEhOb0xsN1VzWm1yeU5rbHh0X2ZYdkpVZjlFZDQxSWZoM3JiVHFlS1lILWYzR1lRMGZiUXF1emFoNWJ1LVc2eU5PeU44V1JyYThydGd5WFdfZXgtTGxIZVZhN1ljNF9Pblc4WklVUUM2bXI5QTM2cTI0RlpHbmVhUmpod2NBN0lBTEx1aWF1dTFqWHlkeDA?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "adolfo lopez mateos",
+  "id": "2026-11-07_colonia-adolfo-lopez-mateos-chetumal"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Paciente cae de ambulancia en movimiento durante traslado de Tulum a Playa del Carmen",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVVtellTZkNib3hXRWxOTzZibDM2U1U3OE92WWRSQk8wQ1A0UEdGdXpHdGYycnBKM3h1MEdhRS1OblNNVVo4a1dXWE4wRnZneWpEemxpeVV3c3Z3VTZWaFRJTVhGbmk3aHV4bkdFR1hJWV9TOFQ3eUlsOFA2SnNUc0Y1M1RvZTdiUW5LOF9HbWthMnhoVGZzMHFaMzFEeVluN3g0WEVwWnE0ZzlmUFRJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_tulum"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Sofocan incendio de vehículo en la colonia Avante de Cancún",
+  "p": "Colonia Avante, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEo5WGctU09jenB1QnJXOHc4TURobnRlYmdqNFB0TThWQTRIQ1hGRTdSNGEyWXQxWW1IMXNpcFpFakpwdDliWmhJQWwya000LVUzOGN5V3JzdkFONUZpSG5vbm9feU1rTzB2dUlzT2V1elBOOEw0dDE2V1NpanN4XzJON251SUVyMVNoSw?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "clave_lugar": "avante",
+  "id": "2026-11-07_colonia-avante-cancun"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Lomito pierde la vida tras incendio en vivienda de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmRUcF9DM2J0RS1nd0NQQVotNC01aUJrOUlVNzVHWXFreWRNajVYVEtJQ0phUnhTSmF3ejkwa2JfdkJqZGo1aHdXX1BwV0h0SWtldzdoTHBCYzd1YTJYZzg5cnF2S1JiQ0o3NEdod2JUUGZZdGt4WEw3Qjd3Z1VObEJ1X0NxU3NwOWd5LTNUd2NpZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T22:39:07Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_chetumal"
  },
  {
   "d": "2026-11-06",
