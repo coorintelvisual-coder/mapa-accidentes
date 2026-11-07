@@ -60,6 +60,114 @@
  {
   "d": "2026-11-06",
   "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Vehículo vuelca en la vía Mérida Campeche: Paramédicos auxilian a los heridos cerca de Pomuch",
+  "p": "",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVprWEVyOEJadTJfcDhoZHZBdkFpUnZYN3o4ZHBIWmVfaGVtaHhZRV9tbnhlbGZ0VEkwOWhfTGxMXzlhZUx5Q1pHcGx3WXNUb0UxaTd2MmRWNFBPZkFNbklPeXIweW1zRzBVblVET3VPcnBTM3JpUG9RMWtOanh3RWhLbEZuUTFiU0swQm9ON19FZ083Sm5LbFNhX1dFVF9pTWtEWGdMS1BUX0kyODJSMjNwMThCUmRscW4tM1F2bE8zWUE?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_vehiculo-vuelca-en-la-via-merida-campeche-parame"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Accidente en Mérida: camioneta atropella a peatón en Paseo de Montejo",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbzlJN3l1SFVqMndSS2ZTYVJQeDlSVGE1d0oxQnlDNDRudmR1dTh4dGlNX1FpSjljSl9VSmVINlhDcUR3bGZkTnJMRk8xTlNHR09nWFRrNVRkNXBtQmlyRzRpdjRVd2hnalgzMnRrQzI4NHpGcm1QM3J3X3V4Z1YybmlTV01qTDdXczZicUp1Wm1RRHh4LWRweldmc1lseU5zODlDVG40aDdLbjZybm9iTWN2RkcyYW9OZHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_merida-4"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Motociclista rebasa por la derecha y çhoca contra mototaxi y deja dos lesionados, uno con posible fractura",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjZhVGtuRXBKRGdlYlJ6dFBJbmdqZjlJcThBOW4xN1Zpc1k5Tl9DVWt2QjJtQmtHTnNsMF9kVDdSM0xNcmw4ejh3a013dHM1RWFnQjFael9tQXdGM3N3VEFIS0trd2thRVEtakw2VGVfSklrVWNEZHVtQWt3UjVRbWNEQjJWbVdHR0k4YzRWc2tFaE9RcEJQZVUzSG1QVUFxNlZuVkVhSy1ySEI1N2QxSFpYdjJkRjNLLVFoN1o4M0l4TWdyTDZKRDRKcVZyY2RETG9sQlprUTV2ZDZ2?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_campeche"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Fuerte choque en Francia deja víctimas",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajRoQUR6X0thbHlMelhPOUNFaTRxOFhheVp6Znp5S19la3V3WFFOVzBxOXg4eGZkamswYXUyX3N3cU5jT0p4TVhuQnJiczFRWWtERjhaRmNDdUc5LVM2VEFFVU1BLXltY2c3UTZvWk80YUdJdzlSOGY1UkpVbVc4R3J6THYzUlVCSWw3a3Rfb2tYN1pPTzhMd2N0LVU3d3RvcjhLV2V4S2g1UjJrLU1zQ0ZuUFd1YmFvUGppaW10dFg2YUVCX2ttN1dFQW8xSXVmWXVrbnp6SEMtV1VCUklwY3lSNA?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_fuerte-choque-en-francia-deja-victimas"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Automóvil termina con las llantas hacia arriba en pomuch; tripulantes sobreviven a aparatosa volcadura",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkoyTUNtcUVGMWN6ZERpa1M5X3Jpclh5UmZTVkE1NXJiUnJpSV9rVDZ2R0xiZXBtaEtvSXgtNGZSNnNjc2Y0UVRnbEhYNTh4UXZaOUYxWE5faWtjZFhPNlJIYzBld0xzcW5OZUswS0VHeUNTZHoxQzUyOXhfMDhibF85TGF1Q0JxWW5NdWhiVVNiTWRpaXRYaFMzdWNPcXFJMU1xVVR4TnFkZmlMUWU3eUp2d3h5VmhmaGc0bzVNWUpXd1pZMWZQTUNidG5ncklmRW9mbnpqRQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_campeche-2"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Rescatan a perrito de un pozo de 10 metros de profundidad",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1I3ZXQzbllKNmp5YmdUMUcwMk5xbEJBNWtkR3d2RmVGeHRaRlRfeUJPSWZlOWFibVZ2RWgxSzY3U05ZWDR1T0ZzOVc0U1BGcG01MTlvTFVzNWhOTmJheldMTHQ4V1lRZzNHTWswOU5PMEtiZlh2T0JlTUJORDR1dVJHTXM4YnZMbkI1aVBlTTFpTndrWE9GMGt4bm44RV9BaFExV0FMakViV2FWZE9ueEZrSmFTbmhNcWRZeWFiNVN2UzRaeVN0Q2w4MA?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_rescatan-a-perrito-de-un-pozo-de-10-metros-de-pr"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
   "ts": "2026-11-06T12:00:00-05:00",
   "t": "Cortocircuito provoca incendio de pipa en tramo Bacalar-Xul-Ha",
   "p": "Tramo Bacalar-Xul-Ha",
@@ -147,11 +255,89 @@
    {
     "n": "TV Azteca",
     "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUm1XbXFWQ3JKb1Jxc1pQUVc3TXkzeHNSM0hzZy1VWHlhUlllYVNuVEY0bS1Oa1M5X05qZm9LVnpNRG1XdUpBMEVjYmRTakdQUEdKcExLbE0yUGxwZk5qd3ZrNjd6MC16aUVQOHRNSVQyamNCRlVxTFlaa3lLZTU5dGhXQldRUjRYWFRGdi1NMndBLXhpV01OWVB0TGlOdWs0ZjFNNHNGQ184eG5TYUdHWThFX3BYMURXOUpqSGR1cjlHeTRLRGt5TDNiSEV2R2hEb05sUEFIbW04TW1TR2xz?oc=5"
+   },
+   {
+    "n": "La Silla Rota",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2FhY1NJdE82Y0pRYXplWEhUTE5VXzR1WnJSYjk1dkhYUXBidEdIa0F4RC1wbG9tVm54YXk0aGg4Q0x2Qk10QXBzaEpkSjZhZVBMVWhETHFpSkg5QUhybnljYjZ6a3h1YjBDanBlWnZmc2NIUVZOT08xbHdDZmVjOUh1dzNXM1owdXd4SG9iZk5lcWNiR2VzN2ZpcUg4MWl1cnJsR0Zud1dKMHFPTk9TUUJNYWlZMjdVSjZr?oc=5"
    }
   ],
   "creado": "2026-11-06T20:48:55Z",
   "metodo": "reglas",
   "id": "2026-11-06_benito-juarez"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Motociclista resulta lesionado tras ser impactado por conductor en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObl9xT0VxTklXamk5S3BVZmVDdFRUVVVqUjhQOVR2MU51ak9NQ0hPT0l0bnZ3aG5kRHlHYk9xbDl6d09naEV0QnBudXV2YVZYWU9VOUp2QnVCM29OSWZVMmNlYmpKOGhYYW1mUUR2ZFJkaW8xeHZOZXpDVXZGN29HTDBldlc3MWtod1dJNzd4enpSSlFxODBB?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_chetumal"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Choque entre unidades de transporte deja seis lesionados en el acceso al Parque del Jaguar de Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWDZORFl6eURqazZLcEdYV3JoeHhNcGJ1QVoxVm02T3lZLU9SZkNLNDVfeUlTV2V5VnBtVTR6YmNWcmZzS2tYY0NxUEhVdFh5SFFhcG41a0ZEX2Z6LWdBcWo3YlJORDJiNXJHMFgxNEJjQkpFdTN4R2FzaUUzVEs2bkdHWFhRVzk5NElMdWxKV1FFRVRqZ0NRTTBjcTNMOTJaOEVHV09NazQyYTRxbWJtd3RHR0tPM1NWTDQ3Nl9BQXM3NjdETng4btIBzgFBVV95cUxNSUVEcEpZQ01SckhCUVFfQk5xc2pBRzlZMGtnTTlBeVpmTFVsLVhObm5BTTJUTjVjaDlnajJORmF3ZnF6TzZmZmNIQUhKOGt2TkNraDhDaHp2dldfMFVUY0ZIOHRoNUp4bkxMYm50QTRWRkJTdm1lemtpbXNubnZlQ1BLeTg5UFJBUkIyczJ2NmhJLXZKdmR5T0lFaUZLdkRkbHV6TkxBLWNRT3RDN0ludXAwdjVLMzdXUS1iaUZWeWdVcHRGZkNGVE1TZTZaUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_tulum"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Incendio consume motor de pipa en carretera Chetumal-Xul-Há",
+  "p": "Carretera Chetumal-Xul-Há",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYjJGTEMxUjZMdVEzN1F3WnNNU3JPZ3pYaGhacXdHVFRFMHRUcVFqeTNYOEE3OE13aVNZQ2ZESjYwSGVsZzNXUF9SRXd5YkJGeHNIWGo5OVlYVkhTRXNCY2FUdUdYNmgtOEpnRGdFTXNGcHIyOVg1ckNIOEdlRnpiTXZ3M3VSN01IODRPeWZ6NNIBlwFBVV95cUxQWkNMZDJrNkJYNFh0WDFKWXNLbzdCMjFnMWFxODEwNXJCa0kyYVUxNmlKV0tHdjRCbU85QWhnWl9WU1R0YVpEeUhjbGhWUXBqUWwyRGxWWDdGSTNqQmhFMFlLUS1SOWtnUU9LOERSdEFPWFNpMGZJbmJuWUF4T0lET2xfeWxobUJfcDdrTEJqWkY5NjNNeWhz?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "chetumal xul ha",
+  "id": "2026-11-06_carretera-chetumal-xul-ha"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Vuelca automóvil en la carretera Tulum-Playa del Carmen; conductor termina lesionado",
+  "p": "Carretera Tulum-Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQXJCMFJ2b1BWc1BrSVBCMjIySURoNmtkZGNjNjZIb0Nrd20waDdXM2ZwLWdieUxRY0Y0TnhwRFY1aDZZZ2gyZ04xaHJmSkNEUU5vZmRCRHQtcjRTa01FMk1BOFlOcmFnQlVOXzk3a3ZQOU16dmdyUXMwY1ozbVE0R1pQSVZVaHh1c01USUlleWZsdW1UdmNRR1J3RmM1eWJmaG85NUNpNjJZdDJJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T00:50:38Z",
+  "metodo": "reglas",
+  "clave_lugar": "tulum playa carmen",
+  "id": "2026-11-06_carretera-tulum-playa-del-carmen"
  },
  {
   "d": "2026-11-05",
