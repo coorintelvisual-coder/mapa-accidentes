@@ -168,6 +168,25 @@
  {
   "d": "2026-11-06",
   "h": "",
+  "ts": "2026-11-06T12:00:00-06:00",
+  "t": "Choque entre un taxi y un automóvil deja daños materiales en la colonia Santa Rita, en Tizimín",
+  "p": "Colonia Santa Rita, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjdBYmhIWVUwQXI0elpHUjNqaTZQdHN0M3pRXzE5VFlZOTlKMjljVGppYnRCVkZQVVo3S3dOeDcweDM4aFFUSHMwVkdsVEhfeVk5TVdESlpWcW5IRFFWSi1DeWtkeGtUMkdkNFV4U04zcTNHMlY1MFVCRHFxWFpCeGxaS2h4ZlNNRm50RHVmejdpOXU0T19USXRESk5lRlhUc2Q5TXcxN1N6Vy1QZlRwdW12NGp5VnYyNVlDQU9rdmIwNG8?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T07:00:13Z",
+  "metodo": "reglas",
+  "clave_lugar": "santa rita",
+  "id": "2026-11-06_colonia-santa-rita-tizimin"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
   "ts": "2026-11-06T12:00:00-05:00",
   "t": "Cortocircuito provoca incendio de pipa en tramo Bacalar-Xul-Ha",
   "p": "Tramo Bacalar-Xul-Ha",
@@ -338,6 +357,24 @@
   "metodo": "reglas",
   "clave_lugar": "tulum playa carmen",
   "id": "2026-11-06_carretera-tulum-playa-del-carmen"
+ },
+ {
+  "d": "2026-11-06",
+  "h": "",
+  "ts": "2026-11-06T12:00:00-05:00",
+  "t": "Motociclista sufre fracturas de gravedad tras impactar con un taxi en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcENFdXRnUk4xUEwzQVhrc1F4dTl0R2RrZkVHcDZ0QVZhLVliQnlLV25zeTJqMXI3MHpOQXVhUEJ4TWs3SjAtQW40d0JRTUR5dFU4SjdsWWNMemJaYk50TGthYS1HTzhybnNaVWxrZkQzY243eWpxVl9aQUhMR1VlMkNkcVZZaEtzaVVoWjBlZkNGYXNwb3RvTlZyX0hBakNJWnliZlhtUllKOEtkM1ZLYTlUT3lyczZuZGRncUkyNNIBvwFBVV95cUxQcENFdXRnUk4xUEwzQVhrc1F4dTl0R2RrZkVHcDZ0QVZhLVliQnlLV25zeTJqMXI3MHpOQXVhUEJ4TWs3SjAtQW40d0JRTUR5dFU4SjdsWWNMemJaYk50TGthYS1HTzhybnNaVWxrZkQzY243eWpxVl9aQUhMR1VlMkNkcVZZaEtzaVVoWjBlZkNGYXNwb3RvTlZyX0hBakNJWnliZlhtUllKOEtkM1ZLYTlUT3lyczZuZGRncUkyNA?oc=5"
+   }
+  ],
+  "creado": "2026-11-07T07:00:13Z",
+  "metodo": "reglas",
+  "id": "2026-11-06_cancun-2"
  },
  {
   "d": "2026-11-05",
