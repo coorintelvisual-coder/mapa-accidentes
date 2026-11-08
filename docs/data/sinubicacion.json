@@ -11,6 +11,18 @@
    {
     "n": "Diario CAMBIO 22",
     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMkNBa3BicWt3eXZTVHBFUE9hZnlXSmgtVXJlYjNPaGxlX1Q4NjZabl9XYlNaempjYW1aQ1hCc3RkNGxkM3pva294SEdHMWlGVUhtUmdzdDdNZHJWdnc0cG52bmpXS2xpWTNpZk1hYTFJc0dNSzVZZDFCOFhPZGg4eTBlNzFPR2lVek9nME1GMzN3UXZod1k4N056bVEyY0NyUmFpVU5mdGRSUE55U21jNG9TWWpMWTJEaWZTUmRMREFOTHh3TmZFdHl3TQ?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenJXcUNMdmlhVFFEVFBKV0pXcXpSQzRCSmJBSU1LM3gtUXZpaFdKVE5HcWtrbTNmcERteTdHRzNZMTd2a09YQXA3eWZ0OU1iUXFQVUNvV3VTSlFWZXdhVWpIdDVPUktoT011LW1jZGV2WVVxUW5vVnItSnlZOVR5RTBDZWlUckNOQ1Y4UElLTGF3aVpPU3pkcU1pbVdrNTFwVHdBUA?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZklaRTZXa0xXRjloZUxKcTF3OVZpczVBU2hkdFY1MzFLbUtkN2tXX21QSTZBS0JnQVFuc1RLaG5ZR3FhRjlnVnZ1eXUxV2t3M1lSUHZJalJvOG4taXRkS3FJUWZNZFZiaFhxV01lU3hza21iRk9XMl82U2o0VU1SQnR0SlRpNEJzRlVwdjdXY2pSMVJOdFRXanB4Y3NQcm5GalhodE5lbkRZckZzUHlBT1EzVHg4TzU0R1U5RnJSblYyb2p5T0RHYm0yQ1d0c2NCd2Y0djZmaHFjWWRoNV9OaGR3?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZU1KdThqaFBrVTRvNFR4ajdaLVRlR09SQUVtejJqUkhxdE56Ml9QZS13OXREZ1RMRWR2VVNsdHc3VFpRMU91bHFWSWF5eERPdHhQQlVtbVFBMFBUalZvaVpRZlZrZGhpd3Mzakt5Z3p2TnIzUjdZTU1vSklQa0NIaUJuLVlTVWViNVJQTUp4elBTVGotbExnYVJrbDUyUEZHNnFWTDhzUQ?oc=5"
    }
   ],
   "creado": "2026-11-08T16:59:44Z",
@@ -38,6 +50,42 @@
  {
   "d": "2026-11-08",
   "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Accidente de autobús deja DOS MUERTOS y 16 heridos; así ocurrió la tragedia",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0s3eTJSRnNNWVh1UVpTZmYzVWJPSFE1TF91Z014a1VOb003UWloQkVHbkkwWENmQ01RcldVakNfZVBZTzZrRFQzWVlIdzdNZTBHZEZOVmwwWWtjUkZldWhnMGJSb3pRSUtBTjNuaVkwYXRVTVd2UngxUEpjYTQtNmFYWm1Hc2UzbzI2anl2djhSOGUyRjNUcWJBQ0M0cTNyaEkydUZkVGd2WWpzUF8yMjhtSW1KRUFMQzRRWVRLZzF2eHgxT3N6VENkcWdieUx2TnRBWFhB?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_accidente-de-autobus-deja-dos-muertos-y-16-herid"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Motociclista Se Estrella Contra Camioneta Cuando Intentaba Entrar a Una Cochera en Fovissste en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZjJwOHVjNDJHbElRZjF1NEg1ODJYak40VS1BU0lLZzN3N256UGk4dFk1ZEdkbjRUUHhDVVc1NHRhLVM1dkI0bXZmbnZ0R2pHanBRSGVTWDlKNTJCMlBmT3ZmUWN1WnhYaUNhaWhkX2ctQmFmLTA4MEt3NEF1a0RaWWhyRTkzY3diV3JUeTRtaWZsdEY5SUR1eTQzTmhpOGhSbkhRbGlyQmtta05wdGtfOS1POVFoQ1RPZHhUOEM2SnRGald6MTVZOFJ3?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_tizimin"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
   "ts": "2026-11-08T12:00:00-05:00",
   "t": "Chocan dos camiones de personal al intentar esquivar accidente en Cancún",
   "p": "Cancún",
@@ -47,6 +95,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFlGbm5yV0thY0c5YTZDa1VlV2hGazBCWmpOcUxHeEpZSU5wZGFRUzRuX2l2TW5UbEo3WVdnSXFHcUdUSldoTWwwRVJhTzQtUW5lZEJuOThyVkp3d1pXc00wbzVPUUR6bnRicXQzQnFpSl8zVUdoMTlIVmhnOUQ0bmZPMVMySG5Ud2J0cFA0QTlwc3JtMFVXYkQ0U24yZw?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1N4TnppMlVTdzhLbFNwUHc4X3g3SVd4cGJWV1JBakpkU04wUE5qVm1BUTgtS0JEVzRERnNOdy1xSm9iWDVtNmdpV2JXdUhPSndzSk5BVzhic21Ea0pfVVlocmRWRG9yT2RlUjV1SnJDOE9zcEtQRUd1VUhjeldJV0pwQlptUmkyVVFoNkRhVFhqV2NUQmZHTHVSR2s0clJiaDlXVGU4d2RHbDlWZmRIU1lPamhQVEI0UHdtX0E0Wllsb0lIZWlVUTlhU05CRndBcWFEMlhB0gHbAUFVX3lxTE1NVWQ5dUpqRUR6czJKS3N5OGVST2Ftell6b01RS1J4djVPaGNucFYzNmZsRnBURGlIZDdPMnZ5T25vS0JYQmtUOUUyaTNBS21BZk00NThxSU96STBLYkJ3NXdFSWhvRE5pMFkwUDNuYlVXdjVXcnpzU3ppQjFNX3laTHZIWjhUbXNlVm1zOXl0Rl94UGN2NDIxVUV1WnR5ak8za282d2Q0MDFOeW45bTZkalkyY2ludk9GUl9jeWJqM2lYelZzVG5oODVPN0dkQTVtTXdEUHJPbUhuaw?oc=5"
    }
   ],
   "creado": "2026-11-08T16:59:44Z",
@@ -71,6 +123,82 @@
   "metodo": "reglas",
   "clave_lugar": "avante",
   "id": "2026-11-08_colonia-avante-cancun"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Arranca en Cozumel el Gran Fondo New York con 3 mil ciclistas de 40 países - 24-horas",
+  "p": "Cozumel",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "24-horas",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXZSYU9xcEk4dWRzc1dldkFCcnYtdDloTGpLOHczNm83cnY2U19fWS1XeXJla2k2UExldzhuX1JMNkZZSWJjYWktVzhfbWIwRjVreExhZmZwWFNmTWxmX3FVYzB2QWwycy1Qc01UNkZWbXRJZjA3RV84RUQ0bTdTN3c5dmpFN3BLZkxnX3E3bnZlTWlMRmREUHYyckY5MVR0X25hcVRR?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_cozumel"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Conductor presuntamente ebrio se queda dormido y choca contra poste en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGlHOEVNbl9GVWVpWkh6aWxfMTFORFk1ejBMVnlyV3kyQ0lqaFlMRGt4S1BILUpmeGN3Qm9MYmlQckRXdDdybmdCU0E5SFM4UzhuWTVFeVBWVE80ZFhrQUk3R1drdjRJYUctQmJyZU5EM1JnYXcyNDUyeFhzX1pySE9wWEQ1RjliMHY5Y0JqbHRhR1plQnVxSS0tbXZBcHFxRDY4XzNfRXF1TFVPZW9zT0VwN2cwRmtoTEVEVGUxZk02WmMxa1RJ0gHMAUFVX3lxTE5rTFhvc0Iwa0FJYW8yUm5uN2RkYThha1BITnVtM2Y2ak1fajZsWWZjUk5TRFRtQllMQ1BSV1ZzNnlxV3VNblJBRmp2TFliaUJRZTNnaWc2bEd4anVkQWVoaWl4WmZ4NEEzX0hGVjhRQkRsUWJiN3ZsdTJfSXg1VzVWU05vZlpkRWRja2h6SHM0ZThVX05VS3B5bGVULXlTX0tudzBUWGZRX3RYTExRTGxKQ2w0SUw3WWQwMF9McnBzVUFldVVrTWZKNW9jeg?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Taxista choca contra negocio de pinturas y abandona taxi en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczRWMTY1bkwzcklBYkRYSF9jTEdkMVRFSUtNM0lEOEw3eDRMaXJIU09tTVItSkk1cGwyN0ZUSVVISF9CcGt0MmRhQmZOYkdlVlZFaW5yUlFHYjNHSFNic01GdEZVVldyMGVmT3c4X2pkNGg1TmtwSnNVeVh6Q2pLVW4xeXQ1ZzZQc20xcTFoQ2l6Y0RBdmxUT3I5MUNtQk8wYU5zcGoxYnNBQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_cancun-2"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Choque de motos deja dos heridos",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVzU2OGJjVzl6bVhTamx4M3ZmcWplU3VRcGUyd0p5Y0cwSWUtUk85c1hmSnpINFh5WU1odHpFTjFFS0pZMXV0RjZ3SThLc0RVT2NMX2VwanV2c3ZOVEVaMTc0M2NCbUw1dVhJ0gFzQVVfeXFMT0dpVEZLbUdIVGljTjZkQVctQmQyLVU3MG5wS2lsZVpaMThSSFZmV25vODE4eHpyRVR5NDFQVWNSQ2JBMHJCYWRlcVlVUm8wZENXaVljRVJCaUl4bTJlcjZ6c0VCdjJaREhvczRyWUREUFE3TQ?oc=5"
+   },
+   {
+    "n": "El Momento Quintana Roo |",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSm1jb09TWTF4RDVlQ29MUW9wOG5mcVZnUE5NMEJYaEhfZ1hwX296ZUFRbHRWc0JFM0toQmlTV2R5d2MxMlBHamdFckZrMUd0REZUYjRRT0pPblFKU2FXSFNCSnFQLTVmU2dHeThFcVdTemxxR2pSVENScWxuRUw1XzJYOGRsMXFYOW5IeU1KTGpWdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_choque-de-motos-deja-dos-heridos"
  },
  {
   "d": "2026-11-07",
@@ -529,6 +657,24 @@
   "creado": "2026-11-08T10:09:08Z",
   "metodo": "reglas",
   "id": "2026-11-07_cancun"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Bomberos de Cancún reaniman a un gran danés durante un incendio",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Galu Comunicación",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT0g2ckJDVXBiY0l2ZlRrX0k4M3dlRWRMc2JoSkc0bXgzWFNUUmxkamhXa1JXMzJKYnVNOXJPS2xtNUJsWWMtNUpUNzFzUzQzSVNnM25XNXY5MXBRQkc5Tk5VM0xibWQ1ajUzZHVhbGpPX3E3WG5QZU9Vc3J3ZDkzQnIxWkxneVlXckxiQTRPZTlLR0Zfbm5vcA?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T21:03:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_cancun-2"
  },
  {
   "d": "2026-11-06",
