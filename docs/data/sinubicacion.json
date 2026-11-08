@@ -111,6 +111,10 @@
    {
     "n": "La i Noticias",
     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRWRJOEh4RjZpX3pwcXlYb3N3RGVCQWJIQnBSVnBCZkhqNks3MDdHb1pId0xlUDE3dlI1YnlZWG5KWVhWTWZ4U3l3M0pVdmlRREZJV3BmNFFlbWI2TEhLQ2FTTUlpbktKRzZpM3R4TWpodTNmaUpFdmNwWGVOcVJPZWRUQ0NsNk9lXzlkQm5tb1FQaG9IOEhaczc1QXBHTEJHNDBHX0wzaDljRE9SaEU2c2JfejZLby1zeHhMTWVpTnJVOGNaTmhSSQ?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTg5VmNOVmc1UDg2ZEJGZXFMNHNiOWk4ZUNFQlU5b0lTb2ptV056RXp1YjlSQnJJU0NtUHlDZVEyVnRCekpkdGdYZzBSX1IzRGJWbGkyRENoYzRUNS1Wa3NMbHJBQTRpOXBDdFhlY2tic2dRU21kUVJQYjlfMzEzT3gwQlpUMTdXZ3dFNVpHWWp4VjRzQktjVjhzVzMxS3Q4SmFmX3lzMEZ3MElwZEl5UWI1a21TSHJVcU1PS3A5REk0Nmc?oc=5"
    }
   ],
   "creado": "2026-11-08T02:18:30Z",
@@ -173,6 +177,97 @@
   "creado": "2026-11-08T02:18:30Z",
   "metodo": "reglas",
   "id": "2026-11-07_tizimin-2"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Muere conductor al estrellarse contra un vehículo de ferias en la carretera a San José Montecristo, Tizimín",
+  "p": "Carretera a San José Montecristo, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSkN5ZUM0bHZUT0NtSXVvT2lLNE04Q1lNcmU0c0dKWG5mb2dnT2tXV3lKWVg0U0lFcFVUdGdmdncwUzdvX0RPRTIySWp4Y3NQS1NheVNFR1N4ak5hMllQT1djc1dYZFdGcVRFR2hBU2lDYk5yQldiTVF6a1dPaURTRGRrOHZvampJUzR6MVA5cl9sNExYRjJrX3MyVHBlNXR4YXlNUjRGUG9tYkxsY3JuLVB5VkV5bzRidlR0eDRzYnRfajloRmc2cFN4MnV4ZE8wNXU4SFg1TXY2cWNHX2NmZnhGLV9TZzJLR013S1h3?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "a san jose montecristo",
+  "id": "2026-11-07_carretera-a-san-jose-montecristo-tizimin"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Menor pierde la vida repentina en salón de clases",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNc3FubzVLOW8xMFp6QVRreGFvSE5hUVFSdWtwZENPaHVFWnZtOFJzWFpRbVdIVjlyWkRzajRpdUk5c3NTSU9oX3U1M0pYYUJFbzJSWks3d05qVDZ4SUpseUl4S0hDb3dfRjJVbFlfa2hTRlNYVmlfVWNwU29FVkJZVE9ibFI1VFo3YzhwaWxvY2xxdHlHd2JBcVE3THhDR3JQdldQZWQ1ZTVicXdmYXdwYWp3LUtGU2Q1cXNWNW05WWtqam5Zbi1aWWlYckk?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_menor-pierde-la-vida-repentina-en-salon-de-clase"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Pierde la vida beisbolista Enrique Quiñones Garzón en ataque",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWUJ1SFIxcTQyd3RtU3gteUtXTWthSlpZaUxnNlNvM1d5QjBfUVlCNnRCdDFjeGxfazFWMkZSYXotdWlTNUYweTJ1Nk9UemlQUlZiUlNub09wNmZ6dFBQaG9LZVZnUjlfbUV2NWxTa0lsWkplcEV5bEZkRUhsM2lubG9wR2loNTNBb3QwNVlGby15RWp6OVo5QUdEclM4VjVrTnozdUxJZlYzLTE2ZlNkTnBSQWIyajRWRWMyY3p1TWgtZDFZMGoyeg?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_pierde-la-vida-beisbolista-enrique-quinones-garz"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Atropellan a mujer en Umán; presunto responsable huye",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZk9WX1pYdmZ1U3JnU1dEVncybDJ3YTQtNVdidDRaM2N3eW5FSk1LT2QyRktKSEtoRm9FWWdGTkdZZm8xY0xHVjk3V3htSE9iZkhQVG5DU1JJTUhpMWFXOUl4MFFVQW9xOWNpbjBuOXh4VFZjeGQ5NEI3bUFMbGxlTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_uman"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-06:00",
+  "t": "Casa desocupada se incendia en Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWVHc5b21uSDBuOWxGVmRJYktwWkZIUzFORG9PTUpXaXoxQVpZVjNCMnBUS2FPbXYtdk5BS1RkSkNfeUNaenZDNDZVQktjWFl4dXh5UEFabXNEN0FlUFRKckJnY3lRZlhqc0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_uman-2"
  },
  {
   "d": "2026-11-07",
@@ -312,6 +407,10 @@
    {
     "n": "DePeso",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmRUcF9DM2J0RS1nd0NQQVotNC01aUJrOUlVNzVHWXFreWRNajVYVEtJQ0phUnhTSmF3ejkwa2JfdkJqZGo1aHdXX1BwV0h0SWtldzdoTHBCYzd1YTJYZzg5cnF2S1JiQ0o3NEdod2JUUGZZdGt4WEw3Qjd3Z1VObEJ1X0NxU3NwOWd5LTNUd2NpZw?oc=5"
+   },
+   {
+    "n": "Quadratín Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObVhKb3pzWFBMRFg0VTdwOTRSWVNtWWlyd0JneF9qZFFrRGw2VzRnNGdQQVg1N2pzYzQwRzBqSHNiXzNrMjczMWlBbHVzRWl0WDFvNW1Jalg3Skp0MXdPSmJtd1p1N0x5dGtUaVBUWjN5YjViSzdfempnNXEzdVBfR2hUQmJ6R285alkxa2kzQ0RqeDBwdXNHU3NsU3NQLTN1LUpzZGJMY3M?oc=5"
    }
   ],
   "creado": "2026-11-07T22:39:07Z",
@@ -335,6 +434,24 @@
   "creado": "2026-11-08T02:18:30Z",
   "metodo": "reglas",
   "id": "2026-11-07_salta-camellon-tras-fuerte-choque"
+ },
+ {
+  "d": "2026-11-07",
+  "h": "",
+  "ts": "2026-11-07T12:00:00-05:00",
+  "t": "Autobús de la Ruta 2 Torito arrolla a motociclista en Cancún; la moto queda destrozada bajo el chasis",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc0thc2lLU0tWVXpMaEdNQlJqWlFmN0dIMTNuVDdLOGY0S0NmNWViSzV6UTI2cVkzNmFRU3JYNVVRaHpwUUhqbUFRS1N6Z0x0Qm5uV0lSQ0xSWmx1ODZ2b01vc0tiOU5MbW84a0VhMHFaNzJvYzYxNENkWUFkWE5BWkV0RVMtQ3pVdVdzREx2Y2tQSXNUY1pwUzh6S0h3TDdjVlBoUUFybmg4NzZNVEdzLVBtdFk3M0RLRWZmUDlzRzF3dw?oc=5"
+   }
+  ],
+  "creado": "2026-11-08T10:09:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-07_cancun"
  },
  {
   "d": "2026-11-06",
