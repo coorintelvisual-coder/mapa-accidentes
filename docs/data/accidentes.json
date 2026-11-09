@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Atropellan a dos cubanos en avenida Lakin de Cancún; conductor escapa",
+  "p": "Avenida Lak’in, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZ2tJcUpOV3d5UGpZbUsyLW4tWmdTX1drWi00TzVMRk40STRKSFhHU3dXOWRoaWhzWnpyQ1lPZlRGOHRrTzhneFdjTHZCVEx5aVo5bGk3TTF6ZVZPZUZxRFJjOUVTcVhvZE1BQXY1cGExZUpjMmRhaTNBdUZDMkhLNVpMbnNOa1hEVERFOV9pZXB5d0tpcS12aDJvNENMdGtEd3RiYnJJQTFVR1VfWFHSAbMBQVVfeXFMTUlKUjYwWU0zRTA2eWd6Y2NfX2ZFc3M3dWM1eEZhcHU3bzVyeHk2aGZBSGxsNE9ZaVNRNUZ6VU1ZT3VsWjEwNUZxdW9Ha213ZDFGQVJfc3NvUE5YeHF3N2s4R2VDU2loQ1FBVUxXVnBrdUxuVl9zRjV6UXUwV3R5WUpGMVM2ZzlDcFFMVzM5Z216WkRZenNUOExqWHdnaDZKcTFXd2hleVM2ZWkydFlqVGFzXzA?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "clave_lugar": "lak in",
+  "id": "2026-11-08_avenida-lak-in-cancun",
+  "lat": 21.151967,
+  "lon": -86.90787,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-07",
   "h": "",
   "ts": "2026-11-07T12:00:00-06:00",

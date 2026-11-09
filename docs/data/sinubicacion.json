@@ -59,6 +59,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa0s3eTJSRnNNWVh1UVpTZmYzVWJPSFE1TF91Z014a1VOb003UWloQkVHbkkwWENmQ01RcldVakNfZVBZTzZrRFQzWVlIdzdNZTBHZEZOVmwwWWtjUkZldWhnMGJSb3pRSUtBTjNuaVkwYXRVTVd2UngxUEpjYTQtNmFYWm1Hc2UzbzI2anl2djhSOGUyRjNUcWJBQ0M0cTNyaEkydUZkVGd2WWpzUF8yMjhtSW1KRUFMQzRRWVRLZzF2eHgxT3N6VENkcWdieUx2TnRBWFhB?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUURBZXFxRmo3TUQtV0VPbUwwX19mU2h4U3llbEZIcjROVWNNaGtaUXF6V213VXp1YmRQTUdmd0wxMmFNU3FMY2U1UGxla0FIRzU1VHFHNXZkd19Nek83WjNaYnBIR3VJbVU2NEVweFB2TEF4cGFKRVhfaERxaDl1VDdZdWk?oc=5"
    }
   ],
   "creado": "2026-11-08T21:03:42Z",
@@ -82,6 +86,97 @@
   "creado": "2026-11-08T21:03:42Z",
   "metodo": "reglas",
   "id": "2026-11-08_tizimin"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Mujer resulta lesionada tras choque de motocicletas en un cruce de Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWURKTlZTRWVudm1XZUd2MndJV0piUkJUUkdZLTdaWVowd09iQ0JtNnBvQzJvejBBTjRHRHRSOTNUS2tLSGJZWnZsWU1NWF84bXBJNkJVSDg2SlQtZW1TY2FjMnZCTmZaN1hOZENMZ3pQY2VFV215VWZ1WjFoNWpYVE1Mc1g0NDdERVlydS1JSzRaTUVESzFXNV9iYks2azd5aThCMDlpc08wZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_tizimin-2"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Muere una persona tras volcar camioneta en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaDQ5OHpvUS1ZcndTZW9UOERmVzRLWG1fY1QtMkxMOHZTRFd3aUlQMVdVd2VVeWh4MC1RNi1TQkhUMkhmXzJveFdqOFZpU3R3MGZSM08td3RhSDhQYlppQjB0MS04UTRwN2pvLUJoZHhaZ2VfYTE0RmVmWmlhSmQtckRFTEpWYUVF?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_merida"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Choque por alcance entre dos autos afecta el tráfico de Plaza Palmira en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOejExelRpcy1QbmJkNnFKZFNrMlNaNUZtUXV0RWVvNG9EUFo2dkhYSWtETWZsQldXYTFxeWZBdjVmVlVabmZWVUZXajdFR1Nlc0RBYVRNeFU1WEJQUVdCcDktUU1LcUZHSDAtRmlTVDBZMzgzQWZhVjVzanlnV3F6WGprRlZoREd2UHZBUTJtTl9EdnRRR0NoQ3MwZnBRSkRyU3lKR21pQk1WU2RDTnpDN0N4eGNWREpwS3p0akNKVUZ1M3PSAcgBQVVfeXFMTllwdDEyYjRSTDE4c25ZNlU3VUNEMEh1YjJKTzBDZFJrLTNzTGdJTS1jaUR1dk9GWVUxMHdJMG9RS2ZpNThGSkJ3LVdnekliZ1RwT0RINm1PM1RhRWU1d2ozTGNuemNiU0lud0JUNm5ZamhYcV9SUDJwM2tIQm1XbFZzWERRMGtQNGtpVzBDRWZhQkNNWUhpSmxBbmt6LUFXeFA4blhyQ2tBMU56WE9VeHozWVFERkdDdFV0dUlzNjZXNWNlRHVkOGg?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Se incendia automóvil y queda reducido a cenizas en la Vía Corta Mérida-Chetumal",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0ZHb2FMSnB2X3N1NkRIaWVWbTQyRjRWRV9WQmtJQnIwZXlQMkRBaDIyN0tUOTJ3YW0tQmNrSy0tZ01EdUtVektFdDRWSEprUXc5ckhwaHNVX3ViajhnNktMaWltNFZSVzFJcVB0U2hkZzVTQ0Uwb0k2d09odVY3dUtLcDRrZVBiX2xyQVJ6dEVMdFRzanpUQ054NEtxODJhcXhJVFdfR0l0eG9EZ3FjdzFsYw?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_merida-2"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-06:00",
+  "t": "Choque entre camioneta JAC y Honda Civic deja cinco lesionados en la carretera Campeche-Carmen",
+  "p": "Carretera Campeche-Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTVRiOTVYXzU1eDJNUjg4LWpiZmoyUjA0Mk10dWxvSDlFd1lOMnJEck1fZkY5R0FzdTQ0WDVxbnZuVlA4LTRzVkt0a2VMMThmeWItM0w1dXRYWWktN25TMUVpWkM1ZW84dTY4UEZfMDNSV3hMa0lMdlNLTXdKT2xTa2YyTHREZXNVWHlaNWtDdVVjdlcwaURJQzV1QmNGSV9vc2psMzVwWktKZ3htYnJuaHRfbWYwd09KWEhlbE5QVlkzYi1lbFVwRm930gHPAUFVX3lxTE1YRnNybE80YkhIOFJQSTNqNGhoSVY5UGpTSTlUMEw1cDNvU2VUVGMwQ2JsWHB6dGZHTkd5RENRNVlaMWZjUDAyN1dCSm1zUUpBMjJUWkR3TWZYUkRtYjhRWU1XeGlrNVp1cFBxVmJ2M2plb0JfRzJ6cWZZR1c4RVRUdmpjMk1ncWJKYjRmUWxLWHpsdlduNVFjT0lZWGJMemc2TWY0ZGVUbVZxSHR3VVJtcXFWZ0N2UEVfT1FxWmpjZGNjeHp0RVMzQWFEODFsSQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche carmen",
+  "id": "2026-11-08_carretera-campeche-carmen"
  },
  {
   "d": "2026-11-08",
@@ -154,6 +249,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGlHOEVNbl9GVWVpWkh6aWxfMTFORFk1ejBMVnlyV3kyQ0lqaFlMRGt4S1BILUpmeGN3Qm9MYmlQckRXdDdybmdCU0E5SFM4UzhuWTVFeVBWVE80ZFhrQUk3R1drdjRJYUctQmJyZU5EM1JnYXcyNDUyeFhzX1pySE9wWEQ1RjliMHY5Y0JqbHRhR1plQnVxSS0tbXZBcHFxRDY4XzNfRXF1TFVPZW9zT0VwN2cwRmtoTEVEVGUxZk02WmMxa1RJ0gHMAUFVX3lxTE5rTFhvc0Iwa0FJYW8yUm5uN2RkYThha1BITnVtM2Y2ak1fajZsWWZjUk5TRFRtQllMQ1BSV1ZzNnlxV3VNblJBRmp2TFliaUJRZTNnaWc2bEd4anVkQWVoaWl4WmZ4NEEzX0hGVjhRQkRsUWJiN3ZsdTJfSXg1VzVWU05vZlpkRWRja2h6SHM0ZThVX05VS3B5bGVULXlTX0tudzBUWGZRX3RYTExRTGxKQ2w0SUw3WWQwMF9McnBzVUFldVVrTWZKNW9jeg?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmtRR2N1Uzd1UW5qVHRxc0JrWW43UnJkNDk0dy0wb0FUWUFYc1c3QWNwd2tDWjR6NWV5Yy1fMVNjWW5LZVpPaEl6TUwxRVJGREJmMzVhdG1MMnhrb3B0UGE0a2FueDNVS1c4WU5fZThnR2FHRmJReG83SUdxWFBvYTRFQnRTQWRPRV9xN3l3Vi1SWFZfRzRLSnczWWt1SWVGUXA4YXlWWU9kR0NBV1RoRHAzRzZJZWZ5VkhRdHZvdzdsZw?oc=5"
    }
   ],
   "creado": "2026-11-08T21:03:42Z",
@@ -172,6 +271,10 @@
    {
     "n": "sipse.com",
     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczRWMTY1bkwzcklBYkRYSF9jTEdkMVRFSUtNM0lEOEw3eDRMaXJIU09tTVItSkk1cGwyN0ZUSVVISF9CcGt0MmRhQmZOYkdlVlZFaW5yUlFHYjNHSFNic01GdEZVVldyMGVmT3c4X2pkNGg1TmtwSnNVeVh6Q2pLVW4xeXQ1ZzZQc20xcTFoQ2l6Y0RBdmxUT3I5MUNtQk8wYU5zcGoxYnNBQQ?oc=5"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/seguridad/accidente-en-region-92-de-cancun-taxi-termina-frente-a-negocio/"
    }
   ],
   "creado": "2026-11-08T21:03:42Z",
@@ -194,11 +297,74 @@
    {
     "n": "El Momento Quintana Roo |",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSm1jb09TWTF4RDVlQ29MUW9wOG5mcVZnUE5NMEJYaEhfZ1hwX296ZUFRbHRWc0JFM0toQmlTV2R5d2MxMlBHamdFckZrMUd0REZUYjRRT0pPblFKU2FXSFNCSnFQLTVmU2dHeThFcVdTemxxR2pSVENScWxuRUw1XzJYOGRsMXFYOW5IeU1KTGpWdw?oc=5"
+   },
+   {
+    "n": "Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVzU2OGJjVzl6bVhTamx4M3ZmcWplU3VRcGUyd0p5Y0cwSWUtUk85c1hmSnpINFh5WU1odHpFTjFFS0pZMXV0RjZ3SThLc0RVT2NMX2VwanV2c3ZOVEVaMTc0M2NCbUw1dVhJ?oc=5"
    }
   ],
   "creado": "2026-11-08T21:03:42Z",
   "metodo": "reglas",
   "id": "2026-11-08_choque-de-motos-deja-dos-heridos"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Destroza Turista Automóvil Tras Chocar Contra Arco de Seguridad en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUVFrejBfYll4cXdsQ0NkcEpWVVR0a1pLclg1RGFENlRVbWszNFRMalIwTXE4OHlrUHZpaGcxVDN1SVU1elN4TVY3WDBEWXFYcmc2ZmNHT1Rsd29JMzBaaDZQX1hLQTBpSk9CT0p1RHdaaVNmSE1lNmhsRUo1N0pVa21WZzcxVXFyRW14TWdWZ0Nzazl4TVVMSTZpSWV6VzRI?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONXFjWXpGRUNjZ0FCUFB2V1JPRGVhVXdKbFh0QW44Ym1nWDVOblFnTVpRUW5yMllfT2VLY3BmZVBFcFhPSFZ0b3JqYnVVLUw2QXhYNE55THhtZDhhNExCc1lPQ25SX2JNWUFCZWhpVDB1X0JtbXZ6U1lRTDdaQmdrcTFsdFpqVDRuX21HREJxejg0bXdtLVVCeE4zM0ZkTmtjNG5EejVMUUVlNDFCMVBhS2J2Y1PSAboBQVVfeXFMUEs5NmxOMWlCSnhvYk01UWx1djQ1VlI4aDYySWpBazZVQnVkZ284cFlyNk1ielE4ZXVzZFhGeHRyNVN6Z2UzUm94emlmR1lGVFBpUFFGQzdYYnBFenVqeTZ3R1V5bzA1ODVrQVJZMDJXNmdHTm1ITDJMNjNxTHh0VkVnejhtbW9oSlpLbjNYQ0lCUWJRTWwyeXVmMFplbFBqSnJJLTM1d1Y2SU44eTktOVVlT1EwakhtNXVn?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_tulum"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Dos motociclistas lesionados en accidente en la Región 220",
+  "p": "Región 220",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONXhHMGVjdHdYYVJFWEZldnFnR096cW5LTzYzdkhhUTdXWnFzXzl6OE5JRUdrclh3SEROeHJBeUdranhuNjZQNTBOYUJUMHhnNnpVM21zT2VSQm9DQWYyRmY3aWlocUlWbUUtenBIZ00tSkdUYWZZS1JCMEZtZnBtV2lOUTdOd3dGTnJYSkhpRXZMaUhDazRF?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 220",
+  "id": "2026-11-08_region-220"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Dos accidentes dejan lesionados en Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUFHUzdOWmQ5dE1sTUhybmY0NzZTdGw3UW9Gakd1clAwS0VhbHU4cUpnMFI5QUNnMHQ0RjhNeDIyc0wzYUdaSlNxZU9sVDFCQWEyQU1GdEZTa0p6Q3lzYVAwRXlPamJEOGlSQkN6UURGT2tOSWhmMjUyVkRWdGNFX3pYZFhTS2k3M0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T00:45:50Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_felipe-carrillo-puerto"
  },
  {
   "d": "2026-11-07",
