@@ -367,6 +367,96 @@
   "id": "2026-11-08_felipe-carrillo-puerto"
  },
  {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Turista choca contra señalamiento frente a las ruinas de tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Inspector Nocturno",
+    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12TFZFZEIwTHFGZHR5RmVZZUpGd1pXWjI3NEdhWVIweDd4ZVY1Y2JsbGJDMEVjVl9iODhQeTd6NFE4aGh4TXRfbnRtV0ZNem56Rjc2Rg?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T07:51:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_tulum-2"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Aparatoso choque en el Arco Norte de Cancún moviliza a cuerpos de emergencia; conductor huye del lugar",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0hzZDY3UVFydy1EREx4cF92eElySXFlOVlETzdJMThfQmlTY3I2ajh4R3J1QktVcmdDc0pJYXhSSWoyVTFMTmFONXRTN2pELVRsY0tCbGZ3VHVuLW91Zjk5YVhZWjV3TU9GbDRIa29YR2c2cS1jNk5HeWNBMlR4bEN0RmpDVjZpYUZsLUdoLXVNYjNkOTdDa2pLN3FWbTZqSjdrYUxuaFR6U3Q4Wm5BLTJLTXo2amtvcVdTdmc0c2JUUWUtLTgyU1VnWml3OWNTUFHSAdcBQVVfeXFMUGFUVzAtUVJqcm85d1pEZW91OFZnc2NPTkVPZHBJWVZsR29xdjE5NzBRRW5zZ2RjYjdCMll2OFZtSXJuNktEVkhBV1R6YTVQV29lVDN4M05yQnFCQkJmVDhMbnVIUHUzYWprd3pqZlpCYkQ3MVBUTU1aOXNkeEtYS1NqcjNmNWVCYW1IWDlnbjdqMzVWNWpoSGdjYzJxMVJEcVhQV0FXLTNUR0J1QThLM21HTlVfeElORjZGV0pBUWN1MVpFTnBjOVRaclFyaGJCeUNXV3hiU00?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T07:51:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_cancun-3"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Motociclista pierde el control, sale 'volando' e impacta contra el pavimento en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamFxVTVBdHZrdUlhcklxRGxHUFBuS1BVbmVOOXZuQXRMel9VOGJ4UGF0SnVJalhqUTRjTkp0Y3hhVXptYlVzc01PUGZNSmxES1YtSm5lVlpPS0w2Zjk3QVlGVF9QNDJlWlFjSFZNN2tnYmVVUkVYTlVsaXBYSEFOWndQYkNhVnZnOURGMlZTWVJBcEpPU1F0cEROOV9OSmRZNl9MTXh5TGMweTNPZzc4d25ONE9sTmk1XzJ6UVlWQjF3WC1raTNvOdIByAFBVV95cUxPamFxVTVBdHZrdUlhcklxRGxHUFBuS1BVbmVOOXZuQXRMel9VOGJ4UGF0SnVJalhqUTRjTkp0Y3hhVXptYlVzc01PUGZNSmxES1YtSm5lVlpPS0w2Zjk3QVlGVF9QNDJlWlFjSFZNN2tnYmVVUkVYTlVsaXBYSEFOWndQYkNhVnZnOURGMlZTWVJBcEpPU1F0cEROOV9OSmRZNl9MTXh5TGMweTNPZzc4d25ONE9sTmk1XzJ6UVlWQjF3WC1raTNvOQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T07:51:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_cancun-4"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Playa del carmen: alarma por incendio de maleza detrás de gasolinera",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQk5EcUI2c0FrSlBBVF9McW11LVNwU29VZklxaHJKY255WEJwQV9uaVFZeU1ieGUyekVHR0EwYzV3MV95S0ZwWmxFWjBDNVQ4bWszLU5OSkJlV003Q3V6TExVLVE4aGY4S0dFWWZGb3dSTi1oN2Q4LUdSRDhnSVgzLWxBWXRoVktFOGM5d2d0eWhuX0dlRGt1RjdoZGk?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T07:51:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-11-08",
+  "h": "",
+  "ts": "2026-11-08T12:00:00-05:00",
+  "t": "Taxi choca con un Chevrolet Matiz en Chetumal y dos vehículos terminan contra un poste",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzlqMmxDbFo2TUpGOUJKTFBGZ0ZSOXgtYmxJWTJlU2xydFg0OVI3VHlweTZXa3FXa0tieEk4UXFiNHlRdy1CZ0NQdW8xaTM3QnJBRF93d3NhMzJrWklHbVRMSGNCQkVDYUNaQzhPNDV3SnNPNDg3Q1BtZUNGM3pEc0JqYjJHTERqTkhBSzBMMUFIMVlXVjl4dkpiSzczdFRNU1RpTzRwOEZwdllpcDNGUmQ1M29OT2FodU9nMnU0SkFTUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T07:51:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-08_chetumal"
+ },
+ {
   "d": "2026-11-07",
   "h": "",
   "ts": "2026-11-07T12:00:00-06:00",
