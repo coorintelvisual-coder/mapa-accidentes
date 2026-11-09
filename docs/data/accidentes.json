@@ -1,5 +1,82 @@
 [
  {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "Se registra choque entre dos combis sobre el puente de Caucel en la vía Mérida-Hunucmá",
+  "p": "Puente, Caucel",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajBkSGFQZm5HZnExMHE5NHQ2N2tCZnRuRndFYXlWdTZQek1STEVhOFA2TDBXeUNMU2JYMVhHNEVlNHU5YTRydnpsODU1VDJNM0NOZ0dnaFl2ZXZxazlzV1RnRUJEbUwtbS1vWnZaMHFQUXpZWEZXYjJURFhGR2UwazhVbEtMZ3hjQXJuYWhWSWl2Ym9fM1E2VW9TVHVpaGJjbk5VWE94NnM3ZjJqNThz0gG0AUFVX3lxTE91b1czNmlxcTNpLTFQME1DR2tZY3hNVGhQUlZHYS1aS3BpdFd4bHlyd0Jmd1ZyQUFGSllJbTVGZWkzOFJ5a2d6ekdBUGd6TmxyV3poNkZjZEtDZFk2VXV0YjFLNENOeXNXZTNrdHFkaTNMY1FZZXlhaUJNRlZLUTJITnVGZ3lYOV9jRWtfeERLaDRQcjlBRElxaUpOVDM3WmE5ODlzMUFRTlV2MkUxdFl5eVN4Vw?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T18:41:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente",
+  "id": "2026-11-09_puente-caucel",
+  "lat": 21.011742,
+  "lon": -89.687348,
+  "pr": "lugar",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-05:00",
+  "t": "Autobús choca contra negocio en la Región 231 de Cancún",
+  "p": "Región 231, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqUEZaUEhkd0QwOTZtcXVLU0tmNzE1NDJTOXdWcldqUEdMSGpZNXhnalg0NjJUQU5SVmdVSG5jTkZsUkF5OWNpSXJvR3hCSGVhWjhxb3N0SHIzb2tEU1IzVGFvR1ZhVzUwM2xwMi1rRTRzVXVpN1HSAX5BVV95cUxNLUFNaEZYc3VMbVVWbFAxVUtsRkx6eUtkdndxMTlib1FJNmtXcXI2Y0VIa0lrMUk5bFV6WDlvb0MtYWpXWElNVGdKQURJZFBTdkVwZTBxRTR2SW4ybGZYeVFBbW5BY0hQYnpvdVNiajZObWZ6ZE5NdVhVZWhwNHc?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlY4UzJjQmE0VmExSmd6U1lrOUJCZ0FycFVuc05YVVg2NUxpUWNQa3ZEd0RObklaYk5Rbk92X2RhWlhJTnlxTUpkV0JiQjJHQTVWRmhzQXJ4Rm4tbU9helpuRE9CWUtPWjZ5UnFRdDZ3UHhINFV0cWVhQU9HNXdsWmxfbDZQbTVEM25jX3JTMDRueGxvVW5JdVBOdF9Ha2xFSk9DZ3RqXzZPZ2RmYk1hMmVwRVk5ek1h0gG-AUFVX3lxTE5qX1QxekpteU93SDNWT1d1T2ZoMkJybWJiMy1rTl9TZ2ZhSEs4S0pqa0FubThzNlUyN3loaW9SSGZDLTVwelFQRXY3c0w2UFdaZ1I5WlROWU5pcXc0UWJDWGJwQVNmUlgxWDQ2Z1dNa21feHhrNVdWRVZ0S0xYTkZsb250Q1k0NHpfVmJlOW5EVnVqOTRtYVVYbU1UdERVWXBLREI1VG9lTjhjdWxZSlZhSWhfZThwSkNXVGhuUUE?oc=5"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR05LYkFDZXE5R1RaemxhRGttR0FqUWxTNndqMkJXTXFmMi1YWjNmZXctV0l2WmI3OWNnLWJNalpickM2UUtUWGZaemUwVE56anMxZ09oZUwwNXNnWkRKT3RHTEQtZFlkbkxrcGRqbTZlV0FmV1VrY2dLUkFuZThGSnY0ejZSRkxIcjZTSkFxTGkwWHlYMVl2VnpGNl82Q3lZX09MZVV6cTN4WFZNcVE?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T18:41:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 231",
+  "id": "2026-11-09_region-231-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-05:00",
+  "t": "Atropellan a mujer en la avenida López Portillo de Cancún; el conductor se dio a la fuga",
+  "p": "Avenida López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVkZzUWxIQS0yQ1RpNy1NUW9OcjNBTDBqYjJxeTBiLWNMcnZCMkdla1VfdWVaWEZla1lYQWhGWHZCenlSSFNVdmNJTS1SdXhzX0tBbjREcHQwcEZlc2FhZjVxZjNGRmN0dW15ck5RWVQwNkMtZE5OVUpQWjQ1OVpKcXdrdXFlbXFUeU5KR1doaW9JeVNtREZCWmx2Nkk4Q0pNSGFaSHlzdVZFcHl3ZTFTejVQV3DSAbwBQVVfeXFMTkt4UF9JMkkydk9yWHp3eUhPanRyUHdaaUF6NTlJWHFUbGh6clFLMTRuRExrN0VUTHNuZkc3bDgyTVE2YThqMlNpLWdEeUJqOGY2eG9HYlIwQzhURzd5SEtMbUxtZ25JaWx3aHJZdXVvWFVDYWpCd0l4WXZMZFY3WjRTSXFHNFN2UkVqXzVuUXFwMk84UW9XVk9IcktkTnZLX09mN3ExTUxqSUxjS1ozVDA1WThoempHYnlhQUc?oc=5"
+   }
+  ],
+  "creado": "2026-11-09T18:41:11Z",
+  "metodo": "reglas",
+  "clave_lugar": "lopez portillo",
+  "id": "2026-11-09_avenida-lopez-portillo-cancun",
+  "lat": 21.150418,
+  "lon": -86.874437,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-08",
   "h": "",
   "ts": "2026-11-08T12:00:00-05:00",
