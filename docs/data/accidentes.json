@@ -77,6 +77,29 @@
   "sev": "sd"
  },
  {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-05:00",
+  "t": "Motociclista cae tras hacer \"caballitos\" en avenida Haití de Cancún y es hospitalizado",
+  "p": "Avenida Haití, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3VBU2VJMXBUbTVJcXRFdE1GUjdqY2o1aURod2tJbjFfX01ZQWFJN2k3VHYxd3F4cmptMk1kUVA5VVBjRzlXZk9Uam5ULTgyRHZualRNYjk2dFBWeWNWUlQxREEtVzM3OG5ZTmY5X0FaYWxQOHl5TEFjMGo3X1g3Z2RYVlpMek45ZVplb0Q0dHd3WTJLbzVVWlZ3SUc2Q0NoN2lVM01yZnIwZHZLSWxEVGhBSXdGRW9HWWxkZnhqcFdyZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T01:58:53Z",
+  "metodo": "reglas",
+  "clave_lugar": "haiti",
+  "id": "2026-11-09_avenida-haiti-cancun",
+  "lat": 21.173931,
+  "lon": -86.908533,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-08",
   "h": "",
   "ts": "2026-11-08T12:00:00-05:00",
