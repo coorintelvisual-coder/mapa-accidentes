@@ -74,6 +74,133 @@
  {
   "d": "2026-11-10",
   "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Camioneta le corta la circulación a motociclista y lo manda al hospital en Ciudad del Carmen",
+  "p": "Colonia Petrolera, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/10/camioneta-corta-circulacion-motociclista-manda-hospital-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "clave_lugar": "petrolera",
+  "id": "2026-11-10_colonia-petrolera-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Camioneta se choca contra local de madera en ejido matamoros; conductor huye, pero policías lo localizan",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV24wZFlpbTNLUUJvUnk1T09OeE51eVpCdHY1T3NHNnFDdnFfZjh6Q0l5Qk9nc05ZV0c0SDBsWnRJRzFtRXEwVWpuSC1YVXFsM3FWcG5ENkRrQ3BpeTM3SWEyY3RJdnNmZ0JvUEJYdXYxM3I2NEJaNjdBNWN3alExNncwLXVTNjBPb0RLUnZOUDVlYTdibl9RbUNhazdTUnhUdjZmU0pPMVJxNWlRUWhTdUV1d0E3cUJRMlRES3BKWjNvU3Y0cVdvMUpUUGxOdVg3WlpLZTF5Z0c?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_campeche"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "¡Imágenes fuertes! Carambola de 86 vehículos deja 11 muertos y decenas de heridos; ¿qué pasó?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY3lGajRwdDVsd3RwVHN0aU1ZSXJZVlI3N21ZUWpiQzZNeTJ0eTZ2eUpxVmQ5NXJIS05RdHNjRGViaktNSEtFTU1FWmQ0LWt4UEd3SHhoR196bkdDUHVjZm80SzQzSThHcjR6dEdiSXBOYjJzUGltaDNqN1FXRF9ScFFqbVB2T0dKaUJOMWhBeVo5N2M1WDcycXR5UWMwTW0xR1lIU2szY1J1SkNmY1RrNGxKX29BU3pNWGJXdHh6c3dLdGtrZnBHREZwSHhSamVVVGgtUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_imagenes-fuertes-carambola-de-86-vehiculos-deja"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Vehículo repartidor termina sobre la banqueta tras fuerte choque en circuito colonias; ¿hay heridos?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb0hCRDBCdVFkeHAzczJDVGIxTFV4bmhTR0dnb0dwR0VZWFBwZk16WDZuNC1Fc0RLQXoyemtDUW5BQVppMEI2MEk5bUpRYXF0UlF3OWF0QldxR2tzaVRyc1FTLWVLd0MwcGlpMzdPazRDODFHTjhmdjdpeGROVllOSkNtVFJ2dnpjOWdYUFNOR1hPTkhRWVdGSXR1SldOTG42MzVkbnNsTFFKNGZrQVF4YW1oeDU1bVE2a3VHQXlZOEFNQVBBOFZxU25OVDZCcFNabnNUVw?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_vehiculo-repartidor-termina-sobre-la-banqueta-tr"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Controlan incendio en basurero de Yaxkukul, Yucatán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "El Universal",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1lyQzQwRDBnMjBhdXhfdk40QXZpdk84c1RVYU81RnBMS283aEpQX3ZtTFRhMkFCamNSTmplTnJKZHIxRlhjekNidmZhZlh0NS1XUXFDVEhxQkU4THhQNWdBWVAxOWpiQVlNSGxVeHhaX3VncFJ5ZFFaQ1VwOGJZNDlGRmxoSWZ3ektyaXBVQmhuN1lWc1pmSldTQm52c3gyaXZodmEwd3Z1UWM4bjM4ZjMtQl92R2lhTEpFOU9ERUtwbFlWZUFTdUdBVFhIZ9IBzgFBVV95cUxOY1lyQzQwRDBnMjBhdXhfdk40QXZpdk84c1RVYU81RnBMS283aEpQX3ZtTFRhMkFCamNSTmplTnJKZHIxRlhjekNidmZhZlh0NS1XUXFDVEhxQkU4THhQNWdBWVAxOWpiQVlNSGxVeHhaX3VncFJ5ZFFaQ1VwOGJZNDlGRmxoSWZ3ektyaXBVQmhuN1lWc1pmSldTQm52c3gyaXZodmEwd3Z1UWM4bjM4ZjMtQl92R2lhTEpFOU9ERUtwbFlWZUFTdUdBVFhIZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_controlan-incendio-en-basurero-de-yaxkukul-yucat"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Obra destruye banqueta y pone en riesgo a peatones",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmelhwMEt6SjJ2NWM0cG9rME1lbi05S2h2T05DdVhXeWVIRG43NUxHNnpRZG1tMFczWmFDYTZFU24wcFB0YThFU3l1bkZWeENYZVZ6OGxjbnNyWDMzT0F3QlQ4bV9wWWNHV0NVMmc5bnFWLWRmOXNmQUhfWm5LQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_obra-destruye-banqueta-y-pone-en-riesgo-a-peaton"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Más de 50 vehículos chocan en Bulgaria",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IeUJZdUoydjZlVjZlc1NCYndpZDFQZVlRWVlFZ0FrNXdKQ194cDRGeldOSnBUcWh2a0t1MTlvMHlUMFlYbHhNN2ZpejRIeXM5QkZLeWlpeDBMMXBCSjhfR2VuYmxTSGJ3dmdwZGo4dEF1VFk1Qmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_mas-de-50-vehiculos-chocan-en-bulgaria"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
   "ts": "2026-11-10T12:00:00-05:00",
   "t": "Camioneta atropella a motociclista en cruce de Chac Mool y Nichupté, en Cancún",
   "p": "Nichupté",
@@ -88,6 +215,42 @@
   "creado": "2026-11-10T17:39:55Z",
   "metodo": "reglas",
   "id": "2026-11-10_nichupte"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "Mujer pierde su casa y todas sus pertenencias tras incendio en Chumpón de Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/10/mujer-pierde-casa-pertenencias-incendio-chumpon-felipe-carrillo-puerto.html"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "Investigan a presunto agente ministerial por choque en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXVJY1FvbmJXdjhHUl9wT3NJd3ZDWFhGMHV0UXNtZ0pwMmhtdTl2VXJ2QmwtZW0xal9Nb3F3TWNEdGxUa3hfUTNzS3V4ZDYwQTM5QzBaS2hJRnhsRDJWcHNYZ2dSRUdCbEpkZGlCMjgxbXFFOUtldGpmUVBnbHk5UWtrLTNiX2cx?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T23:09:42Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_cancun"
  },
  {
   "d": "2026-11-09",
@@ -298,6 +461,14 @@
    {
     "n": "Yucatán a la mano",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3l6cTRJczFmZ2pQLTMzcUwwdHNjb0F6T1M2cDl0R2Q0MlNRTjBlaTlQdDBXUWJxcGRiaUpOTkh4X2pDN0xjRmhMRGVuUTRNUmJuQnc4VVYzNmtITGNKdll4U2hrRzIyblc5aWlnTnFNRjRVUmp1WGZJdHp6d3RTQWZiWU1zT3dDbjVtUmdkNGZWSU4xREloRDNzS25rd2M?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbjhDcU5BY3E5Sm5xN1lrT0hvZGQ2b3dNWk5mQ25uYmVvbDJMUXk0M1RYVGtlTzJJdUUtMDFVYXNlVFFNOVcwb200N1pQVFY2VmI1S3cxbUEySktYbEYwNG9TLThheVAtQ0xzM3ZSUGZoZjU2TmotenR6M0xJNWQ5b2w2dmlCLWFGVE14N3dJdldTa1RZNEpnVGxvX3NjOExwWkFtaFBydFYyWjlvMF8yXzBha0VaVkJvb2R6OG9WZnVnZHhjUWdZb2E0SG4zVzZoWUoyMXQyVWRVcnd2?oc=5"
+   },
+   {
+    "n": "Luces del Siglo",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMU1TMUVnSkgxeUtrZnlyRGZoZzA5TlE2cTd6QW5rWnlXMEpRay1sVlBWV3RLNmRYSjJhOG5xWGdBS01oSnBraUtjOHFKWHNJazlMa1RHNTktb3pTYktUNTZiYWJMNmpNcDFDQURiWjl3c3B0b3pLcjROZW4zNE9IUC1qdWNTY2djTFRQdkx6dzJnYTg?oc=5"
    }
   ],
   "creado": "2026-11-10T09:38:17Z",
