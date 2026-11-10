@@ -18,6 +18,78 @@
   "id": "2026-11-10_merida"
  },
  {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Aparatoso Choque entre Dos Motocicletas y un Auto Deja Una Joven Lesionada en Tizimín; Abandonan las Motocicle",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSE5Ed01HTzZ2ejd4a2RhVVRmUGg4WWctbnZ1dndGTGFRT3k1NnRqcXgxaFFmbHNUUFZBTlZIX05ubGlTTHZ0WFNibzI3UmFqek5hTXFfNlBrSnlkNXRBZ0VkR2xPSHp2RmVZR25mM2F1ZldVN001ZnZIRzFUcno0bjBfVzIxNzZCX1F6MVY5ZHlSWEdBdlpXQkFuVUVmUFVQU0tDUk1xdEFoQ0VWbXFBay1DdUFvU2U5dWFtZmpMWmpJRU9pb1dydDlBUURfc0JENFRhWC1n?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T17:39:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_tizimin"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Olor a quemado y presencia de humo invade gran parte de Mérida: esto fue lo que pasó",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZnZFdzZtekNyWFUxclh6d1R4NWxRclA2THh5QnU0Q3BKeWhwV0x2cElYUTBRZm9GQVVkMFE5TEFKUWppNE5jdjlhZnBnV0ZnUGxkbGVCNU1NZnJHZjI0RGJaTl9MZUtURUZxSWtySVZ5dUJEbjdDM2g2Qm50VkNsWHJLZHFEd28tWlRoUHkyMk81M3N6ZmZ4c3RGMlRlMlNqZUtLQUFoeTJWSURnam56Tmc2OENBb3pQYV9SX1c1OFFaRm1aSlRYNGh30gHKAUFVX3lxTE1mdkV3Nm16Q3JYVTFyWHp3VHg1bFFyUDZMeHlCdTRDcEp5aHBXTHZwSVhRMFFmb0ZBVWQwUTlMQUpRamk0TmN2OWFmcGdXRmdQbGRsZUI1TU1mckdmMjREYlpOX0xlS1RFRnFJa3JJVnl1QkRuN0MzaDZCbnRWQ2xYcktkcUR3by1aVGhQeTIyTzUzc3pmZnhzdEYyVGUyU2plS0tBQWh5MlZJRGdqbnpOZzY4Q0FvelBhX1JfVzU4UVpGbVpKVFg0aHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T17:39:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_merida-2"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "La Policía Local de Mérida interviene en 13 accidentes de tráfico en una semana",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Radio Interior",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNem01dFJ1ZDJzRjMzMWhEWnV2SkpjdDhqUXRJUHFjMjFPOFUyMHFXeUI0ek1DVVp2dFJoZVZESTQyaEU2NWJUMkg3ZkJidkthZ1B2amhZUTVQS1JsdDdfR0hzSnM2aWh4WnFtWG9vcEY4WWIyMWM5aG9ITy1MRWNYcHg5bkEzUGhSQ1dBbzk4NFFZTy1Xc2ZfdlJKaFFpblpmSG5zUHpnNFZ1cnVxbGhqa294OWVaN05SdHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T17:39:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_merida-3"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "Camioneta atropella a motociclista en cruce de Chac Mool y Nichupté, en Cancún",
+  "p": "Nichupté",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZkJvQ2MwWWhrVEF4Q0Jkd3F0Nk1YMk5feldSMzBKV1NlcVh4Z0F3dktNbVZQV0kwd3E4Qzc5OVRyRUhLWGRJNHRod29oTzJsdENzb1p6dUZaODYwaUhSMFVVVGFSSjhyQmFCQ0hVTlMwcWREd25fN25LMU1OYl9OV052bEhjRFhBM0RQNG5Ia2JtYXg0bXlOLUZpQjdZV2NRc0xYeQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T17:39:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_nichupte"
+ },
+ {
   "d": "2026-11-09",
   "h": "",
   "ts": "2026-11-09T12:00:00-06:00",
@@ -285,6 +357,25 @@
   "creado": "2026-11-10T09:38:17Z",
   "metodo": "reglas",
   "id": "2026-11-09_letal-explosion-en-fabrica-de-metal-deja-muertos"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "3 muertos en choque entre camioneta de pálidos y tráiler en la carretera federal 180",
+  "p": "CARRETERA FEDERAL 180, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObW1lUGN3ZENvZDRmQW83NmxlRnpHbW5NbVVhWk9GRTBmalRIMTh1cjBUcmVuaV9SWkJaZ2NoUEhDN0ZUSlRJYldUOTJwZHQ2QU5CNVM5ZVBzd2RkRHRTbW5ZelJDU3pkYWVJZFdXdkROR1g3aGwzNVlmX3BmLW94ZU9wTDV6QTZ4Nkg3Y3V6SHdYdndsSXd4VVh4WlFIOG41SXk2YVZKYnBrNlhjalV1NklYbkNqRXppdmwxMWQwQWk?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T17:39:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 180",
+  "id": "2026-11-09_carretera-federal-180-campeche"
  },
  {
   "d": "2026-11-09",
