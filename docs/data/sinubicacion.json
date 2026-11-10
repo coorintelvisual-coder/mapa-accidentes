@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "¿Qué pasó esta noche en Mérida? Una intensa nube de humo cubrió el cielo de la capital yucateca este 9 de novi",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zVnhtSVVPX1R6YVNlRWlybWZ6SnktNHRfaGhvb2hiU0ZzNEl4VWFJelMwdEJlbmZjOEExWjh0Smc0Y19MTGE0U1Y1dW1KUWdHQVhGcVVR?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T09:38:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_merida"
+ },
+ {
   "d": "2026-11-09",
   "h": "",
   "ts": "2026-11-09T12:00:00-06:00",
@@ -187,6 +205,90 @@
  {
   "d": "2026-11-09",
   "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "Incendio en Yaxcucul ahoga a Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlWE9IakF3X28yeVlTWXFYTVJtN3NXQS1CcG1rTHZIWEhNWFU1VU01bHJPdkhFWjlLVTRCWTR6VmZESUVjYk00dWNyd1oxaUpvSEloVV9tMVFVS0RiRXpkeUtfaXBSenJ4blVKQXFjYktYbUU5MFRDZWNJbnZmZw?oc=5"
+   },
+   {
+    "n": "Johnny Oliver Quintal",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEdEbHdscVJUekJGbVdmT1JkX1ZaN2UzeUVHZmZNeHI0NXMzSTJleWE2MHc3Yno2bFU0U2ZGeFBxVXNvWVVod0gyU3BPcjBfb01aMF94b3NEUVpvRHJYMW5IcnFJWDZBZXFGanNFMGRtb2JVMzd4c3NpMkNCcEJuV1Vxb1pDSU0?oc=5"
+   },
+   {
+    "n": "- Infolliteras",
+    "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOak9HYTItNkk5WHowSTZDWG16N25OOTI4TVNzc3NqcXpucHhIa1NPcW5RRHNDdmtKZUpacFJpTjh2TFBvc2xrdGw5ZmRBRFZ1MHQ5azlEdWU4U2M4eU9zZ1dtaGxrOWFCZ3ZQUFNDZXFGXzBlcGVtb3RzZ1RjLWNTelNjaXJvZlJRbzFIazBvcm9Pdno3Ny05akZiUHlvTG9aeVpiVnBSM01pWmpZYVRyZko3Y1B0MTg1MDYwaTVPcTQzQVlXNzRIZzRaa1Z5a0NnNU9JeWNuOU1IU1ZvNEFZaWlYbjh2bThwNWVZaWVuUHJ1SDA?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3l6cTRJczFmZ2pQLTMzcUwwdHNjb0F6T1M2cDl0R2Q0MlNRTjBlaTlQdDBXUWJxcGRiaUpOTkh4X2pDN0xjRmhMRGVuUTRNUmJuQnc4VVYzNmtITGNKdll4U2hrRzIyblc5aWlnTnFNRjRVUmp1WGZJdHp6d3RTQWZiWU1zT3dDbjVtUmdkNGZWSU4xREloRDNzS25rd2M?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T09:38:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-09_merida-3"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "Densa humareda sorprende a colonias de Mérida: \"Huele a quemado\", reportan",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmNfQy1mRFVDMU9hLUEyODBwalJRSzdVaXVsaVlLRU9UYi1pazlCRUR1THlTbHRra21scXlVWjd6bURlX054X2JpUEZ6SlhwWFNWSGgxNkRkd29BQi1zdzZ0cWZvWEM3dlZ3Qzk0Z0RFNnZBbGhmNkl6OXpST0JLRTRoUVpXQWNubEl3M1hBWmhmLXBibWdsalo5UHBfQ2RlWXo2OVpmeU82XzlSX3lXTGNrQl9GcVEya245cA?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T09:38:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-09_merida-4"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "¡AL MOMENTO! Una densa capa de humo y un penetrante olor a quemado en diversos puntos de Mérida. ¡Toma precauc",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RSW5Bd2xRak5XM28yQTh0Rld6VkJMWkwydmsxckxFdURrdWMySWJybjF5bGVLcnJTZUd3QVlJMHd5VzlVT2MycTdiRFBvSWhLUmcwRXhR?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T09:38:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-09_merida-5"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
+  "ts": "2026-11-09T12:00:00-06:00",
+  "t": "¡Letal! Explosión en fábrica de metal deja MUERTOS y obreros gravemente heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVktmLVRDbW1QbWhkTG1XZnVUUnFZaTYzUFFxX3NZQnJJbjRRTlBjZm1zUS1rYkJhOVFZVHlkTlk1Wk5rSF9vUjlSQkgwSzZKQlJIZm8xNm9WUGN1QXl5TkU1LVhFdkV4MVppLXFvOV9UdkRwbDBFNkJnY1BQWlE4allKRW85UDIta2xFWXRzNGM1T2xqOE5hTk40NklqRTZmR25SQ2h6MVZFSkoxSGNnTkhJYnhjTXluVVVRSk5Gcnk1NjZuVktnX3BONHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-10T09:38:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-09_letal-explosion-en-fabrica-de-metal-deja-muertos"
+ },
+ {
+  "d": "2026-11-09",
+  "h": "",
   "ts": "2026-11-09T12:00:00-05:00",
   "t": "Accidente en carretera Cancún-Playa del Carmen afecta circulación; una camioneta chocó contra una van.",
   "p": "Carretera Cancún-Playa del Carmen afecta circulación",
@@ -291,6 +393,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWTdld1Y2RzhKWjJLUnZxdk9lTl9yeE5xYVgxaG1xNFh1SFZ6ek5VbUxmOHFUTjRuTUoxQ0h6R3UtZWZIaHVVcWtUNlFpbjJHNlZFcnRMS1ktRzVISzlOUWg3WTJFbnFnOGRLSVVvV0JNUkpSUHdIRFcxQ2gySXVSQzVMTmVjaFFJNkJWdGlqa3QyRkd2NFJHTDduVWlOMGJnOXdlZW80ZUktS3Jm?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3pBcjFTNWdqeS1DSnNpLWpNTGlTcHJYU2J6b2tqX3RrUFBkaXRYbzlOby13VzZjejRnb2ZvSmdxVTY2ZjhKZXhtXzF4X0lNLTNZQXAyWEZuT2hYeXVTcE13RGJScUNobDVsd1V5SmJncUkyR2xIUzNiNmdGcU5zSW1ybURVYk5rVm14NHRBcEp5dmNUYklV0gGfAUFVX3lxTE82Y3BDcnA1MF8tWjZ0RVpja1dIUTJMMXpvWTltMXJUYnowMVRIYk9hWEVRSmhxN2JzaWVfcTZJZGxrLXFfSlVISmlXOW50R3RxYjlGOFN0M0pQa0cwMEhZYl9hRTVSMUpZNHFSYnNvNGo5UlFPaDZwNXBEM3RBUU40VVFRaDZSV3ROWkpjMHhtdXZ1UGEyRU12SV9RbjZLQQ?oc=5"
    }
   ],
   "creado": "2026-11-10T01:58:53Z",
