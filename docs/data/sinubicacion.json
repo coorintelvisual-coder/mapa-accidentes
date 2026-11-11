@@ -22,6 +22,145 @@
   "id": "2026-11-11_progreso"
  },
  {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Cable de alta tensión mata a una vaca en Palizada; habitantes alertan por líneas eléctricas caídas",
+  "p": "Palizada",
+  "estado": "Campeche",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/11/cable-alta-tension-mata-vaca-palizada-habitantes-alertan-lineas-electricas-caidas.html"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_palizada"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Vuelca tráiler en la carretera Mérida-Valladolid; conductor habría dormitado al volante",
+  "p": "Carretera Mérida-Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/11/vuelca-trailer-carretera-merida-valladolid-conductor-dormitado-volante.html"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdENROUVMODh1VzdsNmZ2NjFsNUpPSmdYT1JGX1dzem5BM19WcTNqQmZ6Y1hDaWdPV1RZel8tRkFUbUE4VmRsYXFFZWxyYTZtMXNrRXZ3RXVoV3NJelpEb25Jbmc0dHVYTGtvc2RpcnB2UDN4R3V3dDNZUEtjdUFOTVBhWTczMUY2WVZrV3dSLUpJMnZPU1lUZ2R1ZVJKalJvMDZQY25UbUUtQk5NQzM3eHF5bWMxc1FIbGdTLVVoalg4RzlRMTZLaXlBUEM3eUNJa2NsekdGRQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX0FscF9tWUQ1c05ITnU3c3NIa3RVYVduUGZ0YUh5c1VUYWVHSFpmQ2xjN3JyaUdPek00MXBuMkNLM1UydHROSzRSS1JyMG5VS0tEdmVpaVN4VGZxUFNtYjZ6bUJJM19veEJwX3JScUlfQXpRZTNQejdIU1JLOTdiQ2ZHZzdJYU56N2t1Y0JFUFVocThYZmpPOS11c1RxS3N6aUR5SkFfRlYxbERpUmswRlNtR0V2Q2UtNVBn?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida valladolid",
+  "id": "2026-11-11_carretera-merida-valladolid"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "¡Camionetazo en empeño del Centro de Mérida! Guiador huye tras el choque",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3ZJNUZLQjJmZm1yd1lRU281N0EwMEJBa1NCQkxVaXF4ZGhpeEFLQzFwd1BMZ19Ga2VtRTB2Zlg5V0ZiWFBzQkNSQndDYXZJQWY3VENiRkx4bE9ENjhETVNBeVBqUHpybmtoY0NmNU1kS1Y4d0hGV1ZYNDVSUTBqT0xtRUs4X3Z3c05ELXhzSW95LVoyNkhVeVEyV2VjWDA3NlVQN09HYktyeVFVYXJQWlR3?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_merida"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Volcadura de camión en la Mérida-Cancún: detalles del accidente",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnZmhuZllZcFdiZ2gwSWpMWFlyNDFiYUFaNVg1M05qR3pJbUM0SWVkTGF6ZENSWmktV1hnVjNaMkFfb1dzQVBLY3J1QWhvSlJkQUNlZ2VFRXVPZzZERnFMLUdYUFlMdVdUdGxuSGNsVk8?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_merida-2"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Camioneta termina dentro de una casa de empeños en el centro de Mérida; ¿hay heridos?",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUdheE1iWGtfdlNEMEF3d1RHZUswdFc4UERnVDREOWEtLUJBcVZBbjFJbEtQeGRObDFrb1o1UnFCZWRsNVZHRzRsZi1mY2hnRTRMMmlDeFBDYWo2SFV0ZXQ2ZHdGeXhVRlpBSXVOUE94MHV0aVdMeXRmbnh0VkpEM1QwV05NaEZKN1FaMHFKemc2eU9YWGFieDg3LUFWbVliR1dLb3VRd1NCUU02b3B4cU1zMDh1ZHF0ZXlTdUFKNTdfakVqdk9TanB0WktpRGp5dDc5Sw?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_merida-3"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "CARRETERA 307: Colapsan dos accidentes el tráfico entre Cancún y Playa del Carmen",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU01RMWwtZWw1YTJCYkpWTTV4R1BQZ19FcGhNcGMtSGVreWdZUFM5TUJ2NTY3TjFGWVdUQWQ4LWx3U3dyd1VONkY4dzItS21JVEJVTl82dzkwd1FteV9qZURmaEFTeHF2ODlmZHhuVzNJSWFia0ZNX1NNSVhubjlkdE5FWFNkekNwaXZIYjd5MDlmS1VsX2Z1SGl2TFpiMGdlRE51U29hNmVSeGcyeWc?oc=5"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFQtZ2pIUDJmeWhmRkliemU4Z3RhWC1mRDJCSDJ6aWsySWtTVThNc0FkdGt2bU55TVRfZFluWE1oaW1uTmVyM0s3UmZPMFJCV0RGYTdpSFJVY3lCcXY3eVVzUzhmN2UyZmRadVVqUlk3UE16akNESFIweFBhXy1oQnBrWjhUVUxrdk81RFFid0NsdVY1S3doaG1fTUh0TmRrb2R2a2VvTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_cancun"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Zanja sin señalización provoca accidente en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR1pRdGNGZk0tcGV5aVVLTVdmSEhzUlREY1ZmdGtfbHpuOVB2TnFITGdaN2ltRjBMYmZuSGJCV05fVHhNVnpFQ3d4dG1ST0FNMHZ2ZFBYVFhxY2NCeVA0cmJoS3hyTmd5Q1k4Wi00OXRocWd0VzhoczR4NkdpcTd2Zm5SNlkyd9IBjgFBVV95cUxPU28xeEwtVkhNVkh4LVd0ckVjN3VWYXEtRmpUbEl4WlpFSWlacHNvb09hQlFNWkV0SkktQkxTT1Uyd2JrVUZ6Vkk2RWQ1LWo4STA5ZnVjd0J0V1lqWW1pRVJvWnVJaFhOUU1VeUxMa2xLb0g5blY2YWhrV25ad0pUMno3M3E5emdvLThqR3pn?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_chetumal"
+ },
+ {
   "d": "2026-11-10",
   "h": "",
   "ts": "2026-11-10T12:00:00-06:00",
@@ -387,6 +526,24 @@
   "creado": "2026-11-11T05:56:32Z",
   "metodo": "reglas",
   "id": "2026-11-10_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "VIDEO Carambola en carretera deja al menos 12 muertos: Más de 70 vehículos se vieron involucrados",
+  "p": "Carretera",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWEN1ZWZ2bEVfUDI4bXBsZDNtRXNLZUJiWmIzV2M3MzNsdXpBSWFHUWVEQXN4eEdFbTItWWxDSE1pTTBUOUgtak5TMDFOTFpkcTBvNnl3Qk1Nb1pCZlhPRHk0ZDF1bHNkd0NqX0VpMHBqY1JtRV8tWVRWNlRjTmc0aXRCSWx0ZWdvNVBudHU5YlMtMEZ0VDc3clhjMzhCZ3lNS25iYlZZcWN6Wk9rdC1id081RmllQnNiWjFhd0FqQUY1ZEFfQkE5cFUxLU1pRmRNWVdZTlc0cw?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_carretera"
  },
  {
   "d": "2026-11-09",
@@ -14297,22 +14454,5 @@
   "ts": "2026-10-07T20:00:00-06:00",
   "id": "2026-10-07_merida-cancun-gasolinera-san-ildefonso",
   "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-07",
-  "estado": "Yucatán",
-  "h": "",
-  "p": "Carretera Tizimín–Río Lagartos, sin tramo",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/registran-aparatosa-volcadura-de-trailer-en-tizimin-rio-lagartos-video/"
-   }
-  ],
-  "t": "Vuelca tráiler en la carretera Tizimín–Río Lagartos; carga esparcida en la maleza",
-  "tipo": "vial",
-  "ts": "2026-10-07T12:00:00-06:00",
-  "id": "2026-10-07_tizimin-rio-lagartos-sin-tramo"
  }
 ]

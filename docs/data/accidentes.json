@@ -1,5 +1,116 @@
 [
  {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Rescatan a hombre que escaló una torre en la Base de la SSP en la avenida Reforma de Mérida",
+  "p": "Avenida Reforma, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/11/rescatan-hombre-escalo-torre-base-ssp-avenida-reforma-merida.html"
+   },
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BanZheWJ4c1VpWU1lVUdPbVNVcGhYU1Fsc3pSbFB0WkRWbVpLYkJROHUtZE9fTTJpUzNLOVVBN3R1NHZXVzhXTVBjQ3R1UXVmaVpUTVN5Q0M0cmN0TmtHVjBEVmwwcHFVSGR4OHpKTTA3VXpUSFIzMg?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "clave_lugar": "reforma",
+  "id": "2026-11-11_avenida-reforma-merida",
+  "lat": 20.985988,
+  "lon": -89.624701,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "¡al momento! acc1d3nt3 causa tráfico pesado en la av. tulum en cancún hoy; una persona resultó l3s1on4da",
+  "p": "Av, Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/al-momento-accidente-causa-trafico-pesado-en-la-av-tulum-en-cancun-hoy-una-persona-resulto-lesionada/"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_av-tulum",
+  "lat": 20.189783,
+  "lon": -87.462155,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Choque entre dos vehículos dejó a dos conductoras hospitalizadas en la avenida Los Tules de Cancún",
+  "p": "Avenida Los Tules, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/11/choque-vehiculos-deja-conductoras-hospitalizadas-los-tules-cancun.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlc4VklwLXBuRS1Ja09MWVBhLVVFTUk4SFpOeGpnSGp5OVRFZ3BveWt4NDhFMm9aWEFuRGNNRkFGcDlmRDJ5V05fUUxFLW9pR2s3SzJaTlpNaUpGdkZsdWVEV2tvcHpJa0l2WW1weXNtNWQ2XzJBRUlrRnhSN3BqVlVZVEZIWndtNjZvMXBlbm80bjQ0M0pmOVMxQ1ROZXM4UEw4?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXJCMFlUcGR3OFBpdWVjdWpQbTRNMjZBM0xVajB3U0VxQnhwMFlxQ2oxMUQwY2dselNyNVNHbnRxVUNfNEZjOUdvM2dlYndERVhmNmtHRGpOYjRST2p3VVhESVlBX1VHWHI1Y1JpWTk2WTZMMTFqeW5HVkU3eWQ4a3BmV2Z2VFY2Tk9XVTV0M29WV3E0ajZyMFdXWlozV0hSZE9nMmFpblB6Z9IBrwFBVV95cUxNWnF1R1VqZFNhYkVDQXFQR1hTSThjNk9YVkItRG03R3JRcEpoVW84bGl2SmZKSjBoMHd1ZFVULWxrQUk1RnNWWlhRWGpJdS1IY1hmNHlFM3pzTVVVRFdBdHZ4TnNETUVWSDVrNXdYRUxOZ0dJenBYZFJIeUs1NnhUU1lzSUZOaFV4UFVLUnQ0NDlpck9zRkJrVFZ2MDJ2UnBRVnpma2p1YTNuZ1hnTXJj?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "clave_lugar": "tules",
+  "id": "2026-11-11_avenida-los-tules-cancun",
+  "lat": 21.188591,
+  "lon": -86.873929,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Choque en Cancún deja dos mujeres lesionadas en la Región 248",
+  "p": "Región 248, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWVDZU9lZ1BrXzNpOTg3b1BIQUlBT3JVQXcxMVJkcFU3X2tUM013cXhvQUZHT1F3UlBId0FPWHYzZDBiRUhjQzd1OUhWeTFJMXlMZUwyY3VyaGRZZnNnSVJCWlZZVmgxSDVCM05vOXBlQVN6UXp5b1NxT3VpVk1VUUpxdDNSVUNXSEJkRDhvM0gtVGFWMS1tMl93djlfSjZi?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2dUTlZPcEpIcTV1dGlVV0NNaXF1X3RKVVRGOFJmNkc0OXRCbFpiQ3A4dmFPZk1YXzI0NUhpT21IckkxNExHei1GT2Z6cTQ5YXBTMV9zcGxwMDdsaExRNTRDSnpHWE1QU2Z4NWVPV2VBMGVEalllaWhYX2xHUFJEcTBBam95UWFZaTJkeGd0X1d4ODhNLVRxZjRzMTVBR3Y2?oc=5"
+   },
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWlRMYjZUcUF1ZUppckFJN2d4UkFtTlJ0Qjg0TklzUjZucXlWc2cxVGJTWnVHVnpSeTVibm9uM0VOemw3eHlOVmxaT2l5a0Y1ZG5JY055SFZaTXdZSWNKTjJQYUxPa0ZWZEV6Znd3SGpFWGE5ZFJ2c0VEUkZ0WDJDcTFWRdIBiwFBVV95cUxPWnpwZjBXaE5DMzE3ekRYVjFzYXVjMFROZHN0Q01BMGlxS01hdjJfalBvejZDTW1aZkw3azd0NEIweURXZm54eGt4MDE4SzZsNVpRbl8yVlJhYmdGLTItSEtrZE9CV1RzekZNeFhNNjlBR1BycDRuOGZnNG5tZkRrbksxaU9MSUFFQy1z?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T21:15:56Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 248",
+  "id": "2026-11-11_region-248-cancun",
+  "lat": 21.149141,
+  "lon": -86.881346,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-10",
   "h": "",
   "ts": "2026-11-10T12:00:00-06:00",
@@ -2263,93 +2374,5 @@
   "tipo": "incendio",
   "ts": "2026-10-08T12:00:00-05:00",
   "id": "2026-10-08_av-sicilia-x-justo-sierra-chetumal"
- },
- {
-  "creado": "2026-10-08T21:10:00Z",
-  "d": "2026-10-07",
-  "h": "",
-  "lat": 20.986,
-  "lon": -89.638,
-  "p": "Av. Cupules x calle 36, García Ginerés (una nota la ubica en Av. Miguel Hidalgo)",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/detienen-el-trafico-camion-de-va-y-ven-se-impacta-contra-un-vehiculo-compacto-en-merida/"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/reporte-vial-asi-fue-el-accidente-que-congestiono-hoy-la-av-cupules-merida/"
-   }
-  ],
-  "t": "Camión del Va y Ven choca contra un auto compacto; sin lesionados",
-  "tipo": "vial",
-  "ts": "2026-10-07T12:00:00-06:00",
-  "id": "2026-10-07_av-cupules-x-36-garcia-gineres",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-08T22:20:00Z",
-  "d": "2026-10-07",
-  "h": "",
-  "lat": 21.0129,
-  "lon": -89.6219,
-  "p": "Av. Tecnológico (calle 60 norte), zona norte",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/fuerte-choque-genera-caos-vial-en-la-av-tecnologico-de-merida-hay-lesionados/"
-   }
-  ],
-  "t": "Choque en Av. Tecnológico genera caos vial; solo daños materiales",
-  "tipo": "vial",
-  "ts": "2026-10-07T12:00:00-06:00",
-  "id": "2026-10-07_av-tecnologico-zona-norte",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T18:25:00Z",
-  "d": "2026-10-07",
-  "estado": "Quintana Roo",
-  "h": "",
-  "lat": 21.1186,
-  "lon": -86.8455,
-  "p": "Av. Huayacán, Cancún",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "TV Azteca Quintana Roo",
-    "u": "https://www.aztecaquintanaroo.com/trafico/se-registra-volcadura-en-la-av-huayacan-en-cancun-hoy-7-de-octubre-de-2026-que-ocurrio/"
-   }
-  ],
-  "t": "Auto vuelca sobre la Av. Huayacán por presunto exceso de velocidad; sin lesionados reportados",
-  "tipo": "vial",
-  "ts": "2026-10-07T12:00:00-05:00",
-  "id": "2026-10-07_av-huayacan-cancun"
- },
- {
-  "creado": "2026-10-09T18:25:00Z",
-  "d": "2026-10-07",
-  "estado": "Quintana Roo",
-  "h": "",
-  "lat": 20.1313,
-  "lon": -87.5826,
-  "p": "Carretera federal 307 FCP–Tulum, 2 km antes del acceso al aeropuerto, Tulum",
-  "pr": "tramo",
-  "sev": "fatal",
-  "src": [
-   {
-    "n": "Quintana Roo Hoy",
-    "u": "https://quintanaroohoy.com/quintanaroo/tulum/volcadura-de-autobus-en-tulum-deja-tres-fallecidos/"
-   }
-  ],
-  "t": "Vuelca autobús de pasajeros en la carretera 307 cerca del aeropuerto de Tulum; tres muertos y ocho heridos graves",
-  "tipo": "vial",
-  "ts": "2026-10-07T12:00:00-05:00",
-  "id": "2026-10-07_carretera-307-fcp-tulum-cerca-del-aeropuerto"
  }
 ]
