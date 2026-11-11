@@ -156,6 +156,10 @@
    {
     "n": "El Universal",
     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY1lyQzQwRDBnMjBhdXhfdk40QXZpdk84c1RVYU81RnBMS283aEpQX3ZtTFRhMkFCamNSTmplTnJKZHIxRlhjekNidmZhZlh0NS1XUXFDVEhxQkU4THhQNWdBWVAxOWpiQVlNSGxVeHhaX3VncFJ5ZFFaQ1VwOGJZNDlGRmxoSWZ3ektyaXBVQmhuN1lWc1pmSldTQm52c3gyaXZodmEwd3Z1UWM4bjM4ZjMtQl92R2lhTEpFOU9ERUtwbFlWZUFTdUdBVFhIZ9IBzgFBVV95cUxOY1lyQzQwRDBnMjBhdXhfdk40QXZpdk84c1RVYU81RnBMS283aEpQX3ZtTFRhMkFCamNSTmplTnJKZHIxRlhjekNidmZhZlh0NS1XUXFDVEhxQkU4THhQNWdBWVAxOWpiQVlNSGxVeHhaX3VncFJ5ZFFaQ1VwOGJZNDlGRmxoSWZ3ektyaXBVQmhuN1lWc1pmSldTQm52c3gyaXZodmEwd3Z1UWM4bjM4ZjMtQl92R2lhTEpFOU9ERUtwbFlWZUFTdUdBVFhIZw?oc=5"
+   },
+   {
+    "n": "Columna Digital",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2cyTUhYNk5LaTdnZmgxOWpzYmNuTFhUQU9rczgyU3ZaOTJZZzNhZzBsN2FLaDR2Rng2YzlHSjlHZjlncnl3bTlENTZyT0pfR3pnUzh0VmdzSkJObFRrUlh3NkFUMFFsTHdRdGdVYlkwWU51cnh4UkN4UmlwR3FPZUw5X0EtbXdKaExJYVpncGxocEtIVTlXcA?oc=5"
    }
   ],
   "creado": "2026-11-10T23:09:42Z",
@@ -197,6 +201,61 @@
   "creado": "2026-11-10T23:09:42Z",
   "metodo": "reglas",
   "id": "2026-11-10_mas-de-50-vehiculos-chocan-en-bulgaria"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Mujer de 65 años termina hospitalizada tras ser atropellada en la colonia Francisco I. Madero; conductora fue ",
+  "p": "Colonia Francisco I, Escárcega",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/10/mujer-anos-termina-hospitalizada-atropellada-colonia-francisco-i-madero-conductora-presentada-fiscalia.html"
+   }
+  ],
+  "creado": "2026-11-11T05:56:32Z",
+  "metodo": "reglas",
+  "clave_lugar": "francisco i",
+  "id": "2026-11-10_colonia-francisco-i-escarcega"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Volcadura en la KinchilCelestún deja un herido y caos vial",
+  "p": "Celestún",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzE1U0ZwQi1IQjNJb3J4WXVvV2lJenVrczFPSTB4dmg2Y2JQbjlaVUFvWXFhVFNjR3dZS1pkU3BxdzdTb0VodDJnRDVfeXItUjJ5WEtoLWp3dWZkUGFGZ29fWkFlRzcwbmEwSzk3Q0FKOTVSZ2FIR29FdGxwYzVuZ1pJWnpOQXBhelE?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T05:56:32Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_celestun"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Densa niebla de humo cubre a Mérida: se incendia un basurero",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Amexi",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15V2M5dEtfNm9wUEd0cXltOHMwbmZya3BobFFuYkk3a25uc1BzOGxFdWpLVmxfcVlLWDR0cFR4Sjh1U19yTDdFU1ZtdngxczdIMzd5Q0M5M0V2dHhrd1ZPUFdIUFRFRVNsN2c3bUs1bkRaMXBvMm82RQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T05:56:32Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_merida-4"
  },
  {
   "d": "2026-11-10",
@@ -251,6 +310,43 @@
   "creado": "2026-11-10T23:09:42Z",
   "metodo": "reglas",
   "id": "2026-11-10_cancun"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "Mototaxista sale proyectado tras choque en la Región 253",
+  "p": "Región 253",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNGJDUXctSmxoUG1UVTBBLU1kUUR4R0hXUFh1TzNEQzRvVi1USUx3cGFhUmdvZWE5eHdRenJYd2hvRVA3eHU0QjhSXzFFVEw5VmQtd25iRE5teU82Yi1SZnNkSUJrQUVSMTVoNV9wdUphUDRaZy1pMUk4WFBKaUFXSnVEc1BoZDl6bFlFNWZn?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T05:56:32Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 253",
+  "id": "2026-11-10_region-253"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-05:00",
+  "t": "Fuerte choque entre automóviles deja cuantiosos daños en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEptZjZsd2dQbm10NkhWSEJpN1lTUDYxSzJpbVZRQTBCbnFWcnlIWERQV0pFMkZtUUQxQUdvVDBIOXJJU21hWkkxYkIwVkpxa0RvLVVYYVctMGJBYUZkNDA2UkVDcWdOUk1jTUo2a2dCZGFXcENyNE1jdDNfSEZWSDVRWnhBLU1TdXFUYXhTUFhIbDhoVnE2TGx3clFJVEpZMmtQVG9JZW13bzdIT2RoWA?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T05:56:32Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_playa-del-carmen"
  },
  {
   "d": "2026-11-09",

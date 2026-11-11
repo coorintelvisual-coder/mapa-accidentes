@@ -274,5 +274,14 @@
  "n|colonia san francisco, izamal|yucatán": [
   20.939514,
   -89.025996
+ ],
+ "n|colonia francisco i, escárcega|campeche": null,
+ "n|avenida solidaridad, escárcega|campeche": [
+  18.607965,
+  -90.74738
+ ],
+ "n|colonia san carlos, valladolid|yucatán": [
+  20.696153,
+  -88.210994
  ]
 }
