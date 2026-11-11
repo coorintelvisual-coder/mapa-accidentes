@@ -1,5 +1,27 @@
 [
  {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Bestial choque de motocicletas en el centro de Progreso: falleció uno de los motociclistas al ser embestido de",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "- Infolliteras",
+    "u": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOOXBDWlAyWlRidDdqbXhTc3p5aE1BbmQtV0dSTUxZd2xBbmlfenRLZWVpSlEzS1BBMGNueXBsVHdqUWVYU3B3djFZdGhpS3E1R3JVT3d1VzBOUnh4WXBvN0xoTVJiRDJwZG9TSEJEN2RwRjJEOG50ZzBzQ2hwdGcyeW5oM2FSVEotVmxkT21xTDFXWlJLejNieFVrY1VTeHRSTlZVMmdGejZ1SFRpZjRSQzRoWFUwR2liWHd5dk9GdjkzTkxhcFB3dTFwVHN1ZnE0cWJlNVh2RFk5cHFyak9naF9jQ2NyQzJXcXVKZ0JBWFFJQjBFRk1pREx6QnVmMDlnbzRWdC14UU82YW1YT293UklFeW5waTFTRHRLemZDQ0c1bE1vMnZEQXRzZm93YkhkSkE?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM09QRzd2YlF1LVd4MTVnLUtvNXJ2OHNLMV94NnVjNEpVS3otTmRIVGlJMU5RamlDMmZSZ2liLXJmdTd0OGpYd1Zrb0pWYTR4bjdkSk1sbTdBbEJWS1hDRDFnRHlwZGFUV0FJd0pnVWdLb3ZEUjNQbG9mbXpuaWRxQnlDQ1J5bE9BWVdlODZFcnM2VTVPcnp3YnI2T2s?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T14:01:51Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_progreso"
+ },
+ {
   "d": "2026-11-10",
   "h": "",
   "ts": "2026-11-10T12:00:00-06:00",
@@ -256,6 +278,24 @@
   "creado": "2026-11-11T05:56:32Z",
   "metodo": "reglas",
   "id": "2026-11-10_merida-4"
+ },
+ {
+  "d": "2026-11-10",
+  "h": "",
+  "ts": "2026-11-10T12:00:00-06:00",
+  "t": "Pierde la vida en una parcela en Emiliano Zapata, Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMGZEQldiWExvOVAwUklwZ25ld2V2Q0lFWTRMOTItM1gwX0xPTnVjd3pwUTFrc0toV2ZtdEd6Q3FiUHA3N2xFOW0walk0bE1ZV3I5bUZLT2ZFdTd1dXVtNjktbkozanNvOFBSckNKdUNLTFEwSkliY2lRaTlhcDU5bGhOZ01lWmdWbTAzcTZMUE1Ibjl0dEFsT2MwdHdHU2tYMEJ0eGZiUEV0MzBjWVFScWtzUjFQWkdzLWt0UXpRcjBkcmtWT3otZXpiUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-11T14:01:51Z",
+  "metodo": "reglas",
+  "id": "2026-11-10_campeche-2"
  },
  {
   "d": "2026-11-10",
