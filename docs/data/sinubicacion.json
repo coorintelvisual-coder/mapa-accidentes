@@ -123,6 +123,101 @@
  {
   "d": "2026-11-11",
   "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Tráiler con más de 50 toneladas de maíz vuelca en la carretera Campeche-Mérida, en Hecelchakán",
+  "p": "Carretera Campeche-Mérida",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/11/trailer-toneladas-maiz-vuelca-carretera-campeche-merida-hecelchakan.html"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUdFdkd5eU1wTHRiZUtFck15X3M5WU4wQ2huMUVtU0lFcnlDbTlxdUZUT09kNU43bl84SVlyaXhhYm9VNTY4VTVfRVk3MWdYbXgzZ1M4OWVBZGN5VGdtWmZQTkZ4S0JPdmdjMmdfclZOTzlLLXo4LVBkelZQTmJFYTB2RnNOdDc1NS1aM2p2aDMtRHgtaHhLT3dxdE5uOHdKME1rSXpoWXlNUDNoRjB6MktYNA?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche merida",
+  "id": "2026-11-11_carretera-campeche-merida"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Una densa nube y un fuerte olor a basura y hule quemado sorprendieron a habitantes de Mérida, su zona metropol",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2WWhXQmlMcmU0SDNOdGtnc3VJT3BuXy1uN0ZGcWF5REFsX3pJb1ZGSkZSN1F3Z1hqTW82M2MwNnhnMFdSeXFVUVNwY092N0RzazZuR3d3?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_merida-4"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Poste de alumbrado público está a punto de colapsar en Champotón; lleva tres meses sin reparación",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOHJ2Qy05Rmc1aFdoZGM1MzdNbWhDdWpSYXk3WS1XUGdMWUF5NkNwbHJEYTNVMXBDNnZYNW91V2tDTUMzU2laSmstNlpLaG13RVJZS1ZPRjN6U1lQMUNmNnZpQmpNM1B5aHg2b09oVHpmU0prYlhsQS1lVXZoUG9lVG1sdzNyUW43S0paZ1NWRlRjNWFGV0w4SEdNeFhqYTlQTW9GWjR1cHhiYkF3T3lCejg3bS3SAboBQVVfeXFMTWdTcWZMcURWT1lUMVNVN0NuUkFXN3JQcThTbThSam5HdjhyaXExQ1U4S2FlRVVGeHpJNldMbWJuZF9TcFNVbElUUExrTXRWY0Q5WE03TjZGX2ptZUhYb3FwTkZ4VEhKdW5zX0tuanMydnFsd2loQWJwRGJGdDNVLUMxVE5oYUNhNzNEeHhzNHVNbDJzODM4dEowQjB0UDJRQmxxcGs0YnVnZ1R1OXBOUjd0czg2ZFFFVWp3?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_champoton"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "Basurero de Baca en constante riesgo de incendio",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBveWtubkdsdy10NWh5VWxwVmNqemRVRlVHSVF0NVFiTVdSM2NyRzJ3WVNabkE1aG9vQTQ5aUNZbS1fOGdvZnhyOW5BMEUzSDJlN3lYR1ZSVWxSaENmSXlKUzV2M0VIUFJxdjJhcUtCX0w1Z3FHenhSTkFxaw?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_basurero-de-baca-en-constante-riesgo-de-incendio"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-06:00",
+  "t": "¡Susto en el aeropuerto! Hidroavión sufre ACCIDENTE y evacúan a todos sus pasajeros",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTBXeGdHNzhrQzlyM3JUWXVhUVNfeHhsaXUyU0d0cXpteWJpT1BBRm9oc0dUM1lsN1FFREZVTjItN0JUZXUwX19PVUdlWXotVm1MRXlYMm5WMmxUcG9VRHYyWE1HYmRnT2k1MkJyWnV5Y3FHWG5zWERIZ1RLV0FsU0sxaEdSUHM1aFFVa3FYbHVJUGxoWWZTZlFBcVoyUVRNZzJ4b1l5UHRVc0dBeXFMVnpWWWxCQktQaTJlZE9aOXRTSmNQMUdzT3lmcw?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_susto-en-el-aeropuerto-hidroavion-sufre-accident"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
   "ts": "2026-11-11T12:00:00-05:00",
   "t": "CARRETERA 307: Colapsan dos accidentes el tráfico entre Cancún y Playa del Carmen",
   "p": "Cancún",
@@ -136,6 +231,14 @@
    {
     "n": "TV Azteca Quintana Roo",
     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVFQtZ2pIUDJmeWhmRkliemU4Z3RhWC1mRDJCSDJ6aWsySWtTVThNc0FkdGt2bU55TVRfZFluWE1oaW1uTmVyM0s3UmZPMFJCV0RGYTdpSFJVY3lCcXY3eVVzUzhmN2UyZmRadVVqUlk3UE16akNESFIweFBhXy1oQnBrWjhUVUxrdk81RFFid0NsdVY1S3doaG1fTUh0TmRrb2R2a2VvTQ?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMlUya1lpUk0zeGlrd205TmN1RUxJYXJqU0hnY0tTMVlKNWpJYWZZa1d4eWIzdDc1V3ZzU3RsQ1E0bVkzcTNraHBpRDVuc0U2eEMyQjFVQjBGWGRDMWNRQTlhemhEa3VWOFllazk3cnl3UDdrSmN0VlBISHo2VkNFNE1ka3d3QW1BV0FkYktTUE40Z0xxMFUweWRrZU9ZclJFdTlF?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3V2ZnRwcWNLSk5iU00tNnNnME41bHRUclpOaUxybjJZRHhhZkFtc3ktcDlNb2lERTNyd3lMNWRCTFIzdDNKX19iOWxmSldQbVhFTUliZmh0OVJlZkFBNUNWakhFQjdsU2doLTd4YmJkbGJSZE1BRzhDUHRINUUwM2hoaFFvWTVnMmFSVXRCSjNHZElUT1hNcWJBMHJWQ0Vacmc?oc=5"
    }
   ],
   "creado": "2026-11-11T21:15:56Z",
@@ -159,6 +262,60 @@
   "creado": "2026-11-11T21:15:56Z",
   "metodo": "reglas",
   "id": "2026-11-11_chetumal"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Frankie Muniz es hospitalizado tras accidente durante prácticas de NASCAR en Daytona",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Quintana Roo |",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUi10aU0zR3l2SHVLX2w5QWl1QUVwZjZsa0lpUTJyQUJCZGI5NndEdS1YcVhZVzg5V0pQMUdGT3lseFRHVC1kWk1BOVdybVQ4X05Da2dlbkFYSjZTUGNrMVNEY0FIdEllNkVxekZ1dHlxVFJTNDFaNi04bF9kenhOTTJLZHNZVlhkOS1tbmVYVHVfdVUzX0JOQmNLNlRzU3JjWG1waEpDcUpuOUlpeWV3?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_frankie-muniz-es-hospitalizado-tras-accidente-du"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Mujer lesionada tras choque entre taxi y automóvil en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS1dXQllMcHFDOVlJSmtwRmdhNExQdU1fY0lIOHRfdjFFbjVCMk9ualQ4SVBaWXpTQnVJWG1FZXpMcFF3TzlKRVlNYVB2SWFzV212cGpiR3d0N0dOYUktMWZBS0hxNFFtSnJMc0VwZFZ5b1Noc2J5U3dnTGZ3ajZ1R0xxYV9KZ0ZlZWRudS1BRlRZWm5KMVE?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_chetumal-2"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Al menos 12 mu3rt0s y 50 h3r1d0s por carambola en carretera: Así ocurrió el m0rt4l acc1d3nte",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRWZjRGFWUHFoOWp0NUVxcE1vSXhUbzQ2eEVvM2JVN2dMQXZTQlJ3eUJOVENKQmxSX0c0XzlCSDh2NmdaOWZ3dkNTd0VKZXF2ZEFxcWpwdEZvVXZZemFWbXBZdTNXVW5pU2JhczBHUm1zdUhYNjZtakNuQnE2dkZtYnlhR0RIbGtIRXRwbVgzdjNmWDg3SHdmTjdpVWxhWWFFQkFobVVqUk5RZDB3N2ZzRkhtNlk0LUh5eGdNb3d2T2dtc0M0SHVEcW9xdUpXQXh4?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T02:50:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_al-menos-12-mu3rt0s-y-50-h3r1d0s-por-carambola-e"
  },
  {
   "d": "2026-11-10",
@@ -14436,23 +14593,6 @@
   "tipo": "vial",
   "ts": "2026-10-08T12:00:00-06:00",
   "id": "2026-10-08_merida-progreso-sin-tramo",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-08T22:20:00Z",
-  "d": "2026-10-07",
-  "h": "noche",
-  "p": "Carretera Mérida–Cancún, cerca de la gasolinera San Ildefonso",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/reportan-fuerte-accidente-en-la-merida-cancun-3-vehiculos-involucrados-y-ambulancias-en-el-lugar/"
-   }
-  ],
-  "t": "Choque de tres vehículos en la Mérida–Cancún; acuden ambulancias",
-  "tipo": "vial",
-  "ts": "2026-10-07T20:00:00-06:00",
-  "id": "2026-10-07_merida-cancun-gasolinera-san-ildefonso",
   "estado": "Yucatán"
  }
 ]
