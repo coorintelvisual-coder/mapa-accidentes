@@ -136,6 +136,10 @@
    {
     "n": "La i Noticias",
     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUdFdkd5eU1wTHRiZUtFck15X3M5WU4wQ2huMUVtU0lFcnlDbTlxdUZUT09kNU43bl84SVlyaXhhYm9VNTY4VTVfRVk3MWdYbXgzZ1M4OWVBZGN5VGdtWmZQTkZ4S0JPdmdjMmdfclZOTzlLLXo4LVBkelZQTmJFYTB2RnNOdDc1NS1aM2p2aDMtRHgtaHhLT3dxdE5uOHdKME1rSXpoWXlNUDNoRjB6MktYNA?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnJrN21vOWlaMUJHV3B2TExVREU3MkJSTkNleUZUXzhDZmdZRXFVUTVrSEtnVEZEVnZLQllmLUh4UlZ4azNvQ3NYNjVpcDNkdDlLUm9za0J0QWY0Nm04ZHFlbUE0NnQ5X0YzallPM1p0NFNqSDFkY01rUGtGRDlsNGI5LVItdXhkbFo3ODV4VWtZU1p6ZXluRUFrZWVWZlJzWFdTQTRid0xyQ0hfZHdPWTdJUkpXdw?oc=5"
    }
   ],
   "creado": "2026-11-12T02:50:09Z",
@@ -316,6 +320,42 @@
   "creado": "2026-11-12T02:50:09Z",
   "metodo": "reglas",
   "id": "2026-11-11_al-menos-12-mu3rt0s-y-50-h3r1d0s-por-carambola-e"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Violento impacto con camioneta deja a motociclista con lesiones de gravedad en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRnhPcWl4dGhURnl5Vno5elQ1emJCQzBvOGtpWlo3dTJELVJLeVA4YklXb25JQmx2WVhHRVpranhGdTgwRFowcktMTU5RYnFKNkthX3IzQXZucG1Ub0dDX2cwejlKY0M4S1ZIby1YMzBSV2FrbWZ0Qzg5TWhqVW9RZnJ5RXBJWTRjc1A0R29rVVlhQktuS1hya3FVaVFJdWxYSmZjTUxsV0Q3Wkw0UFhGRXB6MmJUb0U1T0s0MkgzOGtmbXdyLUk1MtIBzgFBVV95cUxPY3NQdDkzWGlDS0Q2UVlYenpYbTljS3lYQzA2SU9oMUhrUzZaeGVoVG9QZmxVN0EtUnFlQjVvWk41QTluMWZ4aXBvOWlpYlo5cEJkRG1WTy0wdFF5Zk4tZjEzZ05XeWtFX21pYmVwcmlIdU1wbDk5M0NDSWEtUHFCblpzNV9Ba0gyUXNwWm9zVTBnWHQyaEtRWm04RnRQUzQzQ2R4dkRoVFVvaWt0aVJ5ZmhXUHNGaXkyekdSVlhKQ1gwWkhSbFR5WEZmQlFMdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T10:53:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_cancun-2"
+ },
+ {
+  "d": "2026-11-11",
+  "h": "",
+  "ts": "2026-11-11T12:00:00-05:00",
+  "t": "Taxista provoca Choque Contra Motociclista en el Cruce de Insurgentes y Andrés Quintana Roo",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR01sSHg0TUpXYm9TT0NRY3FsR2F5S0NlZkJ6aTllS1pCaVZSY2lkYXBoZmd0dDBwTkhOa29NMzZHUS1WZzFoVEY4OThoMVNEWkZRQTNkLU94UE5mZGl4NFlqRHpKQS1WMlVZVmZ2b1dCekk2U1FzdG5kZGRGd3ZOY2tKQWRmWEpJVXBNdGxqSmU0NE5KV0xxanFPbTdWMEZja3ktQmpiYUVBTG5xT0gzcng5RVdsQnhocHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T10:53:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-11_taxista-provoca-choque-contra-motociclista-en-el"
  },
  {
   "d": "2026-11-10",
