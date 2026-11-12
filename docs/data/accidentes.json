@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Encontronazo entre motociclistas en la avenida Concordia de Campeche deja tres lesionados",
+  "p": "Avenida Concordia, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/encontronazo-motociclistas-avenida-concordia-campeche-deja-lesionados.html"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "clave_lugar": "concordia",
+  "id": "2026-11-12_avenida-concordia-campeche",
+  "lat": 19.834997,
+  "lon": -90.502161,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
   "d": "2026-11-11",
   "h": "",
   "ts": "2026-11-11T12:00:00-06:00",
@@ -2156,227 +2179,5 @@
   "tipo": "vial",
   "ts": "2026-10-08T18:00:00-06:00",
   "id": "2026-10-08_carretera-sucila-espita-km-6"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-08",
-  "estado": "Yucatán",
-  "h": "",
-  "lat": 20.6555,
-  "lon": -87.9373,
-  "p": "Chemax, Yucatán",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/8/polemica-chemax-funcionario-ayuntamiento-acusado-atropellar-comerciante.html"
-   }
-  ],
-  "t": "Funcionario del ayuntamiento atropella a un taquero y huye; lo detienen calles adelante",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_chemax"
- },
- {
-  "creado": "2026-10-08T22:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "lat": 21.098,
-  "lon": -89.641,
-  "p": "Mérida–Progreso, bajada del puente de Komchén",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/policiaca/conductor-de-trailer-pierde-el-control-y-protagoniza-aparatoso-accidente-hoy-8-de-octubre-sobre-la-merida-progreso/"
-   }
-  ],
-  "t": "Tráiler pierde el control y choca contra la barra de contención; sin lesionados",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_merida-progreso-puente-de-komchen",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T14:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "lat": 20.8611,
-  "lon": -89.4314,
-  "p": "Entronque a la carretera Seyé–Acanceh, a la altura de Canicab (Acanceh)",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1697796681714545/"
-   }
-  ],
-  "t": "Perro suelto provoca accidente vial en el entronque hacia la carretera Seyé–Acanceh",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_entronque-seye-acanceh-canicab",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-08",
-  "estado": "Campeche",
-  "h": "",
-  "lat": 19.8447,
-  "lon": -90.4778,
-  "p": "Av. Ex Hacienda Kalá a la altura del Campus V, col. Siglo XXIII, San Francisco de Campeche",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/falla-mecanica-provoca-automovil-choque-arbol-campeche.html"
-   }
-  ],
-  "t": "Falla mecánica hace que un auto choque contra un árbol del camellón; sin lesionados",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_av-ex-hacienda-kala-campus-v-campeche"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-08",
-  "estado": "Campeche",
-  "h": "",
-  "lat": 18.662,
-  "lon": -91.819,
-  "p": "Av. Camarón x calle 60, col. Morelos, Ciudad del Carmen",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/grua-vuelta-termina-arrastrando-automovil-colonia-morelos-ciudad-carmen.html"
-   }
-  ],
-  "t": "Grúa golpea y arrastra un auto compacto al dar vuelta; termina sobre la banqueta",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_av-camaron-x-60-morelos-carmen"
- },
- {
-  "creado": "2026-10-08T22:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "lat": 20.99697,
-  "lon": -89.70087,
-  "p": "Calle 59 x 88, Ciudad Caucel",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/photo/?fbid=1645268770297918"
-   }
-  ],
-  "t": "Choque entre Kia y Mercedes-Benz en cruce de Caucel; conductor policontundido",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_calle-59-x-88-ciudad-caucel",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T14:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "lat": 20.9665,
-  "lon": -89.575,
-  "p": "Av. Fidel Velázquez",
-  "pr": "tramo",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/"
-   }
-  ],
-  "t": "Conductor presuntamente ebrio choca su camioneta contra un árbol y la abandona",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_av-fidel-velazquez",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-08T22:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "lat": 20.96,
-  "lon": -89.679,
-  "p": "Calle 61 x 22, Juan Pablo II",
-  "pr": "cruce",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/28584887154539112/"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/noticias/tragedia-perrito-mu3re-electrocutado-en-calles-de-juan-pablo-ii-alertan-por-cables/"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/merida/2026/10/8/perro-muere-electrocutado-cable-caido-juan-pablo-ii-merida-2.html"
-   },
-   {
-    "n": "Diario de Yucatán",
-    "u": "https://www.yucatan.com.mx/merida/2026/10/08/perro-pierde-la-vida-electrocutado-con-un-cable-de-media-tension-de-la-cfe-comision-niega-que-tuviera-electricidad-pero-video-muestra-lo-contrario.html"
-   }
-  ],
-  "t": "Perrito muere electrocutado por un cable en la banqueta mojada",
-  "tipo": "otro",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_calle-61-x-22-juan-pablo-ii",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-08",
-  "estado": "Campeche",
-  "h": "",
-  "lat": 18.654,
-  "lon": -91.8077,
-  "p": "Av. Corregidora frente a plaza Zentralia, col. Asa Poniente, Ciudad del Carmen",
-  "pr": "lugar",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/8/compras-pavimento-jovencitas-chocan-taxi-frente-zentralia-ciudad-carmen.html"
-   }
-  ],
-  "t": "Dos jóvenes en moto chocan contra un taxi frente a plaza Zentralia; resultan lesionadas",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_av-corregidora-frente-a-zentralia-carmen"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-08",
-  "estado": "Quintana Roo",
-  "h": "noche",
-  "lat": 18.5125,
-  "lon": -88.3103,
-  "p": "Av. Sicilia entre Justo Sierra y Bugambilias, Chetumal",
-  "pr": "cruce",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/8/incendio-consume-inmueble-ubicado-cruce-avenida-sicilia-chetumal.html"
-   }
-  ],
-  "t": "Incendio consume una vivienda abandonada en la avenida Sicilia; sin lesionados",
-  "tipo": "incendio",
-  "ts": "2026-10-08T12:00:00-05:00",
-  "id": "2026-10-08_av-sicilia-x-justo-sierra-chetumal"
  }
 ]

@@ -1,5 +1,153 @@
 [
  {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Se registra la volcadura de una pipa sobre la carretera Tizimín-Río Lagartos",
+  "p": "Carretera Tizimín-Río Lagartos",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/12/registra-volcadura-pipa-carretera-tizimin-rio-lagartos.html"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOT3JhaVM1Tjkzc3BzMm42akl5VTVXNGp5OHp3czV6VWxKdmNqZ2dLOFR4UHBMdmF3bW16NDZtWVl6a1VjdW11alZ3bjhSN3JLRDRZMk5ibVBOaEJvVHZFWlZDcWNleXlRTzMwcU4xOWVSbjhWYTQ2cFhCSjZvQXNnRUo2MExrXzF0emUySTBpTFdyWV85MWVrTkt1YmszazdkSklfUlBtVGRUZjJEd3FvRi0yRHRpc2lYWGstcnp3SXRnMW0wS2hBX2xMMEZib1VYZG1iLUx3ZW5ZRkZTMzIzUnVhVTF6Tmt4X0ttUGxYY2dVY0tGTEw4emNHSl9hMkFraTFmVQ?oc=5"
+   },
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdkVOc3dBMk1XZ2pzRlFLa3NLMXVab2xRMnhvdm9DUV82MzNtblcwRmhlcGtiTUpoZ1dXUXdrS2tqS1hTOGVOT0JRVDVFMldaLVprTjdfWGJIQmtocm81V2Nhc1hrc1hHRFV6WFF4VzNZdXVnR29ZYUdsT3ItNDVHOEVOZk81LUtNLXNOZko1YWVQZ1FCc2t5NnJDTmtsXzA?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnV3Y29PblNXdFpUYWxwZ1dlenY1QXpKY0t6SFloemVGYXBWekdpY0VyMmJNS1BzM3ZVbzh4MG1uclpzYUNiZXoyRC1pZTRpbFd1M3dxTzNzUHRnM3JKMXBDVkJwUjhRNkVuRWFaVnRVRG83bzVEb3hlNWw0YU5wcHR1cUxxckR6aDVrajhjNEdfZUt6?oc=5"
+   },
+   {
+    "n": "Noticieros Cadena RASA",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHRHOFlTck9xUEtrLXFyT29uM3FqTGhjZHBVUXlvWnpBSkZCYmFJbEU1cml1ck05ZGx0SExFdnctQ3cwc3dwZGY1bW1YcmRwdkM0SGNxTThTVFozUk9oMkNwcXZ5RDVISnFEQWoySXhVV0ZUa0ZCRW5SZzhvdE9yTjFqbHNhZ0h4N0FFY2EyeWdaYUc4OTZMZm1zTUh2a1U?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "clave_lugar": "tizimin rio lagartos",
+  "id": "2026-11-12_carretera-tizimin-rio-lagartos"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Hospitalizan a Adolescente de 15 Años tras Chocar su Motocicleta contra un Automóvil en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT29yTzBmNUFuMzhxNkVVaTlkbDI2M1RSUXdxMDZreVFaMXdsZ25WTWhuSE9jZXpDYlFHSGlGVmxuOVBJdHNpclpsM0luVFg1QTdIUkEtODcya01MeEZrMUt5YlFGb3pMMlZrcVdBeldONlJ2Z1RFRFVSMDgzSllHcHhTd0VIREUtdktkWmFxakppaHVwdHB6a0lpT0lVZTRnSFE3Y0tvaFQtZnRuUC1URTdoVmZMMWFPX05Ld2d6UQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_tizimin"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Rescatan más de 90 animales silvestres en Campeche; serpientes, cocodrilos y jabalís son capturados en zonas u",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNT0xGVnYxT0sxU3ZzcGlPUU1vZS1SdXVQaDVzS3FQY2FFNGF4OGRFWGpzcl9OMUV6YWZmWlVfYmQ0NjF5d0wyY3UzVmxkWWRDX2JLOTRVS2RpbXdkNVh6emRuZG51b0pSMTJITU1ha1pZZE1BZnlteGhLTGhGZmxzNTlrbFhYSko3d1JoRVFWSjlvUkt0THpfNVdrU2RMZEMzYWY4UTYtZHRTNlpCSkFMMlNEVXVvaU9WalN3cTgzWmZHM1dTcUduX2NrbDFpNE5MTE9ldG9SV1HSAd4BQVVfeXFMTU1MYjJPaHJFeGpYcmFoTDRjMW00R1JfN2ZGRkVPbllITEpfNml4VEQyTENYMkdiNUN4TkIyUW1tb2d6QWJSQ1BjbHVfNDRHY2NhRlI3UVU1UndVZHFWSGJQOGo5N3o5YWVQa1EwZjBHLVk3UGpFMjJhV3Z3T2F0UkxNSzh3UGlaUXVJa2NKLXJqWEVXZkNHSWlBdFJ4RVB2bFJjU3VleUozRGRaVl9yWFVIcno2N1hsbVEyMFBxYVBra3lGc2lHNWJLdEt4UVpfQkQtM005bTNDUUxkNkl3?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_campeche"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Riesgo de Explosión en Umán: Estación de Gas sin Aviso Previo",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQalBqTlVZNTA0dVNaMnFUQ193UTdfeXhVY3NGY0VUQUZOVjUwdnhWMlFISXJBWVFkaXp4bUxlMXFjVy1aNHhTeFJhYVVOVWJ6VTNiOGQ2Y3VMLVVOM1ZOdHRVNEdZV2ZGMm1IX2t6bjRmMW1QdEU3STROTTBCUHdqengwTVpkSVUzaW9tbXZmcDhQaW1lQWRJWEVzcERkNkUtMWlxRW80bUtYQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_uman"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Autobús de la Zona Hotelera de Cancún choca contra camellón en la Yaxchilán; dos pasajeros resultaron lesionad",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRlNFQXczd3o3eDJYWmlpb0F2OG4wRWFKanFRd2xtUWl1S0EwYnRRX1V3aVh1UGY3emgwaUR1dWNOdXBVT1o0b2M3VW5kZEx2U1VNb21EUVpBVXRveXFFUFN5VnFqQnBnbUdWSW1wZUVVMEJhOFRXZ1RabnNzOVpIXzBuelFFR25LeHEzWjJrenlRUXd5a29tZE5xd2t1bjdDOUp3TkliVWNBRWxqdzVvWlhJWGstQlJLTkt5RWpJWF91SXh0T2djYkFlcjRBaW5FNEJBN0ZoQTFidGPSAeABQVVfeXFMT3V5c1JaMzdSSmpNSVBqTnFjLWRNMERWdnc3VVRxTEZNUDUyQWtqZWNKZDNkaDBTQUpsTlY1Y0lTTWplYzQ5SnktaWVwSkljQU05N2FSRnIzUGhfd1drSHBxMzVvSkVOUWsydk9oNERFR0J3STREY09rMkVZV21TT1BndWtwdnNfZkNLMkZOT2pQTHA4Q19VUWF0eWJtbW5udkZvSElpdUNVakpBUk9lWVZIdkRFdFVDcGxXRENoYzROX1c1Vnc5VGVPSUZrLVhuS0xIcHJfVzAtQ2tIbjdEX3c?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_cancun"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Camión de carga termina en una zanja por carambola en Playa del Carmen, sin lesionados.",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWdlUm8tUFhaVUx1UndidVBLdDFoMzgxX3dZeWlJcnRsbW9fYzV1QzdweWFKY0ZNSmFpZzNiNDlrNUg1Tk9sNjZPcXJFMVZUczdwWFUtdlgzcl9May1oNHhPYzg2OUhUSTZodGJHRG1MbWttaHAtc1ZtOVJ3SWNkdHVMS1RDVEQzclZ2dTRuMA?oc=5"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamdnd1NWYy1sb3JSRnlPNjlxSEhMTVZpaUtlMDZWMUxlQnFUU2VaaW16dmhTVWlxM3ZwbW9uaHBYQ2dxMktkWWM4aEtmUUJ3ZTlHVlgzcDNUb2lEQnFkSjBJZzR3dnlzOXZzYUJoVUhTRzVKSF9GTkVLZTgyWEtFZF9PRDBOMnlOelNiR2dKOVprbWpTUFRvS2RtNlROQXZiU2NmMi1LVDV2c1J0Z2l6MS1sckREcVB2WkVkekZ3Q2JHajTSAcgBQVVfeXFMUGswbVIyMnhwVFM4NngzMWNzRFIxdjNkOUlTQWhtd204blh6NFJVdkJRZ2l3TGhLZFBlck41eVBFRjVYSTh0dHdsb2l5akZTRFZYbk9XbHhPS3FaZkpwZXVTcHpnQl84WXZCTGVOVkpGLWFsOUVFa2ZJM29sNTZOVGtaWFloZDBIVEpBNno5YWY0M05lOVBkU190TmN3TEI0T00yaTBZbFkweXY1LXdjbHNUelFWaW00cWlZYVNId1AxSjZLeG5TcGw?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Choque en la Región 247 deja dos mujeres lesionadas",
+  "p": "Región 247",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWF9Zb05GU0cyY2dNaHpPZmkxeGJkLUpIdGZVcGlOWUZyWWZFT2FFYTN6OWRVWUFVTnRidVU3RTFQZnhkN2U5a2tOZEI4cTEyNmtlaENHaWJZcEEzTWQ3SUF2MXozVDhxb2NsNTNNVUJQMTRaakdWcm54bXg1aElaWDVuZm_SAYwBQVVfeXFMTnJ6Mm1HaU5aTDdNajJGdWxLVXJ2RTItcHJmREpCb3Q3OHNDNUNiUGxyTE9uSkxKYXhqZjhlWThpZFl4Vk01X19GeHhsVllyaHJyZlNNYm9kam05a1pZTVY2VU9sWWtEdE5oN0hsUHF5RGlxZ3U1aDRJUWIxLWt5X3ZjcHcyaDM3SjFfMVI?oc=5"
+   }
+  ],
+  "creado": "2026-11-12T18:48:23Z",
+  "metodo": "reglas",
+  "clave_lugar": "region 247",
+  "id": "2026-11-12_region-247"
+ },
+ {
   "d": "2026-11-11",
   "h": "",
   "ts": "2026-11-11T12:00:00-06:00",
@@ -140,6 +288,14 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnJrN21vOWlaMUJHV3B2TExVREU3MkJSTkNleUZUXzhDZmdZRXFVUTVrSEtnVEZEVnZLQllmLUh4UlZ4azNvQ3NYNjVpcDNkdDlLUm9za0J0QWY0Nm04ZHFlbUE0NnQ5X0YzallPM1p0NFNqSDFkY01rUGtGRDlsNGI5LVItdXhkbFo3ODV4VWtZU1p6ZXluRUFrZWVWZlJzWFdTQTRid0xyQ0hfZHdPWTdJUkpXdw?oc=5"
+   },
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTE41Vl9ZVHBtbmw2MldMRUZtZlM2bTk3UVNVeUh6N2xRQzN2UXZPVU54R2NFSXI4dlAwZU5tVkdrYjhLdW9ERmpHU01pWEFYalNjME5jRlZOaHZ1cG45ejZkZjg4VUN3bFp1MlloRVBudnBQeEVzODE0TWYydlBwalZJa1pBaGVPN3hZRnBjU05zZElsb3dmYjVMa1p3cnhvOTRWVk5DS3NzSjgxQmhrR3B5dFRRemlSR3lyeUduaWQ4MXJZYzBWaFFaNldJTElZYnFLUkxQaw?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSm02ZExIOVVvWHd2aXgzX2xocmEzV3NIOVc5MXlDdC1ranh1ZzZEZ2RRenVHYmlFQzR2dktlQ0JRNkR0ZW5qWFA0d2dBMUhGdEhQelExMlFCU2RtX25icENXemU2UFdoU1A5MG1TWndQU0J1Z3F4Z2VQR18ySmxMWGNja2pvekJYa3dVSmRhc0FRYnF1QUFpaGlDWnd3YlRBZDFTRVZ5R01jTDZ3N1VPVVA5Z0tlT05xdUE3ZVpCaWVjWWFYV1RicUJvLU1ZMlljZmtvVHpDdGk4NEVmZjhUWDN3a2ZoTE5Hemtj?oc=5"
    }
   ],
   "creado": "2026-11-12T02:50:09Z",
@@ -14612,27 +14768,6 @@
   "tipo": "vial",
   "ts": "2026-10-09T00:04:00-06:00",
   "id": "2026-10-09_periferico-norte-km-26",
-  "estado": "Yucatán"
- },
- {
-  "creado": "2026-10-09T14:20:00Z",
-  "d": "2026-10-08",
-  "h": "",
-  "p": "Carretera Mérida–Progreso, sin tramo",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1665162898570693/"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/9/fuerte-choque-merida-progreso-lanza-motociclista-aire-video-muestra-accidente.html"
-   }
-  ],
-  "t": "Motociclista sale proyectado tras ser impactado por un auto al cambiar de carril (video)",
-  "tipo": "vial",
-  "ts": "2026-10-08T12:00:00-06:00",
-  "id": "2026-10-08_merida-progreso-sin-tramo",
   "estado": "Yucatán"
  }
 ]
