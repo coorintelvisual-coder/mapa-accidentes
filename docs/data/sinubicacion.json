@@ -1,5 +1,24 @@
 [
  {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Fuerte accidente en avenida Galaxias del Sol moviliza a cuerpos de emergencia en Cancún",
+  "p": "Avenida Galaxias del Sol moviliza a cuerpos de emergencia, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb0hhTEV2MXdrMmNTeHFZeDdYRWh4YWhPN1JDQ0RCTmVhelFEY083RGZfREo4cEJNR21CS3RvbS1MX3FJeEJHZ21uRTJJRGc2LUNoa0RxaXJjMzRLZmtNek93T0VYdC1IR0xIeElxSkxRVV84eUdFZ2o5NnZNRGpBQmFsMV9iREUtbzczeVV4Qll4YTREZWs2WXpWSkh2RmlGOTREekp5M1RFdWotay1FVXVhMDdmTHBxWGVoVjVmN1hlRUZrcWl1cmQtQjfSAdIBQVVfeXFMT2paNm5GSElHOUpCbkxyX1hENVVXc3NGVllJVU9QYWVlSlRfYV9lbEZPM2c3elE2bm9SMU9aUGd4WnBpVHZudjVPcXZwcVhWMkNTbVd0aTA0Y0tsZjhxd0VUY3BvNG1Sd0djUUZ3UnpDdmJKNjd4VEV5Um16MjdaX1h4Q0djekxtTkRPcHlmTEtXMkh4Q3g2clF5UE1pSUFTTDIxZ3dPVmdCSElndmViQXB4Z1dFdUF1Z0xuN0lONnNxV1k0UVhsTFpFb0F5M0Rma0x3?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T07:47:09Z",
+  "metodo": "reglas",
+  "clave_lugar": "galaxias sol moviliza a cuerpos emergencia",
+  "id": "2026-11-13_avenida-galaxias-del-sol-moviliza-a-cuerpos-de-e"
+ },
+ {
   "d": "2026-11-12",
   "h": "",
   "ts": "2026-11-12T12:00:00-06:00",
@@ -35,6 +54,10 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2Z4dzBEY2JUWGZtdS1zclZIeWVsMjg5Yi1WX2w4Z0RydERkRlVmLWQ3a0VzWmhHUF8zNDd2ZG5QLTVldF93dlppMS1ZODhHWWNCZjdQUkVVclRKeHpEdV9JdDdXTGFCVkZFZG1pOXF3ZnhRRXI5eXpocGZySEZ0bWJ4OWE4aXRBeXFYa1ZmemRqOEgzb0FsV0tQTW5IdERQTlFhNUJOdnY4ZGU3TVZYVERoSms0SzFxSHY1MGdFcGY5QQ?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYk5Sei1iNXRtTDhQRk4xelljcTl1Y2dHZG5MU3MtNEpnUE9yT0VrSUVONEVSNlV6U29zd0RDUWpPU3hQUm9ad25UaHBHd2FRUEppOWFLNDNrbWpYQkpURkV1b2lNYTV2dGd5Q2hLT2xsUG5EWlhRNlAtVFVjTHVPOTRBbEJIZHBJVmtveUYtYXgzWW1LaDBfaFdRWFExZFBnZFhkU1ktZmxybXdWWjl6RA?oc=5"
    }
   ],
   "creado": "2026-11-12T18:48:23Z",
@@ -108,6 +131,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/tractocamion-arrolla-peregrinos-carretera-merida-campeche-reportan-lesionados.html"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2pSVDI0OW4za0w4eHp0UkFrTXFIZ01MNjhRUWN4VTYwc3JQaW1yVVlWRm85NFM2STVYcFJINS1NZS1SR0JjcWdmZmd5ZDZEM2xNdkZBcEFZaUh6Unc1QjE5SWRabktVZ0xna3RTQkJBOEUwTW42Mm8tR0JfLTh6eGdPMmJ3dmNScFhvenlmMWRJUkptMnJ5Zk1MSkJHT0ZFWU9uMUVFMzFvR0tRZEtWQVlOWWRiZkxteTQwUVF6RzN2SnR5eU9tWm9GQlBITlFo0gHQAUFVX3lxTE0zalJUMjQ5bjNrTDh4enRSQWtNcUhnTUw2OFFRY3hVNjBzclBpbXJVWVZGbzk0UzZJNVhwUkg1LU1lLVJHQmNxZ2ZmZ3lkNkQzbE12RkFwQVlpSHpSdzVCMTlJZFpuS1VnTGdrdFNCQkE4RTBNbjYyby1HQl8tOHp4Z08yYnd2Y1JwWG96eWYxZElSSm0ycnlmTUxKQkdPRkVZT24xRUUzMW9HS1FkS1ZBWU5ZZGJmTG15NDBRUXpHM3ZKdHl5T21ab0ZCUEhOUWg?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -164,6 +191,10 @@
    {
     "n": "Tribuna Campeche",
     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOU9YdkpvbjUxVUJsRUZWWTE1TXJCVTZVaUk5blRKMGlpTzRTQ0hFTnk0VGNlV2NhOEQweGJ3Y3IzTFctY0t3V1FneGxoV0xHOVpYVGVJMlROTXJTUXlEbDkzaFB1M2Y2UEhQdnljWmQ5am5ON3BZUEtkYlBDUVJ1b2FwTy0yN195T1dOT3p5OFF3VV9kR3Y5YXh3LUxqN2VSam5fSElwcC1qVEFEN0lxZk9jNVd0NFp3Y1J2TlZNVzI3SUNSYTRFRWdrT1pDbC1RVkdMdVc5TGRic19tU3JJZA?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVGhwWV9USkFOMTJpT2lhSVppVThxcXVZanQ2MjVuaXJlVlV2eF94RGl1QmtKSGV4SHl0b3NkVnhFejY1WVZBVDg5WWw4WmFIdGVXNVJmNjhMdFEzSjZhU2FiUHVLdGxrQ1VRUGQ3NTNoTDFUdkIyVW9GaE1ySURYbUtDdTRzYWVYRnNFekhJY3ljUFAzcF83Nno4VlNLeC1oRE9DdE1rMnpIRkV6RGRwaVdtNl9YQTU2aWlybUR1X0U0NXpvY2x2OVhHLWVNeWo5MnVr?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -190,6 +221,10 @@
    {
     "n": "Tribuna Campeche",
     "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3VVS1o0VndsdGlsb2VFM0FKdi0welEtQzUxc2FUQmxfTEx4cmhmbG91c1dmdmFsYWJwRjVVbzVlV0VZc2lyS3d4YVNwTnRuamgzR2lIcEFnSlppSGR3d3JRUlBBcEcwMk9jM3haUHhlOGdyc1JNazdlc2VyVVpxczhqblNzblNnSlMzNWRRNzRfNDFYT1FqLV80Q1RXRlNwVVhfZWZWUUJJVHpCNk1BN3IydG5hY2dPeU9Yb05Bbms4TC1veXhZ?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUE3S0lzZ3RoaG5aSFRRc2R4am5PcUNpRTZSQlVwZUZiUDlhNlhqdHlnZ096elAxQ3ZPS1NxY1luVHVjc25rRzVYYlhmX3dYeWlJN212ZXMzbHA3Wl9RZHp0ZWlLV2xGRlRKc3BwR09FckUwUGJQNUd3b0xmYlYtT3l4TFpwSmxlNGJNR3pLbjdtSEU?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -232,6 +267,42 @@
   "creado": "2026-11-13T00:07:34Z",
   "metodo": "reglas",
   "id": "2026-11-12_campeche-3"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Tráiler embisten a antorchistas guadalupanos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nYWs2LThWRmhDaXZvOE5IczBHbXhIdlJuMi1aWGJyUnFSRng1QTlJYi1QeXhucHZXZFB1cG1yclJiaURSelFpMm1kcTJnZ2Q2QXcxUUJneVVscXZ5c2VERVpmQzkxN3Zxd2QzR3VDZFUzSUtMMWdacg?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T07:47:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_trailer-embisten-a-antorchistas-guadalupanos"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Conductora con crisis nerviosa pierde el control de su vehículo y se impacta en fantasmas de Santa Ana en Méri",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0JYRV9RTEVrZUVkcmpILU8waFlMVXdjeUdmS1NjN0k2aHdJY1NOUFR1MTBBOTJzeXpKLXhtenNSeU9jX0YzU2dUTFlCZ3Fuc1h5d0pEeEx2Smo4OEJuLTF5UmxLbzlWRjdWRURmWVdyZ1NBVFpEUFV1QVpNekFnNzN1aXZwSjYwSTlEZUdJeFpJOC1TS2ZaTmdoRE9iOWU3d1dTVGlRdmxFZmpNTFBQOHJhR2tWWkp4SFdISThkaVVFMHZGVkQ1T1dhUVh0aGNxdGtlTHlySC1jV21qeVdrbTktUTFYXzRR?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T07:47:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_merida"
  },
  {
   "d": "2026-11-12",
@@ -308,6 +379,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/12/lluvia-presunto-exceso-velocidad-provocan-volcadura-camioneta-playa-carmen.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUm5md0FPOWRxMUJpT3hkVW1uN2NycXVmNktNVzY3bWlsR2I3ZHozVlhlQjJTVHdpNkNaWERTVDVOUG5JSDdYYU9IdjVad3JMa01GcnA3WkNEdlJrREF6eTFCWTA0amkwUUlOWkxEa1cxeXdISG9KUjBWOTAyU1NjcUdvVk53dkZkQVJjeFJmODVVQTFDWVI2amJqZVEtQVNtb2NMU25BWlg5SEZOYmtmWHBCTU43TlpzQm84dnBn?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -403,6 +478,42 @@
   "creado": "2026-11-13T00:07:34Z",
   "metodo": "reglas",
   "id": "2026-11-12_cancun-2"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Autobús de ADO y Repartidora de Jumex Colisionan en Bacalar; Imprudente Rebase Deja Crisis Nerviosa y Daños Ma",
+  "p": "Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLWRVTnMtTDk4NUxoRXpPV0VTVzc4ZFhxVEZ0Z203QV81OUxvXy05Q1piLXgxclo5SHJsZnNpQS1OTFRKbXJxbTZrZWp1QW44Sk1GbDB2a3drbkJqVW5pak1mSm9aeXU5TUFlU09Fd3ZxVlFUWUVYa0VPeHVxQUFGaDF6cm4yeXh6cjlLZXJGTVFFSnNjYmlJUUpKY3lxY3NpeXFoRV9jU0lnalI4YUF4UGtYR3VqQUhNYU5Zck9VNzQwb19iYjVLS0V6UHBZNjB4X3J5c2FSSV9FWDZs?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T07:47:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_bacalar"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Pierde el control por pavimento mojado y termina volcado en El Tintal",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3BRZTdwcUtyd2IzSkxjTm83WFhubWVQQkphTXQ0TmRSVVJWU2o3WVdwTno5SHVneTByUV92bHNQU1BkV2Q5VlNIMVNEOUZ5TTRxN0djakoyNTV1U2wwZm11aDVyM0lZWHRJaG05MmZ4aWJTeEF3aTVmeGYtM3dCSU4xMk5vMENueW9SSlF0ekI2QW5YNTBmRGVSRW42SHFFWkVfdNIBpAFBVV95cUxOX3BRZTdwcUtyd2IzSkxjTm83WFhubWVQQkphTXQ0TmRSVVJWU2o3WVdwTno5SHVneTByUV92bHNQU1BkV2Q5VlNIMVNEOUZ5TTRxN0djakoyNTV1U2wwZm11aDVyM0lZWHRJaG05MmZ4aWJTeEF3aTVmeGYtM3dCSU4xMk5vMENueW9SSlF0ekI2QW5YNTBmRGVSRW42SHFFWkVfdA?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T07:47:09Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_pierde-el-control-por-pavimento-mojado-y-termina"
  },
  {
   "d": "2026-11-11",
@@ -557,6 +668,10 @@
    {
     "n": "PostaMx",
     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDF4MGxXemNoY3IwSEVjM1RnTmdXUUVYdkYyMk00TUdRNWloYUZhVWtsT1ludXFtQzE3UXplZzU0eEJBcHluR2NXdXAyQm5OMWhfZ2NUZDdCc0dZZHhVR0w5X3V2TDVrUUh6NEZjMFdYSWlEQlg1STJ1SzVvQThMdy16M05ianRhTEFNaXVGME9rZzJ5OW5vVVVoQ3ZGUGRmOXVwdGtpb2VnQm5FNXB6OUtnUmZWSTd4b3JKTU4xQWN6ZmdjRHppU0RKUdIB0AFBVV95cUxNM2pSVDI0OW4za0w4eHp0UkFrTXFIZ01MNjhRUWN4VTYwc3JQaW1yVVlWRm85NFM2STVYcFJINS1NZS1SR0JjcWdmZmd5ZDZEM2xNdkZBcEFZaUh6Unc1QjE5SWRabktVZ0xna3RTQkJBOEUwTW42Mm8tR0JfLTh6eGdPMmJ3dmNScFhvenlmMWRJUkptMnJ5Zk1MSkJHT0ZFWU9uMUVFMzFvR0tRZEtWQVlOWWRiZkxteTQwUVF6RzN2SnR5eU9tWm9GQlBITlFo?oc=5"
+   },
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNQkJ4eC1wWEVlTk5qOE53cWl4Q2Jia01VbXdOUWhYX0syaUZ1S3I3dW1jcGlPR05DbTlBQ1ZHTUYzWGlvcDJOaVFqQjlPUngxSldoN0JVd0M1dVZuZXNfS0k1amxKU2VKNmtwcF9Hdy1lVXptU01UVkVSX0pBb08wZ0FudmZZWTBKY0lhbmxDN3QwY0d4UVRwdUdXcjFRSTNFTjRXVElxaXZwVkh6blRkS1dHSVJMbGhfcHZGbGRFVWp5RVEwdklZTlJMU25RcEVKLUhBNjU3bVpfS0FpVTRzdjVEeW1Bbm5xNXVKS3BvTFBiZTRtdW5mM3hDQ0loTUk5?oc=5"
    }
   ],
   "creado": "2026-11-12T02:50:09Z",
@@ -15013,22 +15128,5 @@
   "creado": "2026-10-12T20:16:45Z",
   "metodo": "reglas",
   "id": "2026-10-11_chetumal"
- },
- {
-  "creado": "2026-10-09T14:20:00Z",
-  "d": "2026-10-09",
-  "h": "madrugada",
-  "p": "Periférico Norte, km 26",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1600301880981326/"
-   }
-  ],
-  "t": "Camioneta se estrella contra un árbol y queda atravesada en la lateral",
-  "tipo": "vial",
-  "ts": "2026-10-09T00:04:00-06:00",
-  "id": "2026-10-09_periferico-norte-km-26",
-  "estado": "Yucatán"
  }
 ]
