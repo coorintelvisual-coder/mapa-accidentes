@@ -47,6 +47,10 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0RuWC1jd0o2N3lzbXkxWUZCVEJTLUxRcThWNEd0OUhFRUtnUWV6bGtvdV9LUndzNlNXYlI3WEE4OXgxZDJxWkJtOFNoT3FIYUNlU2g3bVZkVTJYMFVBOUhvWTFHUFE4WWliNG1GdFhyb3JRWHBNSWNYRzBiQmJJbjhxNEttTmVrTHVKcXBCbWtzMjJiRnMzU1FwQ3B3TXhvckU3NlJFZ2NPdE0?oc=5"
+   },
+   {
+    "n": "Tabasco HOY",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTldxSWRGT2laWU80T3kzYzhPTFRydWhKT3VJWFBUOFpCNnNCbDJ5UkdWSXhsQnU5OHpFNzdQVVpKblplSEdtQXRzQUJPZVJfUm1ESlIyOFQ5QUlMNkE2QTg1a1RCbTNPV0lMQlVnQ0RvX2lvY0hnekVNVE4zZ1lQb2U5aXVrWFJGVmc?oc=5"
    }
   ],
   "creado": "2026-11-13T16:07:36Z",
@@ -94,6 +98,104 @@
  {
   "d": "2026-11-13",
   "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Motociclista termina hospitalizado tras fuerte choque en la colonia Aviación de Ciudad del Carmen",
+  "p": "Colonia Aviación, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/13/motociclista-termina-hospitalizado-fuerte-choque-colonia-aviacion-ciudad-carmen-2.html"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "aviacion",
+  "id": "2026-11-13_colonia-aviacion-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Atropellan a joven repartidor de tortillas en la colonia Playón de Ciudad del Carmen",
+  "p": "Colonia Playón, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/13/atropellan-joven-repartidor-tortillas-colonia-playon-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "playon",
+  "id": "2026-11-13_colonia-playon-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Fuerte accidente en la carretera Mérida-Tixkokob; chocan dos vehículos",
+  "p": "Carretera Mérida-Tixkokob",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/13/fuerte-accidente-carretera-merida-tixkokob-chocan-vehiculos.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWZRVk9ZTUhLQXNCQTlEUDY1MFdlZDNtRUtrX0xrZ0lsOFhMQXoyc1dqZjZSOWJ2VjBvcDZseHRGb090SkVZcXR1WWdGVzhIcVU1WVMxSVpTZms5ZFRDbG1DX0FESGJ6N2lUcURaNHdfUzBISU9RMFNxUlpxZVQzY0wwVDFQcDgxQ1RCT2ROY3ppbXJ2aVg5YnJFdEI2dUVteGVUZUpnMHRsOEdsNTdld3VScUlKcnM3eVl4NHM3eG93Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida tixkokob",
+  "id": "2026-11-13_carretera-merida-tixkokob"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Vuelca tractocamión en la carretera federal180, cerca de nuevo progreso",
+  "p": "CARRETERA FEDERAL180, Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUE1iU19IR0lnUGpWeEQ5ekNtdmFqcGtzMDkzcV8zLVdPSTlnbWVnal9Sd1ZieDRhSG9vZkRTQk9Od001dld6Nm5TVGtzbGYtSzdZdTNYcl9pODJfVVRhQ2NEX2dYcGRBdlF0S04wWTh4WHN4eVRoVEhNM1ZCRWV6WHc3VTZQT3lrSXZEdmt0d19CX0lEMjNjd2xyZUpTWE9OZHVLMkN6cVpQdWN0WFE?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal180",
+  "id": "2026-11-13_carretera-federal180-progreso"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Bomberos extinguen incendio de autobús en el sector La Hechicera de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "El Aragueño",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzJoQkhZcXlnSjRHY2MwdlBxWkFiSFltT0htc1NlQTByczFHWm9oQ0d3VEhwZHdqdnRrZ2Q0dVNZYTBLUnNNYjBuQVpaX1JyZXlQUFBVVjlzWmpsZlRCVmczLTRxX08wMlJyOVJaeWZoVm5XckNVbkJlMGJLRU9SZmxBdHd0WkdFTktBbGJsUWpxTjRiWHJfYWliUDluSlNlc2dv?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_merida"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
   "ts": "2026-11-13T12:00:00-05:00",
   "t": "Fuerte accidente en avenida Galaxias del Sol moviliza a cuerpos de emergencia en Cancún",
   "p": "Avenida Galaxias del Sol moviliza a cuerpos de emergencia, Cancún",
@@ -122,6 +224,18 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/13/campesino-muere-atropellado-dirigia-milpa-felipe-carrillo-puerto.html"
+   },
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPODZ1Y0djUy1rak9HTFFjQlU4ckwzSUljeFJ3YVk0ODNfMlRqZU5mQlJURzdPcHprUi03Q2EzNU1nRmJTUEFDeWJuVHRBam5EWFVBWGlKMjRWOTFIbzQ0N2ZXMHZOTHBUZ3hoaFhNRnRMVlRHY3RPVEJ0dTJLdUoxOWtidmVsWml1SFo2cVFFRElMb1dnYkhpV1dVNW16bjhXWWFsMml3?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSHNnaS1zODYwMHljd19MRnEwcWtqUVYwN0c2Zy1XWUZCYVZtVFFrOHJJazk1bGpJTl8wS19DSnFIMzdmQnczSTNuRkpBMHhSSW9UMU5Bcm5MeGZ1bUhPa0Q4NFJFSEZBeXdRUUlBR1A5by0yQ2U2Tk1COWg0aThJQ1lvdGpmVEdGdW5fT1pZZWJqVjNua21nbzdGQWtvWHF0X0h6eXl3?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaFliT0I0d0JBODZGR19oYnI3dWlVMlVrV29wcWJuSXNxLThXcW15SzhxUFBDQkFza2xyMGJMb2pLMXdIOHUxeWRNYTdjM1pOSU9zRTF6VE1zWm1DeFhmTzFwNnkwa1d0ZFdvbng1akJQNG9oblhvalRsR3NJZ0NJbnR1bU9mYW5sYjV6SFNsU2YtZWtrYUxDWVdEUzlrRmVaYkNOc29VTkR1anBHVndFOFQ3X3o0NGxBemo5cjlLb0taQQ?oc=5"
    }
   ],
   "creado": "2026-11-13T16:07:36Z",
@@ -146,6 +260,25 @@
   "creado": "2026-11-13T16:07:36Z",
   "metodo": "reglas",
   "id": "2026-11-13_benito-juarez"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Reportan volcadura de pipa de aguas residuales en la carretera Tulum-Playa del Carmen",
+  "p": "Carretera Tulum-Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/13/pipa-aguas-residuales-vuelca-carretera-tulum-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "tulum playa carmen",
+  "id": "2026-11-13_carretera-tulum-playa-del-carmen"
  },
  {
   "d": "2026-11-12",
@@ -358,6 +491,10 @@
    {
     "n": "DRV Noticias",
     "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUE3S0lzZ3RoaG5aSFRRc2R4am5PcUNpRTZSQlVwZUZiUDlhNlhqdHlnZ096elAxQ3ZPS1NxY1luVHVjc25rRzVYYlhmX3dYeWlJN212ZXMzbHA3Wl9RZHp0ZWlLV2xGRlRKc3BwR09FckUwUGJQNUd3b0xmYlYtT3l4TFpwSmxlNGJNR3pLbjdtSEU?oc=5"
+   },
+   {
+    "n": "Novedades de Campeche",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU18ydkp1T1BiZEV5WmkyMENVdmVobDZYUnRGTWpjakF5YlR5Zm1JYWxDZmhDMWQ5cXM3MTlvTkR1dXl4WlFlVERXbW9udi0yb3lYTmJYaWphUlFTSHlVYTk2Y0RyX0NvMndnT3hVRFdmWjNiT0M1c2VCOTA4a3pqUw?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -395,6 +532,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzVaWmU4WUdjREl3V1d4X3h4VEExMjBGUzhNZ1ZkSVZ2MktrMFdwOHlHd2k0QmtscHZWUExuQ1lLUWt0aFRVRUoyOF9RNldtOXBMdy1sVzhpOWNjaWtJZC0tczVxcGVmaGZpS2VyV1FVR3JpZGlQeXM3RXBKaWtOdU9OOGpoV1pFMm9ZV3RZdXhBVjlDWWJGNlNMblNBZ1NCU19HYzc1eHV5NzZaeG1EZzVmX0pmdUFBbUZFTm1PNXJoeUxUZS1CUHNmYThvZw?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcW9QUDRTdFoySGRndHNWNW5ickVfN1VPVVA4WUxqbG1OQWRFMWZNVms4TVJUaFlTcFdicTFJVk44cmdka3RWa2wtVWY2OWpoU0JPc0dHT0F5LWc4T2JBUm5MMHNqREZLUEtlQ3QzOEdLNWNhYmFxREd4dklEVEhtOVpleEYzZTZvQmdSM3lzT2dXLU1WYnA4NEpTQ1NuZlJJT05PRVZvV21YRk1rS25fa0JKTk1hWlNfTlHSAboBQVVfeXFMTXFvUFA0U3RaMkhkZ3RzVjVuYnJFXzdVT1VQOFlMamxtTkFkRTFmTVZrOE1SVGhZU3BXYnExSVZOOHJnZGt0VmtsLVVmNjlqaFNCT3NHR09BeS1nOE9iQVJuTDBzakRGS1BLZUN0MzhHSzVjYWJhcURHeHZJRFRIbTlaZXhGM2U2b0JnUjN5c09nVy1NVmJwODRKU0NTbmZSSU9OT0VWb1dtWEZNa0tuX2tCSk5NYVpTX05R?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",

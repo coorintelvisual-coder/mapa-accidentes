@@ -1,5 +1,32 @@
 [
  {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Choque entre dos camionetas en la Supermanzana 505 de Cancún deja daños materiales",
+  "p": "Supermanzana 505, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmxkSTNfZmlYT2R2MWQ4d2hUZzVfY2RrUm9LYi1Ba3lXNk1faW5ha29ZbWNWZkJSYzdBTlF2VlZCR1dLdzFLTHIwWE9IT2RWTkNNaHdnODJnTGFtb2ZQUklzdDlLbERnYmd1S3JtRlZtdEs5WEpuR1Q4Rzlka2ZQQ2xwbFBsLUxUdTdkYTdUbjMzeHVqQmtTU3FsTEx2ZC1Mc051M3ZvU1U5VDQ?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQblEyTjVmN19haVFCN2JaQkRQQ3A2VWp4QmV1WDlVYWh4ejhrUmdtUnV4V09tQkNhVmhMeWVKeDBhTF9udFVpdmViUUpLcFd4UnJWZDRfZnlVRlNrRURYODJIazBBdUNiWjhINnlFQmFrVjR1V1FZZEl6M2MtSXIzcXA1MG9JY2pvak4yVWFxeFU4cXpYZVNfUnJjQ2dlQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T22:29:51Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 505",
+  "id": "2026-11-13_supermanzana-505-cancun",
+  "lat": 21.10226,
+  "lon": -86.765321,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-12",
   "h": "",
   "ts": "2026-11-12T12:00:00-06:00",
@@ -1978,164 +2005,5 @@
   "lon": -86.868473,
   "pr": "tramo",
   "sev": "les"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-09",
-  "estado": "Campeche",
-  "h": "",
-  "lat": 19.8505,
-  "lon": -90.533,
-  "p": "Av. Pedro Sáinz de Baranda x Av. Adolfo Ruiz Cortines (malecón), San Francisco de Campeche",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/9/choque-camioneta-moto-bicicleta-deja-heridos-malecon-campeche.html"
-   }
-  ],
-  "t": "Choque entre camioneta, moto y bicicleta en el malecón deja dos lesionados",
-  "tipo": "vial",
-  "ts": "2026-10-09T12:00:00-06:00",
-  "id": "2026-10-09_av-pedro-sainz-de-baranda-x-ruiz-cortines-campeche"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-09",
-  "estado": "Yucatán",
-  "h": "",
-  "lat": 20.9169,
-  "lon": -89.9472,
-  "p": "Calles de Kinchil, Yucatán",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "ECO Yucatán",
-    "u": "https://www.facebook.com/reel/2049432789045018/"
-   }
-  ],
-  "t": "Menor pierde el control de un mototaxi y termina contra un muro",
-  "tipo": "vial",
-  "ts": "2026-10-09T12:00:00-06:00",
-  "id": "2026-10-09_kinchil"
- },
- {
-  "creado": "2026-10-09T18:25:00Z",
-  "d": "2026-10-09",
-  "estado": "Yucatán",
-  "h": "",
-  "lat": 20.9941,
-  "lon": -89.5776,
-  "p": "Calle 24 x 21 y 26 Diagonal, Brisas, Mérida",
-  "pr": "colonia",
-  "sev": "fatal",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/accidentesyucatan/posts/pfbid05m4SxeAhKxZkgi8xn18bJpowfKEgJ5wfP6k9QXRq7ukHxEvekSj3YCvP8djdt2H2l"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/noticias/fuerte-movilizacion-reportan-fuerte-ataque-de-abejas-hoy-viernes-en-calles-de-brisas/"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/9/abejas-atacan-personas-fraccionamiento-brisas-merida-mujer-vida.html"
-   }
-  ],
-  "t": "Ataque de abejas durante una poda deja una mujer sin vida y dos personas afectadas en Brisas",
-  "tipo": "otro",
-  "ts": "2026-10-09T12:00:00-06:00",
-  "id": "2026-10-09_col-brisas-merida"
- },
- {
-  "creado": "2026-10-09T16:15:42Z",
-  "d": "2026-10-09",
-  "estado": "Yucatán",
-  "h": "",
-  "lat": 20.9505,
-  "lon": -89.5555,
-  "p": "Carretera Mérida–Valladolid km 1, antes del puente de San Pedro Nohpat, Mérida",
-  "pr": "tramo",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Accidentes Yucatán",
-    "u": "https://www.facebook.com/reel/1084270924610111/"
-   }
-  ],
-  "t": "Nueva carambola en la Mérida–Valladolid antes del puente de San Pedro Nohpat; motociclista lesionado",
-  "tipo": "vial",
-  "ts": "2026-10-09T12:00:00-06:00",
-  "id": "2026-10-09_merida-valladolid-km-1-puente-de-san-pedro-nohpat"
- },
- {
-  "creado": "2026-10-09T21:11:00Z",
-  "d": "2026-10-09",
-  "estado": "Quintana Roo",
-  "h": "",
-  "lat": 19.5862,
-  "lon": -88.0635,
-  "p": "Av. Lázaro Cárdenas x 78 y 80, col. Francisco May, Felipe Carrillo Puerto",
-  "pr": "colonia",
-  "sev": "sd",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/fuga-gas-tortilleria-movilizo-cuerpos-emergencia-francisco-may-felipe-carrillo-puerto.html"
-   }
-  ],
-  "t": "Fuga de gas en una tortillería obliga a evacuar trabajadores y negocios cercanos; bomberos la controlan",
-  "tipo": "incendio",
-  "ts": "2026-10-09T12:00:00-05:00",
-  "id": "2026-10-09_av-lazaro-cardenas-x-78-y-80-francisco-may-fcp"
- },
- {
-  "creado": "2026-10-09T19:10:00Z",
-  "d": "2026-10-09",
-  "estado": "Quintana Roo",
-  "h": "",
-  "lat": 21.1983,
-  "lon": -86.8364,
-  "p": "Calle 130 x 14, Supermanzana 236 (junto a la Secundaria General 20), Cancún",
-  "pr": "colonia",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/adolescente-anos-resulta-lesionada-choque-supermanzana-cancun.html"
-   }
-  ],
-  "t": "Adolescente de 14 años en moto choca contra una camioneta frente a una secundaria; resulta lesionada",
-  "tipo": "vial",
-  "ts": "2026-10-09T12:00:00-05:00",
-  "id": "2026-10-09_calle-130-x-14-sm-236-cancun"
- },
- {
-  "creado": "2026-10-09T19:10:00Z",
-  "d": "2026-10-09",
-  "estado": "Quintana Roo",
-  "h": "",
-  "lat": 20.572,
-  "lon": -87.14,
-  "p": "Carretera federal 307 Playa del Carmen–Puerto Aventuras, a la altura del puente Calica, Solidaridad",
-  "pr": "tramo",
-  "sev": "les",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/9/conductor-queda-prensado-chocar-poste-cfe-carretera-federal.html"
-   },
-   {
-    "n": "TV Azteca Quintana Roo",
-    "u": "https://www.aztecaquintanaroo.com/trafico/fuerte-accidente-en-la-carretera-federal-307-volcadura-deja-a-persona-atrapada-en-el-interior-de-un-coche/"
-   }
-  ],
-  "t": "Auto se sale de la carretera 307 y choca contra un poste de CFE; conductor queda prensado y es rescatado",
-  "tipo": "vial",
-  "ts": "2026-10-09T12:00:00-05:00",
-  "id": "2026-10-09_carretera-307-puente-calica-playa-del-carmen"
  }
 ]
