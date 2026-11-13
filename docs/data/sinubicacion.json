@@ -2,6 +2,98 @@
  {
   "d": "2026-11-13",
   "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Peregrinos de Maxcanú chocan contra un tráiler, iban a la Basílica de Guadalupe",
+  "p": "Maxcanú",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHdmb3hhNTMzYXZjNmpfbFVaeEhhVUJNbVFuOU5zUjZuYTdIb2NGNmZ5OThiWHNEaTdvY084WW05V2J0WjlUMEV1THNTME9MTWdWQVJRY3NFSVJfNlZhXzJOWlRaTUlpeHlvVkF0cGJxS0JZUlVxcTlGQkxUMmI5Y0k4MHR0VmMyZGNYVldvUUFlaExrdkVZMEIwUWRyZ3NCTkkzSU12OE0yeXdIamR5LXdCdm1rWUFmQ0I0My1TcHrSAcYBQVVfeXFMTm54VHhqcGNybmRjVFJwN3JqNDFscjYtMmticEVUeWo2eXZCYmgxLU05UmQ3ZW9NdVE5dG01akoyZUs1bmk2dTJ2MlJsRHZxYkxETGJhSncwWjJTbG96eS1DdXdKSEs0VTRSa25qUkc0VGVINUtncnZpbl9hWHV3NjhpQ2FtRVhhY2ZLRFd2QVRGaFFTNGFkM1Z5OU9uTHI1SnpMQ2lPS1VCY2tfZWJBdVVCckgtZ1o0ZVZmdlpySWNqc0dzNTZR?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_maxcanu"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Peregrinos de Maxcanú viajaban a la Basílica de Guadalupe cuando sufrieron un accidente contra un tráiler en C",
+  "p": "",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWGp3WWFMU1VuWnFMcW1vMnJhMm9BdnBXeVJHUEs3aEFHeEJsUTRCTzdOZ25xR2t6OFF0bWxSMHNQNFRIMVhHcFpxQlJzcHdZbW96SHo1S1hpLTBLOGtBUjduZGtrRVlHLUZZQmpOek9HV2t3SVhidUdWWHNlWXdlRTZubnNQZzVYb1NpaXVoUXh1a2trcXZtOHBvZUNmWlFYN1VSYXhtUERPZG5SVEJXbGg4NE9uS2dhVllWYnVqRTlfNF96YkxpdkVQT184MW5nRDQ4b3VrUGJ6Z9IB2gFBVV95cUxPWGp3WWFMU1VuWnFMcW1vMnJhMm9BdnBXeVJHUEs3aEFHeEJsUTRCTzdOZ25xR2t6OFF0bWxSMHNQNFRIMVhHcFpxQlJzcHdZbW96SHo1S1hpLTBLOGtBUjduZGtrRVlHLUZZQmpOek9HV2t3SVhidUdWWHNlWXdlRTZubnNQZzVYb1NpaXVoUXh1a2trcXZtOHBvZUNmWlFYN1VSYXhtUERPZG5SVEJXbGg4NE9uS2dhVllWYnVqRTlfNF96YkxpdkVQT184MW5nRDQ4b3VrUGJ6Zw?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_peregrinos-de-maxcanu-viajaban-a-la-basilica-de"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Se vuelca embarcación durante el Paseo de las Ánimas en Champotón",
+  "p": "Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0RuWC1jd0o2N3lzbXkxWUZCVEJTLUxRcThWNEd0OUhFRUtnUWV6bGtvdV9LUndzNlNXYlI3WEE4OXgxZDJxWkJtOFNoT3FIYUNlU2g3bVZkVTJYMFVBOUhvWTFHUFE4WWliNG1GdFhyb3JRWHBNSWNYRzBiQmJJbjhxNEttTmVrTHVKcXBCbWtzMjJiRnMzU1FwQ3B3TXhvckU3NlJFZ2NPdE0?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_champoton"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Derrapó con su motocicleta en el kilómetro 3 de la carretera estatal CooperativaXul, al sur de Yucatán Viajaba",
+  "p": "Carretera estatal Cooperativa–Xul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "- Infolliteras",
+    "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSFhjdXd3SDByV19LMTFOLWVpakljUHRjUUUyZkZiNFFWQWpUM1BWSHVnUkRhcWEzWWEzZkdKNlJjUDV0cHZoWDNoWWd0UlpMQUsyNHBQNTdhTjZCS0JZMnN0bUFFaENkdnhwSEFxdXVkSXFYQ3JFcDZsNFYtTjlBb0JXbHVYNV9CdG90dFFYRDk5MXBZRUsxXzhMRmJEYk5JamVOMmRjVTg3NmFGZktRTi01SVhIcEdEcUZocFp3WUtvb2dNd19iY1BfT0xtXzV3SmtPWmx3UjV2cjRVcUJNRnRLT0x5Y29ITi0zY1JfY0hzNE5BNjV5ZE5qbw?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "clave_lugar": "estatal cooperativa xul",
+  "id": "2026-11-13_carretera-estatal-cooperativa-xul"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Volcadura de pipa con 20 mil litros de gasolina provoca cierre vial en carretera a Valladolid",
+  "p": "Carretera a Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "yucatanalamano.com",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1ZpZzJkUk5KSUhqeDkwb2xaZEFlR0NTRjV1SzljZVN6aVJEQlNlXzdyc21oTnphSzVBeTh0LVd5OFRxTVJLQkJzS3M0eUJ1SEFkRk5sbEt3VWQ3Zy1TZEsyVEoxMVdwUjgzOUk0YTZINVo0ZTZjVG1jVUN6eFIyREJVTEp1MFU0ZnlRMXJrcXhYOWFqelNZSWw3SmtMQUd0S1E1NWlJbzdnSV9xMFVnbUZ4d21qNEZ4ZUxyMktB?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "clave_lugar": "a valladolid",
+  "id": "2026-11-13_carretera-a-valladolid"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
   "ts": "2026-11-13T12:00:00-05:00",
   "t": "Fuerte accidente en avenida Galaxias del Sol moviliza a cuerpos de emergencia en Cancún",
   "p": "Avenida Galaxias del Sol moviliza a cuerpos de emergencia, Cancún",
@@ -17,6 +109,43 @@
   "metodo": "reglas",
   "clave_lugar": "galaxias sol moviliza a cuerpos emergencia",
   "id": "2026-11-13_avenida-galaxias-del-sol-moviliza-a-cuerpos-de-e"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Campesino muere atropellado cuando se dirigía a su milpa en Felipe Carrillo Puerto",
+  "p": "Tramo Chunhuhub-Polyuc, Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/13/campesino-muere-atropellado-dirigia-milpa-felipe-carrillo-puerto.html"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "clave_lugar": "chunhuhub polyuc",
+  "id": "2026-11-13_tramo-chunhuhub-polyuc-felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Choque de tres vehículos deja una mujer hospitalizada en Benito Juaréz",
+  "p": "Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUUJmNi01cXAtLW1uS0w4Y0UxYU1OaDgzQXlkSmdtQ1dYTG9NTUFOTUx0cXNKZzI3ellnMXJ4TjJ3TC1hV2Q3Rnd4eTVnREJjdG5vdk9tUFBBZXFnNHBQeEkxRE5VRE9BUlJjZUdHSlpLREl4RmhwQy1adGVrYlFKc3ZIQ20wcmwxTmhpV2hMYnI1RDJ4VUlVbDk4LUdOUFo3NU5ZUWVaSUhreVZX?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_benito-juarez"
  },
  {
   "d": "2026-11-12",
@@ -135,6 +264,10 @@
    {
     "n": "PostaMx",
     "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM2pSVDI0OW4za0w4eHp0UkFrTXFIZ01MNjhRUWN4VTYwc3JQaW1yVVlWRm85NFM2STVYcFJINS1NZS1SR0JjcWdmZmd5ZDZEM2xNdkZBcEFZaUh6Unc1QjE5SWRabktVZ0xna3RTQkJBOEUwTW42Mm8tR0JfLTh6eGdPMmJ3dmNScFhvenlmMWRJUkptMnJ5Zk1MSkJHT0ZFWU9uMUVFMzFvR0tRZEtWQVlOWWRiZkxteTQwUVF6RzN2SnR5eU9tWm9GQlBITlFo0gHQAUFVX3lxTE0zalJUMjQ5bjNrTDh4enRSQWtNcUhnTUw2OFFRY3hVNjBzclBpbXJVWVZGbzk0UzZJNVhwUkg1LU1lLVJHQmNxZ2ZmZ3lkNkQzbE12RkFwQVlpSHpSdzVCMTlJZFpuS1VnTGdrdFNCQkE4RTBNbjYyby1HQl8tOHp4Z08yYnd2Y1JwWG96eWYxZElSSm0ycnlmTUxKQkdPRkVZT24xRUUzMW9HS1FkS1ZBWU5ZZGJmTG15NDBRUXpHM3ZKdHl5T21ab0ZCUEhOUWg?oc=5"
+   },
+   {
+    "n": "El Heraldo de México",
+    "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOTBuSVJmc0lOT2hfOTRVeVBYREpWcDBUam44cTNSTnNWQkE0YnRJcHJ3Y05YVmRBY2hkd2RlSm1pYzBvdERZc1ZyQXlrb0M4S0Vkc3hLMEkwSUhwSWU4T0NSeThoMG9wdHVwZWVDYmVRRS1XNFgzcXBVRmFlamdLWXlvb3RkazNDNC1xS0RXNUppbWtfVTlaaEFCRDRfcGdxbzNIYnQ1Nmd5WHAwZHVWMGZKRkp2Z3EwaVpNUkNkbGlvaHdtbjlLcEc3RmxQNDBLX1IyMmRYd0g3TV9LMm5rTlFybWxnMHZBbmhtRGJRUHlrOFQ0cGww?oc=5"
    }
   ],
   "creado": "2026-11-13T00:07:34Z",
@@ -514,6 +647,42 @@
   "creado": "2026-11-13T07:47:09Z",
   "metodo": "reglas",
   "id": "2026-11-12_pierde-el-control-por-pavimento-mojado-y-termina"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Impacta autobús a dos vehículos y abandona el lugar",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVJHZXBMUk5jd29ETERuSC0yTWR6Tk1ZZm5RRTNfZjFvZFlYTlVVUjU1Q1VlTlBXdlpOckdxWVNSdmlzb3EtZWI5Z1g0a01vb3l5azVSWUotZ3VlOWQ0M0NpWWhZUUd5R3FiZWlCLXk4VnJEQ0xLbThIX1ZUaHFRSXI1MG7SAYwBQVVfeXFMUHZWdFdZeDMyU3pvNENKdVZlYkU5bzRtYjBPQXBkaGRiWmhONHV4QjRxVjdnWVVZRkNDVmtINUY4WlFxSFVlVGRId05CX0Jkb1YxN2h5RjJmY011TkplZW5RNFRHQnpyRnpaUTFtSGJUSXk2UWlpUHlTRUNxc2Z0UkVUc2JmSVdYaHNHdVo?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_impacta-autobus-a-dos-vehiculos-y-abandona-el-lu"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Pierde el control y choca contra portón de una vivienda",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTURESE5KUGFJOEtsdWJzSHAzcDhIWWFzUG5hc21vZVB5MEFxdHA0ajVqbTlIeXVfNFJ3OFNWZ3A3ZzhUaEtOeS1IQTZxdldUNVppbFNuOFRyNVZyQzJPNUd5ZjQzc0ZGTVljejhQLUZGRmxjak53UlM3bHlsbERUUkRSNzA4d3FzSUHSAZIBQVVfeXFMT1FTczV6NHRtemhiWi13X1Y2X2I2RzR4UHFYOEpZYkJWbXNqVW5YcHlQcjVRdHR6QUNBZjRGZi1wOG1OMW1YU3I0M1dMbkk4UlBjUXhOZHpkUUJFb0RDU2NzekZQdXUtSmNDWDNHVEZVazVmMmFORm8tWksyOFFkUkVLZXpMeVNIemItcTZfNUd0c0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T16:07:36Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_pierde-el-control-y-choca-contra-porton-de-una-v"
  },
  {
   "d": "2026-11-11",
