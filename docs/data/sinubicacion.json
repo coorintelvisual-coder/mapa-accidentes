@@ -27,6 +27,14 @@
    {
     "n": "Noticieros Cadena RASA",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHRHOFlTck9xUEtrLXFyT29uM3FqTGhjZHBVUXlvWnpBSkZCYmFJbEU1cml1ck05ZGx0SExFdnctQ3cwc3dwZGY1bW1YcmRwdkM0SGNxTThTVFozUk9oMkNwcXZ5RDVISnFEQWoySXhVV0ZUa0ZCRW5SZzhvdE9yTjFqbHNhZ0h4N0FFY2EyeWdaYUc4OTZMZm1zTUh2a1U?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWG13WnN0UWZQUFJWVXJLUTRnWml0UnV4Nk5Tcm1sTUlid3BvV3pnd2w0eVJJZ0tZOFZHSjB1ZHF4b0FaTVlVNTg2N0xJby1UV2JYY1dBa0NidzhIRGJWNUd6T00xTnBUYmpJLWlSeVdYeWplR0hObnZ4QWZoVFBRcjlfMzMzRzZkVnhMSXlDSQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM2Z4dzBEY2JUWGZtdS1zclZIeWVsMjg5Yi1WX2w4Z0RydERkRlVmLWQ3a0VzWmhHUF8zNDd2ZG5QLTVldF93dlppMS1ZODhHWWNCZjdQUkVVclRKeHpEdV9JdDdXTGFCVkZFZG1pOXF3ZnhRRXI5eXpocGZySEZ0bWJ4OWE4aXRBeXFYa1ZmemRqOEgzb0FsV0tQTW5IdERQTlFhNUJOdnY4ZGU3TVZYVERoSms0SzFxSHY1MGdFcGY5QQ?oc=5"
    }
   ],
   "creado": "2026-11-12T18:48:23Z",
@@ -91,6 +99,143 @@
  {
   "d": "2026-11-12",
   "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Tractocamión arrolla a peregrinos en la carretera Mérida-Campeche; reportan tres lesionados",
+  "p": "Carretera Mérida-Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/tractocamion-arrolla-peregrinos-carretera-merida-campeche-reportan-lesionados.html"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida campeche",
+  "id": "2026-11-12_carretera-merida-campeche"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Aseguran tráiler con 30 toneladas de carbón cerca del rastro municipal de Champotón",
+  "p": "Carretera estatal, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/aseguran-trailer-toneladas-carbon-rastro-municipal-champoton.html"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "estatal",
+  "id": "2026-11-12_carretera-estatal-champoton"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "¿Qué se sabe del accidente hoy jueves 12 de noviembre en la Mérida-Campeche?",
+  "p": "",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWG5jUDJhbWRzSDlTb1hFd1hxUktUVzJqWjBlNGQxUjBqTGVUVzhKU1lsdEZ4LVJ4ZkJ6c0ppemlCSzI2UmZmckVlYjhLbnA4d25QLXRsLWkwSUN0b3V3SUpNWjdyRWRDQmh3TjhiSEdKQ2dsVnZDNHpTcll1WThBRkN6SGxpS1VFRl9pVWVhUEpYakNFXzVTUk1aREVPc3FVbkFBa3RhS2p0YUoyNmVReW51Z2xHVkgwS3VxbzY5RHNwczdnN2tVSFJ2OGdsSkE?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_que-se-sabe-del-accidente-hoy-jueves-12-de-novie"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Camioneta se incendia tras aparatoso accidente en la escárcega champotón: reportan un posible lesionado grave",
+  "p": "Escárcega",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOU9YdkpvbjUxVUJsRUZWWTE1TXJCVTZVaUk5blRKMGlpTzRTQ0hFTnk0VGNlV2NhOEQweGJ3Y3IzTFctY0t3V1FneGxoV0xHOVpYVGVJMlROTXJTUXlEbDkzaFB1M2Y2UEhQdnljWmQ5am5ON3BZUEtkYlBDUVJ1b2FwTy0yN195T1dOT3p5OFF3VV9kR3Y5YXh3LUxqN2VSam5fSElwcC1qVEFEN0lxZk9jNVd0NFp3Y1J2TlZNVzI3SUNSYTRFRWdrT1pDbC1RVkdMdVc5TGRic19tU3JJZA?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_escarcega"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Tres peregrinos de Yucatán han sido lesionados al ser embestidos por un tráiler en la carretera Campeche-Mérid",
+  "p": "Carretera Campeche-Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMzRVdW1mOTRSeWthQnRnUXplaU1JdnFtOWc5ZFItb0NRMVFISmQ5NlVGLXRsbE9yR19fY25zT3czdGEwdngzcE4yTTFqOGs1QkVFenotX011bElrRnhTTWJMN3ZReGVkRmhsTThPVnBqQkNaclE?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0NlbTM3QjVBWlk0MzA3R2p1TkpESmdmaGFhQW1MVU5HbVpBZjJhT2FrX0dnUW41ZE00OGxDTFQyVnNrTE0tVVRoYm85UmxuWUdsRTIzNU8tOGpZSTV2cno3Wm5DaUNsT0FTdEZwRTU0QXp0NTJ6aU8xOERhSGM1Vjh6T1dYWmRzOVF5TjROdFMwMkNLdjlFU0hZaDUwODBTeVgwcVZEQ21GZjEwdld6UA?oc=5"
+   },
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3VVS1o0VndsdGlsb2VFM0FKdi0welEtQzUxc2FUQmxfTEx4cmhmbG91c1dmdmFsYWJwRjVVbzVlV0VZc2lyS3d4YVNwTnRuamgzR2lIcEFnSlppSGR3d3JRUlBBcEcwMk9jM3haUHhlOGdyc1JNazdlc2VyVVpxczhqblNzblNnSlMzNWRRNzRfNDFYT1FqLV80Q1RXRlNwVVhfZWZWUUJJVHpCNk1BN3IydG5hY2dPeU9Yb05Bbms4TC1veXhZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche merida",
+  "id": "2026-11-12_carretera-campeche-merida"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Choque entre moto y automóvil deja dos lesionados en Plan Chac, Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOV9fVUIxVGNaV3lpSDc2STJ6WWN2cVBGWGJUR1p0OS1VY0VlT1lqclpLVVozTDM0bGlRSzVmc1hhcWRpZVM0Q0FHTFZNNGMyUFdkWlV1NXl1VmZhZmVHU1lDemlwb0xiUEZnenVsVXh4ZTEtcUZTenZrajhMMG9NdUpJWURHZVIyM1h0dUhobkRSTHJjU2NzOHBTbWc1bXQzU3YyVDBNVlPSAa4BQVVfeXFMTjhNbFF2S2FCLUd6bDhTTnFkZVBxSXEyaWVLaGFodmd1a2c3ZGQ4SnpYaXRzdVc0MkZWMHZSdXVuXzZOanJnaF9PVHJHLWc0OXdEVkxzNDRCYzRpQUJNVjIwVHZyT055ckNXSDg0eUd3TEVWV25OcWdMU1VSSGVURjFKSXA1ZzBPdXVPTXlGN19CQmVYWkpZb0lhQkw1YVl6X2ZJVlhaS0RyX1Jkd3F3?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_campeche-2"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Patrulla de Campeche atropella a ciclista",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzVaWmU4WUdjREl3V1d4X3h4VEExMjBGUzhNZ1ZkSVZ2MktrMFdwOHlHd2k0QmtscHZWUExuQ1lLUWt0aFRVRUoyOF9RNldtOXBMdy1sVzhpOWNjaWtJZC0tczVxcGVmaGZpS2VyV1FVR3JpZGlQeXM3RXBKaWtOdU9OOGpoV1pFMm9ZV3RZdXhBVjlDWWJGNlNMblNBZ1NCU19HYzc1eHV5NzZaeG1EZzVmX0pmdUFBbUZFTm1PNXJoeUxUZS1CUHNmYThvZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_campeche-3"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
   "ts": "2026-11-12T12:00:00-05:00",
   "t": "Autobús de la Zona Hotelera de Cancún choca contra camellón en la Yaxchilán; dos pasajeros resultaron lesionad",
   "p": "Cancún",
@@ -100,6 +245,10 @@
    {
     "n": "Turquesa News",
     "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRlNFQXczd3o3eDJYWmlpb0F2OG4wRWFKanFRd2xtUWl1S0EwYnRRX1V3aVh1UGY3emgwaUR1dWNOdXBVT1o0b2M3VW5kZEx2U1VNb21EUVpBVXRveXFFUFN5VnFqQnBnbUdWSW1wZUVVMEJhOFRXZ1RabnNzOVpIXzBuelFFR25LeHEzWjJrenlRUXd5a29tZE5xd2t1bjdDOUp3TkliVWNBRWxqdzVvWlhJWGstQlJLTkt5RWpJWF91SXh0T2djYkFlcjRBaW5FNEJBN0ZoQTFidGPSAeABQVVfeXFMT3V5c1JaMzdSSmpNSVBqTnFjLWRNMERWdnc3VVRxTEZNUDUyQWtqZWNKZDNkaDBTQUpsTlY1Y0lTTWplYzQ5SnktaWVwSkljQU05N2FSRnIzUGhfd1drSHBxMzVvSkVOUWsydk9oNERFR0J3STREY09rMkVZV21TT1BndWtwdnNfZkNLMkZOT2pQTHA4Q19VUWF0eWJtbW5udkZvSElpdUNVakpBUk9lWVZIdkRFdFVDcGxXRENoYzROX1c1Vnc5VGVPSUZrLVhuS0xIcHJfVzAtQ2tIbjdEX3c?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/12/conductor-autobus-zona-hotelera-choco-camellon-pasajeros-lesionados-cancun.html"
    }
   ],
   "creado": "2026-11-12T18:48:23Z",
@@ -146,6 +295,114 @@
   "metodo": "reglas",
   "clave_lugar": "region 247",
   "id": "2026-11-12_region-247"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Lluvia y presunto exceso de velocidad provocan volcadura de una camioneta en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/12/lluvia-presunto-exceso-velocidad-provocan-volcadura-camioneta-playa-carmen.html"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Mujer motociclista ignora el alto y termina hospitalizada tras choque en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0JWRW1RWUNLMHdtTWp0S0wyX0lKVENFSEdlY21CWFNUUHN3bGhBX0VKM0dhbFozZzV1SWFUb0NYaDhqT2s4NkFOcnR6ZWdaWE1JWVhuWjJCWmx3SnY3cDZNelBMcXRKMnFxM2dqRUJUejZvQVkxVW9IMnloMkgwYWZzWkxUSXoyVDQxX281M3o3VGhKeHp6eERjZW83cWpmX3F2N2dpdnZyTEtSVUMw?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_chetumal"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Por evitar choque, conductor termina estrellado contra un portón en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVBLOUZCR3NDNklSSG9XWUd6clZZbXk5R3A2LWdNR29aanpuTC01aWdUWFZjUW02TklIVG9SSjl0Mnp6RUhCWnNTQjN3Q01sRFBQNTVvcVJvQnVHUDZtcjI1a2o4RUNkM3g5LUZyTk9kWWZWckgzZUdNYXR0anE4Ukg0MkVPTF9TWXQyU09zcmxWTDM5S2FQSEFJeGJ5SmcxOWQ4SWJJUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_chetumal-2"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Atropellan y matan a campesino en carretera de Felipe Carrillo Puerto",
+  "p": "Carretera, Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZm85UExSNGphS3JIUk5FSUI0NGZndzk2bW9BZW9mWkZrYm5qUlZWODBmdm1aVUJjbF9uX0lFVVVCbXRLYVR0Sko5LUN4V2xneVJTbDBNenZpRGt5VEN5UEJacFQzSWR1NVRfdzI4bFhjcW1JNF9fY1ZodVpYajdCWmJ2a19VNlBwWE5GUGFjZEw0aGRZT0xMUU1n?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_carretera-felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Joven de 21 años muere en accidente de motocicleta",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQmpOOURHZlJxblZLaERGbXhfaGFNZUFMTUNoY090a2hxYTU0aEVvU3FXYmZRZ1M5UXA5dzRMQ3hDMGdRaFlXRzlXS1B6SjlSWUpjM0ZmYXNuVDJ0WVlnY3Q2NGQ2RjAxeTB2R0hNaXFMVkczZzRvXzZNWGhPYzlDVjFJOXV3d21ncnlaX1lySlBQajhqTVk0RmxUc9IBowFBVV95cUxQcWVFaTAyTFZsckh3Rmh4c2FYWmpvMmlpR3F5WG1WaTVmazNfS3Q5RzU1N0xIQmRWZU9LNmdlSE5CNUN5UWNnaGQyZC1DZFlpcVU2OTFQcEV4eWZhSHhOV1l4V0Q3M180WTY3QUw5eW9zby1lUG5WbjhPbVBMbzB3bnF4a3lOMUllVlFDR2FUdmRhenFtR2VMamFGdFFzdGlsa3A4?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_joven-de-21-anos-muere-en-accidente-de-motocicle"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-05:00",
+  "t": "Dos accidentes colapsan la carretera Cancún-Playa del Carmen",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZWJWdjlRYWJtOVZPaWw4TXU2eG44ZmVsVWtIWl96dktwTjBUMTFCbHphaGItVHNLN042aDJMTHNydWZNNnExTVVIRmhWWFVDSlZnN1RFZ0RXNkNtWWp6SlZVWENQRWhEUzlTU1duV2VXNkFqN1VqZHdDWEdHQkNMejNMRENXOTB1NUZqN211N1fSAZgBQVVfeXFMTTZIb0NIVy1ia05uM0paVWZTQ1pKZ19qNWptTVV5ZEZMS1dEY1JIQjJSUVVkaWpKRFJHZHl3cjNWMjllMWlrQnowempRT09FNDhjendqMDVhVXA0UERGWFdOTjNwRzBjbmt0UVRfZ2tRNGEyUW9YOVpiZDRZUHJwM2lxTVM2U2dVYjA5N2dqdDJyRTlmblhHeGU?oc=5"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-12_cancun-2"
  },
  {
   "d": "2026-11-11",
@@ -296,6 +553,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSm02ZExIOVVvWHd2aXgzX2xocmEzV3NIOVc5MXlDdC1ranh1ZzZEZ2RRenVHYmlFQzR2dktlQ0JRNkR0ZW5qWFA0d2dBMUhGdEhQelExMlFCU2RtX25icENXemU2UFdoU1A5MG1TWndQU0J1Z3F4Z2VQR18ySmxMWGNja2pvekJYa3dVSmRhc0FRYnF1QUFpaGlDWnd3YlRBZDFTRVZ5R01jTDZ3N1VPVVA5Z0tlT05xdUE3ZVpCaWVjWWFYV1RicUJvLU1ZMlljZmtvVHpDdGk4NEVmZjhUWDN3a2ZoTE5Hemtj?oc=5"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTDF4MGxXemNoY3IwSEVjM1RnTmdXUUVYdkYyMk00TUdRNWloYUZhVWtsT1ludXFtQzE3UXplZzU0eEJBcHluR2NXdXAyQm5OMWhfZ2NUZDdCc0dZZHhVR0w5X3V2TDVrUUh6NEZjMFdYSWlEQlg1STJ1SzVvQThMdy16M05ianRhTEFNaXVGME9rZzJ5OW5vVVVoQ3ZGUGRmOXVwdGtpb2VnQm5FNXB6OUtnUmZWSTd4b3JKTU4xQWN6ZmdjRHppU0RKUdIB0AFBVV95cUxNM2pSVDI0OW4za0w4eHp0UkFrTXFIZ01MNjhRUWN4VTYwc3JQaW1yVVlWRm85NFM2STVYcFJINS1NZS1SR0JjcWdmZmd5ZDZEM2xNdkZBcEFZaUh6Unc1QjE5SWRabktVZ0xna3RTQkJBOEUwTW42Mm8tR0JfLTh6eGdPMmJ3dmNScFhvenlmMWRJUkptMnJ5Zk1MSkJHT0ZFWU9uMUVFMzFvR0tRZEtWQVlOWWRiZkxteTQwUVF6RzN2SnR5eU9tWm9GQlBITlFo?oc=5"
    }
   ],
   "creado": "2026-11-12T02:50:09Z",

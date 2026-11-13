@@ -23,6 +23,52 @@
   "sev": "fatal"
  },
  {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Automóvil de empresa refresquera queda en sentido contrario tras fuerte choque en Ciudad del Carmen",
+  "p": "Avenida Isla de Tris, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/automovil-empresa-refresquera-queda-sentido-contrario-fuerte-choque-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "isla tris",
+  "id": "2026-11-12_avenida-isla-de-tris-ciudad-del-carmen",
+  "lat": 18.654126,
+  "lon": -91.789598,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-12",
+  "h": "",
+  "ts": "2026-11-12T12:00:00-06:00",
+  "t": "Choque entre camioneta y auto bloquea la avenida Camarón en Ciudad del Carmen",
+  "p": "Avenida Camarón, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/12/choque-camioneta-auto-bloquea-avenida-camaron-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-13T00:07:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "camaron",
+  "id": "2026-11-12_avenida-camaron-ciudad-del-carmen",
+  "lat": 18.660458,
+  "lon": -91.824847,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-11",
   "h": "",
   "ts": "2026-11-11T12:00:00-06:00",
@@ -2158,26 +2204,5 @@
   "tipo": "vial",
   "ts": "2026-10-09T04:50:00-06:00",
   "id": "2026-10-09_champoton-campeche-entronque-de-moquel"
- },
- {
-  "creado": "2026-10-09T19:10:00Z",
-  "d": "2026-10-08",
-  "estado": "Yucatán",
-  "h": "18:00",
-  "lat": 21.102,
-  "lon": -88.312,
-  "p": "Carretera Sucilá–Espita km 6, Sucilá",
-  "pr": "tramo",
-  "sev": "les",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://www.aztecayucatan.com/noticias/camionetas-vuelcan-tras-aparatoso-accidente-en-la-carretera-sucila-espita-esto-se-sabe/"
-   }
-  ],
-  "t": "Vuelcan dos camionetas tras chocar en la carretera Sucilá–Espita; un conductor policontundido",
-  "tipo": "vial",
-  "ts": "2026-10-08T18:00:00-06:00",
-  "id": "2026-10-08_carretera-sucila-espita-km-6"
  }
 ]
