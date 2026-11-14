@@ -286,6 +286,60 @@
  {
   "d": "2026-11-13",
   "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Camioneta se estrella contra tráiler en Yucatán; hay dos heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41T0JGeUxvOWxUQWFZdGNpX3BmMklaRVZjMjFid1pVRmNzNWxwVEI1Z1hsaTJ1WlRQMlIya0MycnEzOGV0RnphVkRSZmt0blhnMFZOcEVrVFZnZFZYWG9PR3lpaXNUUHZJWlVHV2RoZ1N0ZmlhbGpmQUR3?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T10:05:46Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_camioneta-se-estrella-contra-trailer-en-yucatan"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Repartidor de comida resulta lesionado tras choque entre motocicleta y camioneta en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3NORWx2WFVLOXRBWkhGeHZUSHMzT1VqTm8xQkNFbTZ0bGpJb2xEM1p3TWVtSkdsQTE4RWV1Zi14aThmSW5ib3BRQnJRQWZaeklBaEFCazRERFRfSDMzRUkzemVDRnJWRVEtRXBWM3IzOWVUMWRUbW1FME1MT2pHaHM3UFZVODJuU3JrRnc1TG1WTUpobHUyOWtmMlBrOUNaQjFiVEVuVU5aVnFZX3RyZUdmTGU1aGdxbHBKRmQzd0c?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T10:05:46Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_tizimin"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Tráiler impacta caravana de antorchistas en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdU9ubXVUclAtVG9Jc2tLaXVkS1BxcUNVNnA0S1FIU1psUnpzb0NJSm5NRlVsVHp1WnJnTHhpcloxZlNJdEdsakpPUi1pOEZyTmFPOXVaT2RJSmJYWXZ5d19pdzgzVWtadGtDTTJEbDB4OVBUQi14Vm1sWmktaTBHYmpzOHgwQVQ2ZWFTVA?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T10:05:46Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_campeche"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
   "ts": "2026-11-13T12:00:00-05:00",
   "t": "Fuerte accidente en avenida Galaxias del Sol moviliza a cuerpos de emergencia en Cancún",
   "p": "Avenida Galaxias del Sol moviliza a cuerpos de emergencia, Cancún",
@@ -382,6 +436,10 @@
    {
     "n": "DePeso",
     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUtnUE9mcmtyYUtnVlprWEltWjJxR1FzdFo4dGp1a3VzUnljdFFWRlRxRzh0bWFscDZOdXBORElEdDNOajlObzc1amJSdUxXYnc2b1NIMUdmaXhrX3BfTm1oTkRTYVVTRGlzVWhCSHBjaVczMHJYcTdJWEFvM3hQYUg0TTJrWklXenM5X0w2cWhKUQ?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUTndQazNzTmdwZWh6RWl3cVZTSi0xXzJ2QlZoUWhMYkxCRy04UGtkcnJvM0hsaXVDZmk4TTRCR2pZenRuSnpTRV9wODZhTHRXVThhaDl5UUtJU1BLekJZYnl6ZVdFRDc5M1lveGlrYmpacnhyNUVWcURRTE0wZ9IBhgFBVV95cUxPVG5ub2oyT0prdXBpYnZLLXJOclJMaVZnWXdZUTFtSDQ5M011a2lUblprcmNHRmtjbzN2aGVtOVVVUUljVkVxZDlxZlNnQzQ0WkxtRUFXQjBORmo0WUZtcFhQRGtPLXhXMDN4akNyeW52QTI0TVIzQ1VmZTYwV0RHeEQtSnJQZw?oc=5"
    }
   ],
   "creado": "2026-11-14T03:02:14Z",
