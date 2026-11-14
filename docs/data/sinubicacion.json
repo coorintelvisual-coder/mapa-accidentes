@@ -1,5 +1,43 @@
 [
  {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Conductor de mototaxi vuelca en puente del Tren Maya en Calkiní y huye del lugar",
+  "p": "Puente del Tren Maya, Calkiní",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/14/conductor-mototaxi-vuelca-puente-tren-maya-calkini-huye.html"
+   }
+  ],
+  "creado": "2026-11-14T16:33:45Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente tren maya",
+  "id": "2026-11-14_puente-del-tren-maya-calkini"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Incendio consume la cabina de un tractocamión en carretera Buenavista-Bacalar, Quintana Roo",
+  "p": "Carretera Buenavista-Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/14/incendio-consume-cabina-tractocamion-carretera-buenavista-bacalar-quintana-roo-2.html"
+   }
+  ],
+  "creado": "2026-11-14T16:33:45Z",
+  "metodo": "reglas",
+  "clave_lugar": "buenavista bacalar",
+  "id": "2026-11-14_carretera-buenavista-bacalar"
+ },
+ {
   "d": "2026-11-13",
   "h": "",
   "ts": "2026-11-13T12:00:00-06:00",
