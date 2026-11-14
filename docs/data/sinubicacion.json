@@ -196,6 +196,96 @@
  {
   "d": "2026-11-13",
   "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Conductora se vuela el alto y ocasiona una brutal carambola en Mérida; quedó tendida sobre la escarpa",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS1dwd1dkaENCNGZOeFprOS04VFIzakZzQzVwdnVfdF8tSHBrVEwyclNTM0FNOUNwUUNxdFRfTGQtN1lWeHAtX3hPbnNjOEp2TkgyMFFvVEkwbUdJT1UzVUpSWFVWQzR4cDZBRHRwY0cxUF9sMFFtcW1fUjNkeUxhUmg3TmlEUHFId00takFId1g4VGFDcVcxSEZ4am1KMzk0RXJCZTZxUnZITXJQMzlOZXA0cFItVHZkVHM1YXo5RzliSjNMTnpVTWNIYmhIVHVMLWpyVVIzYUMydG8xU3JCOUtsOVdfei1GMmNjaA?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_merida-2"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "¡Trágico! Joven pierde la vida en Oxkutzcab, Yucatán tras sufrir aparatoso accidente sobre la carretera; así q",
+  "p": "Oxkutzcab",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaXhLVFkyZGY5VF9vZEJ6Qk01WEpZTWl6eU5yQllubk5rbS1IRVcwc2RJaUpNdTktUjRWNnp1TnRCcE1GU0lobW1NdXJYVmxhTXVwa0R4WWZYc0VCZENnMWVudlpjd2djeW5DSW1INld2cldrZnNSV0ZsNVg5SE5kYVBzR2kzak9xZHpDNmJhSFItc2xhN0VjQnVKWDBXYmlJTWcwRE56MXFNcGxmVEtuUkkxLXRlZDd0OXg4dTJyR0FnbnJNOFhXcUNlU2E0djVVa2R1TlNRRktPYXl2dmJjT1M3LUNuTk9XZHFhR1UycGNmR28?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_oxkutzcab"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Muere campesino tras ser embestido por una camioneta en la vía corta a Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeERaRmpfbVliMExUMmtzV1NBVHpRM1hwNWxoYm1hX3NwY1NyRm90RGpiRjNrYW1EOGdwZGcxdDFLR3hvSGpBWHVTRThGTzh3S0E0eTZqdWJKSUc2S3VSMDllaGVYTV9Da3BVeXhJQko3X3RKSUpZU1hiVUFGYmlNd01jYzdCQ09waTllRU9CY3hzRHY1dFJwUzdKSkNYZEo4TUtRTEptTC0tZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_merida-3"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Hombre muere en La India por comerse una gomita",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjdDeGd1cWhIdFBTMlNjYWdjaXczbElibnduaGV5dmlNazRTSFVVdTRoQ3M0cEFjSGFwN284alI2d0J4ZkJkcEhEVkdCZ2dzX29VNlROY1lHTU00bjJYSEFTZWNaTzRmWmR2WEVzaEtTeHk2RkpzRWItUWFkWURvOTNsRHFEQzdEQTRfcy1VNVRYWGNMMzlvZ3JlY2NKWGlLMXhLWXlsZm00NGZ2UGRYaDU2X1RwM0tVRFJNdXJxS2RIVWdFRU1TYm0wQURoVWpO?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_hombre-muere-en-la-india-por-comerse-una-gomita"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-06:00",
+  "t": "Muere Efraín Rosas, actor de La Familia P.Luche; ¿Qué se sabe?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOGpsemNZVFcza05EdGRIeVpnekp0QlNEZTl2bXBoT1hOaDhFMkc0VmwzZ0N1bEFyN004aU9udXpKWkM5LTQ4QVV2dlVxZ3FlRlUwUHlzeXJwYWtBRTZaUnRSMkdIc3NXZVhRUHNOdUw4a0loMmVYTFQ5ZWl2TGxtTC1Gczk2ekk1d3dyUHNpY0FBclFVTzdYaDY2Rm1sTWdjdVVTbHZWc0tRWnAxNG9aM09LLURzRzBnUjhDMHVKYUw3NmRuTGV0cWYydUJTT1Fnb3BF?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_muere-efrain-rosas-actor-de-la-familia-p-luche-q"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
   "ts": "2026-11-13T12:00:00-05:00",
   "t": "Fuerte accidente en avenida Galaxias del Sol moviliza a cuerpos de emergencia en Cancún",
   "p": "Avenida Galaxias del Sol moviliza a cuerpos de emergencia, Cancún",
@@ -279,6 +369,42 @@
   "metodo": "reglas",
   "clave_lugar": "tulum playa carmen",
   "id": "2026-11-13_carretera-tulum-playa-del-carmen"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Choque entre taxi y Mazda deja daños materiales en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUtnUE9mcmtyYUtnVlprWEltWjJxR1FzdFo4dGp1a3VzUnljdFFWRlRxRzh0bWFscDZOdXBORElEdDNOajlObzc1amJSdUxXYnc2b1NIMUdmaXhrX3BfTm1oTkRTYVVTRGlzVWhCSHBjaVczMHJYcTdJWEFvM3hQYUg0TTJrWklXenM5X0w2cWhKUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_chetumal"
+ },
+ {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Explosión de gas deja 20 heridos en Argentina",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE40TkZ2aW5YTkljdVQxdDJrQWNpTmV0UFc4VXMyYllFSjBWTXh3dHZldmJFTVNWMzVmWWI5UWZ3TEZnWEkwSzJhaHB6bmFGZkhjenhWbGRac3VnaklzY1ZQX0NHM2oxVWp6elN6UkxMY0hXQ0RtRHhRMlRZZnHSAYQBQVVfeXFMTTJwaVlFSnViSU1tREttTm9ZR1NFdDlReGtLb2o5MnZOYUw0ZVBFVlNqU3pxeGtyV1VZLXBpeER3a3lxUkFXbTliTGxncW0xUzJuRXh6OEhsRGZKWjZYUGJlN1R0WGNpYXZvakpIcnEwVzR2elp3RGtGMjRVZEV4VHdrNzZZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "id": "2026-11-13_explosion-de-gas-deja-20-heridos-en-argentina"
  },
  {
   "d": "2026-11-12",

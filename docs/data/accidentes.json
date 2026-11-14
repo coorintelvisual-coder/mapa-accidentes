@@ -27,6 +27,29 @@
   "sev": "sd"
  },
  {
+  "d": "2026-11-13",
+  "h": "",
+  "ts": "2026-11-13T12:00:00-05:00",
+  "t": "Muere hombre tras caer de un segundo piso en la colonia Ejido de Playa del Carmen",
+  "p": "Colonia Ejido, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUElBMGpHVzJkNjhzN0l6NUNjdHZvTHcxRG5IRGUwQlFBUmFxNmZpenVBSWVib1NIeUEyZFl5NEM1dS1mcFJJQXR6RnhIOFN1aVNZZDRDZEYtSTdZel9PeGVVa3RhV2hsbFFoQXE5alF1cF8yd2V6V2VJSDNIZ3pYOXd5T1dlQlZvNk9QZ3hQOXU3LXEwdkxyYW9aTk03ckNkb1ZEYXJUMGplaE9BRXdzOE5pd2pkX1VmTlJr?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T03:02:14Z",
+  "metodo": "reglas",
+  "clave_lugar": "ejido",
+  "id": "2026-11-13_colonia-ejido-playa-del-carmen",
+  "lat": 20.634372,
+  "lon": -87.089688,
+  "pr": "colonia",
+  "sev": "fatal"
+ },
+ {
   "d": "2026-11-12",
   "h": "",
   "ts": "2026-11-12T12:00:00-06:00",
