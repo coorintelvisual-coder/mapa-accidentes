@@ -21,6 +21,191 @@
  {
   "d": "2026-11-14",
   "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Automovilista le corta el paso a motociclista y la derriba en Ciudad del Carmen",
+  "p": "Colonia Benito Juárez, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/14/automovilista-corta-paso-motociclista-derriba-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "benito juarez",
+  "id": "2026-11-14_colonia-benito-juarez-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Vuelca camión revolvedor en glorieta del Arco Vial Norte de Mérida",
+  "p": "Glorieta del Arco Vial Norte, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/14/vuelca-camion-revolvedor-glorieta-arco-vial-norte-merida-2.html"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "glorieta arco vial norte",
+  "id": "2026-11-14_glorieta-del-arco-vial-norte-merida"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Nueve accidentes en Altabrisa: vecinos temen tragedia en Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGxPdDhfVUtqNnZlck9YVTlZRHpEcTZtZWtXSFVfems1Z3U4eHF6Y2RmZnpkLVJ4cXBLeV9jSm8zdGkyWlpEaGRLWjc4SDBDTDFEZUg2eUNTdVFKNEhrdGhkZ09wUE9VRThnc3g4RWllMHZZS2xuc2lCd3lla2xXTzN0bnNObFVwM0VtZlAtS2Y3akFXZGFUWmVPaTZoUnc1N2RoOVJOZGtWWWtJV0ZnQXFB?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_merida"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Así quedó la revolvedora hoy luego de una aparatosa volcadura sobre el periférico de mérida (video)",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDhzVzlRbG12VVM0OV85aC1Xb19WZ01jeUVBSUh6UzczbmF0MEdjd3hza3EyODRCRlFNc1htVmNyNjhmaGNLWmR6SGQ2TnF5Zm1vVHpWeDI0RGpJNUZ5VDM2U3RMS1FvQ3RpQVNtc2RoWW5pX04yajRxOXhUa3dVT010ZkkzbjAzaDRyRTF4WTJNTGZTLVBSNzhKZWNkV2g0SzFYUHJVN25Na0xGLXAyU2toTEdYY2VSc19FNk1BOGdFM1lfVzlpZHktZ0VETUZVNGNydg?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-11-14_periferico-merida"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "¡Aparatoso accidente en el norte de Mérida! Una pesada unidad revolvedora volcó tras perder el control en la g",
+  "p": "Glorieta del Arco Vial Norte por presunto exceso de velocidad, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIMW9YeU1QSkxRVFRvS2ZJbVFiNGhCaVYtSS1kR3ZvWTFBNnozUE9BMkNsaHZiWHVfRzhVMllKdlZUMzZTQzdjNVBBWGtub29XSHJqcC1B?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "glorieta arco vial norte por presunto exceso velocidad",
+  "id": "2026-11-14_glorieta-del-arco-vial-norte-por-presunto-exceso"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Conductora presuntamente ebria vuelca y choca contra dos autos en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUW5qNU1rX3MtNGU5R05WXzFwdjlaa2NiNjgtbjExaFZmdV9qejZ4aFpsTThsMkN5aUdXbFc3MS12dG5KY2VtYXgxbXBrTGJfdmkyR0JQQlF6b2pBdUJOY3FCRnAyeVV0elZuSUZCMVItXzB2cDNBeDhUNUU1NVpUMW5GSTJkR2VSQ0Z3UmVoZkt5bE96TXFtaUlMaFFMVW5XNFlkNDVuRU9kMDVBLWtwd1ZpWGQ4T2toYjR0StIBwgFBVV95cUxPNzJYbnlVLXFCMklDRXdWVml0MjRibVlsc1g2YjdXa2pqSWE0SjFHQ0tldUtDRDZXbGVEQlVzNVJ5MjdDX0pZZDJHZ1h3NWRmRXY5LWVJQTNMMnpseUsxaFNaTU8xTWFKb0g1OFA2MmJwZW9EMXVrMlZlRWVmcnM3S0k2ZkEyR1pwZ2thdEcyVkJRWm40UnVLTmJIQTcxemFRZ0tvUmkxSFBjWWNhRUhySnFEcmh2a3B4UHJNaHl1UW1sQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Camioneta termina con las llantas arriba tras chocar contra dos autos estacionados",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXVCUzU3c01xUjNwbGNZTHdZSnozMXp3X3JSb0k3ZXNHbFRzWnMyS3NBVklWcE1qTlpHZmJPVnhrLWxCZktyYnVvSE41SmgxVEdIX3FPQTNEeUdTTUdadGllVzNMTldYYnFWNnNqRTNwcklBcHFVZjNvUUtSVXYwX1ZBUEVCRjl4cnQyaEtULVFfRFNNVDVVX3YwOE1aRVIyWnFnUHJHeE1KRnkzZldWM2RkaTFFeG5NNXBhZVRR?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_campeche"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Revelan lista de estudiantes del tecnológico que murieron en trágico accidente de carretera",
+  "p": "Carretera TV Azteca Yucatán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHRWMldVUXVuLVNaWWZ5LWp0dnJqQXhoNldnLTlFSlFWbmc0WVBzZVVJTW1peFJxUUhMTnZHbGxibXoxU2kwcnN0cHdINEpiTXo5ZVNlWTJOWVpEdzBUVm1NWHFGRkxadFNtUDdKX0x4THVLb0tQU0o3REVBa1VTNWZMQW9DcUhvX3ZZZ0lZbFVrdHVGeThtLUtVb3NNSXdpQmE1YThYdmVoTDkyZ2ZLeFZRUXBXcWFJS3lDR0tTMU1xb0lCODlOQUM1OA?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "tv azteca yucatan",
+  "id": "2026-11-14_carretera-tv-azteca-yucatan"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Fuerte choque entre camionetas en Tizimín: conductor lesionado",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjJBMVVuQkd5SHhiRURscDZBaVppUWdva01HZGc3NWJCa1M3WkdNZTRMOG5QRWJ4anZHZWZYOF8zU2VlTjhwbUtNQXZhbUpNbVJzalhMeUNWWmZFTFZ0S3RxZ0ozcnZZS1JJUzdNOGVYT0VKN3BwNjZpRUpESFBtVVFnNW9FUWxBbUg2ZHFJMWNLSjk1SE1NR0JuUVNaTTM1MUc3b1Z5U3lpTFNCRnlQeFNR?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_tizimin"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Termina con posible fractura tras choque en Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU0wZnpOU1lVNldDQzF0akhNNXZ5eWg4NmpyaEhlUVBPdEJHR0RyREVBdDd0cWNfZldoV3phU3p1ckhIVWNwYXZUYUFoQm5BQXZTbEtPV3RCb0Nmb0dzN3kzc0VlVy05SEI0ZjR3NzZLRlh0Nm1LNmVFV2s2WUs3SFFpa1piYkQ4eUlPZmZvdWlBNUc4eFQwMw?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_tizimin-2"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
   "ts": "2026-11-14T12:00:00-05:00",
   "t": "Incendio consume la cabina de un tractocamión en carretera Buenavista-Bacalar, Quintana Roo",
   "p": "Carretera Buenavista-Bacalar",
@@ -36,6 +221,42 @@
   "metodo": "reglas",
   "clave_lugar": "buenavista bacalar",
   "id": "2026-11-14_carretera-buenavista-bacalar"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Conductor de troca deja a biker lesionado en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmFwd2pKa0dfWkp0emw0VDVCSTN1OTVEMUgtbFZKWTBsZHpzU1ZPTEhLNDNKWHhqU2hRNFdVLXMydHM5c2VwNy1saVFFYjByU1JPLTE0WGNTQjJQMW03cTdoVGlPbElKZFlsdlI3ODFQREhtWkxFLXBhY3JUX1VnYk9QZ2FBX3l6Vl9kNXh4VVF0RGlmbUE?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_cancun"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Playa del Carmen sufre severas inundaciones por fuerte lluvia, afectando a los peatones",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaE84YTBQX0ZvSE80MlhxdGlLTUpDdWlrRi1mM1ZZT3QtbE5zR2FSa0h5aW9BcmZoenVpQ0tUa1RaSElXS2JxOWg0WjlCMU02MFNLVjVVMU13cEttb01sbTZvVnNReVREQjJqYmZJdFVRck5venFPUlFRZDJaSk9DNE02X1hNdU83ZjI5ZElob3lrN1ho?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_playa-del-carmen"
  },
  {
   "d": "2026-11-13",

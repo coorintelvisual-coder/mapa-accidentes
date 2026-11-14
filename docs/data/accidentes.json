@@ -34,6 +34,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/14/choque-auto-motocicleta-deja-lesionados-cruce-avenidas-supermanzana-cancun-5.html"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWpVRk1LOG5XWFF2NFFyV2d0QUpLQVhJQVhHX3diSWJVQ2JfN3d2VFN1cDlQd1FkWjNKdDNscDNoZm5JV21mMHREdmp5T01JQVc4N1VnaE0zOHdBM1Fja1ZSVkVOYS1paWZZbDhfc1dpT0ZTVlk0Z2RDNU05QlNrX2RyNGRuTElZbDdr?oc=5"
    }
   ],
   "creado": "2026-11-14T16:33:45Z",
@@ -43,6 +47,56 @@
   "lat": 21.144179,
   "lon": -86.86128,
   "pr": "colonia",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Incendio consume camioneta y afecta vivienda en la Supermanzana 219 de Cancún",
+  "p": "Supermanzana 219, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/14/incendio-consume-camioneta-afecta-vivienda-supermanzana-cancun-4.html"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakh4VVhYNkowREdScnRaR2NESV9QN29YcnZHTUkweEh2bjdsVkdlcVdmemlSV1MzME5wZ0JXQ2pMZ3JUSlRiTTdmTmFDd1FNODgtUzdPd3ZPdGpQeTZUbVhnTmFzTG1UdFRLS0ZzbDdVYzdTY0diOUs0S0tBbGRWbFZ1b2NBTnZoNFZFc3RaemxvNE5kMHhV0gGXAUFVX3lxTE5qSHhVWFg2SjBER1JydFpHY0RJX1A3b1hydkdNSTB4SHZuN2xWR2VxV2Z6aVJXUzMwTnBnQldDakxnclRKVGJNN2ZOYUN3UU04OC1TN093dk90alB5NlRtWGdOYXNMbVR0VEtLRnNsN1VjN1NjR2I5SzRLS0FsZFZsVnVvY0FOdmg0VkVzdFp6bG80TmQweFU?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 219",
+  "id": "2026-11-14_supermanzana-219-cancun",
+  "lat": 21.168192,
+  "lon": -86.864767,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Joven termina lesionado y desorientado en avenida 20 de Noviembre en Cancún",
+  "p": "Avenida 20 de Noviembre, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1Z6dXd1M1phakI0dENDODNaU2htUHhXNm1NdDVQT2FOQmtRejZoRHlUSUZnWlJCdWg5ZjY4cTBXaW9pYk05MG53RU1yMl8yNmpydUg0WkxCcy1TalhjbmlyZHFGWElzSzZjSDQ1U2YwRjVHaFNQZl81RTFsRDBPSkwtNEpINWxPN1poY3FuMnRCQUJIcDU4WFljaWlkSG1VR1E?oc=5"
+   }
+  ],
+  "creado": "2026-11-14T21:20:18Z",
+  "metodo": "reglas",
+  "clave_lugar": "20 noviembre",
+  "id": "2026-11-14_avenida-20-de-noviembre-cancun",
+  "lat": 21.183191,
+  "lon": -86.855211,
+  "pr": "tramo",
   "sev": "les"
  },
  {
