@@ -20,6 +20,60 @@
  {
   "d": "2026-11-15",
   "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Se incendia patrulla de la Policía Municipal en pleno centro de Tizimín",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3NkNXBHTXlVbXNkMVFqT3FVZkR1anlpUlBmUnZKUnJVaW1WNVlTOTFSRUEta0RaQmRYRmN0d0VpTzFrRFRLNG1FN01CN1dTLXk5cTRIeEFmU18zaHdvVU5TMWpMZi1xNW11bFJzMUZ4Y2dJaE1ucGp3TEp3R0owUjBnWElSbWlINmU0Y3hiR2ItWHRWWnlPMXJzNG5RamFucEJ5bWdUdmtZcENLTk5lOG1INVBGTElMbTEw?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_tizimin"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Muere hombre ahogado en el muelle de Telchac Puerto, Yucatán",
+  "p": "Telchac",
+  "estado": "Yucatán",
+  "tipo": "agua",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGpvaFFIaWYwYmpuUEdxLWRrVWlNbE1yWkNoeHNaWHZYSThCc2NRcVA4bGxjZXlqeER2Mjl5dTJLM2w4dU82eVV6c3QtQ1kyRjdET1JfbVlzV2hIMlhYSHBfdXJIWWFHWEV4SGVlbVRkOEJfT2tnYkVuVzRxUVVXVE5DRUhELWxoZGRxOG90N1h1THpWVU9vSVp1czZOUmdONG85SmtuMVJHRVVQ0gGyAUFVX3lxTE1Qckd1eEUycEVVd21sRUhYZ1lRY3NaR3ZfN2hqZUpVdUtObEZNTHNOSU4wZmtoRl9NUFRGelN4bWJkX0IzcHViWUgxTExIeERQQmFhTG9ZVjNIWnMtRHhBTnQ1a0dXbGc1VkpnVTR6Q0JmbFl2bGlxbmZmb01jM1JWMDJXdlktYy1ITS1sSFE0dWR3OGxZOTVQTlhPcUhQcVVhYTYydlR5a1pMVDZXOTNBX1E?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_telchac"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Provoca accidente en la Macuspana-Escárcega tránsito lento",
+  "p": "Escárcega",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Tabasco",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXpDMGdzMlk4ZFdINFBHU1VROWN2dnV5R3hEeDFpU004aTlDQzVKZlE4RGwzRWk0R3lIS2FLWmlsMWxzcWMwYy1HV19KUkRlaWVYcFVkcFJ1dnA5cEdkeFZTaWh3dlVOWEl4djdZS3lDb1BieGJyTWoxd2hDaUtIU3kwVnFsOVR5cHgxajlraDRCUjVyc0JvdQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_escarcega"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
   "ts": "2026-11-15T12:00:00-05:00",
   "t": "Incendio en bodega de grupo musical en Cancún",
   "p": "Cancún",
@@ -109,6 +163,84 @@
   "creado": "2026-11-15T16:57:31Z",
   "metodo": "reglas",
   "id": "2026-11-15_tulum"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Un auto particular quedó al borde de una zanja de la CFE en Chetumal, pero no hubo lesionados tras el percance",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LZFptZkt5RWVQZGpjUVVoT2w5Y2lOSEVoaUFzYng5SGtRQkFJamdMem5aOUxjWHNJUjViZFZZb1pSd3lySEpnLU9HWDFVVEFKM2ViM2ZkTG01SnpfMGtoTlN6TmR3S1E1RjJ5blowWktnbkdUOVlrbERn?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_chetumal"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Accidente fatal: muere motociclista tras chocar contra camioneta en carretera playa del carmen-tulum",
+  "p": "Carretera Playa del Carmen-Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG5NeGdTYVhYSElZdkZMTnB0TVJ1dk5hQXhqMXlFa0VJV21vb3N2TFRRZFdRdUFTa0tpSHV3T2RzZS1HeTdxSjE0bTk2d292dUNNY05qS0FiZnYzbWVVWUlleExYSTRCX205QzJteG5zVXZYT09XcDU1M0RTS1Y1Vl9QLWVHZHV4dENfdjQtOURiTE5DYU1jRU43RjJaMXBaM2FhSzVSZmpCYXRraEhMQkVaNVY1bTFpaXpQMmNNTkd6RXJsNDZz?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWN6ZFF4aVlZTnptc2FrZW9oM3A4ME04bUgxRVFjRUFpb0x6QXY0aEdWR0FITzNqS1ZyaUZvMjM0N0x4M2hmSF80LVdRUGVQVkhxaEhHQ2hDMWc2ZEdhZmc5QnNyUndMRVk4WDBYZGJTekpGMW4xMzB4Zkd4ZlBjWFFkTlV1dVZvd2xsNWE4Q25yYkhRVmVraWNoUG1Nd9IBngFBVV95cUxPYWN6ZFF4aVlZTnptc2FrZW9oM3A4ME04bUgxRVFjRUFpb0x6QXY0aEdWR0FITzNqS1ZyaUZvMjM0N0x4M2hmSF80LVdRUGVQVkhxaEhHQ2hDMWc2ZEdhZmc5QnNyUndMRVk4WDBYZGJTekpGMW4xMzB4Zkd4ZlBjWFFkTlV1dVZvd2xsNWE4Q25yYkhRVmVraWNoUG1Ndw?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen tulum",
+  "id": "2026-11-15_carretera-playa-del-carmen-tulum"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Muere motorista en la carretera Playa del Carmen-Puerto Aventuras; investigan posible participación de camione",
+  "p": "Carretera Playa del Carmen-Puerto Aventuras",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeEhvS2owQjdWMzREY25JNWVNcTZNWGZHUXpkdlFiMm5WOW5OSkdVUTVoRUNUOXkzNWhScWdFWGZKMDFQTWhEOUJEam5pVDRYTHlvdVVTcVZEV3FkU0F4SUdTNmNSU3pFUi14N1FrNzZkRlFaZVFFQkRXR2NNQ2RzRWZQbExQWWloZHVDeGw4V0E3em1SYVhfUjR5ZVlsT2h6OXNMSV9USzN0eGx5T2F0ajZqTU1wd3hwZnduUDRjdFpEc1RMZ25uaUpweHJ1UXY5WDVydHlIYzRLdjIzODlJTFdJSQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen puerto aventuras",
+  "id": "2026-11-15_carretera-playa-del-carmen-puerto-aventuras"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Motociclista termina hospitalizado tras choque por alcance en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSExaNkFmSWVhYzdVQnBYdDBhek9OOEJ5d0RzbmlobENWQzV2b0dRUl9jU2llRVdGYzVqcWlNb3VFNkQ4Y0FrY3F6bURSeU1veEhmbU1HcW5EVDJ4TldfOVlfUGJMZTR1aUxGWHYyVUd4bWotOGI1UGZqb2tjUFpqQ01SMk5iRzhBZFkxdmwzWnZsRE44TldjSXpHT0g1NEpnMUtR?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_cancun-2"
  },
  {
   "d": "2026-11-14",
@@ -298,6 +430,10 @@
    {
     "n": "Diario CAMBIO22",
     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjZtckhXc2hnZm56N2JOdzhkOXZEQjF2d1AtcWJhQXVnRlFTT2NzektYcldTLXprUVVkN1JucUJzaEI2RUJfTnBUZkVteUMxOHZQUDB4NFVyLVg5WnI2RUdnVHd4eHBWbVJ0Q1ZuMHNqYkVNR211bENxMFp1X3YwTThhT1haLUxTZE81a3Bsc0wxTEJBUnlydDVtVzBBSkZVaHZ1ck9nRnM1b3B3a2locVhHV0lwUzgtY1R1bmZ2RQ?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORkotblFzSFR5Q3JfVE42MlBNZjhZVVpsemV5TjNVN3lBSGtQSG0tRHJKTVQ4ZzZYSHoxWlltLXNqZ1FpcGU4RlExU0lnMTRwOHNfa2IzZzJCaHg5NXlHRVZwZm1HYTIyX1NoNzloN0tZS1VvQnE3eHVIVDdpUV9lMWtVV0FzbGJoZ0F5QmRueTNFMG5UQjRWbVprSnJGM0dVVjRGaFBJd3E4SEtNb2xxdTFGYi1tR3IxcDVyQWJWR09Yck1SLWdtNDZfWjMycGt6dWR3NEVJYVRWcTQ2?oc=5"
    }
   ],
   "creado": "2026-11-14T21:20:18Z",
@@ -15938,249 +16074,5 @@
   "creado": "2026-10-13T22:36:11Z",
   "metodo": "reglas",
   "id": "2026-10-12_imprudencia-vial-termina-con-una-lesionada"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-06:00",
-  "t": "Hombre pierde la vida en plena fiesta en Sihochac en Campeche",
-  "p": "Sihochac",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnF4ckd0cXpBX09vMW1OTTBFSHRiOGtBQy1qMGp1eFN5MHg1XzhneVhwUldlTXJfVFU5MXhnbWZnVlhWSlpDMjdvVTJRY0NCcHNUX0hVR0NXb0dJeGt0VXVzQTNnNlVxdUdSeGxrTF9PUk94U1d0S1BHdnhueWdNbVFLcWhTQjcxeW5DRVRkN3VHbXduRVBJa0I1UzAwajBxZEJ6cXkwWTNBWGcyQjFHMW83Y0tlZ1RYVERnS2gzUERkMTJtd3hpSkpicVpRRDU1WGc?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_sihochac"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-06:00",
-  "t": "¡Brutal choque en el centro de Mérida! Conductor derriba semáforos; ¿Hay lesionados?",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjhmVWg1MGp4bDRQTnItd3NKRk03ZnFZT0lrQ1JrSHF0Y3NKMFZCWWV1aVNHOTdad25pcm0zWE55ZHFDMUVZYW1hejR4U1NsUmQ1ZHoxaDRJMFJZRk9xSWUzcFoxUUVFU205Q3d2Mno2Zk1oX3VkOGdOQW03bFBfT3JYUDJtUHZwNUpjOWdnTDdURllvYnBMdDE4OV9jYWs0OFlDeEJnUlJIb09iOElfU3NEYng5bkRjVTVN?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_merida"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-06:00",
-  "t": "Hallan auto abandonado en carretera UmánOxholón tras accidente",
-  "p": "Carretera Umán–Oxholón",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXRCQkE2dklka3Q5QWFaOUpuZUpZRjNSRzVNN1BNZTJJWmJibHA3UUlvTFZzazlrLTB5Z1dnZElMOVkwN1ZQODh6MXlpNVl0My1ycE5UM0xHMXNLLWZHQXpZSldPWUxHQ2MzNmstVkhZeUt3MXBfQjV4SVhZZ2x2RXlRbzdpVFFWMDJSRkV2V3JtZ2VWVUV2NWxFVkJUcEI2alZTdkk0Rk5MLXlwWjRTSlhuWjh3VlVueW5GWE9HWk5JS1FRbVZkWno4LUtBNG1x?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "uman oxholon",
-  "id": "2026-10-11_carretera-uman-oxholon"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-06:00",
-  "t": "Repartidor sufre fractura en una pierna tras accidente con camioneta en Campeche",
-  "p": "Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "La i Noticias",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTE2b1l3QzlhajM1aWZmVmEzUTVpNlZ3SnVYQlZCel9DblRlTnBxcHNfYXNOd1RkaHJSYjFyMlExRkNRUE5pbXUxeFctc0ZKQ0d5VzJrMXVMTm5JbWJMMnpDV2xSX29oYkxVdnVQR2J4NVBKZ2EzTldNRHllempuRTIyNW9mRVdOdmNBUHpJQnY1RU0xaVhndV84UHBiUDFZa2x5SXBVaC1WaU43aVlTSi01OA?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_campeche"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Choque entre taxi y vehículo particular provoca daños materiales en el puente Nichupté",
-  "p": "Puente Nichupté",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Noticias Cancún",
-    "u": "https://noticiascancun.mx/cancun/choque-entre-taxi-y-vehiculo-particular-provoca-danos-materiales-en-el-puente-nichupte/"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ1hLYTdrVlNmQ0RvdjJnYWZZdGZkOUJwNlluRE55NDZYLWtRWm9Zbm10MXFEdHV5eHhsRnN6Ui1qWU12bnE0UkpRbXkzTXphZTM1VDlnQWtWS1lFUV9QM0lBeXhhbmxjdXE2VlJuSTVkbTlydzlyWWx2aUxfaVFoVnlEVmRCUlZJSl9IaXozY2k3RUNGdUNtbHpvWGFZM3lpbjNPNzR2WEs3Zm1YUVJUMGZkbHo0Sk9mRW9fejgtbjJyZ3V1eU1rM9IBzgFBVV95cUxNZEctN0dYQ1pBNUV6ay12TTBRU2pTMlZicnd5ZGotdjloNXlaejZhZkxPNmZ2dlg5VW4yRUVLM0h1cGo4VWY3WTFqdHdsYzRVU01mdThtUVVIUldKSHd1VHhVbktCUHlKYUlVZF9PSmx3ZTRWTGdlOVp1TUNmaW9uYXBxbm9DNnRVbHFWY0UxY0wwU2NXaW5xVU1Eb2NSTFoxLUNuNklqaFV6UUtiMGFQV3hUYTFIV1VvbWFHUmZkT1FubjM5cFNIT2I0QXc5UQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "puente nichupte",
-  "id": "2026-10-11_puente-nichupte"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Choque entre motoneta y mototaxi genera alarma en la Región 234",
-  "p": "Región 234",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0dhSlVyUXV5TXh6MFhPVVJvLThyS1k0SE5sYnR6V2R0ekcyV09EZUE5ck12a3BWRTlMdTdKbFl6bDRTWFZjWHBXRGJqNzU3T1VGc2JxNlM3WXVTdEZPVzVBQUpiR2tIWnluQUFKMnZscktNVlVTXzluSGI4TUFUODA2bzg3aXA3NlRWZHFuZzlPeWdkOVVCNlF1UEbSAZwBQVVfeXFMTmtHYUpVclF1eU14ejBYT1VSby04cktZNEhObGJ0eldkdHpHMldPRGVBOXJNdmtwVkU5THU3SmxZemw0U1hWY1hwV0Riajc1N09VRnNicTZTN1l1U3RGT1c1QUFKYkdrSFp5bkFBSjJ2bHJLTVZVU185bkhiOE1BVDgwNm84N2lwNzZUVmRxbmc5T3lnZDlVQjZRdVBG?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "region 234",
-  "id": "2026-10-11_region-234"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Brutal choque carretero deja un lesionado sobre la carretera federal de Playa del Carmen",
-  "p": "Carretera federal, Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVG1oQm9aZzRzWkhHSTdmZ0lWc1lDQVVvNUNYR2VkZWpUUDRiOGxqbWR3enFrTFJNdk9MY0JkMmQ4a214aXVWbV9BeGlwd2ExNzhxOEZxaW5mbDM3QUVOZXI0SlpxRVV3eXlYQVVLZFY4MmZFYktjNV91OGVkQTJHbU1BT0VpQWpBWkx0dzU4RmJtQU5vTzBzbU1UNlNFS1VEWDljdDk5bW4yVWRfMVhlVS1Fc2duMUh5cmRMb2JyV0VhMFc2N0dNeWZKUUdKNHfSAc8BQVVfeXFMTVRtaEJvWmc0c1pIR0k3ZmdJVnNZQ0FVbzVDWEdlZGVqVFA0Yjhsam1kd3pxa0xSTXZPTGNCZDJkOGtteGl1Vm1fQXhpcHdhMTc4cThGcWluZmwzN0FFTmVyNEpacUVVd3l5WEFVS2RWODJmRWJLYzVfdThlZEEyR21NQU9FaUFqQVpMdHc1OEZibUFOb08wc21NVDZTRUtVRFg5Y3Q5OW1uMlVkXzFYZVUtRXNnbjFIeXJkTG9icldFYTBXNjdHTXlmSlFHSjR3?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "federal",
-  "id": "2026-10-11_carretera-federal-playa-del-carmen"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Autobús de LIPU embiste una camioneta y la vuelca en la carretera Playa del Carmen-Tulum",
-  "p": "Carretera Playa del Carmen-Tulum",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Noticaribe",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlJBVUJwTHc2ZDVvUUlBMU9qMC1RenJDMWtyRVktT3VGb0pBb0VMaG1IaElXMk9hdmFOVTViQTZVTDNIUS03UEN1TERsa3B1VkJpT25EbzlET3hzeHNQM3ZkMEhhb0hIVDB2TDFaMUQ2dkRNSGE3eUtUMklVLXU2d0o0czAtaFRGQ0hudlFRdzJVNF9PdG5qNDFfcmNMakFrOURqallaY21aMzVYcW4zdndERS1STGF0dTZZaFBITFdvZkN2?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "playa carmen tulum",
-  "id": "2026-10-11_carretera-playa-del-carmen-tulum"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Mujer sale proyectada de un mototaxi tras choque en el Arco Vial de Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenhQLW8za2VfZFBLQWRaZ0JFX0s0QjVEelRKbDFYZXNYOVBreDlGaU5JRXpsWGVrYnM0WE1Ia3J4TXc0UnZ4OUdIaG16WVpZeTBQQUh5a1VzWEVhU1ZWbXExaE0zMHBYcENQTHczR19aQnEwa2FUeGlaSGtMc0hrOHZfZEM5dktaWUVDLWlBZFU5bWJDMDZJTFc1NnVtOW5vV1RDLXZrSXlZS28?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_cancun"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Chocan taxi y automóvil en el puente Nichupté de Cancún VIDEO",
-  "p": "Puente Nichupté de Cancún | VIDEO",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm9UN0U5ZDdvc2NLcmZfUEQ4ZUVBRFFnMlgxYm1QZnJ0ZXEtc3I2a01Qa0d5UkJpUS1IOVo2SjdaVS1TQTM4bDFvTHd2LUs1b2stQzZBbHcyaVR2ZjFSNnFNUHRfczA1WHRLcFFCdE1LNnRjRDdNRG5yZWxMbHcwckRKZG5VU3JCbXNTRWE4WQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "puente nichupte cancun video",
-  "id": "2026-10-11_puente-nichupte-de-cancun-video"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Muere joven de la Guardia Nacional originaria de Santiago Miahuatlán en Quintana Roo",
-  "p": "",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWG5WenlXa2dDZU55dHFKUFl4eWFncFpHUnlvSHdUeDYzUFNDenRwX1hDRW8xb0JzeFJrcnV5VnBBZ2dDWU5KUXYwenljQzdOZnp2TkEyekQ1ZEFPdUxxVnFjeEYtOW5zaUFQN1M3VlNUNDY5TXl4RXRic2cxQnBxakZKRWtkd2V0OURfSXZnamlDekJGZUk0eHVCcU5jTFhwMUlfOVNFR3JzbmFoVEpIOHJsLUhqclVYVGgzM2YxZ3V3UkliZlpEMHB5X2ZUYlBzTVJB0gHTAUFVX3lxTE1YblZ6eVdrZ0NlTnl0cUpQWXh5YWdwWkdSeW9Id1R4NjNQU0N6dHBfWENFbzFvQnN4UmtydXlWcEFnZ0NZTkpRdjB6eWNDN05menZOQTJ6RDVkQU91THFWcWN4Ri05bnNpQVA3UzdWU1Q0NjlNeXhFdGJzZzFCcHFqRkpFa2R3ZXQ5RF9JdmdqaUN6QkZlSTR4dUJxTmNMWHAxSV85U0VHcnNuYWhUSkg4cmwtSGpyVVhUaDMzZjFndXdSSWJmWkQwcHlfZlRiUHNNUkE?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_muere-joven-de-la-guardia-nacional-originaria-de"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Fallece mujer tras chocar contra estructura del puente del Tren Maya en Playa del Carmen",
-  "p": "Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quinta Fuerza",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTExWS29Ld3ViWWEzbUlXRnJyU2JFZWFsY2c0WS1iVFhrNW1nOThDSFhtMVRXVUh1Q3BjVkZ3b0JRdm82UXJXMTdENERYeWVGcWExN3ZZTXdDRlZYWnRFaHVwTDZBRUhIaGZjdTUwS1Z3MVFQOVEwZExyZ2lBZlNzdHA2UktQLWhDZ3hheFhEbmVSZENXdWg0TDBnM2Fhc3IwWVhuOWx0SnlvOVNQaVNhRjJsMVdwYnV6ZjZiQg?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_playa-del-carmen"
- },
- {
-  "d": "2026-10-11",
-  "h": "",
-  "ts": "2026-10-11T12:00:00-05:00",
-  "t": "Taxi se pasa el alto y provoca choque con motociclista en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWdjWUlhZjVEXzYtZnp2eDVfcHBnWUxBUUVfX1RibTMzbEI5blRGSjdjRDlGTHhLR2U0alNEN1EzdUV1X0oyNWpBdVZkNXBzZ2xCRDM0RlZpaXdCWmxmWjFLYktNcW1CUndBRFBxQzhXODctSDJnUnBOVE9ucENyUDVYRFdEa1FScUdWaXAwYU5xZElQVHAtZ1dudw?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-11_chetumal"
  }
 ]

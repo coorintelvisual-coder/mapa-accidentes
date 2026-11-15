@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Pareja en motocicleta resulta lesionada tras choque en avenida Concordia de Campeche",
+  "p": "Avenida Concordia, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEc3ZFRxQmhzVlp6aURUYmU3VW96Z2lkNHppLWxOckRtS3R5eUVPSDdqbTJlWi1XRTR5ZHJ4M0IwSDdCbnhQY0JndHdmZm1abnJSTWhMejNrdV8ydFJhelNOMXFXVmNNa3VYeFRKZlpVMGRnQ1drdG0xMWZUQVhlYXdqTUtNaUVkR1ZIenRXdTlWQWtMS2VyZ3lxaVo5UE5OZXFwQWRIUktwWUt3d25qdEJQU2I1eGJH?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T21:39:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "concordia",
+  "id": "2026-11-15_avenida-concordia-campeche",
+  "lat": 19.834997,
+  "lon": -90.502161,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-14",
   "h": "",
   "ts": "2026-11-14T12:00:00-05:00",
