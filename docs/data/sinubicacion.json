@@ -179,6 +179,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjJBMVVuQkd5SHhiRURscDZBaVppUWdva01HZGc3NWJCa1M3WkdNZTRMOG5QRWJ4anZHZWZYOF8zU2VlTjhwbUtNQXZhbUpNbVJzalhMeUNWWmZFTFZ0S3RxZ0ozcnZZS1JJUzdNOGVYT0VKN3BwNjZpRUpESFBtVVFnNW9FUWxBbUg2ZHFJMWNLSjk1SE1NR0JuUVNaTTM1MUc3b1Z5U3lpTFNCRnlQeFNR?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjZtckhXc2hnZm56N2JOdzhkOXZEQjF2d1AtcWJhQXVnRlFTT2NzektYcldTLXprUVVkN1JucUJzaEI2RUJfTnBUZkVteUMxOHZQUDB4NFVyLVg5WnI2RUdnVHd4eHBWbVJ0Q1ZuMHNqYkVNR211bENxMFp1X3YwTThhT1haLUxTZE81a3Bsc0wxTEJBUnlydDVtVzBBSkZVaHZ1ck9nRnM1b3B3a2locVhHV0lwUzgtY1R1bmZ2RQ?oc=5"
    }
   ],
   "creado": "2026-11-14T21:20:18Z",
@@ -202,6 +206,115 @@
   "creado": "2026-11-14T21:20:18Z",
   "metodo": "reglas",
   "id": "2026-11-14_tizimin-2"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Dos motociclistas quedan gravemente heridos tras fuerte choque en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNjZSTXFVUDUzYXN0LWNIYXhmSFhIaFNOVkVwY3N2aVBwRlpTRU9pcUhSbUtyR0hOak9uOXVyT1dvWDROcDUyVXFTXzZRUGh6QmM1Ri1vNGNESkRXTTBfSUN6MTJFZ0lvZFhvbHlaSXRaX0FBMlp4S1drbEJsUlpObTNtQzlwNmpIMmhXa1ZBQzM1MHZ5X2s2R0lXa0l0VUFXQXZRVDYzZzBiLTVUTWtvUFNnTUx2YWlsdjJBN1QwSjMtWmZSLVNtS2l30gHPAUFVX3lxTE51bW81YmNiNGgzNUR6WUtHU0hfR3dyYlBsYy1USWMxbWxwV254ci1fdVo5bmUtMWh4NjU2ZjQ5dG5SbVpFZXNLTVJicVk0RGozbUdkZzdxMzBlWEpKT2FLRjNrcGVzTmRwbDdreUN0dmhpYTBlTTBFYkR5UnZmaTF4OVRSR25sSzNWVXh1QVg3dWZ4Wm92Y1o0WXdWTUh4NXdPcVJCdTZLZHpRSFJlMkpBcXpBRWxYVUxFYk1leGJaNUxXeDJBRU5JdWdWbVpPTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_ciudad-del-carmen-2"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Torre de comunicaciones colapsa y deja a un trabajador atrapado",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEI5aTVRRjdRMnFLTGxlOWxzRE0xYUY2WnJRbWhISnBGVWdUVUcxNW1WQXJzLTltdHpKWkFmeWt2Zk5mWUdQcnZVT19BUzJHWUhUNklWWTN0aVBjclQ5VXpXeWt2X29UWi14U19iVmVkeDNIbDFEQlN4alJNRkZ0S1JVOUhQWENTbU40MkZDMjJVS2RIN1YzdVRVeExvc21kc3dDQVdvWEl3cEh5c2Z0OA?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_torre-de-comunicaciones-colapsa-y-deja-a-un-trab"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Carambola hoy sábado 14 de noviembre del 2026 en Campestre, Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX29Jdzk3blRqUWNPVDk4ZklzNU9lQzVLLWJtckNzT1ZlTnZad3dHa1A2Y2lNMTBVTHNVVlFiSE5GNHR2TE9rVG5SUW1yQ1RNR1ZJWDg0SWVKSU9vLVM3ZmdnWGZJcHBOOTFzSzBYMm5mckdjQTBGYWRkLWdMb05TTXNkaFRtX0YwT0RMakt3UFZka294YzZhQ1Jxd29RdTRBeEYxOThlN2ZhbWdBN0hyUjNaN29kZllNc1JYQ1h0Uko?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_merida-2"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Fuerte choque entre taxi y automóvil provoca daños materiales en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc1c3YVBUSDNyWFp6ZDZtZURoWU9kMnVMajg5a09KSHk0WnpwSW9mRFhFTXRyX2hzSFZjdVdONmVfc1JGX3JTVmRYT0pCZ0hzNm80ek5YODFEUUQ3cWNWa1pGcmo4aF9lR2NqdDZsUmpSa0ZLSGtxdkJOUEx6cnpmYXVGbkFjYUJSS0VKSHlETVJiS3g5WUVaNnFxTG9nenNhN1p1SS1sS3Vna2dpV1c1MmxzbkRweW5EX3Q3UnkzSnlNVTBwMjJjLUFR0gHPAUFVX3lxTE1keVJsdXk4MC1ucmI1Z1B2aGNmbW0zT1lMUGh3bWd1ZFhLNXNoVkozOE1QelJKU0RJWUZGZmlZcUxtdzNCTENBbE9uNnlmdG1oWHFobk96OENkVkpkeDB0RDF1dEFWYS1hOFVSUnljM2YzS3NPT2NGaG9EX3k2ektlMGxDWFM4VUlGVzVZRWRjMDByYnVwSS0taHVsVW5yc0JqWmdhTjQ0MVZnMExwbUdRSzRtWGRXTFBKUmJGOE9NYTVpTkR3em5WVFp5VlFDSQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_ciudad-del-carmen-3"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Fuerte choque múltiple en el fraccionamiento Campestre deja un lesionado",
+  "p": "Fraccionamiento Campestre",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQ3AtMWxnSkdLdWVTVUpRQjZzM093Si11M2pRbDU4N0VGc3hPV3ozOHFzeVJ0M3NmcWpHODVoMzZnUXBQNThUbDlsWXVQVkZjM190cC1ldVo1eFFTaVJuNmEzUWRTRWtNZlZENFJNeUtnOEZsdld0N3FUSE9ibmZXcVhka0p3alA0ME80NFdvaXdmd1hVaTN1aWczSQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "clave_lugar": "campestre",
+  "id": "2026-11-14_fraccionamiento-campestre"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "Repartidor termina con posibles fracturas tras chocar contra auto en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZk1HQjd6eWZNb1NlMXZaVjFiMnVuOWRSQk1NdG8tQUkwWXdDYzZscWNza0UwRkdyT0k4bXBYb2JsYmlCQVZxcHFkXzhvSDhWdnF0SWtOSV9CUmROREVveTFYYzFKeXdTa1YxSFI1dW9Dd1h4TjBJdnBLTHBpQXdBaU5TX3RfbGI3cktmU0MzdkdHemVmLWhHaFgtc2Vha2Z0eUZoNzJOV0M3ZldZb2ViX2tGdklzWGVIbC0w0gG7AUFVX3lxTE1mTUdCN3p5Zk1vU2UxdlpWMWIydW45ZFJCTU10by1BSTBZd0NjNmxxY3NrRTBGR3JPSThtcFhvYmxiaUJBVnFwcWRfOG9IOFZ2cXRJa05JX0JSZE5ERW95MVhjMUp5d1NrVjFIUjV1b0N3WHhOMEl2cEtMcGlBd0FpTlNfdF9sYjdyS2ZTQzN2R0d6ZWYtaEdoWC1zZWFrZnR5Rmg3Mk5XQzdmV1lvZWJfa0Z2SXNYZUhsLTA?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_campeche-2"
  },
  {
   "d": "2026-11-14",
@@ -257,6 +370,61 @@
   "creado": "2026-11-14T21:20:18Z",
   "metodo": "reglas",
   "id": "2026-11-14_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Vuelca Camioneta con Familia de Quintana Roo en la Vía TizimínRío Lagartos; Hay Dos Heridos",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWUtKY1FrTVlGUnd5LUp0V3V1WG1XaUh0eGZvLU9tUlc5ZENwVlhtME5Yb21zTjd1dVZDNE8tY1R6WUNpbVUzXy0wMnlSZS0tNm0ycC1aN2xMN0p2dmVfQ256WFdXOXRIV1ZYeFFpQ1A4dFk1TEZqZC0yZE4tRVM3bDNJVXJuZnN5T3J6RGpOUi1VWUR4N1dzSnJVb2FHVzJ5TUtscE02UXM4M09Ic2gtSmg0cTRLZVU0QUE?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_vuelca-camioneta-con-familia-de-quintana-roo-en"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Muere abuelita por un paro cardiaco en hotel de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1kweS0tRzhEY1ZWRDVHSmpleXFpb1dpTmVSNlpMZWc0Vk5Cd0x4QXVib3g4bHhaZF9pcmk3OTIxUDd3aWNkN3V1TFpfNTF0YUNHeHI0V0t1cWphWDNZUmdHNlZQTXNaRlJKbm5ZSWVYeEh3MFI3RFREZklZdDgzajVZMkctNFZOeEE2MDBB?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_chetumal"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-05:00",
+  "t": "Vuelca camioneta en el bulevar Luis Donaldo Colosio de Cancún por pavimento mojado",
+  "p": "Bulevar Luis Donaldo Colosio de Cancún por pavimento mojado",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQWZQNW4tYUNCdXNEcEE2cUxfbVlQbDNEaC11dGw1R19rS2VNNUZKOXdZckRCb0RpRkVBY0xhWmR3dmlSNHYyNFVyaF85cWZxbTd0WEVWVUV4ZmNkaDFhUXRnbUplVnpYMVFZRGUycW5OS3lYd0xobm1OXzdEMk5xRzFtLWh3S0RlMEIyZ1EyZnh3ZWVCMENIeDBJV2htTW96TGM0Yy1xM3hSb1lodG4zV2RWV3RUQ2I5LVNVLWFKdDYzMUlBejEtY2dTclTSAdIBQVVfeXFMT2Nfb1RoMGROSERHTDVURHpReHEtajdjUTAwX291bzVTU1pYVWp4Zk1BNDA2aXNkWjU0SEltQjZwZHRHa21LX0FEWGFNeElxcGZVbmlQZHc3dUVmTHZ2RTNCYm02Y2N5WUczb2VXVE05Z2tiaHI1VDNOU0Q1V1NTMjhYOWVZVzBvTS1BUDAtdVNoaldmbDFLeTVrRUMtWTc4V0sybEl3dDh0SWhIYlJhbjNnNXhyWkI0N3hpSGxuWXlORUJnQ3JRM29rTGN1LVFtcW1B?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T01:45:05Z",
+  "metodo": "reglas",
+  "clave_lugar": "bulevar luis donaldo colosio cancun por pavimento mojado",
+  "id": "2026-11-14_bulevar-luis-donaldo-colosio-de-cancun-por-pavim"
  },
  {
   "d": "2026-11-13",
