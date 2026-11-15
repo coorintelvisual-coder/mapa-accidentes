@@ -68,6 +68,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGxPdDhfVUtqNnZlck9YVTlZRHpEcTZtZWtXSFVfems1Z3U4eHF6Y2RmZnpkLVJ4cXBLeV9jSm8zdGkyWlpEaGRLWjc4SDBDTDFEZUg2eUNTdVFKNEhrdGhkZ09wUE9VRThnc3g4RWllMHZZS2xuc2lCd3lla2xXTzN0bnNObFVwM0VtZlAtS2Y3akFXZGFUWmVPaTZoUnc1N2RoOVJOZGtWWWtJV0ZnQXFB?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbklBRW91Z0NyZXkxQ3hVSVFzNzNhSVFTSUw4bS14bzZHOGd4MU8ySEh6ZEc3U0JuLXM2RmM4THRKSVNrX3J6X1d6dnFWTW95dkg3ZmRERG04ZTNXRnpqQzd1dEVCbGRuamRMMU5DakZpOWl0NDBtN09YVVNFTDVJRnVMaDNEdVhoa3B0d29jd2Z5QkNlQVV6VGlmWUk5V1ZNLVQwS0FNelhvUmJXN1BtM2FvNndSWi1Z?oc=5"
    }
   ],
   "creado": "2026-11-14T21:20:18Z",
@@ -315,6 +319,24 @@
   "creado": "2026-11-15T01:45:05Z",
   "metodo": "reglas",
   "id": "2026-11-14_campeche-2"
+ },
+ {
+  "d": "2026-11-14",
+  "h": "",
+  "ts": "2026-11-14T12:00:00-06:00",
+  "t": "(VIDEO) Accidente en Aeropuerto de Miami: Chocan aviones de Copa Airlines y UPS en pista de aterrizaje",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVENjdTBwNjRweVJnNHJxR0dKeHZpcVczRzdkSUQxZ2V0d2RaWjJCVGRWRDFFWEJNMmVJQWd1ZllrdkZPYlNxUnlQWnFuNG9IQWlRWUlNci1paFFoYUdOczdwckp4XzZOR0hJb0NiUDRJdFJMSE1pTUtFQjFvSWplSGZfWjZLR1JWUTZtcEhiMUFrY3NNcmU4SUZGTW5OS05Ic0tNZVotQThFMEFfM1pDaFIwdkp1bVRSM2tHSjNHa0t1Q3pBZkE?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T09:11:00Z",
+  "metodo": "reglas",
+  "id": "2026-11-14_video-accidente-en-aeropuerto-de-miami-chocan-av"
  },
  {
   "d": "2026-11-14",
