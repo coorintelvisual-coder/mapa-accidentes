@@ -1,5 +1,116 @@
 [
  {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Choque de Motocicletas en Valladolid Deja a Un Niño Lesionado; Menor Señalado Huye del Sitio",
+  "p": "Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU25PT3JrdXNGZng1THlLVGRsNU9SSzdCVkpqbExaMVNPbC1SYmRUdHBXVGxiQ0JITGZVYVh1SWU1NzlScG1fUlhuMlZ4ak52NkZSWmYzWS1VVHN6VHllQmFjVWxmZ19vSkl5ZHF6TG1qcXdiZTR2VU1EYXBMNzdIUUhZVnRlRzlFTnFrRDR3Z0hzYzE5U3FtLWZRQi1ORERtel9ZSTRzdi1iTm51V1phZ1hnYl8tZ2t6TXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_valladolid"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Incendio en bodega de grupo musical en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Verdad Noticias",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU2Nhc05kc3h2OWpRV05KbVJ6MXAtSVp0YjZPbWhzNzB2S2JJdTdnQjdnM19vR0FzcUdKTl9JcXQzTVF2OTBmOEVoWHByYUVJVm5Cd2Nhb0VGUkNwd0p4V005TFBTQ3Y2N0pWb3RuSmNRS0FyR1dNeEp2WExDTzdGaNIBiAFBVV95cUxOcVZ3dVpHUFBXdS1jdnpuUTdHYmwydnFCQndlRFhINkhlam5WdnVIWWJ2U1Fsc09mUHRLRF9fN05fa3hiTmlZaXRURGVhQ1JoX1h4MXlRRms4RWJEWnY5SlpMNWp0ZXJrOWZlQ240VDFHdktKX2RVMTlYcDJ0YmhqVExXekpCR0ta?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_cancun"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Mujer queda grave tras choque de taxi en carretera Puerto Aventuras-Tulum",
+  "p": "Carretera Puerto Aventuras-Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0ltb3VyTy0zN1hZa3lkYUJkWl9FWnVSZ1h6aWtER3E4VmJBY3hyb2xDWWVNaEstbEhDMnFoNzZFckltZ1BzZ3JvUE5peU9SeURJLTE2d2tGTERjbHNuUmx0NlJ0d0ROS3NmRmF5WFA5MjBnM1REcUJpUWg0UFI5QzlZdFRqV3Zab2l5M1pfQmVfQlFSbGZpMHhKd2J3NHBHWUZ3WlFuZC16X3EySE9FZ0taZWYwWlhmeUpvSDItTDgybDTSAcgBQVVfeXFMTlQ4WldoUDAyRm5QSlNENXJ4NjBPVnZ2QjdJNnZjUnZxazhsX0JJSE5iM3F6Z2VGV20xemZxZFlVdUhKc0U2Y1UyYS0xU21yLXdVWktUcmlIQm1tUlFHazE5SExjSVZOOG5UZUFxZGptMGZmVWdyUWlyVVhnU0pSSTZMSUlMM3JiZTlnMWF4ZGNEbEdsSTRaRWk2bi11aEtyWVVBQUdIODhjNENuYXhhenlEREZLVm9SWF9HRUEtNk1lX255XzdzREQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "puerto aventuras tulum",
+  "id": "2026-11-15_carretera-puerto-aventuras-tulum"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Aparatosa volcadura en la carretera Loche-Río Lagartos: una familia de Quintana Roo",
+  "p": "Carretera Loche-Río Lagartos",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMlhOSzhyWFZpUlFZLXdGMzd2eGdsc0NiQzZaMFlSeU1WSHZJSXYxWXR0XzhJV0RESUoxVUFsZVhKWlQ5d0tjckp4aVotcllESVNsNDJsajVUWUZuT1FQbkNmcFphdldCOUJ4bnpHZkJsV0Fxamp0YnQwbFBIc0Ezb3FFOXFYcThjSUJJR3kyd2lBQWNROS1NS1lBTmJkME5xRzhLN3VoVkd6eEtfMzJhakRxUjNEWHFXdmtUaFAydWhVRnpicVNiSXMxTl9JV2lJU0lRbw?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "loche rio lagartos",
+  "id": "2026-11-15_carretera-loche-rio-lagartos"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Motociclista muere tras ser embestido en la carretera Felipe Carrillo Puerto-Uh May",
+  "p": "Carretera Felipe Carrillo Puerto-Uh May",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM3h2V3dBMFVRNUNsVVZnWXNkZlNiaHZuS1Z2djFacGZjYmt6Y1Y3Y3B6UThNNnZrVjBtQl9Xb0xsYm8wdEhabGlJVGx4S21Tc1VoejZGN094ZkdoRi1RcHNUSHBtVWo2R09fYzZWZ0tGbzd6YmlqRm5VclFqZk9udTBncE05dFJ5eFVYMER6YUM0WUozUm16Q3RsaU90bVl3WDJ6Vng0M3c1QlJDQUE1WkNSSkJQSS1Ed1hVWVlIbW9HeFZ1ejE3bVhJUG5Sd9IBzgFBVV95cUxOM3h2V3dBMFVRNUNsVVZnWXNkZlNiaHZuS1Z2djFacGZjYmt6Y1Y3Y3B6UThNNnZrVjBtQl9Xb0xsYm8wdEhabGlJVGx4S21Tc1VoejZGN094ZkdoRi1RcHNUSHBtVWo2R09fYzZWZ0tGbzd6YmlqRm5VclFqZk9udTBncE05dFJ5eFVYMER6YUM0WUozUm16Q3RsaU90bVl3WDJ6Vng0M3c1QlJDQUE1WkNSSkJQSS1Ed1hVWVlIbW9HeFZ1ejE3bVhJUG5Sdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "clave_lugar": "felipe carrillo puerto uh may",
+  "id": "2026-11-15_carretera-felipe-carrillo-puerto-uh-may"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Tragedia en aldea tulum: motociclista pierde la vida tras impactarse contra una palmera",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Inspector Nocturno",
+    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5teE1SLVNRSjNkaFRYTmxXRFdkOHJtRzZuNjd5VGdUZXMzT3V6d0hGT0FxV3l3YzZMdWdpMkxfM3lfby1lek9VZERVcmNPX0RGQjNGZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-15T16:57:31Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_tulum"
+ },
+ {
   "d": "2026-11-14",
   "h": "",
   "ts": "2026-11-14T12:00:00-06:00",
