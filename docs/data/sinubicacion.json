@@ -1,5 +1,230 @@
 [
  {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Dos jóvenes fueron hospitalizados tras un accidente de motocicleta en Ciudad del Carmen este lunes por la maña",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWEdGMU5tX19iTjhfT0lFV2d2aEZfN0dNZEZuMDM2Rkc3WVFRR2l0bTh2c3VkTUl4X1UwcTlsOGM5YkxEMDdVdG9rTTdTUlhNaXN0VVZGd3FlaUtKVnBDV3AyZDQ3OWpNSTRibVE2dVFId2I0UFQyNnJBLUt0UVAwNE9OcFA?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Tragedia en Candelaria: motociclista pierde la vida en zona de obras",
+  "p": "Candelaria",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaFVLWFZXV09ibkJOZ0UxYjkwSXY0Y1ZQMzBLNExxQzBTUmZHNUJpY3ZhOFVZUUlUc19Gd1FyS21JWkxpMk5PeXpWeDVqX1BxdXRrMW5wanl5ZHNxdjREN09jOHpBSy1OaFh0dTgtbGdrZWFkMUcwSGM1UmpzUzdTLW9RNXoyY0N2b3ZUVW1LRHl5VmNFRmtPMFVTekJCakI4OGc?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_candelaria"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Muere motociclista al chocar contra montículo de tierra frente a estación del Tren Maya en Candelaria",
+  "p": "Candelaria",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYVRKczEzcGJlQWNCeEFqV0FqTldFRVhodDFSeEJwNUViN1hlTGRrYkVoU25ZVW4ySXFXSlVHaHVFMXVzdFJhclhzTVdlSjI3andoUHF6OWhWcGJfbHFBdENYcjM5aTlWaWpCQmZrVUJnLWpVeEpBZVZuNmd2YXRvWEtCMHB1ZHJyQm94VkQyT0loQTRaNlZhbjEwUmhuX1pUWlR5ZHU4SHpEYzhkbm44amZQVnZLOFBZcEM1QnlieWlBNTZWQm1WREtwN1ZOTzZJY0HSAdcBQVVfeXFMTnVsLVpjSkltbHZaZno2czlMMzFra2pZdDZyVEdfODVhZWJWbVdGMUZMUUFaTXpkaWpaQVdhTnc1VDlFREFVU3FGcjlHc1p6X0dzdkNsblNDa01vWVV5YlN3aHVBa0ljYkdYNFJNQTYya2lreENid1pnSVFES0QxelFrQnJZLU9xUHVoWHB0UG9abTljN0xHNjJQYXBzOENfM2FMSW1TVjlHSm9pNmo4NHJtOU5lbkdhZUdjb0xDeTJXNFdtYzkyTHJQX2E1RVFYSUV2UDZselk?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_candelaria-2"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Familia de progreso busca refugio tras perder su hogar en voraz incendio; así ocurrió todo",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVDRmRWtVd054aGdUbjdSQ1dRanVhdUh6dkFWOGhRbTlyZmJzSHBsUnJiYlpXODRqVllJcE5YTDFNWWVSNGhJT1pFWXBrNnU0UXpGNkhxd216Wnh0VER4d00ycDRTMUZfcTNmUGM4ckVMcjd3Y01hRHVjMWowa0JVdUNVaVNxMF92TUpJWGpQZ1VJTmtpbk9Yc19VOUF1TnJ5YnE2MkJtMC1NRjhxTHlDUTl2bTh5eFIwMmNmWWpBNnpocjNQTGt0cnJEUzN5NUhoUHAxR0tPSEpSczNE?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_progreso"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Vuelca vagoneta de la ruta Mérida-Progreso a la altura de Paraíso; reportan MÚLTIPLES heridos",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWlGdE5aeTlOam5LbHIxSWQ1aWdOUnZZaWxyNUVXa2JZVExrdDBjSVNFOEs5cWE3UjNzN0wzenNYTjBVNVJSWVFDTmhFTlVJM3V5UXlETlBYODR1cHU1SklmTm1hdzdaVlhUdFBYd2kwWFJ1UktzaXVGZHRVajJEYnhpaTdkOHlKRzhDREpNdXU2bmFHM091dzZVaE51b3RNX2FHSjF5SGM3bW9fOFRuQ0ZUM21ERjFRODVtcFZXTzJfOVBraEl5cG1IVW9ndw?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_merida"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Pirotecnia provoca incendio de un árbol en el campo La Esperanza de Peto",
+  "p": "Peto",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZHRWelZJcVhUbnFERjlMQ0NZNTlRNkhWbWNpWlRWdTE4ek5OejZaeFAyamk3RzJPM3kza1VjYVhPamxTREVVdWFmM1JPMW1PUlRYSFlkVldRZi01NWMwUUtaN3hNenF0NkFMTUdpZ3FocmN0aUdaOFZnLTA3QnFpLTlFSXllekhkWE5pclc4eHZTandmUDZXV3diS3JKVTh4LW44dlpBSDFQN2dUY2xLS3B4TWhqcUnSAbcBQVVfeXFMT2R0VnpWSXFYVG5xREY5TENDWTU5UTZIVm1jaVpUVnUxOHpOTno2WnhQMmppN0cyTzN5M2tVY2FYT2psU0RFVXVhZjNSTzFtT1JUWEhZZFZXUWYtNTVjMFFLWjd4TXpxdDZBTE1HaWdxaHJjdGlHWjhWZy0wN0JxaS05RUl5ZXpIZFhOaXJXOHh2U2p3ZlA2V1d3YktySlU4eC1uOHZaQUgxUDdnVGNsS0tweE1oanFJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_peto"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Adulto mayor es atropellado por motociclista en el centro de Umán",
+  "p": "Umán",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3hjMFpldEk3LWFMVHdLdkNDOUN6eFZWOUJuZmszWTI4ZW1ZY1Y3Q2tTNnVfc2F5WnlWcmMtTWxBQmtTeDIzWVNxZ0VQOTVJc2VNMXd5MzJRTTJaOFdxLTZpUFZlNG5uRVFxMDY5Um5RQkVoeU8xOEdJbC1RSk1mSU9XZFg0dllGX3NkT0lqZXlTbE9ZazVpclRxWkxfUEdMOWpj0gGoAUFVX3lxTFBRbG5XV3VsYWtZZUg4ZnJPX3JYS1JtSmVEMUVKZ3RuUzZaMXlBWWdqdG1aallqQWJ3YXRyUUxZcUoxY3VaQ2diTnpSYURvakVVT0dySzZzMGJULXVyV3dZWjUzNEg5ZXhUQ0VLMFU0T1NObUU0UHpXLU1EVHJRc2RwRURHOHlwLTNINmk1dHZTdWdEZVIxb2pydWFSYi1jbXpiZm5lRDkzVw?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_uman"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Conductor choca contra camioneta estacionada y abandona su vehículo en Bécal, Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzc0V29lcU9hNHF3QVdoOWI4cjU3SFd0Y3VmZEFZM3pwQ19qQkFPaUpyNi1oWnVqTkFIRWpjREs5Z2V2bENXRDFWZmxLOTNtZnZLd1BNdi1wM2MwM1E2VVFTN09TblRWMWZKdnpVMExpcklPMjl5OTBaTDZuNUxJUjFpSm9NdVkzVjdLLW1IWTNZZ2FVWVFqVEpqTTJpNnRqNWREUURiWktzUjZkTnZJZ0tXdEl2OV9jaERkQzhHZEp5MU5lSlHSAcsBQVVfeXFMTXgtRmhBVUVaUnZlWlFGdnA3YllvcjZ2Rm1ETkQ4VlZRNlRSbktiZkk5WnoxUzZoSjd6cWkwM2h5bngtTTJxczdoVU1EZVpUWmZrUmdkSVNWWWEtMl9pai1ESWlYSkF4bXlYcU9XVzhaRVNPNEdmV2NETUxmSndmQURObGJqYzdhMzJOQWNBNUVheTBqSTVBa29EdnZhTUhzM19HcnBZMnhXV3Jwci1qRi1hYTdtZjZWNmFLb2VVNHNDSFB5a09CWFNBX0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_campeche"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-05:00",
+  "t": "Choque en periférico: Accidente en la 247 deja herido a mototaxista",
+  "p": "Periférico, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://quintanaroohoy.com/seguridad/choque-en-periferico-accidente-en-la-247-deja-herido-a-mototaxista/"
+   },
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE52Ylg5RVVtTV9xVXB6Vy1WWlp3TnpkYjdqNzJTZ3pPeVdGZTBPNHB5VUk1VjJCZUUya0EzU0pQNzRMSnA4emMwLVZCX2MwOEl5Mm1QNlI4Rzd1UV82NUJkS0xMZTlNWTJNYXZ5bDNXbTRFUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-11-16_periferico-cancun"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-05:00",
+  "t": "Automovilista se vuela el alto y embiste a motociclista en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWWZBbThoVG14SzA3OGVrOW9QVXUyd014VHQ0WWFISWxaaER5TWwyRVpVR0lNaklNTXBKTFY2anhjNTZVVFJGbk5zajNRY010ai10Um93VHpCTVlHcWVsMXM2cER3UzdzR0ltaUJnX1dRQXVveU9iN2VrSWhvRk1qWVlIdFUydEpIcm5GU0NyckZja1JreUFvSGhHU1ZHc2w0YnBZa1lyZlhibGNY?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjRHckNleXhEZ1FDVGl6cXI4RlFqN1R3bXBGcjMwWDZuclpzcjAwRXUtNzc0VWd4Tm5xeUJzejRJbEJuZE15LTEwVThmTmUwNjBLOS12a0JvSXNaTmRwbVJMaHdSTFZraGNVeGo1UDIxUnhHbWExOXByU2F6c1NIM1RJNDBJTl9hY0VPVWpHNTV0YU5ReVE?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_tulum"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-05:00",
+  "t": "Dos trabajadores de Coca-Cola terminan hospitalizados tras choque en el Arco Norte de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2VLSmlxM3FlczlFQXUzYzJtTVBVRnJOVFh4OVpmbGh2YVAzTHJOekJTOW9BMmp4eEdqZ0cwMDhzRHJFWXBlbndNZHREakhvb3VoWVRoaFMzeVZ0VjZHb1N2Y20taVZiTENmeUVRV3Q1eDNjVjY3YV9wQlFEMW1oc3BRdkhfaXBNZmtoZjRkc05HWWYwcXVST0dRbkROOG9zSjhWeWVRMWltY3dreG5HQWZWNmpSbmxf?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_cancun"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-05:00",
+  "t": "Motociclista termina en el hospital tras chocar contra automóvil en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOHNDc1JGRG5JMkJTUFh1c29zaXNkenA4eHZlTnBlRml3TEFKYUI1UlNLbWpteWRpU3Vud1R4WmNGQVYyQ2s4RWVKT2FycGRSYmZrdnRiNkxFT3Z1TktNcVlSNlNkTDI0SlplMHR6MUNkWjUzRzIwNE1mYU5UX1Z4T09Pbk1naDlHVXdCa3lnWnVzNG5jNS11WHVvakNybUNRZzVCS2w1WU9KSTVVRWZNbm91SdIBuAFBVV95cUxNUVdRdzBkSDFwb0ZQTjVWdHlESjN2aU5WYTh5eE5UZ2NNZWRWV1VtcWdQWkNpeEM3QWJ0ZnN4cjBjRnVrYW5Fb21zdlFnYnUwQjdIVEtNZWk3QlJkamVRcExKTkMwYWpqZ3I1OGg4N0RIc05HN0lFdGYwWnU0bEdfdThTcTljU3BsRTdLNEdYNlhaMG9QZ1pEN0ZLWHdZZDlkT1JfckZyeW81Vy12ZEdVWXhYa19qaHVs?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T20:17:54Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_tulum-2"
+ },
+ {
   "d": "2026-11-15",
   "h": "",
   "ts": "2026-11-15T12:00:00-06:00",
@@ -15733,517 +15958,5 @@
   "creado": "2026-10-14T22:12:43Z",
   "metodo": "reglas",
   "id": "2026-10-13_chetumal-4"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Refrescos de la Pepsi quedan regados tras volcadura de tráiler en la carretera Mérida-Motul",
-  "p": "Carretera Mérida-Motul",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/12/refrescos-pepsi-quedan-regados-volcadura-trailer-carretera-merida-motul.html"
-   },
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZkRfcTlwcmZVVy1Jc21XWUpEeXgxbnRMcDhkUW9UX3FELTRmNnpaZlV6R0tlQ3RNd3p6cFJfM1lwdHF5LWI3c08yRW1ONHBhSGpsM2Y2Unp3bVNDOVRqU0oxakJrZkEzdlE4VVlxanpMem9CMmpQX3NKY2RCYncyblczQ1B0d1YyVG5qQzAtNlFLblRSbTk5OExvN2JlUi1GOERKZURYeHIwemMxMlpMSW1NVElpNUVFX19yZWNQc1BvSjl2MU51dEJEVXJkWnJ1Tnc?oc=5"
-   },
-   {
-    "n": "Quadratín Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZwbXRhS3hKd3JrbGpxNG53UGFnX2puZGpRWkRTaURsVzVZeTJqSmlZcnIwLVA5Szdvc3cyYWJXS1pITVRNclhBbC1naDY4M1VSNEtVMWpMVU5zal9vQjNfLVkzejlhTWZCN0tEcnZUZ1NzMElhdEN6YjNZR0xvN1dxaHpJdm9GU3dNTTJKX2I4eDNrRjZmU3NKaXZLQzMxdVFEd3RUX05FcjQ?oc=5"
-   },
-   {
-    "n": "inspectornocturno.com.mx",
-    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EZk9ZRmFjUUE5bV9FQlN6MHFQMDlxZE1vRzc1TkxtOTZ4a0w1Z21uUk9fS0pCU1BROFg2XzNrZ2FYQUkwNGhXRXJOd0c1SHp6eUc4dg?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "clave_lugar": "merida motul",
-  "id": "2026-10-12_carretera-merida-motul"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "¡Caos vial tras fuerte accidente! Tráiler con doble remolque vuelca en el kilómetro 12, a la altura del entron",
-  "p": "Conkal",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Instagram",
-    "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ueXV2MGxoZkVLaV9KU0RFVDY4UDBXdi03b1BBMEpRa1NnQkNoU1Q1emZBTkhpeTN1c3ZyNmdFVTdRM0pXM1lva09mTnBuQ2hIelE?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_conkal"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Volcadura de tráiler derrama miles de litros de refresco",
-  "p": "",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Yucatán a la mano",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHVoVk1yVkF4dm8tTGhuOHFYdVp2VkxPWlpSaVNZRndxbUx3TFpaMkVRQWNCRkhndy1OS1hYbHY2N0ZsZ3A4V1FGMFVWSWl4ZVVGT0pFQmh3bzJ4QzE3RXk3Y1dva1RmX01oZXVwT294VUdydnZGOVNMTEo5UEh1WlhqQVdEdUM0LTJicQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T20:16:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_volcadura-de-trailer-derrama-miles-de-litros-de"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Estudiante cae de casi tres metros de altura en un salón de clases en Mérida",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUI0Umw5cnVfeEY3THFZRHdPekF2TWR5R1lfUGJsT3J4QTN6dlpuXzdnYllZMzJpdEpfQkJKdlU2ZDg5emItQ0ItLXluaWJ5Z2FQT0I4NG9nRmhLUTJsWld6YlRralZ3b0YwY3R4cTNYZWNwLTZ3dUg5NWcwa2RaVjN4ZjV5Skl4QWRzX0R6WUM1MUdFdk01ZG9OXzlkRkVjbUFSd25QZ9IBrAFBVV95cUxNcVNDX2dBYTNURHlZNWF5Vmt2bDBoME5QclA0TXFDSUI4eFZlUGtkVlpEV2FzR0VkbjdyYVZHblFtX0NZSFpNQzVjNmE4OGw4a0Y5V0R4VlMwWDJBV2ZTbkZxQnJyNkUyWThSTmlzVHRDLUg5NFFVMlNJY0owZEt1bEdmdnVSU0xNb0ZvNTlVSWJWVVJtQlo2TktjVFB4ZVI0Rk9LcGl2MnJ5SjFU?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_merida"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Rescatan serpiente sabanera de dos metros en una vivienda de Valladolid",
-  "p": "Valladolid",
-  "estado": "Yucatán",
-  "tipo": "hogar",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmJLRjFtTlZkTU9uSlNBVDdSU3RGRkttMVNIWGNCVnNvZHBtcVo5MXNSX255T2FlaWRVeVRRREx1N1ZmZmdmdVFXME1RbVZvdXdkMm00V0U3ZVNNRENsOVZ1d0ZFQzRsekxrci1QSnlub00xNE9KbWVIUW5kd09wWkZkT2dJQTBBa1ROWnBaTmh6THJHdG51QXp4UFlqU0RjdkI4a9IBqgFBVV95cUxObmJjV3QtUXJ3V0l0NlVUUHZ4WldSVEY5X0ZSM20ydC1hRlZLNXZrbXhrRE41eDRzWVJOV1Y3ZmQteHZINUN0MUp2S0NrV2V0bHlzNlZyTy1Ob2hGakZnTTZmdUpob2dDWGdTMUVmcUNhdFVpVnFiMldwdlN5eEJZVEptWEJyV0dpS1hLeUswaGRFUkNBc05kQS1HX2dVY0xpeVB6NnhsODdnUQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_valladolid"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Estudiante cae del techo en una secundaria del Centro de Mérida: esto fue lo que pasó",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "otro",
-  "src": [
-   {
-    "n": "PostaMx",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObFhnQlZkSjRmcU9SQ0g3Qm9hRG1YX0ZkZWZtUkN2R0V5QkNCekhmZkhETUZNNVZncjllcG1TeUlBUXlRMzlwellHSUlTRmhqZ0gzLV84YkVMQnhrUEhYUXc2bFFzU2pTRmE5SEFxV3ptSjgtVWtSaDlkVFNPWGVTVHNULXlWcVc4ZWdvOVROVTBrWGpvaWMzZHc2TjF2RlVmSzRFMXlzM0xrRmltclJ1WdIBtgFBVV95cUxQQ3diSE5uRkVFZUhzYjJpdTRpU0FTaXdSWTlrMWhYMVhHb1ExNnVjRnAyMHpfQlZxUkw5cHh2TUNnX1hvWEhrNE84WHFldkhrWG9aY1hQOFZBSUl5dXp1akprU1NIVUlZY2F5V0ttMmNJUEgyaW1LemNtWGVIYk5aZkk1LXZveG9ESmFpdGh0ZUJ3MHdsLW9fVU9tMGVTcmdNRk1PbHVLeU1nU0JNSlRSTGhSYVJvQQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_merida-2"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "VIDEO: Se incendia vivienda en Ciudad del Carmen; una persona habría provocado las llamas",
-  "p": "Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQXNkV0JRMlVQWTdndnRMT21Wa2wyWHE5d2gzQldMWkZPbl9RampJbnpKSy02VWpaeERRaTVJTXNMaTRrSFl5STBvV2tqeUEzbWxTR1gzTkZxU0xOVmRsVHAyd19JQ0E2UmFXYTY2SW8wUlpQOHctU0d4QzloU1JyQjNpUDB2eXJzVldpYU5SSWo5ZkNzazdzV05aMmxNaW1SckF4NEdGSVRDZ3ROazl0aW5velJ6S1RzUmpsajRVa1kwTkJ6Tmc?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T01:58:09Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_ciudad-del-carmen"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Por querer pasarse el semáforo, conductor provoca fuerte accidente hoy en la av. yucatán y genera congestión v",
-  "p": "Av",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnVaR0xDby1iX05aQUcyYlduQk9LWmZQWFZHTjVMYzJ3T09GRktaLWROdVExZE00Wl9mT29ESEFzeWxETUg3OHpKUzZiMmx5blNYUFItLUJkS3VoOEl5UG83bkxxZEV6ZTVSQTA1NnNMbkU3OVFWOWJwRjEtMEowdGFhd3B4R2NmeGdIdlI4ekp5LXFjWkloN2pWTFIzbC1senpkLW9mOXlVU0NPV3lDeXNXdmI2X29WWmhYLWVXekRvdlE0azJqLVIwdW1uc2M1d2ZqYTJueWhLMElxOENMUmFVTzNmZnE4akQ5WG9RNEJaLWpfMGNIdDN3?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T01:58:09Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_av"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "ACTUALIZACIÓN: Así quedó el tráiler volcado sobre la Mérida - Conkal y el producto que transportaba derramado ",
-  "p": "Carretera TV Azteca Yucatán, Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNOVlIX2FDWHdsaDFkWUdZVmFQUUlvTmY5OXB4aDhVZ1d0NXJuYXpNTnJvamxybmRFT0FFUGNCYkZNRTNvNlNoM3lFZDBxNGNnOUJRRVJFdWU3aGc4eXBPMHVwemlGVTk4bzl2dElXZURfTnpjalVmWlFjT3p1NW9jaVhqT1NyN3ozMTV3NEVVQTVucmNwNlZ2azNPWVZnQ1NEUDFNTE0tWlZtcHc1MzQ1T0NRV0NpQ0x6cFlBZzdENXJmSktvbFZmRFpqbmExd3F5MV9jRFMyd3ZvZ2JVMmVqWEZNclJ0c3RxbC1qajJYTDRxdEwwRVlGaGI0QzZXX0ljZW5XMWMzbUNtQUNFNWc?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T01:58:09Z",
-  "metodo": "reglas",
-  "clave_lugar": "tv azteca yucatan",
-  "id": "2026-10-12_carretera-tv-azteca-yucatan-merida"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Muere pasajera de moto; el guiador resulta lesionado",
-  "p": "",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario de Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzE0amdGWUNLckZnOGJfcDg0N1RJMm5Tb2VmcDJCWHJiUWVfYkdYaDEwRnVCa3h3V1ByTlJOY2VITk1jamtrUEdFM3UzWHpZSWxBN2gzbmlMQnhfc2MxLUZvTkZaTVBic1BOMUZQcV92Q1F1eHNTY1BtOVdkM2NoR2lyM1prSGsyNHdOczZfQVVKZUlMa09xNDh2alRScnc1UnJleQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_muere-pasajera-de-moto-el-guiador-resulta-lesion"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Mujer muere atropellada en Umán: familia busca testigos y videos del hecho vial",
-  "p": "Umán",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "PostaMx",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWxEMUxTNldveGZWSFNPa015WlZpcUZkbmpJbGhRcnNrT21IcXR1RldSNlV4SzdBVjROYl9hWVRlRGtGY3JadVowZnJPM0ZRYndZZ1RjSk4yWWVPaG1KcWhCdFpiUm9LakFfdGpVSHZQaW1XMVlIV040d1JzT216SFY4S01wa1hXblNYdVVyM3I1bEl5R3N1VzdSTDh0UGt3VkN4c04zcTF2Q2VGRnp3N9IBtgFBVV95cUxQalFESXFKZkVxdDhhT3ZjamI5OG5iRGVnbkI3N1pfYlFTUlBFRXZVRWJZUUJsbmVLMEJPUzlCVVUtQUlwX05kM0R1dEpackV0eTF4Z3VtNlZBT0wzckZhZTlRQW94a1Vpc1NaU2JsTGZmMFNQUGN1Rkh0Y0dRVXhrcjBTSkY1WFFISXM3bTBmaFFlUDJBTmRCOGFpZ3UzVFBUdFJFcXZNQ0pJSUhrZHFoZGFtc2Q3UQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_uman"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Tráiler pierde el control y cae en la hondada del Periférico Sur",
-  "p": "",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Sol Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNFVOeDg5T0RSQi03NE5Ea2Y0MlJ1SjNNblRHWk53UkkzMVpLdlJMZTZNSnR6VU1Qc2RDZVp5YzFMMndaN1ZCU1lVTnJZLUZPVF9jTEdhVkp5NzRya3BFUTcyb205RVFLUTFKWmhWNFFRRXBwUlExX1NQbFVaT1JQRmNhWVBaLTQ0OTVXbE9GTXQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_trailer-pierde-el-control-y-cae-en-la-hondada-de"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Accidente sobre la carretera federal 295 Valladolid-Felipe Carrillo Puerto deja cuatro lesionados",
-  "p": "Carretera federal 295 Valladolid-Felipe Carrillo Puerto",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWd5WldoNzQtT2hseW0tV3VEWTRZeGRFRVJFbUh0c1ZoTHJncVM3enQtajA2VTRpR0hXSk1pZlZIVkpIYVM2SkFRamhNbEd4ZXE2RE1HaGprQzBIbzkzd2RVTkxmMFpOVFJ5XzFLZzZidVJDMWVtM2JXbVdiMm93eXB3WERlc0Q1TUZGSG1FUU9scXNXSWlya2VGOWJhN3QtRWJYVmNyRDZsdWgyTkRrSXlKSWU5WGlBMURlUl85eWdRSDBoWERHaGNn0gHPAUFVX3lxTE5sNjJ0RlZXQnZhazR4bDVWWG54cVVlSEpmamhLb1VQcUJjMmZOSFltNlNIZWE2NXRGV1ZzdzJpbUxBZFE0RE5xZ2lnTmRZWmVyVlpDQ3U2dzYyYzhBUmdiN0c2NmpxOGtLWWozRC03dGFWdG1kTDRnVk9Lczk4Z0pSM2dkaXZpanBZVXQ2V3BRNjdjaG5teW53WElJYzViREhWbGx4d3hydUU1alJzMU9WQTRFbS1iWk53dVBIUW02RFZMYl84QXdHN3VXREpCcw?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "clave_lugar": "federal 295 valladolid felipe carrillo puerto",
-  "id": "2026-10-12_carretera-federal-295-valladolid-felipe-carrillo"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-06:00",
-  "t": "Colisión entre dos camiones dejó un muerto en el sector Caño Arenas del estado Mérida https:www.notitarde.com.",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Facebook",
-    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM202TFBQeDM3Ui14VEVVSmJudlo1NXdKUDZRWVpRUG92NzFiT1hGX19sWHFJZERJNjlxRlNheWt0TFlsRDRfcUhCS0FaRDVTN2hnaVpqMDVZZ0hyLXR4X0w2NEczQmNUeUYxT0xBTlFZSXYycDhOOWI1ellRaHRpbXJkR1BYRWRxTTJIc0xtSlJoamtMNUZQR3NoQm9hRUVhc3VxUnprbkVkR2FNY2dOb29DcmtDc1Iyemp6bFpIUjF4Z3Nka0NJb29Bazh2NE54TTNzajdfVG5qVGx4MW5JOF9hOGFuNVZQNmhkdGFzTQ?oc=5"
-   },
-   {
-    "n": "El Aragueño",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQm5YV1k0TGllb3g1TUs2bTNsczhxVEh3T3N3a0V3SWMtWVhvVkNyemZ4NWxSZHF2UTdmbWVWLUh1QnZiX3pKNlJ2LW9pU3c1b1h4REhyVENkVFlwejNnNlY1X3J6VllyVlhJcF9LTGEwZFdVc0JNUHh1VGJqbjRvSkRtMThaUQ?oc=5"
-   },
-   {
-    "n": "diarioeloriental.com",
-    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sbkJYdFJQTFE1WVBKU2tLdkdLc0Fja0o2ZW5mNG15MEU5VFhjWDdWX2VwQlllR0V0dUQwNHZXdExQUk9MRDhYSXhQcFB6YlBGaG1DUVpwbll4NkMtdFNwVnNGMTJia2gzZklhaGh4ZXRfeFdaV0ZKSXFUQ3BWQQ?oc=5"
-   },
-   {
-    "n": "El Regional del Zulia",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnQyMnI2VGRWUlNXUGY3c0JHWlhybjFPSzY0azFFZG9sa2otV1RQd3EzRVJfdW1WaEw1VFVsV29CRXN1MUkxeFRzQ2VOOGQzMG1aVzY5YVh2S19xZHlUMkRmeUQ0cksxTmZfM2Y2RWdfUWFrVmRNUzNQYTZ6a2dXQkRTdVpzcVFmNXJBUnBWa2ZsUGFUUDl5WERhUjdjbm4zLUxVTU1ON2M2UQ?oc=5"
-   },
-   {
-    "n": "Radio America",
-    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWtJYW5veVViM0xzTjlEZ0xtNkdfS1lFcmFoVHJyR0FpaVlJX3RRZlM2X2lodDdtQi10bWRSZkl1MTJuZU52ellqb3dRcm8tc1VHUEpPY2RENHI3Y2N3ZDRnd1ZXSVFBbnpEMGNTVGU4UW51ZnAtZHQzNzc1YmIyaw?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_merida-3"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Choque entre automóvil y camioneta deja una persona lesionada en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHh4ZjZmLWlxYnlIS1FtaUpuV1lJQlZadzhPTl9xcW53RGJ5TERhTG5kYjd5U1ZoRTIxTEo1d3h6SG01SDNYak84UkpkNHFpXzFWV1pONjRQRGxOSVpYeUh2YkxaekdIemJKZFQ5ODJYZHRHazFMWmx0QVFzU1ZidmNTREhfVEVoRkpGVWt0SXU1VDlMbWN6SE1B?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_chetumal"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Turista Choca contra Local en La Comer de Tulum",
-  "p": "Tulum",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uX29CNFNvMEdBNFNwbThfTUpKaEoyenRaVDVkWnJ0cWJIeEh3cS0xUmpvU2NzM2JaVDhjMnV3emV5Y2xtM2J0UG9ua1ZEQk5nVUkzSHpiLUZBNFJtYzVRVXdvN1AwTzU0ZFdFQ0lVekt2aVpzcTVOeV93RmhDVWc?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_tulum"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Automóvil le habría cerrado el paso a motociclista y provoca choque en Cancún l VIDEO",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMTNRTDRZaWZzazBobjRyeXZCb1JhTEZFNkZJV1RLMVJTbFhqQ1gwTjdxQnplZHd2TnZxYy1GMm5ycmpHNXB6VHh0U1RFU3pfMkFPNTJHWF92S1FkYzlJamVpZzdBdmFEUE9SUVNrb1JfUE9ZZXdPSV9RWUlvNkYtNzgwWDA0THNEalFTMTdrUGpGYy1rT3BoY2ltazU4UFNEamR6ZGNabDdEYS1aR2Zv?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_cancun"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Motociclista termina lesionado tras choque en calles de Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0Q5Y1BjUS1JQmVGLWN3eHZRRTR0LW9hREVRRHd6UkFZTU5MdjZXR0Utc3VzVUg2UHVpZlhxUXhOdVExckxXSnRUbkNzanByZUduUWlncFRaVnhyQVNHZmhKbEpNUFBvMWwwel91aEMzRnhaU2tlcFQwWk1nOElZNzhxZFNYNk9sVlVNdnlBdGx4ZjgwdEdJSg?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_chetumal-2"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Muere indigente hallado con sangre en la boca junto a contenedores de basura en Playa del Carmen",
-  "p": "Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Noticaribe",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcTNhMTVRcWsxdzVDTnVURnRjMnpaOHM1NjFkV0ROZHdzTEdPY09ZN185UEdMdjd5OG8tR1EwR0NKYlJ0SUZsQ2JMOHhSQkdoejZQUThZdTRxMzFid21lYllYamhWVnZRcnFRRkIxaE83Vy1XY3JoZWlfcVlCSnBPQmt6UmhWeUVKYW12QThJblNIT2lnMnlGNUpDY1p1bWR1S000aWpMZHpSQUV0Y0Vsd3RRZG9ybC1IaEctYk1CZEs4eGxadjl0c3ZsdjlURkU?oc=5"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/muere-indigente-calle-colonia-fundador-playa-carmen.html"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_playa-del-carmen"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Suman 67 accidentes viales en una semana en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quadratín Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1pEUFM1N1BnN2hfQkJBVEpnQTJuNHpZTEo3c2dXbVByY0VzVGpTVW9sbEhXWDNJTTUtZWtESWpKcmxqVnUtWlozTVFEcHliTTNlNlVQMjNKN2NoaXRVMG1nWS1jTUFlMWllRzM3U2p4NURsYW5obFJCTTM5S0pVMy1feV9PV1BXbVVLc21TbmJzc0I1?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_chetumal-3"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Conductor pierde el control y termina estrellado contra un árbol en la Ruta 7 de Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "otro",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZHJXYzRkdk51aTlOdWxfT2hTcEZoX2lUUTNkNkdiYkJycXI0bnBFTXlNYW1xWGhQVjVVZnhpUVhOa2lNWEVNWUpoVkQ3ZGY2SWdLM053aTRvZ2F5cUtBMVpmR0EwWHRsZm9Ed19RaWl0eFFZdVlsX2phSjdrR0VrdWFZV052S2hobmJRamlDTTRya01WZFJXbGxrZ0JZM3JHcVFBNTBSZFFJcVRYUzhqaE9GZVpWOUVZQ1haUWY1b9IBxAFBVV95cUxOZ3JKTVZKWEhzU3ZvOGVfZUJGbkpfQW9FOE1FTEpVTnF3cUxuVVdWZm81bkxVVTNjam1nb3Y3NEp3dzRubmg1X0xJcXo3dVlsN1lrNWNTcXlHOW1WdHdORHlXdU5ULVJ2cTRsRDJPblFXdkhaTkpmaG1JdnBLYkpRMV81dGR0ekszNkhBN0NEZ3pmWTJNbFlHZFFjcW1DRVVBQkxfYlBzcDRZU3JDQldGZm90cFo4cTRCYzN3NHh2bVBRQnIw?oc=5"
-   }
-  ],
-  "creado": "2026-10-12T23:03:53Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_cancun-2"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Esta fue la última foto de Yatziri Jiménez, elemento de la Guardia Nacional que murió en accidente en Cancún",
-  "p": "Colonia ‘El Fundador’, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/12/foto-yatziri-jimenez-elemento-guardia-nacional-murio-accidente-quintana-roo.html"
-   }
-  ],
-  "creado": "2026-10-13T01:58:09Z",
-  "metodo": "reglas",
-  "clave_lugar": "fundador",
-  "id": "2026-10-12_colonia-el-fundador-cancun"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Conductor se pasa el alto y provoca carambola entre tres vehículos en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmJ1dlEwVm1OU3Q3QlFLYURXczhfQmg3OHFTMjVKbVVuVUc0SXlLOUlOY2xiZzJHX0Y0UzZnaUdpTUxXMnZfMWFTNHB0bHloVndPT2JwMzBLYlVCaUZHdWNwcTRzNkRhR2lqNHcybjVMcExYcURSZk4wNDUxeE9XMXM4Z0xNc01DT2dVeUVKUy1tem1TbENGQmRLZWZmZEZL?oc=5"
-   },
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnhuSzJIaGZhQzY4bS11SEYzUXdUVkhDRGZDVDdGdVl4WjNxd1pQa1A3TTVlY0JSMUtxQmtDMDlHeUxwQndoYjlIUTVmNm1oa2NnVEhiUUtxLWJTSW1tczYxeGxnTnloclFzdThDcFJwV0hqZ2VvU1NDZmdZYWpTaDdLM1gyNXdGZ0t4Mmc5OTJRWjd5MEtDTmtidXhfcXVGbWFr?oc=5"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWndiOHB6eDBQYWNfYmVZVEY4d25qcnVuSFBCRngxSG50RGQ0MkxsTUtyNHlzNFBlSmZxRnhKNDVfN2xCQ1RtQUdveDlTQm9TaVlZTTY3V0ZPUW1oNVh2YktNbzZMUlc0b0F4alFGLUNvNVdPOFFhdjBuN3VVNUxybmhqMVdNNFpGREgxeDJJbkJSa1hO?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T01:58:09Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_chetumal-4"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Una mujer lesionada y daños materiales deja un choque en el centro de Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkNVR3JkS1N5YVRNa0FBV05nM0tMa0t6UmRlc2trcWcxUlMxZVVIN3pldUVPRDZoZmdPWUE2N2N4cjZlTkVLT1RSd2dXZjFSYjBwWjhfUGJURm5qS2lhVkVjb0FwVjdrSGI2UGN6OUM0SWZkMDExRWI4dndzY0cwSXY5a3Jmb0hWTU9JWlhzcnktZlJqSXJfVzVVZ1JrSDJpOHk5dVk2V2RJZGVEUWVnRmkwaTgxNGJGanBCd1dnSDd2UdIBxwFBVV95cUxNaVVvRVk2V0dKU2tGNzZSTC1laEplRzNELV95cUc4X3RNeGdWd2QzUVYyMXBkZ1RuSVhtZW1ma0llV3o3MFU3cjM5V0xiS0xlcm5QM1l5TU1kbHptZFE2Qm1wNjhUWWlhNFFVUzA2WjZBRU5sbnNYNmpvRDYyRFJIcTFGSHM4aXI4VUVzb083WGRucXdSR2Q3ZnpyNmh1a2FCdzZacHR4ZkNZTXNCdjlXMXNXN204UUhINDhIMGNDYktHOXZpUE9v?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T09:17:21Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_chetumal-5"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Accidente involucra a vehículo eléctrico en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWJwU0dGMGxCRnJaUzZ6dnZ5eEJjZHoycGQxb1RCYlVfcS1OSGIwcFRfSzFnd2dPenFnSDN5OVJxNjZOUXA5VnNYbGxLVC1BRU5heXdiX1F4YWFuQkhMVUNWNmxZZjdIMVVEa2Vud1FKM2NVdDNRajZ4emIwNW5DUXd5RHpLWVhx0gGQAUFVX3lxTE5fX1MwUGUxekNvZ3RKbjJWTUFUSmY5OU9ObEcxUGhvR1ZxcmRibkktM242MVkwdDVROXpYOFNHTm5UTHprbDlOTEwwNGwzbUgxRlhtRTMtTTAxNmZmY2k2dGQ4WVk1QUVkNTQwZnc0cTAzZGF6S3p3US1fVG5mdVAwc01iWUUwQ3prR09kSER5UA?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T17:31:43Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_cancun-3"
- },
- {
-  "d": "2026-10-12",
-  "h": "",
-  "ts": "2026-10-12T12:00:00-05:00",
-  "t": "Imprudencia vial termina con una lesionada",
-  "p": "",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRzg2c1A1bE84UHljcFZoTHdKbU9wR1pidlVmYkNXOFd3b2pIWl9qSXJtVTFRQlMwLVNfSlpzQWxyR1BxWXFZSDlBWlJsdWFRR0QtT090eDBUUENvNnljdEVGSzlKc0UycFVSM0FNQUV4dHVIWkhwUtIBgAFBVV95cUxNanFXSWJxNm1VbGtoWThCNVNiVXZrYmJ0VXd3eFdSU3hsRWJqYVQ3MldzczU1NGRiSjBDUWQyS181NHBkUEwwYTg3M1lVYWtEVEhROGpkby0zeGQ1UHpGUnpRWmg5WWhjS3ZZME9MZko0dEU4NWVOTC1fZmVickdIUw?oc=5"
-   }
-  ],
-  "creado": "2026-10-13T22:36:11Z",
-  "metodo": "reglas",
-  "id": "2026-10-12_imprudencia-vial-termina-con-una-lesionada"
  }
 ]
