@@ -29,6 +29,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3NkNXBHTXlVbXNkMVFqT3FVZkR1anlpUlBmUnZKUnJVaW1WNVlTOTFSRUEta0RaQmRYRmN0d0VpTzFrRFRLNG1FN01CN1dTLXk5cTRIeEFmU18zaHdvVU5TMWpMZi1xNW11bFJzMUZ4Y2dJaE1ucGp3TEp3R0owUjBnWElSbWlINmU0Y3hiR2ItWHRWWnlPMXJzNG5RamFucEJ5bWdUdmtZcENLTk5lOG1INVBGTElMbTEw?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUxqVDlKTkd4ZTdMMHRwNGtPSUNZbWdEZzdELUVheGd0cUd0SU1XYzdTYngtMzBfMlRfeHljMnBXZ1BFOWk1ZzFTTWd6NzlPZGtYTEI5M1k4UnIyQ054SEFaZk5nakJ4ZFU1Y3pBRXJ6QmxmWnVNVWMzYXl0Q1NhbGlTQTE1Nm9SZ1UtSU5BcnFIM0dldmtOb1Ffbw?oc=5"
    }
   ],
   "creado": "2026-11-15T21:39:16Z",
@@ -70,6 +74,115 @@
   "creado": "2026-11-15T21:39:16Z",
   "metodo": "reglas",
   "id": "2026-11-15_escarcega"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Rescatan a mujer y bebé de 14 meses tras aparatosa volcadura; estaban al borde de la muerte por voraz incendio",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEFSVEZ4ckNMa1BnYU5xb1E5T3ktRGgtelVjSWs3OVBrc01kbTZhNVRRT1JfRk1CU2NXMklQYzc3amhtT2ZZc0FCLTh2aGQ5aTNIbkVGM2NFck5NTk5DSUF2ZmhZWVNUMzJmYkJ1MXVtS1BwZHJsVXVuX3k1dWJLWnQxNzI1c1ZjQi1VMWVyTENpcWVCQ1NacVhmS1hfUHJPTkRIOUhHTDNTam50aWlrMFV0Q01YbUl2Qzl0MUctQXdhT2tBUHh3ZVBtd1BRN3p6VlBSV2hlM0ZRTVBNWHhXS1JhNko?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_rescatan-a-mujer-y-bebe-de-14-meses-tras-aparato"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Trabajador cae de 7 metros tras colapso de torre de telecomunicaciones en Kanasín",
+  "p": "Kanasin",
+  "estado": "Yucatán",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbktWSk4wUHlWclFCZThGTVdkRVdhNUJRTTVreTlCMFlpYjlBYmlraWQ0RFF5LXhaYVlUVkhqMHRpUjEzMG9TSnFnUUNwa3M4UkZiMy1Nbm5ZTkNMbjFoNmtTaVZlN3ZfYzlRbjYyRWZNLTZoZXlZU2ZOQ2NRbDczcDE4bkVCdmw5Zk9iZUpoLWF5SDdXOWJPSUNjQzBuQi1zRnN1a19JR0lGMEdUb3AwekF3VQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_kanasin"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Repartidor pierde el control de su motocicleta y se estrella contra un poste en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONThtc2NTMEhqVWhoemo4LTR4Unc3alRuWmQ3S3NwMUs3ZXE5Wl9ldHltcnBTdll3SXo5LUlNS3ItT09fZnpBYjFfdmxnRklTeGxLQjNyN0tSdjE3M0M2cmNYZkpsdTdlYU9DYjJOQTVSb3IzdE52RU5EU0ZSbnRCQTBWVzl0Q1ZVeXY2emd0VFNkTlJ0aU5kZVVrVkZrWjhZbl95d2FTN3pwNkhKX18tUGp0Wk1taEVVVVZHaW9ScHbSAcYBQVVfeXFMTk9TQm9wMWZXelhrdjZoZ2luemwydFgzejhPWVZJa1BLMTI2TERYbk1yZFRVTXpERlBiQmVZckx3enNwak54OE5ZbDZ1OFBaSDZBRFVyZDJrTWhIR3AwWmRFV1pMTllOV0t3OHdPbnlpYlVNbEx0eG9EQzlsUUR4VTNxc0psdGZNQnFOaHJYZmdaMFBUb09XYmlqYTkzSXF3NmlsWkNmWnFkSERqcjMza3RSeFRITENZU1hPOWNiVThxcnFncER3?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "¿Hasta las chanclas? Registran APARATOSA volcadura sobre la Mérida - Progreso; esto la ocasionó",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeUdpWHduS1J6bVpzOXNxbFpGQlBTR2tYYzh6ZnRHQ1JfdTZxTEpRVkNsWXFmOFhWNDE1NU1fQUU3RUV5SGdDZFdhUm0zV1RFUVRuc3pIXzAwSmRnMmQxYXlJNnZVQ2lld01Ha1FaSlJKVEhlUUl2dEVlazduS0tEVmt5cVByLWROUUZtbjVIQTAxdGNMVkJ4YkF0MGVfVERtZnlERUVVRV9CNEFhSGYxV1R0MFY0WHloRUFacnZaOUZWY1BvN0hHaXRyZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_merida"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Autobuses de peregrinos chocan entre sí; reportan 5 muertos y decenas de heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUJqdllQdnZVaTlRUjlyUElVLW1ZNmFkLTVYSXp6VkhNbmhLSHlkTVI1VTBQUWVQNWd2VUF3clVRbk1UcG9NbTV6ZUNUNGs2NEt0d3RzV3d2Vm93MGViS194ZjZfb3Qza1hJenAyczI4Y3lERGdPcGN3c18ycmNhbWJmdTgtc0d3STR3UlFBampORUF2LVh4QlNHV1U4eGJmU3ZGSjhFTTg0dHZjcmlOamZjTmFKTEhoNGx5V05QSFEtQnY2Y2FaSA?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_autobuses-de-peregrinos-chocan-entre-si-reportan"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Familia vive momentos de terror al VOLCAR su camioneta en la carretera Tizimín-Río Lagartos; ¿Hay heridos?",
+  "p": "Carretera Tizimín-Río Lagartos",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEI2V1RWRXZHM245alpndWRONGh6eVhlMDFRd012M2Q2ODhGRXhiZ250NVdrcFBTNlYyakV3OFVkdlNrcXlCUTBjZE5aYVhrT3VWTzNqdEthZ1NjNkdOemVUQk1vNFNZSVVMMGZmYWtkM1ZLemtKNTkyT0xYM1kzNHRuaVdRSjVxRG9IYWFENXNNODA5cEJrT2FkamxkaEtDVlV2cE16aENWZzRjRG4wYkpkSk5LRENBd2MtaVlhYlFnOTBLWktFUjdkZjhFSjBlQjJEOEI1YWNfbFp0?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T01:50:40Z",
+  "metodo": "reglas",
+  "clave_lugar": "tizimin rio lagartos",
+  "id": "2026-11-15_carretera-tizimin-rio-lagartos"
  },
  {
   "d": "2026-11-15",
