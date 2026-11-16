@@ -187,6 +187,42 @@
  {
   "d": "2026-11-15",
   "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Accidente en Mérida, Yucatán, provoca un lesionado y daños en tres vehículos tras choque por alcance",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcmEycy1EekxPOElKRDUtNThGRFllRUVYazEwS0pBVHlfVk1Lc0poZkREb3FSRUNNeHdNcG1vVUFfMnhLRXR0UVF4ZjlUWHhnRnRPNjJBQU1GYTVZUGlZRWxRR2RJWjBqanJFdkVfUEo5dWNwM2tpX1pFd283dzl1dV9UWmFOUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T09:26:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_merida-2"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-06:00",
+  "t": "Fuga de Gas en Plataforma de Pemex en Campeche - Diario CAMBIO 22 - Península Libre",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OdWFqQXNYN2pESzlxaFdHcFRvS1VQZ1lPbTBIN09abnlmMlF4WkxIWU8zZFNYQVczM2UyajZnRnNYdHJRTUhqc3JxUG1yTFJXRVhJamFscFNFRlBlbzFVamt3VEVZNnVvMnR2Vl9vei1iZDVvaDNUVHppaU5Tdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T09:26:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_campeche"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
   "ts": "2026-11-15T12:00:00-05:00",
   "t": "Incendio en bodega de grupo musical en Cancún",
   "p": "Cancún",
@@ -311,6 +347,10 @@
    {
     "n": "Periódico Sol Quintana Roo",
     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWN6ZFF4aVlZTnptc2FrZW9oM3A4ME04bUgxRVFjRUFpb0x6QXY0aEdWR0FITzNqS1ZyaUZvMjM0N0x4M2hmSF80LVdRUGVQVkhxaEhHQ2hDMWc2ZEdhZmc5QnNyUndMRVk4WDBYZGJTekpGMW4xMzB4Zkd4ZlBjWFFkTlV1dVZvd2xsNWE4Q25yYkhRVmVraWNoUG1Nd9IBngFBVV95cUxPYWN6ZFF4aVlZTnptc2FrZW9oM3A4ME04bUgxRVFjRUFpb0x6QXY0aEdWR0FITzNqS1ZyaUZvMjM0N0x4M2hmSF80LVdRUGVQVkhxaEhHQ2hDMWc2ZEdhZmc5QnNyUndMRVk4WDBYZGJTekpGMW4xMzB4Zkd4ZlBjWFFkTlV1dVZvd2xsNWE4Q25yYkhRVmVraWNoUG1Ndw?oc=5"
+   },
+   {
+    "n": "Quinta Fuerza",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa2xjeUtFaTNObDF3OVlJNU1nZWh5dFlsWk1mVWhUZXdFYVZGaExid0RXSTFLRVNwTUxFVU9MMWFuZ3UzcDB2djFPa1pvNHdKbnBzaVM1ZkctUFktRkM5elhzSkt1MndEVnRvU2thN0tfeGNvRDQtUThTYzlLR2RGbGc4VFZ2TzVLREoyd09NRDRPZmVnRExpa01ZODFIeW9KN2VpU3Q0X2VRXzU5d1ZLLUJ2dkFEODA?oc=5"
    }
   ],
   "creado": "2026-11-15T21:39:16Z",
@@ -354,6 +394,24 @@
   "creado": "2026-11-15T21:39:16Z",
   "metodo": "reglas",
   "id": "2026-11-15_cancun-2"
+ },
+ {
+  "d": "2026-11-15",
+  "h": "",
+  "ts": "2026-11-15T12:00:00-05:00",
+  "t": "Exceso de velocidad y falta de precaución provocan un grave accidente vial en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPXzF0T1hBVDQ0NjAyX29jU1oxMkxJa1Jvb1FWMVd0UzVaYm5uR3QzVlAxa2pkYnA4YmJSTE5VUGY5bGtwOHlaLUwzaDgwR0hMYWpuWGFqLW9RVURCbmUySi1jZHlWZnVZOG9XNGdYZExnNEF0eXJ1Q09NNWo0RFdQeS1BZ2xfZ2dvcFNDeGFJNHNieXJYREFqYlZsMUF5enVHcnhqR1NWR2FNTzktOXNITVU3bnVCSzJVYl9nODVxcTlKY1BOZkFERnFRN1phRWlnYTQ40gHYAUFVX3lxTE8tZXZjSWpKZElfVnhZbDVWN0ZTWDRwVUd0R0JvWHp5NTVvSWNWWUg4Uk1jMjFSck9tWUdUME9RY3RjZmNESXdpajN4OXNDVTJ3Mk1SU29JaXJyekZCTFZrdEhFVi1qenJNdlhXZW9wLVJpTnRlYmRuOGhCMFA4dzJVTFZKSUljNWNkWklEMHRPcWdLTklHa2JGRnBZSG1WZVUydENJQVFYSFZ4WkktbE80U1ZmOEppWUpfN1c0WmdCUFdmWTNHcDkxN3AtbGxZU0dVVFVqV3VUWQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-16T09:26:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-15_playa-del-carmen"
  },
  {
   "d": "2026-11-14",
