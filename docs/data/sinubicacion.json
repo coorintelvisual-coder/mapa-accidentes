@@ -1,5 +1,41 @@
 [
  {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Un camión de carga se sale de la carretera en Bacalar y no hay heridos.",
+  "p": "Carretera, Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1ptemN1Q09zNk5qb0RpaWNLZy1Jd3hvRHdMajBMRjAtY1pUODRpdTAwNU9uRkZmb29sWFRsU2NFWVNDWTliNU9fcXpfbDZZSDRkZTNzYUF1ODRBakhHUEhLSnBTWDlEVzdvdWdXdDJlVlRBdnJnQ0p6OERxNTJqag?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_carretera-bacalar"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Fuerte accidente vial generó movilización de cuerpos de emergencia en Cancún; conductor se dio a la fuga",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHoxVlBPSVBsUFVzSVlaalFVYVdIVGNUMHJ0b2dfMk9MTWczZjg2TEFGWWRrNy0xSnBFdjVMNVZ1T1k1aU8tMm5HbDFzaWdFdzNldFhBbHY0MmlOWXF1TkRXWl9hS20wSnV6a3R2dVM4Mm5hR1NURTlKVjVGQUpKR1pLcms3dEdjaWd5RExSYmFTZUg5UmptYzJkdG03NXFOWHZ2OVZNQ2tGUDRQTEl5VTNJZjU2aDU1clBqcnNOZkdvV1hHZUFqNTBFU3lCUDRBRzZPYzIyd2RLUdIB3wFBVV95cUxONW5SZHNuNW9yR056cFJ2cTNOcVZvbHNYc1ZhaXo5eHBGWTg3bG12UHItdHNReGx1LXNNRVRWQThva0toZ0VkMXRSYjJFOWFrVXlhanU3STdDZ2NvLXR4anFqa2VOTzdpUEdqeHZ2QkR0TTA5VjF3cXpQdTdCbmJRN1VYNEVWUEFEWl8xU2g5Z2w2anlybE5fOEFQbTJMaFo0emc1bjQyY3RENVBNRDhGWFA0QU9Lc1ZoX3JCRWx1SFNiU1l5dnFteGltRU5lVkJPeVRBQWlvaUhMME81RHdJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_cancun"
+ },
+ {
   "d": "2026-11-16",
   "h": "",
   "ts": "2026-11-16T12:00:00-06:00",
@@ -291,6 +327,87 @@
   "creado": "2026-11-17T03:41:23Z",
   "metodo": "reglas",
   "id": "2026-11-16_sabancuy"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Rescatan a nueve personas a bordo de una embarcación de recreo en costas de Yucatán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX2dWek1KRnd1bDFycnYySWtGbDgwRVVfUnZ0TFpTbEtReW1faEwtZ0pxY3RhQ2E5Mng2RjlWeTRhWnpuSGhfSkdHUXpxUnlpSURvQ0JZVHlPYTlVNS0xNmNvTGNnckNZdFRQbUFUM1dZRnlGZUpCMDFiWDlEcnoyZW9TbWNCVlJkYlhBLUVleGNBRlc5WnhrOWpJR01fSnliZ2pudkNKVEo0MnB3ZVJwbGMteXR5XzVSaWs1Ql9xQ2zSAcABQVVfeXFMTV9nVnpNSkZ3dWwxcnJ2MklrRmw4MEVVX1J2dExaU2xLUXltX2hMLWdKcWN0YUNhOTJ4NkY5Vnk0YVp6bkhoX0pHR1F6cVJ5aUlEb0NCWVR5T2E5VTUtMTZjb0xjZ3JDWXRUUG1BVDNXWUZ5RmVKQjAxYlg5RHJ6MmVvU21jQlZSZGJYQS1FZXhjQUZXOVp4azlqSUdNX0p5YmdqbnZDSlRKNDJwd2VScGxjLXl0eV81UmlrNUJfcUNs?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGZpTnJTR2lZamkzSTc2MmFjZ0pvY3hsdVZCcWNfeC0yZVdJQUtEc2xnY05uMzhXNzVtMEd2cmZHYTBsMW9MRlM3WnVkdEV2MU16WkdVNXFFRy1YWHVic3c0RGZGQ2hHVFc0TWJrTGNJajNXYlFnaEZXN2wxVUNxdWRXRHBhYVg1ZTRTcTZsdDQ2ZkMxaDFN?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2NuNVdUaU1HNDFmLU45c2dFUzFON193eXVHM0lTSnl1aVRZS3AzRTVia0ZHMWpWcTZNdXBxQWQxeWRXWDlwVjhzdTUybGJzYldNNURzNUdBdnhpekxwM1lJS1loLVpwLUJxNkFtR2hnc1lnajZMc0FSYWptck5hTmFuQm40bjFIa2xKb0JNWWo2Y1pQYk9Xam9ueC1jcmlvYUtTaDZYU1JjeUVWdDNJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_rescatan-a-nueve-personas-a-bordo-de-una-embarca"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "¡Fuerte COLISIÓN! Transporte público choca con auto particular en el Centro Histórico de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFJwVmdPWVBLSVgxRzRXY2M1ZmRmSWpabzBqRjlHTzBabzhHU01DQ190VmNLM3hBVWZ3bTRWT0h2NlF1R0tvVnVCekZfTl81YVdiVEZMMTcwZ3pYUzVneDBWVXlzaVRZS2U3MmQxRkd1SjFXRjVMRlMyQ1FqQ1JsUUZPVW00M1g1SWFzOEs0OE50RF9SRnhjek9jNEtyVjhoS1FjVW0zOXBsRklJek9CbDIxNW9nZzJtQ1ZjZVg2WHItckFhUi04dG5Wdl9DTXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_merida-2"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "Vecinos de Champotón exigen reparar megabache en la colonia Tierra y Libertad tras accidentes",
+  "p": "Colonia Tierra, Champotón",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR0pYbTdyZm5zS2xvQW9NWE1DZUY4TTZnYXdxVklSTDlnVG05N2Njc2FneXM2ZVJsRTQwT3RMbHdxeVVDSUJUUkRmdE9LdTRkWkRBbFNPX29lY3BRQmdfbHVTYU9ma3B4SnByR0JxemlJN2d5S3BlSDZZNEtxUUJyRW9XTktUSEREaTd6SVBhWWEwQWZzLTctTTYwS2owU0ptNndTRnYydWVQcnNLZFJPd2pQc0cxOWhPZHg2YTRkZUMxMEc2VjJGN21leUpHNGPSAdQBQVVfeXFMUHRoS0ZOcTJzQk9BX2VQcXFKM28wR3pvNHJRNHNIUUtPZFpLbnZwVGhlX0NYcGVlV2REYV83N09Md3hDa2x5QU9zMXJOeGczZnFjSk1HMGduQTJMdHg5OXBWNGRmcHJpeTVnMG9zaFA2X0tEVDMwc0tabjNlZ2stbnNnOERack1fZFpfM2lTWmtfQVJjOW9LMlM4Ymt2ZXROQktrd2daTzJ3RTl1Nng3X3NjX2ZNTGRwTjJWVWdOVFNBMWVqV0JrcFhIa19DNS1DbmYxLUE?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "clave_lugar": "tierra",
+  "id": "2026-11-16_colonia-tierra-champoton"
+ },
+ {
+  "d": "2026-11-16",
+  "h": "",
+  "ts": "2026-11-16T12:00:00-06:00",
+  "t": "¡Las llamas dejaron una vivienda gravemente dañada en Progreso! Tras el incendio, una familia busca casa en re",
+  "p": "Progreso",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NdU0weWhmZ0FfRDU0WGdNa0NjRG9OV2NkSjJ1dFhaRTlQd3hHSjdOclY0VE9OX1l4RWIyZkZJaFBMU2p5VmdneV96WUxvMVpYeFRxWUVB?oc=5"
+   }
+  ],
+  "creado": "2026-11-17T13:06:02Z",
+  "metodo": "reglas",
+  "id": "2026-11-16_progreso-2"
  },
  {
   "d": "2026-11-16",
