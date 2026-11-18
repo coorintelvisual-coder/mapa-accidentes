@@ -346,5 +346,13 @@
  "n|avenida pedro sainz de baranda, campeche|campeche": [
   19.856111,
   -90.526233
+ ],
+ "n|avenida, chetumal|quintana roo": [
+  18.500315,
+  -88.297042
+ ],
+ "n|glorieta, cancún|quintana roo": [
+  21.146656,
+  -86.821262
  ]
 }

@@ -1,5 +1,27 @@
 [
  {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Choque en avenida de Chetumal deja una mujer lesionada",
+  "p": "Avenida, Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3piNFJiS25JUXlQU3RxUFNzTXoydl9LelNMcXBRc01rVWNUU1czYlRyTV9kYzFOdFFUWUExSGRyQjJtQkdHc3VlWThEcHVVMldTZE1ZY3JpVzYtZEcwMmVacFR0emtuSTlLU040WVY5eUpGY0RLZGl3RDVlR3dtRDY1M19Ja2Y3M1RF?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T21:19:43Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_avenida-chetumal",
+  "lat": 18.500315,
+  "lon": -88.297042,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-17",
   "h": "",
   "ts": "2026-11-17T12:00:00-06:00",
@@ -67,6 +89,29 @@
   "lon": -87.006092,
   "pr": "colonia",
   "sev": "les"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Jóvenes abandonan vehículo tras chocar en glorieta de Cancún",
+  "p": "Glorieta, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOemkxZEhoYmcwdUV0RlVIc0VOZlFSTzlqTlYtcTRwaUM0ZEpfVVRsZ1FxX2VjaWdxb1JOYUh5SllXQ2E2MEJpMHo4azdLdWZKSE13UVNwajZyZHFTRnZ4Rkd3SHk5X0pEWXlTNnc4dzNxa0xYeWR0RFJSYy1zaWN6cjZTeFFCYkVzU0Y5a0JLSXjSAZgBQVVfeXFMTlZyblF0Y0YweEp5b05HcDJfOVMtTjVyb1VKMko4dGNfdF90YnBmV3U2eG1mNXNzdmNyZUIzcVBITTFvRTh4Q3Jub2lzUzkwdlRLQ1RhajlROHkyc2ExUi1KaF9zM1hoRmRwbGVHRkhRVTNwczR4WkhNS0FUbzdiMEtvZTF4ZFJLRUYtM1prY1RHdWRtNG1BZUw?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T21:19:43Z",
+  "metodo": "reglas",
+  "clave_lugar": "glorieta",
+  "id": "2026-11-17_glorieta-cancun",
+  "lat": 21.146656,
+  "lon": -86.821262,
+  "pr": "lugar",
+  "sev": "sd"
  },
  {
   "d": "2026-11-15",
@@ -2048,86 +2093,5 @@
   "lon": -86.933936,
   "pr": "colonia",
   "sev": "les"
- },
- {
-  "d": "2026-10-14",
-  "h": "",
-  "ts": "2026-10-14T12:00:00-05:00",
-  "t": "Rescatan a tres niños y a sus padres de un incendio en la Supermanzana 215 de Cancún",
-  "p": "Supermanzana 215, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/14/rescatan-ninos-padres-incendio-supermanzana-cancun.html"
-   },
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGtCcVZiTkZtZTFGNFJYc0ExYkZvNFpkejdMUEo1R2FYbzYxU2dqTUFVd2V4ZFd6Z2NBakFDTmtQMk9DOWpKdnM5ZXpqMkFoS1l6Zy1KWk5lZGdEOU9CMWdvWklOTVhJOVA0Y1RzSGZGaVJNakY1amo5OWtndVc2Z1RxTXlsR3dhSGRrNVAxZ0hIS240RDFlOThrNA?oc=5"
-   },
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ka1hxN3BReEYxeTJaeDAyaDBfS1dqRW9icFlYV2MwMmZlaXp2eVFKeUhCek1GaFpVWkJOOXRvTmZwQ3dtbEh4Wk5wLUNUR3M0cnpwc1JBNDFSTFM3bENkT3ZOZTF3LWc3Q2Nxa3AxN3pIaXNKdk1YVy1n0gGCAUFVX3lxTE1EVmdoeGZzVnVXdjdEdGtpSmtzY0hiblByckhpbUpGYmJZQlMtU3dRVXBWMTdSMWhpeHdvVWN4bzNrVEt0SGx6VFQzNDg0alV5cUc5N2dFVzAyOHR6cGtzbXBoZlVMMzBlY0hwalBaWTFoUjkyc01QY0g5a0k3OFhvYXc?oc=5"
-   }
-  ],
-  "creado": "2026-10-14T13:36:59Z",
-  "metodo": "reglas",
-  "clave_lugar": "supermanzana 215",
-  "id": "2026-10-14_supermanzana-215-cancun",
-  "lat": 21.10226,
-  "lon": -86.765321,
-  "pr": "colonia",
-  "sev": "les"
- },
- {
-  "d": "2026-10-14",
-  "h": "",
-  "ts": "2026-10-14T12:00:00-05:00",
-  "t": "Se incendia casa en la Región 215 de Cancún; cinco personas presentan quemaduras",
-  "p": "Región 215, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTl1VzRDX2ZNSHBoUWVHQnJjVUdaMkZuRjZlUGd3aTRjaG9xc0dzUHR2OGxINFlKQlpPejJZeUlvVC1yOVREM0xrWVoycnc5NGxGRXRZYWkteVA5MU5sSU1xdjRMRUZlbHh5cGFVQm9NQzhHWG1CejNTdEg4VDBCeTJQUUk5cU4yN1FpanRhdFlkVFdNSUZWRTB2UFc1WlBLbWFzeWZpOA?oc=5"
-   }
-  ],
-  "creado": "2026-10-14T18:30:11Z",
-  "metodo": "reglas",
-  "clave_lugar": "region 215",
-  "id": "2026-10-14_region-215-cancun",
-  "lat": 21.149141,
-  "lon": -86.881346,
-  "pr": "colonia",
-  "sev": "sd"
- },
- {
-  "d": "2026-10-14",
-  "h": "",
-  "ts": "2026-10-14T12:00:00-05:00",
-  "t": "Tragedia en Playa del Carmen: Hombre muere electrocutado al sustraer un cable de la CFE",
-  "p": "Avenida 115, Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/14/hombre-muere-electrocutado-sustraer-cable-cfe-playa-carmen.html"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjN3aFNiX0JsQzg3VTVONTRXbkZUTUljU0w3ZlJVd09jNjlhUGpJQlhOR18zXzFfUGU4d1BVd2lxVlppZ0ladDA0SmRVNkw4OHJvSlY5REpWMXp4OUVTb1Z3Qi1JRG1iVDAtQXFyZ05JOU5GX05LNUVNb2YySmEtSnhXeUpVa01uV1NScmdPUFQ1MDhGSFNCVTRSUW9yR2NK?oc=5"
-   }
-  ],
-  "creado": "2026-10-14T22:12:43Z",
-  "metodo": "reglas",
-  "clave_lugar": "115",
-  "id": "2026-10-14_avenida-115-playa-del-carmen",
-  "lat": 20.65975,
-  "lon": -87.078289,
-  "pr": "tramo",
-  "sev": "fatal"
  }
 ]
