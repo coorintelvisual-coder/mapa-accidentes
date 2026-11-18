@@ -317,6 +317,60 @@
  {
   "d": "2026-11-17",
   "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "¡impactante! así quedó camioneta tras incendiarse en la mérida-progreso (video)",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPalF3NlpBVk1Bc2ZoME5Bb0pQRXFhWS1oU2t1a1VYVXk0VDhRaktrMGRXaDZGVXNWdU95S0ZTMkkyM1lqbENaRmxSa0NFcWFEdjF6ZkJIdzJVdEVUbEVXdmhJMnZSWXQ5bjNJaVEwV3ZPRXVSZ0VsNXVGUS1JNzFsSGVmeEhFOHlVcnVvVW5SU0xWRTY3TDhyRHF4NmhqMFF3R3g2WlU0eVRQTDZ1OWtwTWFXV3Rfdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T12:56:19Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_merida-2"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Persona pierde la vida en laguna de Campeche, te compartimos detalles",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZ1FZU3lHQmt6cWY3TjhRbmtHZ2d1MDVaX0pSemM3dEx0WTc0TWk5NE9NQWlacVhRTUZVbEtCSGxxNVZYUy1NZ2RsdV9tMHVCSzVjNXFPT3k3ODA2THNRS1NfazhOLWFJNzJrTGkyOXJxT0Z2Z1FsN20yY3dhWjl2bmlQNHlWZlpHYmVjN2V4RW9JSFRzOGR2eEotX1dhOGdXVldvUkxjc2g0RDZ6NkxETi1tVWR2M3IwaVktRFl2NFIwZS0yX2R2MzdrV0lzQW1z?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T12:56:19Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_campeche-3"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Accidente en escuela deja a estudiantes heridos",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnNOUkZHRzN4ZXdpM2d6SmxxUXE1T2dBamJuSWRYVVFtbjVCU0ItN01SbkFIRERUTDNrNXVRUU1vMjlkeF85LVdkZm1CeUJNTDZKZ2R4SUpCQ3BFSGlacU5KLTFWQ0xlcGF6a0pOZEpzUWZlWTlFaXNFc2tVWmdVVW1PUldRMmdZUjZFUEg4a2pNOGxRT0V0YjdxZWZsbWZBdUNOaW1nVnl2S0RCcW54TnJNRms?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T12:56:19Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_accidente-en-escuela-deja-a-estudiantes-heridos"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
   "ts": "2026-11-17T12:00:00-05:00",
   "t": "Un camión de carga se sale de la carretera en Bacalar y no hay heridos.",
   "p": "Carretera, Bacalar",
@@ -408,6 +462,24 @@
   "metodo": "reglas",
   "clave_lugar": "teya felipe carrillo puerto",
   "id": "2026-11-17_carretera-teya-felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Bomberos Rescatan a Conductor Atrapado tras Choque Entre dos Automóviles en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1k5WUt0ZGlyVWZrMTdNT0RoakZjNk5aY3hYWE14TmFxa2NrOXYyQ05GNUNEbXFiTjJScXduWGRhUi1ib3BhNG9zOG1sazF1UEZpemdoLS1YSDZPZG5PNWVLNkJVa3VwQV9RcEwyV2tXb1gyMDhlN1RicVZlR0Q1c0c0ekFuNXBsbjJMU2NTcjdvamlTOTFTN2xjSEFmeHVpQmgxZFlHYUh6cXBGQ3M5Vg?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T12:56:19Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_chetumal-2"
  },
  {
   "d": "2026-11-16",
