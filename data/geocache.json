@@ -342,5 +342,9 @@
  "n|glorieta la xtabay, mérida|yucatán": null,
  "n|colonia tierra, champotón|campeche": null,
  "n|puente de sian ka'an, mérida|yucatán": null,
- "n|puente de ciudad caucel, caucel|yucatán": null
+ "n|puente de ciudad caucel, caucel|yucatán": null,
+ "n|avenida pedro sainz de baranda, campeche|campeche": [
+  19.856111,
+  -90.526233
+ ]
 }

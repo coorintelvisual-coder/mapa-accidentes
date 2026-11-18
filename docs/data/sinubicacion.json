@@ -34,6 +34,10 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUhfSUdEYVY3S3otSEhxMG5ZWk9mbm5QWjhqNHhILXJnbHkzd3BYM1JHYXcxQ0M1MVZJS3lhbXFLQ0ZPUWZpX1JVLTNsM0xUZllLS21zUkZHWENmWHRjemRyTGI5MHVJQ0RyQndyNTZNTGpacmEteUhDUW01cURUNXZVUGtweFItQ2trUU9zbTNqZ3pnRTR4TGNnb09tbWNULTdjVzJfSEY1X0EtcUE1SHVsSHdsclg1Y0NxNVNrVGdXUQ?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0s4WU1TUm1OR2lZaEVDcTF2eF8wZ2V5dk1wN2hNZGVfSWRjODZWcjczMjBRUzl0WHB0ZUg3bnNoTkxoR0pRdDFrVm1QeVNJamNVUW5IVUZ0elBHUXo5b0JKTkZwaXdPRGdjRVBMUjNuNVBXQVFrVUZVU2NuekVrVk5WNFRSUjBYNkxwTjRjNUhmZU91aTZRRVhEMGZQQ213R1FaLUx2MTJXRWhlXzNabEVVb1ZkMnFPU1o3akJTLVBHandyNldiZF9taw?oc=5"
    }
   ],
   "creado": "2026-11-17T21:43:05Z",
@@ -76,6 +80,14 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNks1LWtCN0xyYkZlc0E5Q3F1eWtiSXBJU29QeTYyQmZvZDJGVTFqSDN3NVhmSGY5QmpFNXJHbXFQd1FLYUNFeTZCdlNXNWNvUkJqVjk5T2RPUTBtX3VGakhpY05LNWI5VGVZalBfaFdJRUNqanlVbXoySU1SQWg2ZWtpeUJkNTZRbW04WWgwcEdpdjFJcGozclVIOG1rMkNEUDZpSDJkdmFVNWF3bWc?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZkFGaGpqMWxlcmRrZzlZNUIzYzJuLW5ERW9BMnFwWVU2NXBJM0tLTXNzOXJLVGtvWTF1aEg1dWlWRVZTaGc5Z21HMnh3LWxnbmlEVThBTHVDQTR0ZlNmV0pyaTlFTzRDTHpERC1qakNEX2hqYTQyZmZJUENoWXBjaFVYZVh1T3dySHpjel9UbEpCdUs1MWFGVnFnN3BnaW1PX2Q2MHpWd1FDVElM?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUdxb3BVWEk2WWVZdVFzQW05eGE0QnRQVkQ1bC1tajdQV3V6alBHMXV2djVwdEFiMmZ3YTNXc1U0Q0dpWVFRdURhS255Z2o3djFnS2lSd01YMDVxeGFLck5MSmg3aTE2ZmpoTUREaEZJRnNDbDNFcjFTbkRUN21XNWw4MmlpaVJUNWl6NVFLV3h0bk5WdmtwUGZzWlhGRGtzVzl4akNzRjlDNHd2c19qVVlIV0NwUko1YlJzdDBfOA?oc=5"
    }
   ],
   "creado": "2026-11-17T21:43:05Z",
@@ -100,6 +112,207 @@
   "creado": "2026-11-17T21:43:05Z",
   "metodo": "reglas",
   "id": "2026-11-17_tizimin"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "La conductora de una camioneta embiste a motociclista en la colonia Héctor Pérez Martínez",
+  "p": "Colonia Héctor Pérez Martínez, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/17/conductora-camioneta-embiste-motociclista-colonia-hector-perez-martinez.html"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "hector perez martinez",
+  "id": "2026-11-17_colonia-hector-perez-martinez-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Choque entre motocicletas deja un lesionado y un conductor prófugo en Kinchil",
+  "p": "Calle 25",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/17/choque-motocicletas-deja-lesionado-conductor-profugo-kinchil-2.html"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "25",
+  "id": "2026-11-17_calle-25"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "¡Terminó en el hospital! Mujer sufre fuerte caída en calles de Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaE9MSzF1Smp4V3ZNMFdSM2tIcnZDeG42YXN2eWJaYWxCVk51WlBsaVNqbXZaM0hGekVlRjJRLWYtYl8xVGtfV04tbWd2SThESWFhUHB6RUhmcnVqU21GTkxlVW9UT0drZlRBbWxqNmlGNmp0TmlncEx2QUwwNGNUZmtOZEZyemlWMjJCR1JLbmgtTGRCUmlmbU9McGlBY2hPOGRtQm4zb3dKbVV6TjRobQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Toro se Escapa en Feria de Yucatán y Deja 11 Heridos, Entre ellos un Bebé",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "N+",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzVKUTltUDZNWGdfRUxFMzVmMVdvdVNVcEFUYW5FR09Nb1hoLW9kYUZ1U2RYemltN1YtT2FjejhJWW9Sb2pWTjhDM1BHRzkxbmh2SWFXckxmTEdzNS1qYll3Z3VrY0RqTTZjejJtNXNOd2RTdUREdkw5WDNSOTA5RVVnaFFvcGRVRXJ0NXJaSXllOXFzRzlET2ctMU5JZVpzcFJBOU5ETlViRjZXMmx0dmlINjFXMTlOYlVyOWJWdmJOdlNiQkJDNHZBR2dfUUNtdkhTMzJWM18?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_toro-se-escapa-en-feria-de-yucatan-y-deja-11-her"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Aparatosa volcadura de tráiler con chatarra genera afectaciones viales al poniente de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTWE3bHI4VXBiZnN1Yk8wRTI5NXg3dVpYbmd6QTdfMFIxOVM4ODZuakVIaDZwNWdEWFVXc3p3SjVVQ25yUHN6NEE1ZlVPSFQ0NmdCWkFaY1puejFCN1YzZVl6Szl3bWZyZnJ4a0ZSVmEtUmh4UU1aWHUwYWN1M2tNdVRZdk50cDBvM0VNNmJpcDlGaFFVSHlVLTE0MVJZWXFYQ3B5eEZmSjRHOHg5eV9uYmVtMkZaSmxaZXRVNEpuT0phZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_merida"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Cruz Roja Yucatán rinde homenaje a tres comandantes fallecidos en accidentes viales",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlpKaTdzTDVTQUUxVGZxcEZoX3BPQW10UHRUVnFGRkFSMlE3M2s3MEo4d1hmVDZ6d3RIQjQwX01RSkh5R1RBdTI5d2NGWmJUaF9Nb1FWYWFuSEt0aTMwMWlJa05jUEJSaTV5UzNtTENjM0c4cnBxNk9USVZ6N0NUQ0JzY25SbzVKdVhlY1BQeDViNUZlamhNS0ZNbFBsT2kyUWtKRUtZX2hBQlpiWEd0dHdEcWRUT2RxMXdkc2JneFLSAcYBQVVfeXFMUHZIb3F4bjlLOXJXQUN0M3E0b1c3MFF6aGdlM1JsZElsOVNTREFtdTBpVUZyWFkzajRBODVkbE1lWC00MkcxVGJVSU4zWWpuSU5pRjhlLXAtcy1EakZuT0k1bTFieVhuT2gxQUVhNnowVFlzQ0R4NURkSlMzUUlXWVJtcnNIckpRVTdrU1dEeWYzNXhjVzYtUUNONkFUYU4xX1kxRFRWcWJvOWNJd25Dc0xYMTVocE9jaHJiZ0lGT0tYY2FFUmNR?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_cruz-roja-yucatan-rinde-homenaje-a-tres-comandan"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Toro se suelta en feria de Yucatán; dejando a 11 personas lesionadas",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "MVS Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRGlheVhXYm45ZVNyMEt2Q2Zpc1IzNjVjbS1NMlBoMGhia3VtSGlieFFsRDZhVzh5cnh3X1RoT28xSzl0ZnVfVDFPVmI5THRWR0R1VkNQTXhkOGlTWEhzdVlRTXRHc0pYdlA4bGhHaVBlNndlZHl1QzNnMDdmdlAwMzMzVGFGb3AxcHRnTlNfMDlKWVlJOHhKM3JZX1FWUkFMWVNMNGZyY2pPYTdwanhOaFdyOHpZUFBHVXRKb0p3MUwzZlp5Qm5tclNqaw?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_toro-se-suelta-en-feria-de-yucatan-dejando-a-11"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Un vehículo se incendió sobre la carretera Mérida - Muna en Yucatán",
+  "p": "Carretera Mérida - Muna",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTgyTEZualFoaEZaWjNKN2k4Zmp6aVJGWHMwcGsxS3NYRjVrdjN1M3laMW56QW1VNUN6N3JfWnVPLUNYRmhJak9kcmtITkZsa1IxQXRLU0pESG5BX3lzbUxmU042MjhWTEJpRHp4UjIyR1B6eDlHSDBHdmllemwtazIwd1d2cnJEVzlKYlBESnBXYXhyWFotdzVpTTQ2Y2pMREN2ZHM5WlpHVWlUU3c?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida muna",
+  "id": "2026-11-17_carretera-merida-muna"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Mototaxi atropella a adulto mayor y termina estrellado contra cerca de una vivienda",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDVwdlNjbTc4cU44OGJnUzE2b3VIMEZ1Z3c1RXRWRDhHSGd3YVJiNnRYTkRGamUwcjlrd3h6ckNsWEZPVnZzU09mVWpkNlJBMm1hXzlMSjFPUWpoRVN6TGRaRlBqZm9RUlJUXzVwMG5jRjFvaWpGMU9XaHN6ZExGc0h3Q2VhUWdxeTZyQVo5cVNRczlaalpLamRla2VpajJEb0Y2RGN0TXQ5WENBczd6Q3dZb1ZuX3RraU14S1lJUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_campeche"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "¡momento de tensión! vehículo del papa león xiv frena de golpe y casi provoca un fuerte accidente: video",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSGlOZHVKMWc5RVk2LWc0Smp0b3ZPMXZycGU4TjRTZmJfTFhtNDdIRjBkbVJwWXVNaWJPd2xxUFMyalIwbW92UVZlSHVQdUwxZGh6REx2WkJYUFc5WDBuLWlRZG1lZkhPdkxrejdzdVBaMHpLMHNXdWFvYno1amRXaVBfbHV4SjZyVzNnNC12NW1WcGJQUEI5MjBfV1ZFeWw0aW1MZmxjaEwwQnE0QUEzRnJEX0dGdkFwVkt5UHBlMzdWMUxaSWVGXzlrTGhSQUlyNldBMFM1dGc2Q194dU9rZHhGN1VFTUFxSzJsaFB5OVQtLUFoX29JRkhR?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_momento-de-tension-vehiculo-del-papa-leon-xiv-fr"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Hombre pierde la vida dentro de vivienda en Samulá, Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLTV3d3B1RVo1aEdZRWxDTUxtaEFNT2FlTTl0a09qZ2EwbDQ5VVE0djR4c2hqN2o5OXlBeGhzMENDR1dZNG9GNTExSzBTQTZMSTFjaU82QUZNbGZjYk0tUlMzVmUxTWxnd0Q4T1RRcWh1M2UtOVowVjg5RXhEYnBrUHk1aHExVlRVRGlKYXhZNy1pTVZyVm5nRzZUSTBINS1OQnhDc0NYbzBYeFhyTVI0TUZpNGpmVTFkb1BQZGQxbzNKcEFuS05wWnNjdVdhWW9ZWDM2YzZ3?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_campeche-2"
  },
  {
   "d": "2026-11-17",
@@ -158,6 +371,43 @@
   "creado": "2026-11-17T21:43:05Z",
   "metodo": "reglas",
   "id": "2026-11-17_cancun-2"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Motociclista atropella a mujer y termina chocando contra un Tsuru en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjliZGdHTHkyZVcwQ2lwbGZGbTBnNENid3drbWw2eU5DZVREa1BHUnlQbHhtRmR5SWpmRmVMaXVmeXVfVl9qNzA1R2RsM3R3Y1BYN2duS0d3SHlrOU5HTkp2SG5WM2xsUVAtOTJ4bTgwSVh5Rk5jLVdhSjJibkR1ZTlzb3RlcjBwc2pIMVRmWDZIUGxyZHJjUFNR?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-17_chetumal"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Sentenciado a tres años y un mes de prisión tras chocar con un tráiler en la carretera Teya-Felipe Carrillo Pu",
+  "p": "Carretera Teya-Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "- Infolliteras",
+    "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRWwtX0MzWlZZa0JkbWJHb2FrUU50a2hOX3dtdDR6aThUbm5MVzhIOVhkdlF3cDNlRmIzTWtWb2FXaHh3dzNMSk1JTmRoZ2luN0JMVHdPSDFjbXRPRUk2TVVOaE8tTkszRUJ4UDBVQzkwQkdXcmJ6bUFLOUdJcXVpUGgtRkNfX0lBaEo3SXBCTWMxOF9ZLVc0aFVkY01rMGFaRF9POGE2SDdsZ1liSUxYajh1eFBwZEFDeDBLV1JwUzhManhLTGFSTjRlVC0tei1OQmROelA0U2xWalo5ckdieFItemZVN1VxOE5IUnhiTTdtV2RKbE1yc0NCR2JKb3FkU0psRktn?oc=5"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "teya felipe carrillo puerto",
+  "id": "2026-11-17_carretera-teya-felipe-carrillo-puerto"
  },
  {
   "d": "2026-11-16",
@@ -315,6 +565,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZXEzYmdDNzJ5UXM1MUdPcVpfX3ZrWTJFME52b1VCTHJrYVlYSjF1UlFQQnBQTjlVTk5qV1hPRjVacm1vb2hYWmVrUEl1YVg3TWwzU2ZZbmJreTBFOG1Fem92QjdtMzhQdWw2bTdhcFR3TUo5NGNCRUpLODBFNVNhakhUbnM0QmJmQ3dyV2ZfZEJteVVpY0x2UGVpT3UzeE9UUDZsOXVxbG1qMFXSAbABQVVfeXFMTVBwY1AzZGdPRWdLQTJMV2VyZmVwdWRHSlBxN1V0MmtPRVdRQmFhMW91bDBUdFdJSWR3QzZJaFhPMW0xUXZ6ODdlczFlS3U0dkl4RGVSY3pONU1YNGJHMFQ3dGxCZV9nQ2Q5S21WeE1saHphTTJiUmV1QWtTb2lSenB4RlBaVmI4UzJidm8zZFdJRk1xZk1KN3d5SW1PNWVLU3NHTzUtbUp3YV9udFI2M08?oc=5"
+   },
+   {
+    "n": "La i Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcXN1dEM0ZVBNNDBNN0t0MWh0SGZfanNYQlJKVzNsY3JFUGtmR1lFRDR3VmxUY19SYWJfcG9jdDBmZ3JjTkdSUVBjZW9TaEthYW1tQlhpSjB4WmxHYWd1S205cnhTbzF6SFNWVHJJbUMzX0pSREJYNEtCN181QTI2SVQ3RDFZV18zekY3TnYxMEF4YUlGT2FmY1dtdGxqaGxsSnRDZy05WThPSGRDVTFnU1FhRm5mWFB1QVE?oc=5"
    }
   ],
   "creado": "2026-11-17T03:41:23Z",

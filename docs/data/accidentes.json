@@ -1,5 +1,51 @@
 [
  {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-06:00",
+  "t": "Motociclista choca contra dos vehículos y atropella a una mujer en Campeche",
+  "p": "Avenida Pedro Sainz de Baranda, Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/17/motociclista-choca-vehiculos-atropella-mujer-campeche.html"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "pedro sainz baranda",
+  "id": "2026-11-17_avenida-pedro-sainz-de-baranda-campeche",
+  "lat": 19.856111,
+  "lon": -90.526233,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
+  "d": "2026-11-17",
+  "h": "",
+  "ts": "2026-11-17T12:00:00-05:00",
+  "t": "Mujer termina en el hospital tras sufrir aparatosa caída en calles de la colonia Benito Juárez",
+  "p": "Colonia Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/17/mujer-termina-hospital-sufrir-aparatosa-caida-calles-colonia-benito-juarez.html"
+   }
+  ],
+  "creado": "2026-11-18T03:37:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "benito juarez",
+  "id": "2026-11-17_colonia-benito-juarez",
+  "lat": 21.071648,
+  "lon": -87.006092,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-15",
   "h": "",
   "ts": "2026-11-15T12:00:00-06:00",
