@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-19",
+  "h": "",
+  "ts": "2026-11-19T12:00:00-05:00",
+  "t": "Fuerte choque deja cuantiosos daños materiales en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY2hGcmgyLU9ZYzdNeHhJWjJYaDlSamxiX2dvYWxzUlhiUFlhSFFJZjlsaXU0bml4LVprcFFQdW16R21IazFGYVd6cGlQMTZnSUtWOVVoOTEwVDFjRlMtWGZVYnJQbXExcnFaSWdiTDZZTVd5OGo1SkJBVFBMelRnRFVWOHkxMEltQkHSAZIBQVVfeXFMUEFSaTFpSzdUN0xNVF9YSGlkZEgwR1FQcnRjM1RBR0xmUzZFcDRIcHNuUlJIbG5iaDBaWmw2Z05fQ0I1UEFDaGxWMC11Z2FTNFZ4aTRybGhCdml4Z1l0VUdWU2stTVpYLWs0LWFaWng0Y09Fa1Z4MlhKN05JaWpmWGZwMWw1MGxvVmNCeHFJN3o1Vmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T12:49:39Z",
+  "metodo": "reglas",
+  "id": "2026-11-19_tulum"
+ },
+ {
   "d": "2026-11-18",
   "h": "",
   "ts": "2026-11-18T12:00:00-06:00",
@@ -158,6 +176,10 @@
    {
     "n": "Instagram",
     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbHB0UU5fbFZSTXg5dGRkTU9KR0oxSk5LVFJNNjgyWnI5TEVSYlV1eF9PV1VZYXRiWDk2TVJ5S0Vhc1ZrclpfZmZ5ZVJoWGdvSG9wZUFR?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2xJeHpxdVpHMkhGTnBFczl4S3d6b1hUSjRFUkdmc21kRjJGY09UanNsYi1hU0l4cmtWN2oyX3p2WTlvOHAyMnJvSDI5SU50VHowZExud3NJQWlubUtpWmt3X1Z0WHVfZVlBSDE2RjZhQ1pLT0t3WDBoR2NXNjBhMWxKVjU1WkxjRDN4cHRtdW8tV3VhZmZxb0hwdjY2MkY1SFlYN3pWZnc?oc=5"
    }
   ],
   "creado": "2026-11-19T03:10:34Z",
@@ -256,6 +278,28 @@
   "creado": "2026-11-19T03:10:34Z",
   "metodo": "reglas",
   "id": "2026-11-18_campeche-2"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "Se registra un conato de incendio en la zona de silos en construcción de la Cementera Cruz Azul en Seybaplaya",
+  "p": "Seybaplaya",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/18/registra-conato-incendio-zona-silos-construccion-cementera-cruz-azul-seybaplaya.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2RHci02dGs1OWkzMHZpcWwxUTMtWVR3SWl0Z3BvRThzc1FRbUZPLTcwQ3JpeTRzX3JlQlExbVNkcUJmUTQ5amJ4SFJxenhCZWV4RFN4LXJuR0w1MXJGZDlyODNMTjM1UG0xMDFIa1dKR3hhamgta1dFQ3VDV2VGbmNLdUViQTZZWUxPMFd0WnN4U3J6YmlKZVhnT3pyUmh6RjFXVVd6NTZTT25wUjhhNndxVHRXOVVhVVE?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T12:49:39Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_seybaplaya"
  },
  {
   "d": "2026-11-18",
@@ -470,6 +514,10 @@
    {
     "n": "Diario CAMBIO22",
     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmlkRWVESnNNZE1OOVoycEY3aTNMMmgxSDU1blJpbmhDaG9jRjN3SlFQSkNVa1ZvTkF2eWFTMW9mS1BWQjJtT3psUFFCYmU5OVNKYmh2UlFnc3IzWDJaNkZUOFAzZWd1S2xXXzlSeGhKY18ta1U5UnNaWE5Ecmlfek9HREdwek9TWTEwTi1zOTBsNThTNGthZlp0OUlaY1pLdVBLTkRR?oc=5"
+   },
+   {
+    "n": "Desde el Balcon",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTBpb1IxYWRBYmYwLVR4dU5IQkF3UHlzWThRYjN3U0V1NkJ1Q3MyeUpRZElkdTAtVTZaUUNnbWEwUWZLVVkxbmV2NV9pNndCWHVjd2plVjZja3E3QUtFR2JLcmZMaUNuTHFCTjlMYmMzRkhXdWV3aXZkNDFqRk1qNHlIN0U?oc=5"
    }
   ],
   "creado": "2026-11-17T21:43:05Z",
