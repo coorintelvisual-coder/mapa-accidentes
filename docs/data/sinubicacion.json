@@ -149,6 +149,117 @@
  {
   "d": "2026-11-18",
   "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "¡última hora! un tráiler se incendió en la carretera mérida-progreso, a la altura del parque eólico. automovil",
+  "p": "Carretera Mérida-Progreso",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RbHB0UU5fbFZSTXg5dGRkTU9KR0oxSk5LVFJNNjgyWnI5TEVSYlV1eF9PV1VZYXRiWDk2TVJ5S0Vhc1ZrclpfZmZ5ZVJoWGdvSG9wZUFR?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida progreso",
+  "id": "2026-11-18_carretera-merida-progreso"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "Accidente hoy miércoles 18 de noviembre en San Antonio Cinta",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUzBjTDJWdkF4bVlOQkJ2bjNCbEdMTlpvS3MzbjUtZXF1OWdGd0JQQ2VVb3dIYzNKcnYzVVY0TGlWaEN1c05YbE42NXdFS2RiTTRNTFdObExISjBFNFJaYW83TXI1cnNQWDRfcUVUUFR1OTJUdU5PVVhGR0FSWThhUEs2MWZoeS1vWVpQeDc3WmcxV3djalZmOE1LYkVKeklQV2lXVVZIUmtXZ2k0ZmtLaC1vY1dURGdtRnhJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_accidente-hoy-miercoles-18-de-noviembre-en-san-a"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "Avioneta se desploma e incendia en carretera Monterrey-Nuevo Laredo",
+  "p": "Carretera Monterrey-Nuevo Laredo",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmk5N3YyNDF3NUlYZWpUZXlzY0VnREZiRGw3NVFTT2trNU90RkV3cG00bFljNHBxdE9YbDhVS2RtUVV5eF9OMlIxelFrYjF1WEdOMHFrQnlMalJ6NmEtMnpTUnJkd0hPc0x1TC02STJVSk1Tckhwa19IdXRCRnkwaDU3SC0wd1g3NGtfaW1NbzhJV29ia0NNbVVJOXJadTZ4VHBDeDJSVzFTeWJxdGd3LUJKdGZkbEVl?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "monterrey nuevo laredo",
+  "id": "2026-11-18_carretera-monterrey-nuevo-laredo"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "¡Brutal impacto! Camioneta provoca fuerte CHOQUE en la carretera Motul; ¿hay lesionados?",
+  "p": "Carretera Motul",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1loWDBFSm5vaWZYWm5DQnpzOFVwRVNHbXN2MlNINXdBZm03dmx3S3FvVHJqaTJQbFQwOG1GLTkxUnlubDhjWDVDcUFrc0EtMHZwOTEzZkJjdHVBS1lzaXh4MnN5NE1KbXEyRWRORjhBTWc0NlFEUXdhOV81Q1kxbE01cUJ2ZzZyWTN0LWlYV2l1NTYtMmhHdzM1WVlmS0swZ0cyYl92dmY1WTg1Z0w5YUlQUGh4VHBzaFZCanpqQzg?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "motul",
+  "id": "2026-11-18_carretera-motul"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "Un vehículo termina impactado contra una joyería en Valladolid, Yucatán.",
+  "p": "Valladolid",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3l2TlBzUDVNWGNqamFickhUTDZ0d25XZGEweXJNM0Z2M3JfOHZMS1hRbldzcTg0bDNqc3UtUTlwNXN6LXpiT2dHNk51akFBTVdhanBGWXJDUE1aY20xeHpPc2x3QXI0cjk0YmJ5UGNwcG5sMUwyQ2hQdTZDRjhHZ1ktbnBMRGU2dzU0ODR5VUNxQnV2M0UxNmhKbHVLSHUtY3dpaXdpYmRUeDZKWjNEQjNQWjA?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_valladolid"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-06:00",
+  "t": "Tragedia en Campeche: maestro pierde la vida tras violento choque de motocicletas",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLVdLaWxjRk5EYm50T0ZybHg5X1gxUVhtejNHWjJSMk1weE9CU3k1dEZpaERtMlM2NWxMNWh4cUlpc3o2WTdHNzdmM2wyNUNhbVZITVJQSFlwZ01KdWlzTVk5ZVRQRGpqbzQwbGdYa3BEMjhUUVlORHQ2QzlyOW5hWTM3eEhjeU81Nm5zVTFSNURoaVprbHp6UUlzeFBNZ2R0V3AyNkNCWW92aWc2NWNfeDhwSFhVcVhkcGhlMlBfdUQzZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_campeche-2"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
   "ts": "2026-11-18T12:00:00-05:00",
   "t": "Choque entre auto y moto deja dos mujeres lesionadas en Chetumal",
   "p": "Chetumal",
@@ -176,6 +287,10 @@
    {
     "n": "Quintana Roo Hoy",
     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY08xUW1VNUJPc2xhX1l1b2NLVElNSHkwODRzUEFUX2pQSGpQMUk3S0hlS3J6ckhtaGpIV0VlY2Z5UGpQbTRUanYxQUJwODRFQ0thWUFJOFdaN2lPM01sc3BqX25lZVViZlc4WUdKSHpmN09RYjVJUFUyYUZzd2ZGN2xIOWYzRFZSZ2pSVGFSakQtR3htQ0hEeDZ3WVdRLWM?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY3pSV2tVX1ZpVjQySzYzdGR2WWlPSDktdDZXcUJPdzc2NWFISlhOcWFwU2FLOVhYWVA4dmY1aTFvYW96YnE5TGstcERLTm9hNWlhX0xUVzFsQzhadThZNmlTR2lSWlc1RFlISXlWb2pMcDdwTGNXUUR0dllrbktOZHVKWXRjS2dTYnBVQW56TWhmaHp6NkhVdDU2bTRvUnUzSngzMg?oc=5"
    }
   ],
   "creado": "2026-11-18T21:19:43Z",
@@ -199,6 +314,60 @@
   "creado": "2026-11-18T21:19:43Z",
   "metodo": "reglas",
   "id": "2026-11-18_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Detienen a Conductor Presuntamente Alcoholizado tras Choque de Motocicletas en Felipe Carrillo Puerto; Resulta",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNdllBeXhaUm1YbHg3ekdSeWgzSTBENWxqSnhEOU82alRzYnNzTy1LNnU1YVB3MWJTYkpnQ1dwXzdsOGExYlFTWmItbVh4dnBISkZxSThMWGUtbnpRZnN5TlBRd2I5Q0VXZTFoNURiN3dJY3dDejVrQkZQQ29zT2plek5XWmotU3NSWEMxTmJyaWhqd0NxdGVDSk0tQmRYNnBweUZnbjNKRkZFbWpkNzRJTFpfOEI1eUFLNDRwX08tazVMa0tXM2xHWndPMUlzUHl5Y1NuSk1kTWh4YzRucEpqcEI1bjRMb1ZSNDhfb19Rai1yN1VtMzkyOHc3QTZjODhrSnc?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_felipe-carrillo-puerto"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Choque entre dos vehículos en Tulum deja severos daños",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjgybGdxdTZkMXNvTnJ4UWpISVdJOWRPNVY3VEdiUENBQ1dFN1IzTm5rbnJBMG52NFVlMGh3MzEzcjhmZTdjR0VQZ1czd0xjeE5EWGtmcDVJbjFwS1ZrRzlSRTRiN1BUTFF3Qm5naXVLM3NKMmtEaXYtVF9weVFkVlNkMkxzdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_tulum"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Conafor subsidiará brigadas especializadas en protección contra incendios forestales en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Jornada Maya",
+    "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaW45dW9VNjEzOGNCNF9RZFUybFNXUkhQSWN6cTh1b3ZuZlB3YWNfSmpGTWtfU2JXNXM0Z1lSU2Y4NE1zSEVOT09YTE5ISHg4ODA5NDNXUUtvVWpqMW1hVk5Fa09idUs3blQ0cjFRakhGNmJuQWhlM2xYWlVpcGpMa2FJV0dPaDZmTWRLbExnc0t5ZHNmcnFoSktsdFFUY204eFU1T29zU21PQlZsdUw4WjNQeU9pWjBnQjNGNW03aV9lRE9DX01jakpmc1pna3FoanlaMGQzRlAtUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-18_tulum-2"
  },
  {
   "d": "2026-11-17",
@@ -239,6 +408,10 @@
    {
     "n": "TV Azteca Yucatán",
     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0s4WU1TUm1OR2lZaEVDcTF2eF8wZ2V5dk1wN2hNZGVfSWRjODZWcjczMjBRUzl0WHB0ZUg3bnNoTkxoR0pRdDFrVm1QeVNJamNVUW5IVUZ0elBHUXo5b0JKTkZwaXdPRGdjRVBMUjNuNVBXQVFrVUZVU2NuekVrVk5WNFRSUjBYNkxwTjRjNUhmZU91aTZRRVhEMGZQQ213R1FaLUx2MTJXRWhlXzNabEVVb1ZkMnFPU1o3akJTLVBHandyNldiZF9taw?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY251YU9jdjYyc2N3SDZFc1ZZWXlMZmtvTVM0UGNXSzYybV9qclN4eWR5b1k0c0pobDBVU0tRM1pyOEl2eXRuVjk0Q1ZldjhXVTNDenBzN0J1ZTM1dmpFcUZEWXFCOGhlYXBjdTV0Qk05U0VfUE9wOEVwRWZ1WWlWNGhNQXo5cGJDTnBWb3l1dmhoT2gtbUNCeXpIa2JyLXJIbEotakdR?oc=5"
    }
   ],
   "creado": "2026-11-17T21:43:05Z",
@@ -390,6 +563,10 @@
    {
     "n": "N+",
     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzVKUTltUDZNWGdfRUxFMzVmMVdvdVNVcEFUYW5FR09Nb1hoLW9kYUZ1U2RYemltN1YtT2FjejhJWW9Sb2pWTjhDM1BHRzkxbmh2SWFXckxmTEdzNS1qYll3Z3VrY0RqTTZjejJtNXNOd2RTdUREdkw5WDNSOTA5RVVnaFFvcGRVRXJ0NXJaSXllOXFzRzlET2ctMU5JZVpzcFJBOU5ETlViRjZXMmx0dmlINjFXMTlOYlVyOWJWdmJOdlNiQkJDNHZBR2dfUUNtdkhTMzJWM18?oc=5"
+   },
+   {
+    "n": "El Informador",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVlWbGQxWHdrMFE3b0RBMG9RLXNuU0M0Zy1iYkNGb0dseU10WEJUR3AtX0d5TzFUVjdwVTdMeTNnNy13RmNsd1ZLMVBfa2lpbHB1UXZLT0I2VmxGU0pIa0F1X2tiMUFWUUVaMnVfWDVtUUxlaE5nUEpBTE0zTmk4ZzBzVVJqVjhtMU11MXlkbkNsRmdGQUM1OWZSaDhXd3BnT1VVMjRUaTRYQ2Iyd0Q0cURPeHJ6UU15Nkg1MmRtQ1lrZVBoZ0RDekozM0RDZTk4RmNZ0gHYAUFVX3lxTE9aLVdVdlU0aDZwWTFQeFlRNkhzb2N6ektYRnpCckNzbDdjWVVsbGVUR1pLM2lRb092Y25zMGR4dVlhc2NxWlF4VU1ISmsteTlqVy03c1l6QmJPQmJESWtiVWxHejZtdTFPRUJUTklPV3lYUl85QVlkMGtqQzhnRnJZMy1JREtMZmhvM3RyZkp5YWVGUS1Eby0wbENQdkZwdEMtVG4ycEVlYU9TMV9KM2E2UHdwSHFicnF1eE5VcC1TcThLd1JCQjAyWmJKZXFfNkN6X1QwVk5oQQ?oc=5"
    }
   ],
   "creado": "2026-11-18T03:37:08Z",

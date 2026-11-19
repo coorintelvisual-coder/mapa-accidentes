@@ -22,6 +22,76 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Muere motociclista tras perder el control y derrapar en la López Portillo de Cancún",
+  "p": "Avenida José López Portillo, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticias Cancún",
+    "u": "https://noticiascancun.mx/cancun/muere-motociclista-tras-perder-el-control-y-derrapar-en-la-lopez-portillo-de-cancun/"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/18/motociclista-pierde-vida-derrapar-supermanzana-cancun.html"
+   },
+   {
+    "n": "Caribe Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE5CMm5YMTBieGFkaHB4bTF5N3pGMEw5cVJQUFBzNkFKRkdXZFBSMEtvMnpyc1BGZHRPTXZXeUxFOGx2cUdFd19WLVVLOUZ6LW5ZSVFFRW55czhZWkpCQ0F2X2ZWYTBYT0pQM0w2M3FnNHpmZG1nWkVMX05OcmtTcnA0eEFObVJOSTFjN0VvRmtRczZSb1BSX19zMU9DT0h6ZE9JZjZVRXBfM1ZLWVlxUw?oc=5"
+   },
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW05T1pLX0ZIbkJXUG1RLV9wenlDWGRUWHhDX2JwM2F5c3ItdkZ0ZU5hUHVXNTlRT2xrRW1ydEJNZFFhOXRTY0tlMURVeVNLeGNmWVZ1MXNsOTZweUcyNFBJMURodENjSldPbTJlX1Jlc0xIUjBGYl9mR2VRVWpZekhzelpMNS1iaTVEbGxKTjFINjBCQnBBRW1OczFVUjJiVE9URDFpdmdWQQ?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUllEZ2ExMUt2bnF5ajV5N3hUYWdfV3ZZc1lObnZyNHNEcEo0ZHpoQTVzQzltT0Y0RXVqMm5GUmZrc2o5bjVScGNyakMxdE1VSmJBUXZVdHpCRkVESXVkd0FuQ2s0SURmTzMyRjc4c0NUeXNpQnp6a2NFcXZjWXRpU0JlR1ZySUNPbnlrd2o2VFJydjFvd093aHBkLXdoNGxiQU9v0gGoAUFVX3lxTE85ZnQxeVY4dWdRclpTQzJNWGI5c2xjMkVJV1hfSmltZzZLaUgwVWdlUG11WUJMdDNGU3dwWmxMYUF0V3ZYZnJueDNOWWFXeTY1QTk1QkpGNXY0YUNzX0VrWVI4Sk52eDJzR1YzNldsWkhGUWdnQ05rWmhyUGloNHdMNFVBMEMzQlBKU05YdXpZd1o3WUp3U1l2MXk3NmIyMUQ1UW9JQ0hnSw?oc=5"
+   },
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcHBkdzhVT0NGUGZ6TWU1SmFqVTdmVlpGdDZNaWU0QXJhTGdQN3lJVnN1Y3duZzctdjJGeDlDaktSSl91Uk5mUE1sbnJKQmpMSEN6VUZuMDR1elRCUGY3UzV5djd4WEtlU3ZQN1VDNDlESHhNbG51SGxUQlY5YkxZSWo4dUpGZXUyQk4xNFFEeWNxdWNGd0hUNldmbGt3LTRUNWpsRA?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSkRYcXI5bHVSS0RwcUtLUS1vRnFqMmpZblRkYVRnOEJhTmdFVXRDOEU5RDBkRWV0OVgzNFRTM040SFZIclhzbDNUV202dGRwRUlILTJxbm0tSWo3QTRNdjNCQi1lMHZ1akpCRTZOWXlhYWxQSlllNlVhOElhZ0o3TFl3?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "jose lopez portillo",
+  "id": "2026-11-18_avenida-jose-lopez-portillo-cancun",
+  "lat": 21.109123,
+  "lon": -86.957296,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
+  "d": "2026-11-18",
+  "h": "",
+  "ts": "2026-11-18T12:00:00-05:00",
+  "t": "Exceso de velocidad provoca aparatoso choque contra luminaria en la Supermanzana 516 de Cancún",
+  "p": "Supermanzana 516, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYUdqUWswQjF4Z3FkakFZcVN5QUs5YU5SVzVpWWZ0Y2FHcEtWbGl2ZnR1dXQxSlN1U1drOWpSdGtON0dMQnoybndoS25MTGFOMVdyZmtfT282U2M0V0dzRXh5QXlObnUxSGM3aDRTLUZ2UVJBVGIwaDhJZWJ4M3JnR2szYVV6ZXlaVXdQOVZFaXB2bzNMMzBqTmRnSE44blcwTzFmNjNsMGFWQTJ3QlhodzQwTENsLXoyT1psY0p1LS1WSVYzbUstamFCc9IB0AFBVV95cUxNT1NoSm4zdlVMZW5XS3ZEekgtMUx5by1mcGVQbGZJNTktendLY09hUzNoVWxUWHI0OXloVXRBczZYa0xvZXpUeVg1aWEtemMzUS1CME5JTEZvYlZFS3lzc0pOOVY0OFFuX0x3TWxXR25fSGxGU19yUnllaGJVNE45cVFDTlNFR2FQaEdNNV8xS1ZsdXhLWmJ6RVpGSDhhWlhJLUlfRTBzU1R3UjZqTW9lcU1fVGk3OVAyMXNwZm9WX2xJYjBEN1hyWXlySEZ6MkZV?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T03:10:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 516",
+  "id": "2026-11-18_supermanzana-516-cancun",
+  "lat": 21.10226,
+  "lon": -86.765321,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-17",
   "h": "",
   "ts": "2026-11-17T12:00:00-06:00",
