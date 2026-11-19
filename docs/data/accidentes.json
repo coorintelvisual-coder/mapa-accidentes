@@ -1,5 +1,32 @@
 [
  {
+  "d": "2026-11-19",
+  "h": "",
+  "ts": "2026-11-19T12:00:00-05:00",
+  "t": "Fuga de gas en tanque estacionario moviliza a bomberos en la Supermanzana 96 de Cancún",
+  "p": "Supermanzana 96, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR1NCRnVmcEszd0ZBeU0wVXY4bVQ5TUVNU0tDanFMRVEySjR5VVN3NE1xa1JENWVHMW5adjBFdnpnTlFBSzBKWXhoa2J2UUthaHhSdVNCb3hySGNrZVdQT0hwbFFvbXAzUUxFb25acUJlN2gtNEpkMWRRVWs1b3ZzRk9TTU90ZlJoUmwzZEVIRGxUbVNGWXZLUkZ2R1NlU1lqWm1yTlJPWlVKZlhkRmpnaXJ2WEEtOVZla21VVlBDdzlBM1I5c3c?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX0RIRUlTMW93MkFaaUtBNHpqR1h3a0FWTGNpaEJDZ2lDTkIzNExSV1k4dzRzVTRGQ3JKY1BvSVk2VVUtMVd1V3BXYTAyMnRjSjFPbzh1c0dPZGwteHVlN2FVOXFfZENBQkhnNVA4NVpKV2NFdXZzSTZIbW1PZnRzb1dfM3ZBeWlldldGZldpMzhoSEJ4MU1NTXN4b3BzWkVVR3BZaWFxclJ2d1gzT1dSVXB1NjBNd3BTR0dBb9IBwgFBVV95cUxOZ0RXY3pkakhHTGtTLVBVZG1uZWpkSENFWm5Da1JmdTZqMzdFRG04Wk0tbzF0S1NDSGNnVDIxSUVFRWhDRXp6bmpzSlFnbnRvZnh4RkJhQnhUMzFiUjNvSVFjOTdGZEdOUjJrNVRxS2tjM1pCcVNTWXpDSUZWeFR6WGNQZzRET3NnelR2OF8wdjFUS0JfSlNpbTJoS25EU3VSbFljT2FjdjlQNktBdnpaVGgzNjZtcjE3YTAxSFR5eV9sQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-19T21:22:22Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 96",
+  "id": "2026-11-19_supermanzana-96-cancun",
+  "lat": 21.10226,
+  "lon": -86.765321,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-18",
   "h": "",
   "ts": "2026-11-18T12:00:00-05:00",
@@ -2072,100 +2099,5 @@
   "lon": -86.881346,
   "pr": "colonia",
   "sev": "sd"
- },
- {
-  "d": "2026-10-15",
-  "h": "",
-  "ts": "2026-10-15T12:00:00-06:00",
-  "t": "Motociclista se salva de salir herido tras quedar su unidad prensada en Ciudad del Carmen",
-  "p": "Avenida Isla de Tris, Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/15/motociclista-salva-salir-herido-quedar-unidad-prensada-ciudad-carmen.html"
-   }
-  ],
-  "creado": "2026-10-16T07:02:11Z",
-  "metodo": "reglas",
-  "clave_lugar": "isla tris",
-  "id": "2026-10-15_avenida-isla-de-tris-ciudad-del-carmen",
-  "lat": 18.654126,
-  "lon": -91.789598,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-15",
-  "h": "",
-  "ts": "2026-10-15T12:00:00-05:00",
-  "t": "Repartidor de agua resulta gravemente lesionado en accidente vial en la avenida López Portillo de Cancún",
-  "p": "Avenida López Portillo, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/15/repartidor-agua-resulta-gravemente-lesionado-accidente-vial-lopez-portillo-cancun.html"
-   },
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3dhbFl1T0JuRGtUeHFmSzNjREJpdk5hWkJoTXh1NkFSRndldmxVazRFNUpZZGgxRGlydnRqRFpEMkNzX1ZyZkl5NUxVZUVCaUhoU1ZvS2FzTVNmMFJDUndSZjB3dVphMWlPMU1LTDEyS3RaMnp6Ulk4bEpqQkFINXZCSDRFbWRlRk5wOXdEZ3B6OU5rS19UT01Rczc?oc=5"
-   }
-  ],
-  "creado": "2026-10-15T18:11:59Z",
-  "metodo": "reglas",
-  "clave_lugar": "lopez portillo",
-  "id": "2026-10-15_avenida-lopez-portillo-cancun",
-  "lat": 21.150418,
-  "lon": -86.874437,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-15",
-  "h": "",
-  "ts": "2026-10-15T12:00:00-05:00",
-  "t": "¡ATENCIÓN! Fuerte accidente vial en la López Portillo de Benito Juárez; hay garrafones y autopartes sobre la v",
-  "p": "Avenida José López Portillo, Benito Juárez",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Quintana Roo",
-    "u": "https://www.aztecaquintanaroo.com/trafico/atencion-fuerte-accidente-vial-en-la-lopez-portillo-de-benito-juarez-hay-garrafones-y-autopartes-sobre-la-via/"
-   }
-  ],
-  "creado": "2026-10-15T18:11:59Z",
-  "metodo": "reglas",
-  "clave_lugar": "jose lopez portillo",
-  "id": "2026-10-15_avenida-jose-lopez-portillo-benito-juarez",
-  "lat": 21.160099,
-  "lon": -86.855289,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-15",
-  "h": "",
-  "ts": "2026-10-15T12:00:00-05:00",
-  "t": "Incendio daña dos casas en fraccionamiento de Cancún y deja un lesionado",
-  "p": "Fraccionamiento, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Turquesa News",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM09jTE5hY09RMlJWcnBzYnlMcHc5TW1KT0dpNVhTM0k2ZF8zeG83Vkk4akVoS3lzZXJ5YjBJd0kxYVB3dUJybXlzcTNhLXctZGNHcnkxTzdEODVmSE10a2U1Wnl1c0V3aF8xUFVWSWNpQ2QxaXdJdE1zMmt1RGtLWW9rZ3B5MGN6dnVWS2d5ajlzZllVY3o4aUZ2clY0RWM5VVRobUMxTdIBiANBVV95cUxNWjhHUmV5NTQ4b3NOa21IOTF6V1lNSUNOQnRhdUt2YkdjVXk5Q0dTM2xfVFpRYmFHblZUR2NZdEFlZml0QlNoMXhFZ1lNeF9CUk9fcTcxdTBNZi1kYTNYUEZ4bnFoOEZUcmtGaUI2eXFSQ2ZxbG9GSkcweVFjcllRd3JLQTdYN3dmQlhWdm5sbkp3NGRmdmUyUmVjeEVsNzR1STZzbk5DMFJGQ2xCM2lYcndwVU5ZNXR5V0VjSVl4c25QbFBObGo2Q3BuN0hmUVkyX2ZLbGhfQnh2VDIxVTIwbTlJeEExZHNVLWN5NkszUzdXQVROaDZuWC1aWWx6dk9YeTJ0akl6bkNDS0UtbENGZGVRRzFUN1ZOZ0R3NjRONExQSWR5c01DMmcycnNZTzM1THB5V3pmT0FSNGVJY1ZzZ1Nzb3QyY3pnTHluUWdiYVZxa3hhTDFlRkJuM1NYSmFpZHktSldmYUpsdllpUEhFeWF6NXdBM2l6SHdnWTRDd2hvV18tNWxzbg?oc=5"
-   }
-  ],
-  "creado": "2026-10-16T07:02:11Z",
-  "metodo": "reglas",
-  "id": "2026-10-15_fraccionamiento-cancun",
-  "lat": 21.147988,
-  "lon": -86.933936,
-  "pr": "colonia",
-  "sev": "les"
  }
 ]
