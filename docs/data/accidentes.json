@@ -1,5 +1,36 @@
 [
  {
+  "d": "2026-11-20",
+  "h": "",
+  "ts": "2026-11-20T12:00:00-05:00",
+  "t": "Brut4l acc1d3nt3 termina con la V0LC4DUR4 de un vehículo en Cancún: Esto pasó en la Supermanzana 63",
+  "p": "Supermanzana 63, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://www.aztecaquintanaroo.com/trafico/brutal-accidente-termina-en-la-volcadura-de-un-vehiculo-en-cancun-esto-paso-en-la-supermanzana-63/"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQi1KN2ZHNWl4NkR1dC1VRFRxc2R1YVNVYS1CZkhVOHg2MGlDdlBuc0loMzhJZVdqekhlTnp0YzFsQll5c0ZpX2huTFVnanAzaE1LSDV2NmlOajhoYWdnYWs5OVVONlBob0dYbWZWYnFIb1BmQzVoTHREZWdpZXFvcXpWRTViOFVFV2VpQ3ln?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWU5Rc0xxWDNLSENSY1pTSkhMdXdGM3JBdjBBbjk0THZMYUk4R0JZcHlEZmpWTWxubFVua09XYmkzcVd6cXdfT1h0ZGZHMWxlcUt6Y29xdkVpSkJHZHJIUGZtNnJCYnVyWDdHZ1Zmd1pMcS1oOTM5d2FxdFN0NGNibzVEWExsaHc3ZzRIRnB2UG5rN29CQzdqWTJ0eEk3TGFQejFINldfUnUtWWpXTFItclNYWFdycXAwNGfSAboBQVVfeXFMT1lOUXNMcVgzS0hDUmNaU0pITHV3RjNyQXYwQW45NEx2TGFJOEdCWXB5RGZqVk1sbmxVbmtPV2JpM3FXenF3X09YdGRmRzFsZXFLemNvcXZFaUpCR2RySFBmbTZyQmJ1clg3R2dWZndaTHEtaDkzOXdhcXRTdDRjYm81RFhMbGh3N2c0SEZwdlBuazdvQkM3alkydHhJN0xhUHoxSDZXX1J1LVlqV0xSLXJTWFhXcnFwMDRn?oc=5"
+   }
+  ],
+  "creado": "2026-11-20T19:58:20Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 63",
+  "id": "2026-11-20_supermanzana-63-cancun",
+  "lat": 21.171124,
+  "lon": -86.82958,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-19",
   "h": "",
   "ts": "2026-11-19T12:00:00-05:00",
@@ -2030,74 +2061,5 @@
   "lon": -86.854494,
   "pr": "tramo",
   "sev": "les"
- },
- {
-  "d": "2026-10-16",
-  "h": "",
-  "ts": "2026-10-16T12:00:00-06:00",
-  "t": "Conductora se distrae y choca contra auto estacionado en Playa Norte, Ciudad del Carmen",
-  "p": "Colonia Playa Norte, Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/conductora-distrae-choca-auto-estacionado-playa-norte-ciudad-carmen.html"
-   }
-  ],
-  "creado": "2026-10-16T23:27:31Z",
-  "metodo": "reglas",
-  "clave_lugar": "playa norte",
-  "id": "2026-10-16_colonia-playa-norte-ciudad-del-carmen",
-  "lat": 18.655045,
-  "lon": -91.835366,
-  "pr": "colonia",
-  "sev": "fatal"
- },
- {
-  "d": "2026-10-16",
-  "h": "",
-  "ts": "2026-10-16T12:00:00-06:00",
-  "t": "Destroza su automóvil al chocar contra muro de contención en la avenida Escénica de Campeche",
-  "p": "Avenida Escénica, Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/16/destroza-automovil-chocar-muro-contencion-avenida-escenica-campeche.html"
-   }
-  ],
-  "creado": "2026-10-16T23:27:31Z",
-  "metodo": "reglas",
-  "clave_lugar": "escenica",
-  "id": "2026-10-16_avenida-escenica-campeche",
-  "lat": 19.82368,
-  "lon": -90.569256,
-  "pr": "tramo",
-  "sev": "fatal"
- },
- {
-  "d": "2026-10-16",
-  "h": "",
-  "ts": "2026-10-16T12:00:00-05:00",
-  "t": "Camión cervecero se impacta contra poste y árbol en la Región 252; deja sin luz a vecinos de Vista Real en Can",
-  "p": "Región 252, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/16/camion-cervecero-impacta-poste-arbol-region-deja-luz-vecinos-vista-real-cancun.html"
-   }
-  ],
-  "creado": "2026-10-17T04:11:12Z",
-  "metodo": "reglas",
-  "clave_lugar": "region 252",
-  "id": "2026-10-16_region-252-cancun",
-  "lat": 21.149141,
-  "lon": -86.881346,
-  "pr": "colonia",
-  "sev": "sd"
  }
 ]
