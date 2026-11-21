@@ -31,6 +31,29 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-20",
+  "h": "",
+  "ts": "2026-11-20T12:00:00-05:00",
+  "t": "Camioneta turística impacta contra base de concreto en la Supermanzana 74 de Cancún; no hay pasajeros lesionad",
+  "p": "Supermanzana 74, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdDR1b1FqblQ5clVZS2VDLURFcVNDd1hhZlJHc1lxQUl3Tnk4anJZR2NLdlczaVd6RFloTXBsanZ6a1JOWUtoSUN0dmVtUUU3ZEh6OWpGYzFGeUZLTGVoWmxVb1VSOEdYUEVMWmpNbld6MjI1amhXcUZvcXd5Z2lrMHVlUjNGaC10alpCYkdzTUhHc0hhRk5hdVl0WWVEUnNhQ0M3WEZwQTd4UHI2dm1TMzZEMmNPZ05hc3lsRkFWNmEzelA2b0V6bUg0cGxaZ2thVVB3UHlrSUxNS2VFdTRR0gHfAUFVX3lxTE10NHVvUWpuVDlyVVlLZUMtREVxU0N3WGFmUkdzWXFBSXdOeThqcllHY0t2VzNpV3pEWWhNcGxqdnprUk5ZS2hJQ3R2ZW1RRTdkSHo5akZjMUZ5RktMZWhabFVvVVI4R1hQRUxaak1uV3oyMjVqaFdxRm9xd3lnaWswdWVSM0ZoLXRqWkJiR3NNSEdzSGFGTmF1WXRZZURSc2FDQzdYRnBBN3hQcjZ2bVMzNkQyY09nTmFzeWxGQVY2YTN6UDZvRXptSDRwbFpna2FVUHdQeWtJTE1LZUV1NFE?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T09:36:22Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 74",
+  "id": "2026-11-20_supermanzana-74-cancun",
+  "lat": 21.181674,
+  "lon": -86.816714,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-19",
   "h": "",
   "ts": "2026-11-19T12:00:00-05:00",
