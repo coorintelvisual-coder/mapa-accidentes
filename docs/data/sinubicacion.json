@@ -11,6 +11,10 @@
    {
     "n": "MILENIO",
     "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTdKOUhObWlJcWxDd1V2U04wYXdMVUgzY0NGNDVzR3ZSaWRZQ3BnRVJQcWU4RmpJbTdfUHZIam9lZjF2NVo1R1J5VklXQXRGRDVRZktqOEg2NXpHMDBHcWh1cGIzdTVHUVAtc2JkQzVwU2htSnNoWXRVRjR6TzZ1VTFUNzJEUk1oOGQzUlpsS0dOVXptMzZ2UW1CRHFuOFlPMkdPemwzUDhjbFlvX1HSAa4BQVVfeXFMTzNxeFV3eDdLWGJBbXlSUFRCNGtMck02MEZRWUpXYmxGV1dlX3NGUkJmbWl3SWNRS0RROS1KTUVJVjZBNnFzUlN6UmZ0REZRMmRrRzhDMF9PUzA1c2tkSlVoNmtENHVfbEl1VllQXzY1am55MlFSbXItVmdOY1k3dkEyUmhOOFRqU2FHYmVEMHVfRVZrV1VIZmZtcll6akhNdWEzeGFyQUpzc0ZqUjN3?oc=5"
+   },
+   {
+    "n": "Facebook",
+    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPOFo3RFlualFqWUxneEZhYk5wazJMUHpGV05lWjRuMXBoNHBxMUhkbWpCQ0Z2emhBbC1samRkNnMtSENsbnRKUmI2ME9xY1Y3bm9oUE5EcnpHWGJRbWdSM3Z6MmJ5VkkyZ3BDWHhDd3FKdHNyaThRa29OZGxZaEZ1SmVzTEt6RElxLTBBR2d5VGJLbUdHMjdQWGl2VFBmS1RCNVYwLW9pRHRzRVdYa1JqS1hFUWVjTE1oQ1JaX2hGWkJPMEVpY29TTmM2Wnk1YXJ6X3RwMXFWXzROV29ncDBrRDl3?oc=5"
    }
   ],
   "creado": "2026-11-21T17:20:31Z",
@@ -34,6 +38,118 @@
   "creado": "2026-11-21T17:20:31Z",
   "metodo": "reglas",
   "id": "2026-11-21_merida"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Motociclista resulta lesionado tras chocar contra automóvil en la colonia Tila de Ciudad del Carmen",
+  "p": "Colonia Tila, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/21/motociclista-resulta-lesionado-chocar-automovil-colonia-tila-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "tila",
+  "id": "2026-11-21_colonia-tila-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Vuelca carroza fúnebre en la carretera Mérida-Campeche; dos jóvenes se salvan de milagro en Calkiní",
+  "p": "Carretera Mérida-Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/21/vuelca-carroza-funebre-carretera-merida-campeche-jovenes-salvan-milagro-calkini.html"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida campeche",
+  "id": "2026-11-21_carretera-merida-campeche"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Conductor Pierde el Control por Cansancio y Vuelca en la Carretera Mérida-Tizimín",
+  "p": "Carretera Mérida-Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNnVzVWZYYVZJTnhqQVlSVW00RmlqVFVCcUQ3UURrSDAyZTJhajhtbFNVT1JyU01KdjZvTVdpSVNEOUJqUmtMLUwtN2ROTElhLWNkT25TOF91cDVXVzBITkZ0Tno0OURETFVzNWF0LW1yTWFvMWR3NWdrWVE4WEFKYjZOenR4Q2RrV3dJUlEzb0JNTDFEX2R3bG4wOFAxTXRDUExkZkE0LS1Ed1pa?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida tizimin",
+  "id": "2026-11-21_carretera-merida-tizimin"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Daniela Spanic sufre accidente en carretera de Toluca",
+  "p": "Carretera de Toluca",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLVdLZkE2OFB2WFZxVFRuVVgtMmNYcWtMb1kwcUU4VlEwNXg5NU0zbnphLW5DRV92OUtXOThHMWRJZ3RYOV9FbnNzU0V0SEpoSS1LY3lVODY2d2ZDZUxVemFqYUtWMzlma3lYM1hmdXl5UWFxQUdqNlctREExU05zOWlPY2k4eTYyMkc1V2xsNl9BLTFKbTJDQl9qU21QWlRKa2lkWjZMNkJSUnlwUnZlQlFuTmVWalk5ckxEdEhqY0F0M1BKbW1xMEtVa3d0OXZNbzR6ckFEYw?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "toluca",
+  "id": "2026-11-21_carretera-de-toluca"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "M0RTAL accidente en la Mérida - Progreso: Filtran impactante parentezco entre Natasha y Angelique Boyer",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbzlHWEJxTlg5dlFueUZfbkMycWtwLWljcG1UZXRLUnpNV3FBNndrOFJMTWVzWktsV1JTRlBiQnR6cURpUi1pbHRBd183eFlCa2d5ZjhjUWx0b05pVVRaUE9oYVVvYTM1bUh6TUZyYUlDSXVOZnRlVGFHVDVrVW5yaXdCakt5cGJucWpTQ1YyR2lrNmhEZ2x2LTlyWnRiNm50NWpDYzRSUVB6YmNQa3FSQ1JxLUc3cFNlV1RkNEdKd0R1Tmk4ZlhRYWJheDdPTnF6UVIzUmcxZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_merida-2"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Tragedia en la Mérida-Progreso: video muestra el momento exacto que desencadena el choque mortal",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMC1kTnB4SXdyR1U2bDVJRmtjcG05YVJaRXp6d1dFdGhSenVOdkdNbTk0OWFZbUItZzJaQXhaTUNuVmt5SjZwNUp4LUdQVXBYeDlXMkJiN25jU2hadl9RY1JEbUtrOUpLaWNjU0I0MGdxY0hZbk1jRWlGR2dRODFBR0l1cldBd1VlX3lJd2pBQ3lVVDZaS09EdjdiV3lwNkF0Rkh1ZDR4ZzBPS2pqWFpIWnNVWlJTQThJT1F3Qm1xaml0Z0RIczJmdDVsVG1DZzJBeEpwctIB2gFBVV95cUxQaVFKaHBVX3JaZ29IV0t2c3d4OHY0VFhHbjAzZXhaZDJIemRyelNsVXA5d203TzR4ZUF0Rkx0TU1PRmRlWWY4SExra2xmM0N3LU1HUmZXWjdFZnVCR252OWVSMnpFYng1cnVoME0tRjVTeVBlNVhHa0pkWVNSUWlnLXc3NmkxRVFMT2dHMjgwTzFUU3hpY1pST0FkWVV5cldiMjF4QUc1TmNxMElQU0Vjb2VUVFA5UGtfX1V1b0w5UjZwbFExVm9xYXEyaXVsaTRnaGJaV04yaC01UQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_merida-3"
  },
  {
   "d": "2026-11-21",
@@ -70,6 +186,42 @@
   "creado": "2026-11-21T17:20:31Z",
   "metodo": "reglas",
   "id": "2026-11-21_falta-de-educacion-vial-y-alcohol-marcan-acciden"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-05:00",
+  "t": "Trabajador pierde la vida tras derrumbe de losa en obra del hotel Riu en Isla Mujeres",
+  "p": "Isla Mujeres",
+  "estado": "Quintana Roo",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/21/trabajador-pierde-vida-derrumbe-losa-obra-hotel-riu-isla-mujeres.html"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_isla-mujeres"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-05:00",
+  "t": "Se incendia camioneta abandonada junto a una chatarrera en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmx2VS1IcTNDSDRuTWFMVmR3Y3B2LVlUUmZ5NWpkdndBb3J2Y3ZtOGxQSzlrTVZWZFV3UmZoMVVHT3pmbDFrcXREdmRqVlVlWU1ITVdVMGFFSkpZbVlRclpYY0ZjMk9SRm1fcVFtamUtWmZ6N1RxVVN0eGlZeUFxSkQ2cFRxMWl3UXNlSWlsS2ZaNllzU09TRmZaZEp3U2JEZkcteVVlTzAydkZfUjh3YzBsRGkwMk5ySWfSAboBQVVfeXFMUE5sdlUtSHEzQ0g0bk1hTFZkd2Nwdi1ZVFJmeTVqZHZ3QW9ydmN2bThsUEs5a01WVmRVd1JmaDFVR096Zmwxa3F0RHZkalZVZVlNSE1XVTBhRUpKWW1ZUXJaWGNGYzJPUkZtX3FRbWplLVpmejdUcVVTdHhpWXlBcUpENnBUcTFpd1FzZUlpbEtmWjZZc1NPU0ZmWmRKd1NiRGZHLXlVZU8wMnZGX1I4d2MwbERpMDJOckln?oc=5"
+   }
+  ],
+  "creado": "2026-11-21T23:02:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_playa-del-carmen"
  },
  {
   "d": "2026-11-20",
@@ -115,6 +267,10 @@
    {
     "n": "Capital México",
     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVdNMm9Dd2p0WmNHaGoxYzJ0dUtxYmtMZWZiZGx1VFBiaGl5VHZ2Mnp6cld2RWszOVRkMzBwXzJWaktZVktZcXdvWFBUNlhRZW44clUydktGWW1DczhZd3plUlBBbWl5MGxxVk91XzlBZGV3ZzZ4MmR3TU9kSFNrbWdYdXBPVEhQZ1hHdkNxaHpDaXd2UmJwOVUzVjB3SzI1cm5Wd0s4MDZDT2R4YmdkZU1aMG15Z0ZsRkkxbzFKWnR6enZFOFHSAcYBQVVfeXFMT3VXTTJvQ3dqdFpjR2hqMWMydHVLcWJrTGVmYmRsdVRQYmhpeVR2djJ6enJXdkVrMzlUZDMwcF8yVmpLWVZLWXF3b1hQVDZYUWVuOHJVMnZLRlltQ3M4WXd6ZVJQQW1peTBscVZPdV85QWRld2c2eDJkd01PZEhTa21nWHVwT1RIUGdYR3ZDcWh6Q2l3dlJicDlVM1Ywd0syNXJuVndLODA2Q09keGJnZGVNWjBteWdGbEZJMW8xSlp0enp2RThR?oc=5"
+   },
+   {
+    "n": "Azteca Morelos",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUlNQV3dQS21BNDlFeUJUcHZxMmtwLUF3R0RLS01NeDgyTnA2S29kTjJ0SktnRVJicXQ3dURLVEphcVg2WmNxOHlFSVUtalo3Sm1WVno2OW1YODJTLUtLSVBIVDRueWItLVl3b0lqb2NxVWZrQlBEWlFCUW05V0NzbVExdFhSeTY5WVpsdFlQcFd1WE9aVFhsa0JzY05hNzNneUZ0bWc0Y213eWtuVGdITTdqbnJ2X2NsRng1VmlFY2VvSzZhT1E?oc=5"
    }
   ],
   "creado": "2026-11-20T19:58:20Z",
@@ -326,6 +482,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUHRTSTE0OEt3alZYeWpjcEdSTEdESUJoalJqOGt5ZmJWWjlFOUR2RUt3UllncTVpQ2J4OUpPN2pTQWI3U2Q5cTg1SjI2Wk1LR2dQbnlEam1saTlCYzZzS2c1U2N6Q1draFM5cXljSjBodDhST0RaQjNTYW9DZ014cjNEUDNfbjZkVE9NSmZGVk5PcEtCM0hnVzlCWXlOeHZPX1Q5VjgxM2N6emRUbk8teDdXd19tc0puVDVoMmt3MVluUGNlZjNzT3NOX09KUDBfMkxGdm00aFFFdmhTWExZUDlKV1V2QU54R0N6UlBR?oc=5"
+   },
+   {
+    "n": "Digital News QR",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa00tcllEaml5ZC1ZXy1GUy1CdEJoSS1USkZYdk1xQ21RTmFGSDdQYjFFcVE3bUl3VzNvaVdxalFrY1lVZ09OYVFndnNnbkhzQ2cyN0h1bVlDcmlUVGxIdVFOcHU5UVZZWGxzbzhlbmFJWlhWM3dLUlBpUnhrMXVEQUlvYzlPVHc4blRIMnMwYXZEWE53QWVRVTZDQTFTM1M2QmF6WUFTQUVxZlRBanFYV3RfVlgxYjlnQXhiag?oc=5"
    }
   ],
   "creado": "2026-11-20T19:58:20Z",
@@ -16686,254 +16846,5 @@
   "metodo": "reglas",
   "clave_lugar": "alvaro obregon",
   "id": "2026-10-18_avenida-alvaro-obregon"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Pareja derrapa en motocicleta por acumulación de lodo tras trabajos del SMAPAC en Campeche",
-  "p": "Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/17/pareja-derrapa-motocicleta-acumulacion-lodo-trabajos-smapac-campeche.html"
-   }
-  ],
-  "creado": "2026-10-17T17:00:49Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_campeche"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Fuerte choque en la Mérida-Motul deja un adulto mayor sin vida y al menos seis lesionados",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "PostaMx",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZzh1N1BpZzhyUm5nR1R3bk1SZnRDVXBjQ1FLdGR0WXhRTmdPeXBrTS1Rc2YzOW9jc21GYlVHbVUtOVljYnZTWnZiWjlUZHExYjVhVlZJTTRQcnpHc0hDZXQzU0lpTWlzSDZaYVlYQWRyOVA5dDRlVE95Tnhhc1NYdUNZdFZfMVFPOHZWdzZmTUxtcGVSZlFrajFFZ3pYVlc1UklNeWwwRy12Zw?oc=5"
-   },
-   {
-    "n": "Desde el Balcon",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMYWdvbWttZllfM1ZWYnBQSE85NE1NaTlaemZyN292d3JfamE5QTY0MWcxa0xNMzZjam14V3NMZEhMaDE4ZmFOckFGODVkblJhV2cxMFlja0ZWQTBDbXU0ZmlWcVhwZ1FCZ09jS1lfTUhHeUpsMFZId056VWpiNjg?oc=5"
-   },
-   {
-    "n": "Quadratín Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajF4YlVHdmVnMXdVR1JDWnZ6VFI2Y3BjTmR6UFAwTWV0ZGdCMVNLRURNV0FFNWJ3UU5vejdkcTNnLU5POVQtS05DV055SEVrWFE3N2U0NHA3SmRaMmNIY1RNRzRHOEQyaHY3MFNQRGtENTVmWVA2Z2laU1QxMDBwRHV0dWxhZ1dJcDExNXkwdUVjLU1oV3pSZ2wzb1N5LVc5UzVzNkZQU1h5dw?oc=5"
-   },
-   {
-    "n": "Inspector Nocturno",
-    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zdzBONWI4UHNodEw2NklKQzJRblJVd2xLU0MxOFRWdWYxMFJiN2c4Ym9TZ212QjRHeG1UZ0c4VWxqRDZCVk1DVHphYU9FNldHeTdPWA?oc=5"
-   },
-   {
-    "n": "Columna Digital",
-    "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZnpDTGp3VHdaNU1mZ092N0VPQ1lhaFBiZHJhb1RSTVRyR3ctcHJ2Y3RKSjNYZ2JmdURHcVM0cTNFdXVMajdSQW1nYzlwYVRRTVpCNkNMNmw4TzU3NmFGZG5NNjlmQTNQb2JfYTRYU29vekRQS2xn?oc=5"
-   },
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/yucatan/sucesos/2026/10/17/tragedia-merida-motul-adulto-muere-chocar-taxi-colectivo-pasajeros.html"
-   },
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMFBOa0ZBWGlPNzByQ1ExUVhtWFpNeHNYcUNGOVJtdkQtMk9VcENDVHoyYksyc25XM185dlJ6M05ZM3J1al93X0RnOWhxV0pYVGc0dEU4LXl5aER4VTdIQkFQNFpPM3VfUVlDNk0tMS1DZlJKU2NHSWF1a2NpYzVIa2ktZTJCZkNyS21talZHS3NEU0syYXJj0gGfAUFVX3lxTE9UMEprX09PTUhBX1ZvYjJrYlVVZF9GeEZ0ajh3dE1qX2d3bjRNTGhORGhqaVZXQXpIWTBaZkFlVGk1ZEloc1RnQ1BEbi03d2xHa0ZhYmZPNVR6elNtN0tNZUJvTFN2X1FWR2ZaSXQ4dldJT0IwZkZ2ZXVsT3haaG9kVlVxeHFSalVFeDZuSHNmeHdsaWZta2Q0MUg4cU1pVQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T17:00:49Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_merida"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Tragedia en Yucatán: Choque de combi en la Mérida-Motul deja un muerto y más de 12 lesionados",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario de Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQb2l6eUhSSGozMFVYMkhNZHZ0eC1ZTjc5N3dER09RZk9ObF9fbGxFM3JlR2tySDNjWldFQTJiSGNYRzlDamYwdEtRckQwUVBiVEVRbVkwbWhOX1hWcDcyc1h1Wk9RYnZfSXllRVl2OWd1clVFWkVkdHNaelNMVW9tS1VudFFpaXY0cFJZdjVDQkNOTnBrZDlKX3pSTDNnc085OVl4ano3UkRoUXVEMjZYbmdkRWJhdzhGSEhzLXNodnRQV2VhTGc2eEh1eWw2aVNWUlpSMHZGMF9teTA?oc=5"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPel9oeUx2a1IxRDFSVHUyZjA0TlpZZjBtNjZ1amR4VjlxaFB2NndKNFNBSFlyWlR3OHRqbnl1eWJ0QmNrOWtQWWVJSkNDV0dLMzFmc096M040c0MwMlZoQ3RZZFN0N2pHSDhCTG1xZXdDeHN3NWVRVWNlYXc2WElWUzZRbzMtdjhxT3pib2dwbUZUZ18xNHkwVVdYWC00VnNlOUtLOXc0UW1vclU?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T17:00:49Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_merida-2"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "¡gran susto!; se incendia en nilchí una combi que llevaba a estudiantes; sólo hubo daños materiales",
-  "p": "Campeche",
-  "estado": "Campeche",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Tribuna Campeche",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYXpvMzFENHpPdExPRnJ5Y0JnVGloRUZuRVM2RmVhYWZZVkhFeFBKSnpSUzRoNXdHNnBxZ2hLRmFHdDBabE05WFo3d01tZFZTQ0RkS2pZbng2MFZJYTlTX2JpM1BnSk96c1dKdjlmWEh6UEVDMFNGMUNsVGkxT0F1NzBYQUNDNWpDeG5YM3hEYmFXbjljdGR2c3BiZGJXUFVwYnd5eTFLdXVWM1dWYklQRVhNb3VkTEdmRUg1Z1lvNFQxLU1hWG9mMV9CbUc0dEk?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T17:00:49Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_campeche-2"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Pasajero muere en taxi de Ciudad del Carmen tras presentar dificultades para respirar",
-  "p": "Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/17/pasajero-muere-taxi-ciudad-carmen-presentar-dificultades-respirar.html"
-   }
-  ],
-  "creado": "2026-10-17T22:11:22Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_ciudad-del-carmen"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Ignoran Señal de Alto y Provocan Choque con Motociclista en Tizimín",
-  "p": "Tizimín",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUZjLV84S0k4T1ptRXBYSHpFOGVkcV9QZjA4RHVzWHcydVlqQVpLOG9rNXBfd0hGMG41X2ZFa0I5ZXdueEpEQU5mMEVsUmRlVy1IY3Z1SDFjTXQ1b3R2dlVSTGVIZnFpazVVcU4tUFFZSEd4TFZSRDRfaUZ0Ynk3a05rTXdYOXdTR2FBSUVDX3lMRGY2VXVoa1Jn?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T22:11:22Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_tizimin"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Hartos de inundaciones y accidentes, vecinos bloquean calle con ramas en Champotón",
-  "p": "Champotón",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeGc0ak5SaDFxWmVrSV9xNGs3Q0dYWWFFNWRJdUNSS3VfLWFlNGM1WUVneEthTGkzYXFUdjBTZ3l5TGREbzczV2ZoRGt6Z2ozQ0w3cHk5NkJDSHZ1Y2E3ZXpBWXB1a0h4aHhHYXBtWjl2QVVYWlYzYlM0akphaGNrZHZ4Qjdpb1BTZ3pxd1lrOElOSm95c01mbmdRZzNuSTBQSUJOa3NNTVJ3WDYzeHIySG55cHdWNDZISUHSAb8BQVVfeXFMTlVSVlEyUmtneXRvR0padU81bWxBLUlxRmR3cGlSajhObHd0Q3dXVFhpMlMyXzd3Z0VXRkp0ZEdtcS1hOWhzS2ZwREc1TlpXTDRXdENsRFRFWGlDeHZwdFNmUVNpWjl3YVlBSDhkVXYxek1leFhLVW4zaVVGaVRGNFlybzhndmhvNHRhUmh3Sy1QX1lLR0pTQ0FXTFE2TC1yMm5XQ2JvZnp2bU1idkhCeS1JU1hnNTQ3WUdPeFVUU2c?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T22:11:22Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_champoton"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Un Perro Desata Accidente en Tizimín y Deja Lesionados a Un Motociclista y Su Esposa",
-  "p": "Tizimín",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnZ4eGFucXFyenJpaHFhWHlvTVF6N290bWVQdGJZQVBqLW9CeUZSS2hMdGlCV1hQdDNqOV9EWVNSWjF1SXQxZDZOTVM0aW8xUkZySWxSYXRPM2FYVGpUdlFpZUs4ZEpHOHJLYnF2OG16aUVqbnNrZEthOHBtXzF6SlpqZ0V4MmVDa1FRWnpVNGpudmEwMTJzQ0xuYXNUQUJ5VC1fWjZBY1l0VmZuVWhlYg?oc=5"
-   }
-  ],
-  "creado": "2026-10-17T22:11:22Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_tizimin-2"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Camioneta termina EN LLAMAS tras aparatoso accidente en carretera de la Península de Yucatán; ¿hay heridos?",
-  "p": "Carretera de la Península de Yucatán",
-  "estado": "Yucatán",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3ktWHVHNGRESEZRLUNMc0FrYjVOQXlRSkEteWJZSDhXRnd3MXlGLWVnZ01ENWRVX0tyTVl3VENQaTR6OVIzVjN2d05EWi1Bdk9GZUc5MS13UnJDQnZ6TFhJQTV2SjExS0NYS1hIeVpndEEtM0J6QUk5SjJsWGczQTFiRkVHdnRQV3oxVk5HaEN1Qy1sX1VKYXFOZVJyOG9QUk9HZVk5REJmRFVMM1A5bzIycE40MlBjUVNJeW9mZFNkZHNpV1ZPRm1qWEhGN0xJb3NwLVhGNnBjcTN4?oc=5"
-   }
-  ],
-  "creado": "2026-10-18T00:51:52Z",
-  "metodo": "reglas",
-  "clave_lugar": "peninsula yucatan",
-  "id": "2026-10-17_carretera-de-la-peninsula-de-yucatan"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "Rescatan a adulto mayor que cayó a un sumidero en Tizimín",
-  "p": "Tizimín",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario de Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzFWZ3Q5N1RPWUZJWGxLRjVSaWVSMnVBZVVkeTRzMnk2ckhUMG1HX1ZHUk1ZRVE5Z0d6M1hqbW1kMHcwR1lWcUdKb2JjRXh0dHpLNTRfV0VNNlFNZXNybGlYemx0TmdISDVHeXEtZ2JCbjVGUEhUa1pQWDFlYk5TVWY5NXJOSlZuczBibG1jbnYwcE1MUFhCM3A3elRWUXpjZmNtU0p1akNtdGVC?oc=5"
-   },
-   {
-    "n": "La i Noticias",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWkF0enRIdmlCeXBkRnBySnRxcHYtbXdYbHBKVUo4TWFTVm11R205dVZoLVhINEFwc3dRNy1fVVRCREhoLXFqYU9kRE5jaVVKN0xHYm40eGstUFh3LVlBRF83bTByR0N2Q3YzU2c4a3BTM2FzcEtKTmJrNi1yVjdvb3ZzSzBSLU9LTFk1X1dDU1lsdktrQ1hfZWZnMDhYcUowTTVkOVNuT1g?oc=5"
-   }
-  ],
-  "creado": "2026-10-18T05:44:04Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_tizimin-3"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "¡Le decían Vampiro! Revelan identidad del hombre que murió en aparatoso accidente en la Mérida-Motul",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbm1mQmZVQnl5VURxU2lZeWJRS2U0T3VwbEdaakdpekp5S205YnZzS2ZNVEFhSHNpNUJyS1dzMGxLNV9lVWI1UHE0YlhTZ3lUX1BfTUNSYjBnMEk0dDlSaUFLSTdUMTB2T1ZDQWp1MmJKRjJHTUNBWDdUS1ZhcW16dHpmT3VjZlltcVBCSUxWX2lGN0UzUlFPZ05mbGdtbC1CQ2I1aENCVU0wdVU0a3E1bG5BbDFtWjFQZTNPTlF5cjdmNWFfNTBhdWM3ajk4b19wNzBiaEd3?oc=5"
-   }
-  ],
-  "creado": "2026-10-18T05:44:04Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_merida-3"
- },
- {
-  "d": "2026-10-17",
-  "h": "",
-  "ts": "2026-10-17T12:00:00-06:00",
-  "t": "¡Devastador! Incendio consume VIVIENDA al sur de Mérida mientras dueña estaba en velorio",
-  "p": "Mérida",
-  "estado": "Yucatán",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU0dQQkRMNHFlNm5ZNS1EZG93SXhndlVZdndCd1JOZG9ybEUzZENZSklZMWpKajVkeDB0cWlFdnZKQVlnSVlNU2E2MnpiOWIybVhWZEpJSW4xc2dlY1ZaWXV2OWtoemxiNDhRZmpVdy1xU0FZMkIyOVk4Y3ZSX2E2RXBkMTJfdXNxamJCYzdBWTdpS01JSE9EOTFGUnAyMTRTaHd4eW54REQ0OWdaTW1WaXVxVXNscmk2ZFVWVE9sRkJiWklI?oc=5"
-   }
-  ],
-  "creado": "2026-10-18T14:29:34Z",
-  "metodo": "reglas",
-  "id": "2026-10-17_merida-4"
  }
 ]
