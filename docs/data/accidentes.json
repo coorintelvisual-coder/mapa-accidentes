@@ -27,6 +27,29 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-05:00",
+  "t": "Derrape de motocicleta deja a dos jóvenes lesionados en la Supermanzana 223 de Cancún",
+  "p": "Supermanzana 223, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXRsTkZUNDM1QUtOVE5ZUi1EcXZ1MWhxRWYwUUpDdkZHNGpub2pfWHQzM2RleG4wcnNVTVZZSzBZUmNfa29MUjVWb3hnRXBOU09ZR0VLVzN0c19HM0hPMlZuQlNxSk9Ia0VlVVFRN1otM2VzRTBBRzROSDlpQk9XaklRSHBvTVJveTdSVmVsNUdBVDZXam54VkJMZ2RsblE5ejl3TFctdVZOWndIVkRldEJWbGtySGJhX2s3UktvWVdyTTRuZFHSAcYBQVVfeXFMUGV0bE5GVDQzNUFLTlROWVItRHF2dTFocUVmMFFKQ3ZGRzRqbm9qX1h0MzNkZXhuMHJzVU1WWUswWVJjX2tvTFI1Vm94Z0VwTlNPWUdFS1czdHNfRzNITzJWbkJTcUpPSGtFZVVRUTdaLTNlc0UwQUc0Tkg5aUJPV2pJUUhwb01Sb3k3UlZlbDVHQVQ2V2pueFZCTGdkbG5ROXo5d0xXLXVWTlp3SFZEZXRCVmxrckhiYV9rN1JLb1lXck00bmRR?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 223",
+  "id": "2026-11-21_supermanzana-223-cancun",
+  "lat": 21.181822,
+  "lon": -86.870663,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-20",
   "h": "",
   "ts": "2026-11-20T12:00:00-05:00",

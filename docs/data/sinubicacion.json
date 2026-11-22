@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Incendio consume dos vehículos en la cochera de una vivienda en Jardines de Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Contacto Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1daNTZqR3M1RE5uanV3SFlMQU91T3ZGWllqblFsWlNhWFY2a1c5SC1tcy1aZmJTeHZVZXpTazYxeWxVSEZ2YWtTVWp4LUJzek1BdmlYUkU3Z2hLeHV4czVTaU9xSl9BaDdwRk9mRV9UVzVFVElqUmJnQzU1TlZDTEQ3UjIzRk9Sd2lSS19uRV9Zc2ZiS3UxbzhmRU1nRVVNc2ZfLTJ6YzdPc2g1SG1JMHc3QXcwa2dXV2c?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_cancun"
+ },
+ {
   "d": "2026-11-21",
   "h": "",
   "ts": "2026-11-21T12:00:00-06:00",
@@ -70,6 +88,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/campeche/sucesos/2026/11/21/vuelca-carroza-funebre-carretera-merida-campeche-jovenes-salvan-milagro-calkini.html"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXJ3eTBpeXlJNURjd25FWVdSWl9wMGpuVld1ZUtlREVWcDhzRVFBNjNHUVJaQUZ3RnNURHhUU1JvWXVUTzVra3hKdVF0MlFBY1hRSGZpMVA2QVFmRU1BS3pUc1k4ZGZLeEVubzAzWHBHcVpXUWlZX296U3FmeTYwSVljeTQyZnRLWU5lMnFTNm9IX0w5WHlRc2JvUkdJM1pvanUtS3VldGRSNnQwclpLVThTQ2ZRRUgwOTRDTHVqYmFmQQ?oc=5"
    }
   ],
   "creado": "2026-11-21T23:02:17Z",
@@ -231,6 +253,96 @@
  {
   "d": "2026-11-21",
   "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Cae de su Moto en Tizimín y un Sujeto Aprovecha para Robarle el Celular mientras está Tirado",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON0JoNTR4d0RlcHBpRXYtem1HYklqMnBUWU1RdExKR2lyWmw2SmtPT0dUaUJlN18ya1lBVGVDdHZMNnF1XzRDeWdJcGlhc1VLcG92RmJXZ01sbXpKdTY2akIyNVhqZElacmVPVW9OWUgwemhKZm1DOUVLNkowdU5PUEdtQWdMOTczN1NMZnVqLUo4cHVvcnRtTlRKaWN5U1pQbzdMN01QTnhGLUZaQks5RnJ5T0RrWTBqYldZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_tizimin-3"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "¡Otra vez! Un toro vuelve a escapar en la Feria de Yucatán Xmatkuil, hay cuatro lesionados",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Informador",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNUJLTXdla1FadjB0YVZkUW85MTRBRWpMRERwZDNjTDZzbTN1Yzd4VGM5RGR0OEQyN2pHNWZ4R0xTbDdfNEVyZDRVMVllcjhLZm5MLW9XcE9lSVRNVHRsMUtqU3poN0Jrb1NqVy11ODE4QWpZdUsyb0thSnpoenFHbzJlSEFtZDdiLU14TE1DREJMeTQ2OV9MQTJjWkI3ZVJCS1VyV3BPMXFlQTc3OW92RlN1Q3E4N1ZjMmfSAb8BQVVfeXFMUGVJbkxKMXQ2LTdCNHhWRjduUDVUVTVXNFlPY0VUSlp1bzlCTnA1RU01dnNhTVZlalNnVHdINWtyUVcxZzlaaExQd0NURkM1cllZNE1LVGYxdWxZQ0hVLUd3MzZ2OUVJVHFacjhveHdQRGczNklNNjlORHQtU21WdlRJVVl5UEpLMTIzVzVSNFVYSWcyakhXcnRBYnVLa0dZaXh2UVBoTmJ6ZzRlUVNGQjFxSmlUMVdrelhaeFhSTG8?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_otra-vez-un-toro-vuelve-a-escapar-en-la-feria-de"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Motociclista es arrollada por un automóvil en Izamal - Tekal de Venegas.",
+  "p": "Izamal",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZnVuUUJrMkV5dklEc1JWNl8tUDVxeEpfSE4zUWhNa3hxTUltRXVPWUdkTllmV1E5NlJoZVZweUNfN0xEck05NWxHRmJ3LUZEVDdEU1hZSnRfdHpfRmp3eW1LLWc3VE5zVHhpampaOHZCbFhhcXlmdTY4Y1pRbU56TVJtWGRaYTJWMWZaeWoxUjBrQlRLeFJsVk84NVdlejN3V2NQdU1fb2NyREJndi01TV9lQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_izamal"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "Choque hoy sábado 21 de noviembre en Villa Palmira, Yucatán",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcl83Vm1VTmVFUGdZdHNKYXNkTHZYSWpHbnpSaFpUd1U0U0hQeDRlUmF1YVhnNzJ3bUgyNUtESXBGWjBuQ05DTUhwZFUxS0oyTkcxNHo2Z0N6MVBDYXJWdGpyYTJaX2xEZ2NLZHZCajZTVEVfanFpcUpBT1JRa2Q3SktpeFlObnZuUUo5eTRZTzEzc1pMajIzekJIREdBZWZUVk14RXRGZnNDRFZuT2JhbC1IbVpLT2RGWVl5MmZXanE4N1hTQVpYMUNsZXJIQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_choque-hoy-sabado-21-de-noviembre-en-villa-palmi"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-06:00",
+  "t": "¡Desgarrador! Así fue el último adiós a Natasha, víctima del fatídico accidente en la Mérida-Progreso",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFJXQkFrMkVRUXdnUUhFZHZEYXBXUy13cnZuQkVnS2hXajZpbWM0eVFiQV9yRUJyVlg2bTF3cFc3YWNhY3MxbVNRV3dtNncyVzgtYlhkbDhiWmN6UlZZbFRWVDQtcnhyNy1TSUFaX2V0RllwaDkxN2kxVGUwdzlPLUxTQ1NJT2xuN0U0SVJkbnZxdDBQWWhBVFhJSFRVYWREUTNUMG5PalVySlpNc3VGN1lEa3NXUDgxckhHeTlLVkxBbU41OE9jblpnY2RrQ3E0OFo2eg?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_merida-5"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
   "ts": "2026-11-21T12:00:00-05:00",
   "t": "Motociclista resulta lesionado tras chocar contra un automóvil en Chetumal",
   "p": "Chetumal",
@@ -320,6 +432,10 @@
    {
     "n": "Caribe Peninsular",
     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUVycDNiZ01yd09VVTNfLTAwX1RNQUZmbHRGYW1heThhOVhhWmlXUkpXc1lidzJ3cnNMNnpsUXQ5U0RCZVFSM3Q2cmpfMC10R0NhUUQ5RGNfYnlSOU1uM2RSQVpXQm5sZDNGTzFqR1U0QWZJeGpoMllQWXlBdmJjemtHYlpBUlFRWFBQWTY0WDhJckxBd2lPODFheU4?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVXhHeGZsVGs5cVJ6R2lpVnlrSnk4Zk5iMDUxczlHeXpfWC1RSkwyMGZHbWZ6dHBqZURCamk3TTVxTmhadXk1cWc2cHJBSmlTcUpQdkxQUS0xdm92TkZKLTdNNXF0RTE3ZXltSW8xV3ZYSkhIT0JGVDREWkZYWUpxNUV3LXAwV3BnRzV6VnVfWHMxdTItY1ZFb2RpeXBTOEVIeG9pcVMyRVZjUXVKSFRLYmRUS3JqOGdDanfSAb8BQVVfeXFMT0syVTMySWJRTXc5WXNqNEdBbTNwLW04U2xDOTNyMWUzTzg3djNlVmlvNDhPc08zWE1saE54X2xWNXVIT3ItVlotSmFqR2FDZV9tcU1WdmFoS1RLU2tHUXhfQnFLbWVkWXhadmljWDBEMU0xcVNhekZIbkR6MXB5UE85eWZLWDRJN2s1azNSYnF5LXdGSHh6czZNSDFqa1p0MVFkQ1ZQeS15MjMzVE5XNHhqUnJIOE1RYzdvX0lZOVk?oc=5"
    }
   ],
   "creado": "2026-11-22T02:58:33Z",
@@ -361,6 +477,24 @@
   "creado": "2026-11-22T02:58:33Z",
   "metodo": "reglas",
   "id": "2026-11-21_chetumal-2"
+ },
+ {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-05:00",
+  "t": "Muere hombre electrocutado mientras pintaba su vivienda en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "hogar",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmlMOTh5LXNBX1ZOZkliejZvdnpBVGgyRkVkYlZhOUh2b0tueW9WU2hMWnlxOHVTeDJ4d3Z2Rmc2RFpzRENnRmxWalc5TndTR01lbDQxTzdBbEc3NWYzYzVfSUZxTGFZelNVY3B0WXJyOEprVElLT1pGd0JLVDJQeGxBZVd3V0pFdlJRaU5BM19yUW5kczg4bW5DSFh5UW1qbF9aStIBrAFBVV95cUxPQnVFM0hZTU1vNWVZWHBlM1FiTDFkMlV2MVNVWmxPdTIyWE9ZX2ZFd1dKODFUbk5DNzllNm5UQ2ZaZDY1WHlDUV91VlREazNxMFdrTmRLXzVWdGlmRHlqTXJnMHB6LW5keERPUXpFUk1YY3RuQ3VqVVFrVXJGTF9zbC0wQ2tFZ1dQS0tLajUyRlFDcm00MXQ1Smk1WWVQTVF6OFNzV1dlZU1PREdH?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T11:03:34Z",
+  "metodo": "reglas",
+  "id": "2026-11-21_playa-del-carmen-3"
  },
  {
   "d": "2026-11-20",
@@ -666,6 +800,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYk5KMTdPaUdnX1RaUERmb1g0RkJtakJUYXREdlQ4d0RwaG42NE9YUHZWT3poTWNvR2NqcHBRQ3BYOUVVY2gzanhQUzEzblFqY0hlRzRfQzVTd0tuTzA5Zk43dGg3QjIxMkYzckRwOHJOdmdvZE5fSGpvbUY1bmVXelEtakZmV3pEcUlWaG4zckhXeDJWUFRDYml0TEUzX3VHZ1lsUFNWb1R5THZV0gGyAUFVX3lxTFBTX3dCVzdvdXBPSzlkUXVOQmlBSGh2NTJIRk4xZ2JTYXRsUFY5Uk9abHplYlhCNFZoTDNtdmlWMVU5VVdyRURRR01KaDI3blNCaV9vcFNQUlplSDdYSG5VWmNNZjQwWmVpYm1KS2o0NFk0MkJTUFlKelRMYmJnYmpuN2FLa2xZY0dNbjRoZzkxczV5VFF3Smh0eThnNURiSXNoWTRTU25uUWJ4Z0ZPQm02VWc?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY01XdFlJMHFSdV9leklkTGg2X3hmV25mMjdjVnJ1aFQ3NlBCZzlkRmM1X0FKQTRQVzNJY3NJRlBzRWRxTnNWbEkxaUxjTlhYWUxjbW14UzN2cnBnbm1NWWtnWGtQdHBzcm9WVW5DdmpIVmkxTTNwS2hWQ3lVN0d3c1VJNE96Nkl5N1hZWVRBa1BYSi1vR2k5MkJoNUxBbGp1WmZCT3ViVGZMVU04RHlwUDV5R01OOWRpNkZLNlV3dy1hQ1hkQXlkTGtuY0FWR00?oc=5"
    }
   ],
   "creado": "2026-11-21T09:36:22Z",
