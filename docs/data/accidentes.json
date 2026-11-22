@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Falla en la batería provocó el incendio de automóvil en Villas del Mar 2 de Cancún",
+  "p": "Avenida Limonero, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/22/falla-bateria-provoco-incendio-automovil-villas-mar-2-cancun.html"
+   }
+  ],
+  "creado": "2026-11-22T18:26:16Z",
+  "metodo": "reglas",
+  "clave_lugar": "limonero",
+  "id": "2026-11-22_avenida-limonero-cancun",
+  "lat": 21.192041,
+  "lon": -86.882734,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-21",
   "h": "",
   "ts": "2026-11-21T12:00:00-05:00",
@@ -2012,59 +2035,5 @@
   "lon": -87.082553,
   "pr": "tramo",
   "sev": "les"
- },
- {
-  "d": "2026-10-18",
-  "h": "",
-  "ts": "2026-10-18T12:00:00-05:00",
-  "t": "Auto deportivo choca contra camioneta y termina casi dentro del manglar en el boulevard Kukulcán de Cancún",
-  "p": "Boulevard Kukulcán, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/18/auto-deportivo-termina-manglar-chocar-camioneta-boulevard-kukulcan-cancun.html"
-   },
-   {
-    "n": "Inspector Nocturno",
-    "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81dzlpQVo0WUlGaGhITzFmVVIxNW5lX2d4dEItU2JzWVI4ZWM2UEI4dzdTYm9iMEFZLTdZU2hWNmJuSC1FUkxGQ0J0bmdva0ZoVEV0eA?oc=5"
-   },
-   {
-    "n": "Vive Click",
-    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU3RTZXJPTzNfVFktRkFiOHVxcDNEbkphT3VVMnFOZ0V0WHU1RHozNmFnRVJfeGpNcFViMEwxMFhIZkRtYjU2U2x3SVdKUjFjWGxxTXNjWjJzWjg5c004M25PX2FMWUI1MXcxam8yQlU1M0hNcXZ6OXdyU1ZVLTdtRFN4YjlMZw?oc=5"
-   }
-  ],
-  "creado": "2026-10-18T17:59:54Z",
-  "metodo": "reglas",
-  "clave_lugar": "boulevard kukulcan",
-  "id": "2026-10-18_boulevard-kukulcan-cancun",
-  "lat": 21.136122,
-  "lon": -86.764841,
-  "pr": "tramo",
-  "sev": "sd"
- },
- {
-  "d": "2026-10-18",
-  "h": "",
-  "ts": "2026-10-18T12:00:00-05:00",
-  "t": "Choque entre motociclista cubano y taxista desata conflicto",
-  "p": "Avenida José López Portillo, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quintana Roo Hoy",
-    "u": "https://quintanaroohoy.com/quintanaroo/cancun/choque-entre-motociclista-cubano-y-taxista-desata-conflicto/"
-   }
-  ],
-  "creado": "2026-10-18T20:30:49Z",
-  "metodo": "reglas",
-  "clave_lugar": "jose lopez portillo",
-  "id": "2026-10-18_avenida-jose-lopez-portillo-cancun",
-  "lat": 21.109123,
-  "lon": -86.957296,
-  "pr": "tramo",
-  "sev": "sd"
  }
 ]
