@@ -1,5 +1,32 @@
 [
  {
+  "d": "2026-11-21",
+  "h": "",
+  "ts": "2026-11-21T12:00:00-05:00",
+  "t": "Motociclista se estampa contra combi en región de Cancún",
+  "p": "Región, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclI3T05weURNOGVIUUxQelo4ZDFNWTE4eHNhVDdjU1h5NVlObHE0NTJWTzVmdy0wYnVpeTBoaURmM0dHZ2VkTy1oM2ZIODl4ZXFWSkFGN0Ftcl9vZHhiN01Od0ItcThGLVdaMHA0ZWUtUjV0bGdyWmt0REpxYnpGb0c1U2NzQTV1ZFJaWUtzNHR3Vnc?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzRfT0JONUhzcUU3NXF0OU1qZzQzOHJwTENaY05BdXZzbFY5aEpkLUhHb1VoSGVLeE5kbzcwYjJIb0tmUGNWTG5KSVZtOVdPaXJyRUNCaWtzSjVkN01yenkzal9EQzBoQzF0djYzTkNTMVhtODl4TmYzMXdhRGNUQThjLWdTNm5KS0hBalpTQmUwSVYzMkc2TVA5Uk9OeHVVcDlUa0dGNjgzT1hUdS1oengyOGU1cldDUXdueTV1Q29hNW9pdW1GTnJ2WVBWbUlTOVIwbmtMLUJwOWJ2cXg0NtIB4AFBVV95cUxQZzRfT0JONUhzcUU3NXF0OU1qZzQzOHJwTENaY05BdXZzbFY5aEpkLUhHb1VoSGVLeE5kbzcwYjJIb0tmUGNWTG5KSVZtOVdPaXJyRUNCaWtzSjVkN01yenkzal9EQzBoQzF0djYzTkNTMVhtODl4TmYzMXdhRGNUQThjLWdTNm5KS0hBalpTQmUwSVYzMkc2TVA5Uk9OeHVVcDlUa0dGNjgzT1hUdS1oengyOGU1cldDUXdueTV1Q29hNW9pdW1GTnJ2WVBWbUlTOVIwbmtMLUJwOWJ2cXg0Ng?oc=5"
+   }
+  ],
+  "creado": "2026-11-22T02:58:33Z",
+  "metodo": "reglas",
+  "clave_lugar": "region",
+  "id": "2026-11-21_region-cancun",
+  "lat": 21.148426,
+  "lon": -86.883665,
+  "pr": "colonia",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-20",
   "h": "",
   "ts": "2026-11-20T12:00:00-05:00",
