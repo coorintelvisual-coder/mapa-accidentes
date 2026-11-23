@@ -388,5 +388,13 @@
  "n|avenida limonero, cancún|quintana roo": [
   21.192041,
   -86.882734
+ ],
+ "n|avenida juárez, playa del carmen|quintana roo": [
+  20.62811,
+  -87.084684
+ ],
+ "n|avenida, cancún|quintana roo": [
+  21.135531,
+  -86.918038
  ]
 }

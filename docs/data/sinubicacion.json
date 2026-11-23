@@ -29,6 +29,10 @@
    {
     "n": "Instagram",
     "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ekk1SXljUVpOemVMckJWaFQzdzd3X3lBeDAtY1lfa0w3SXA2bkI4SENQbFhzcmtZOUJSZU9sZlJzUkdTYnFENTBUTFBxU0xaaWc?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSnFiOXFmSkxOVUhyXzUwTXRHY3FyWnE0dTZwcjNLWHlsSXVuU3VFN0dGRmZBS0ZMM01zalB6Q3ZkdFd6RExtV3dfbC1pS1cxRGFDSFBsd1FZaEpCZHphbXNvcWZfcVBHZ1dwM2JJblBkN3E4T0xIRWxSNjAxWTlfTW5adGlmbGFaN3pGSGtJV3dWSUFGNWNia19KRTVOUWlRX0dlUTZ2RmQxemJwYXg2Zkd1OHZiYWZJRVc4RWs1LVRhZw?oc=5"
    }
   ],
   "creado": "2026-11-22T18:26:16Z",
@@ -53,6 +57,115 @@
   "creado": "2026-11-22T18:26:16Z",
   "metodo": "reglas",
   "id": "2026-11-22_checo-perez-sancionado-para-qatar-y-explica-su-a"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "YUCATÁN Parque vehicular de Mérida se triplicó en 20 años; advierten que diseño de vialidades aumenta riesgos ",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUm1kNFJwU3ptdVAwV2FJbXBlbl9EYkRveGUwZ3JUUGtiT2xfMnJkeG9JZzFJU3dqb1B1VE5wRXdPcXYxWjdpcDJmQnRGcHNna2R0bXdTZ3ozeWN0cWhPV0l5Z2RMQzdGaU9lWTdRWENUY191aGpwSC1lQnpnQS1CbzVDX2x4bnp6WUtjQkFlLURSZEpqMWF5Z0stbEM2SVQ1cV95dlcxbExscjF3TnpNYndpYkhzdEo0R2tjajhYQWZhT25OS3VaSnJZbkc4M1B1NXY4UTRucld4UjhPb3lRakxrcVBnY3k3QnlJb1dtUEM3UQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_merida"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Investigan caída de avioneta Cessna en Culiacán tras fatal accidente",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTjBrRG9ZbkN5WldmNUNhbnh4ZkJXTkhNUUVaYUZHNklaTHlOdzFNZFBmck1haTBOdVBTQjRKa2dWcTgydkdid1c4aFhScnRfUTF5ZFlQblMzcEZYQnlOLTgtNkk2cll1WGNib1lzaHZwUDdxa0dwZzlyR1B0a29MX0diNUQwQ3VuV1lXUjBLNjFBdm1qb0ZVLWY1QlQ0TG5ld2poTDBpckl3M0YtZ2FOZzYzY0xJQWhJb0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_investigan-caida-de-avioneta-cessna-en-culiacan"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "¡una lavadora para evitar accidentes!",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Campeche HOY",
+    "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4d3ZVMHI5dnJ1WXphdUg5OE9DWFVJR2NDSi12a1VJNE9DaV9NMVJWdXJwN2JSOUtjSXRJTEEybVg0WnhaVDQwMU1TVGh5SHFUbDZaSkROXzdGZjJfRG9PYmhKRnAtY2FXMzBzVk1LYlY4d1RsT21pVw?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_campeche"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Camioneta Embiste a Dos Mujeres y Un Menor en Tizimín; Conductor Huye y Deja Una Pieza del Vehículo",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXk3LU0wSnZSWDk0YXZTSHF4ZmFHdUFHRU5YSWVZQ1hLblRKaDM0VVF2YmI0TkRKdkZ5ODc5QW9ZX2JSYlk0VV9KdDZ0WjdTVzdpb2c0Sk9vU0JYNEt3ZUxNZnR5OXJqb1VCRHdPOHdNcWRfQzZNOHpJTHl2UUxlMmpXRTRZYVVHTVhPbTFQOTBKblpzY0RXWVFCc2czQ0ZBUVc1VW5vNE54SkV2Rnp3TmtnUlFnRi1uRE9LWXF5cGxaZmM?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_tizimin"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Pierde el Control por Un Bache y Se Estampa en la Maleza en la Carretera Colonia YucatánTizimín",
+  "p": "Carretera Colonia Yucatán–Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZjY4Q2UteG13UXpPV1FGOE9GMDRXRlg2Q29nd1JhaU1VS09xRDJjYTlKcXptMnduX2ZqV0k4NUtoREZtblVsV09BU09QWEpzVlNiMFYyWHMzbVBvU3lGUGozVXppQXZ2M24zeHg2aktra0ZnckgtenpBcEJqNVBCSElvZUVOTFg4VnpqTWJDU0NIekxoRWlNYjhGbFlPZU9lcjByNXRsZTA4dFlUZF9NUm1WUUctSk0zTF9xdFJxX0k?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "yucatan tizimin",
+  "id": "2026-11-22_carretera-colonia-yucatan-tizimin"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Tras atropellar y matar a natasha parra en la mérida-progreso, ricky comparece ante el juez: esto pasó en su p",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZmJUQkVMajdDV0N3OHVnNHlQYmxWVGo1Nk53WkxENHhnejlpVWRnOVMtT1ludG1IYTRyU2JkWjRtQWxDeU9YeEgwd1BaSWN1MHdNTUhfZmViZWRBSVIxaHY3N1pPRlppRHpuc1VsZ19yYU9lNHYzTlp4WkZ3OXBMOXg4ZUliT0NPTkVJVUdjOUpKWDhyNTliMXNZWWFfQ0Q0ZEhDZ3BXYWU4QkZOeUNESkotSlVldjVuV3lrM05HYWtxUXVJSHRtbXpmcE43LTBwTXhvUHU5U0JzTzRJMW14NHZJcHczN0Q3WDAwTXozaTVHb0c2dnZR?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_merida-2"
  },
  {
   "d": "2026-11-22",
@@ -115,6 +228,135 @@
   "creado": "2026-11-22T18:26:16Z",
   "metodo": "reglas",
   "id": "2026-11-22_accidentes-en-las-carreteras-de-quintana-roo"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Deslave de material, posible causa de accidente en obra del hotel Riu en Costa Mujeres que dejó un trabajador ",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/22/deslave-material-accidente-obra-hotel-riu--costa-mujeres-trabajador-sin-vida.html"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_deslave-de-material-posible-causa-de-accidente-e"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Fuerte choque entre dos vehículos deja varios lesionados en la carretera Playa del Carmen-Cancún",
+  "p": "Carretera Playa del Carmen-Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/22/fuerte-choque-vehiculos-deja-lesionados-carretera-playa-carmen-cancun.html"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "playa carmen cancun",
+  "id": "2026-11-22_carretera-playa-del-carmen-cancun"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Joven Motociclista Lucha por su Vida; Familia Pide Apoyo para Cirugía en Tulum - Diario CAMBIO 22 - Península ",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUpMTkM3MXRmblZLUHlMRkw1MUlnUFRJVnI1V2V4MnRxZDFkSGZFLXBManZKUkp0U3d1ZUM3QkgzX0d4dWMwdWVDekRMZWhOQjR1dlhwWmdsRUNJTDlvSV85SlBiMUExUHJUaGx5eDJsMlIyUWRmNllITEpXcmZUQ0FFMmFFeDVJeUdfVzl1MzczNjlxWjdjRlFzYXB5NDhvVFJ5V0lnOA?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_tulum"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Choque por alcance deja lesionados en carretera 307",
+  "p": "Carretera 307",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjR3a2F5SW9HcFJVMXFJbUpFalBTXzlFZ292aVNvdFhXQ0laNEtWTjR2eUhSc0ZEbnhCaUNHbFpHMXpCbmJ5WVd4TWM3TDZGT2pvU1JpcjJuLTRicGdrMUtWU1FPaE9DMzhOQk9menJIZktWYzZDb0JVZC1wZkFvME0wQkUyUlZsb054ZlJpLTZPTklBLWZISHFXaFdNUHhsVE9uRkY3Yk8?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "307",
+  "id": "2026-11-22_carretera-307"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Incendio en edificio de Benito Juárez moviliza a bomberos; atienden a 2 personas",
+  "p": "Benito Juárez",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "UnoTV",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaFBqR0hkcjFqUWgwVVhyT0ZSdDJ4emlzTEt0WmROdnhRMTVTN2YwNUFUdDZ6VGsyWGJaZ0pESlZhdHV6ZFZoOFVkY0pRV0JXVzA5Y2p6bGh4cWN2OHNiNTY5UXU3Vl9ZRnBCU25DV3dVcVZmSDlkalhaT1d0VV9uc2ttY2JwZmFndGk5b3J6SkV3RlBFSk1lS3VNMzB5QQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_benito-juarez"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Motociclista resulta lesionado tras chocar contra autobús de transporte en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFFqZmdCaXJ6Qkg4OVctdk5wTkZpWldIQU56a1E1UmdEZjQtVkpUdGlxb3o0Z0FiS1J6VllXdlVCTkcwbThIcWxzS0ZDeFZic1hPbXJ0ZkhUN2diLUgzS2p1eFpsYTlxRjBzR3h3WVBKNkJrNENNeXB0clRBbEw2NDd1ejlwc1NUU3lDNjdydVJFdmxESlNUTE80NzFRakZnOGhDNmVrZ05ZdVJWdjRkaGw4QWk?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_cancun-2"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Colisión en avenida Centenario deja un herido grave",
+  "p": "Avenida Centenario",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY050c1M5ZFR2UXZkUzBNVGlNZ19TUzJ2cU5rckRFTzFrdkE0YmxUdW5KSmo0aktLSnlWeUE4UzlON0w5aW9mVExVWFllVmozX2podU1femtXaUJjQnpOVm04VDdqa1pEQm9NcjFWd2k4bXBFR3FQWDJveVljVWhqVEtMb3XSAYwBQVVfeXFMUG0yRG9mNFQ0VUJwajNabk1VMEt2bkdrVTBrZzBTVi14dTZiY2dwZXNZUmVzMy14QTBIRFZGcXd2dVcyVmlJVERGbFNJU2tBX0k2SGVBcHZlTC0wY2VPZFFMVVlfNUZxREtONXFnLTdsdV9QVlMwWUZsMm9Ja3RIV2Ixc0Jza0NjaHQtcXI?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T00:10:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "centenario",
+  "id": "2026-11-22_avenida-centenario"
  },
  {
   "d": "2026-11-21",
