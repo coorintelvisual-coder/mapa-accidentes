@@ -1,5 +1,32 @@
 [
  {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-05:00",
+  "t": "Cinco lesionados deja choque entre camión de basura y transporte público en avenida Tulum",
+  "p": "Avenida Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUWxYLWxKSkJKZHVuOVY5SmtEZkpaWTR6c3VzZ3pmUzlzb3BGTDRXRnZ6d1hfQXk3Tk9SM0x2QzRHdktUS1l1U2UzSlh0WDl4UkpGOUZ4SXlmWFI2Nm1FOGgyY1p4XzVqbEpvZWFYYUJXdUhMelNzc2Fjdm9WZHVvUFVHanVUOU9GX2p3Q0gtYUwxVUNZRGVpVldjTkVkMDR0bVlEbkZwLW5kR05STF9FRE9yRXV3SzBWVGFQRVhpNkxsQ0ktVmFfUkI0XzBPbXpOOHZSZEFFSQ?oc=5"
+   },
+   {
+    "n": "Turquesa News",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMDQ4TkNHU1hMajVNY3B2Q2FSUzhGRmFjaWlNeWtLTkRjRHk0TmN4akxPWldXMWVuOVlxYUlxUG5VZW1EVzBkUWRqTzl2QmFZbzdtTnhXWnIyZXMtNXpFVUdVR0VxbVY2RUhIU3YwRG10VVhtTXhVSFZhTWhoZlJjQm9STTdvTGVLdDk2T2l4X2FuUEtqVEVnOWtBR05CNVNvbDJCV1VIUU1iWFliV0hkS1lNSjByeWs4SWxGOFozcm_SAcYBQVVfeXFMTVlTYlVuNUZuS2d4V0xXZTFLbF9xNExsQXZRRG5CSEstMzZjd0hLeHJVbkM2NVNKTGY3UUhZOG93cmRaRmZBNDJDNHNrODFkS2s4UnJULTBxUlBrbUtVMTQzeTE3ZXNtMjFNUS1PMVhUX0QzUWVzM2I2emltLTVpVlZSMzBvbWpUNzI5Ym1uU0VQSmJtX0szYnZHZGl2aVpoVFk5VGhSWDdGZm4wWXhmQ2hjTUdmYm1fci1wanh0cnNjUDU4cGxn?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T21:12:12Z",
+  "metodo": "reglas",
+  "clave_lugar": "tulum",
+  "id": "2026-11-23_avenida-tulum",
+  "lat": 20.207887,
+  "lon": -87.473117,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-22",
   "h": "",
   "ts": "2026-11-22T12:00:00-05:00",
@@ -2038,74 +2065,5 @@
   "lon": -86.849434,
   "pr": "tramo",
   "sev": "sd"
- },
- {
-  "d": "2026-10-19",
-  "h": "",
-  "ts": "2026-10-19T12:00:00-06:00",
-  "t": "Choque por alcance termina en carambola de cuatro camionetas en Ciudad del Carmen",
-  "p": "Avenida Isla de Tris, Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/19/choque-alcance-termina-carambola-camionetas-ciudad-carmen.html"
-   }
-  ],
-  "creado": "2026-10-19T23:32:38Z",
-  "metodo": "reglas",
-  "clave_lugar": "isla tris",
-  "id": "2026-10-19_avenida-isla-de-tris-ciudad-del-carmen",
-  "lat": 18.654126,
-  "lon": -91.789598,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-19",
-  "h": "",
-  "ts": "2026-10-19T12:00:00-05:00",
-  "t": "Choque entre una motocicleta y un auto dejó dos lesionados en la avenida Puerto Juárez de Cancún",
-  "p": "Avenida Puerto Juárez, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/19/choque-motocicleta-auto-deja-lesionados-cancun.html"
-   }
-  ],
-  "creado": "2026-10-19T23:32:38Z",
-  "metodo": "reglas",
-  "clave_lugar": "puerto juarez",
-  "id": "2026-10-19_avenida-puerto-juarez-cancun",
-  "lat": 21.176816,
-  "lon": -86.842766,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-19",
-  "h": "",
-  "ts": "2026-10-19T12:00:00-05:00",
-  "t": "Flamazo en local de pollos asados provocó pánico en Playa del Carmen",
-  "p": "Calle 68, Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/19/flamazo-local-pollos-asados-provoca-panico-playa-carmen.html"
-   }
-  ],
-  "creado": "2026-10-19T23:32:38Z",
-  "metodo": "reglas",
-  "clave_lugar": "68",
-  "id": "2026-10-19_calle-68-playa-del-carmen",
-  "lat": 20.669512,
-  "lon": -87.082553,
-  "pr": "tramo",
-  "sev": "les"
  }
 ]
