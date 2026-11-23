@@ -396,5 +396,11 @@
  "n|avenida, cancún|quintana roo": [
   21.135531,
   -86.918038
- ]
+ ],
+ "n|colonia obrera, ciudad del carmen|campeche": null,
+ "n|supermanzana 251, cancún|quintana roo": [
+  21.10226,
+  -86.765321
+ ],
+ "n|puente de chichí suárez, mérida|yucatán": null
 }

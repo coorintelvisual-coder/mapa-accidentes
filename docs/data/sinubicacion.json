@@ -170,6 +170,117 @@
  {
   "d": "2026-11-22",
   "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Hombre termina lesionado tras volcar su triciclo al descender del puente de la colonia Obrera",
+  "p": "Colonia Obrera, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/22/hombre-termina-lesionado-volcar-triciclo-descender-puente-colonia-obrera.html"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "clave_lugar": "obrera",
+  "id": "2026-11-22_colonia-obrera-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Especialista da fórmulas para frenar accidentes mortales",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeVQxQ1k4OUoxQ2wyZ3FIaDZQU2k3bndsaGwtOFU1RHJmUVRFTUtOX0NUeVVLWFNQenBCX2U2Q09nakljbzJ4QXpkTGprekUwSk9uN0x1ZkZ2MHAtcEVMOGJsbnp4WFdNSlBQYTdxZVFfQXRpTUk5b3loRHpYVnpobFNwd3BiOWlSdlNpYUNn?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_especialista-da-formulas-para-frenar-accidentes"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Fuerte accidente HOY sobre puente de Chichí Suárez en Mérida, deja un hombre hospitalizado de emergencia",
+  "p": "Puente de Chichí Suárez, Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWXpheWx4NEF2cVdQQlBIdm5YbUVwNW93NnFNMTJ0RjFjc0xWSzB1QTJyV0kwYUo0QjI2NWNIT2R0VVZXS2FxSHhiRG9ZdlpyNjNMbEZXS0ZuQTE0VmpleXlpaGFWX0dZWnd0WllpRnhyWnpUV296VjlYSzNjRnZiRk9PZ1lwSS04Tll2XzBzcjNFdVJCcEQtMEdJWUk0eTUwWlhOd3Fxd2Y1Q3J4UWU3Y0NmWFBiTElOaVVfVS1LMWlqZDVVMWJlaUdfVXk5OGNxdVdOVDJQcGxZNGVt?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente chichi suarez",
+  "id": "2026-11-22_puente-de-chichi-suarez-merida"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "¡desgarrador! angelique boyer publica video junto a natasha parra, víctima del mortal accidente sobre la mérid",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR182OGo3dVFoQlV3RC1mbDNBb1hNd0U4czFETExiU1ZXYk55Z05HR3NfVWZRV3NvbFhxenQxazRSakhyUWpMM0tKajF2ZXlyd0pudENha2VWektYQlRSVVNta045N0s0VEdGdFFKbmp6b3hoc2xKbUtSaUxsVzRzOHVUTThzY0MzRU85dkpGWTFoVTNpam1mWDYxcHNVZHRrSGFDcTktOGZZMkdaN245M2ZOUWo5TGdOeFZPR0VjMFJ5ejVlZHdTWUQ4YTZUbkV0ZWtPQ3NQdzlaSDNwdm1hTGVDWHdyRzhvcHJHMENTTnhoWW5lRzFKbUx5UEd4TTltYWtnVjBMZ0I?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_merida-3"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Volcadura de un tráiler genera caos vial en la carretera Campeche-Carmen, a la altura de Punta Xen",
+  "p": "Carretera Campeche-Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVThtdXN1RTAtZHY0STRJbzFZOEtDc0lEY1ZyZXpvUXFiVTFkUGdheVFhR1BpbmNUdklaaEJWQVd3Vjl1M3ROeW82bzBZWDVwSzRZM3VLRkl0bTAxUWloNUlDTDhjdVRZTDNmSVo1amJEeWZ2LXA0VEQ0SnRkOEc4UTlid18tMXJKeTdzMkwxeXZtQ2FTQVJWdjJNOGlCWGZOdWZGTGd5UW9ZN2lTOXdrUE9yNi1QMFdGN0xuaExtNFloUTRD0gHKAUFVX3lxTE8tN0llcG1rOWt5OFZ0YnJmR1QwakpNMGxET2tNcVhSRUF1Znp0anpVZWdyakdQM3dzeWQyRGZqYlpHVktoby1FS1NRYUp1ZTZmZ0J5NnZCS19QT1RuVmJxOFd2aE5fQ0szTWhiTFlDTVAyWlA3NVpLZ2pGN29saS10eFpIZzhtV1VHaDNlaUUxR0FKMjFFYnJkT3diZEQxVkN3ajdrbXA2R2IyU08xamZ5V2FHQ1pYZ09mUkJ2aHg3VENVWUdHNXY0V0E?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche carmen",
+  "id": "2026-11-22_carretera-campeche-carmen"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-06:00",
+  "t": "Hallan a Hombre Sin Vida en el Camellón del Periférico de Mérida; Presumen Atropellamiento",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3lWMW90X041ZkdneW9faVRIenhNaDNOZjcxdEp4Zi1CYzhEMTlyM2pTcEFSYXJMaUxaVjR5QW5XdEZCaDJzb25QVVFlUmhyWVd0Y3JtUzhmU0RSam5kNUJsamRzNjIzOV8yMnZGLUFkQzB0VDhUYVM1LUwwTGpwVXBGRDJFSVRHRGhJUEk4eS1DWllmeEJ4Vk9pcXRRc1hxbjNhWmk1a1YtYTdLNnBhcnNxYU5LZjA?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_merida-4"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
   "ts": "2026-11-22T12:00:00-05:00",
   "t": "Incendio consume dos vehículos en la cochera de una vivienda en Jardines de Cancún",
   "p": "Cancún",
@@ -205,6 +316,10 @@
    {
     "n": "Quintana Roo Hoy",
     "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQczdMVUNCd2t3SDY3UURaUFNnRUpuNkFZOHY4elowWVE2NmM0c2NodUhPaUc1QTZ0eTlMWnpFYU9yOWdZcXFUaFdBMi1QNnBJcTkwZW91RmlJdkZyM0o4UG9wbmNWRUk3T2Y4RVRtTlk0Zkx2eTN5S0NjNU96TE9iSDlselZ5MHRnbmYzdQ?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3dsSmJKWk9kR0VxMmdsdG5vd0phSEtWenRFYW9pOHZjVkhPQjRCeFZjVm42c1ZCU0pIMTNGcVBodHVEcFlMVnBkRS11Z1p3Z0UtUUNCRnl1bFh1MDh0Vm02UHVleDZLcURJLV80ZVN6NjhuQ1B3SHZNQXF4djNLa1FaN3V3VWZwandocG5CRXp3dTYtajB0Q1dncS1xSUIxSi1yc3NXSGttRFJQd0lMUk1jWUNWOVZoWjJ5V2R0ejVfZw?oc=5"
    }
   ],
   "creado": "2026-11-22T18:26:16Z",
@@ -357,6 +472,24 @@
   "metodo": "reglas",
   "clave_lugar": "centenario",
   "id": "2026-11-22_avenida-centenario"
+ },
+ {
+  "d": "2026-11-22",
+  "h": "",
+  "ts": "2026-11-22T12:00:00-05:00",
+  "t": "Accidente vial entre mototaxi y vehículo particular en Cancún deja lesionados",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemYyOWkwcVFNMUd0NnJyZTNrWEhralBJZEQ0RXljYVNmX0VLMWpmOGtpdldTQXdqZGN0aWdFczhjb0xSMGZ0UHJaekdXOFN0dFdaTGV0Q01FdWJzaEdZS25mb0JjTm5vRTcxSEdUQ2FXaFpZeHBzSTlkR3lzLU93Vy14aUhYNW9paFBoRFFwSTFHcUtDOTV6SWczejAwWmtnUERRTE05ZDFEU1RWSTVSX2JWdnhZZDZtSElCUTJqSUh3R2FHc1h6V21n0gHKAUFVX3lxTFB6ZjI5aTBxUU0xR3Q2cnJlM2tYSGtqUElkRDRFeWNhU2ZfRUsxamY4a2l2V1NBd2pkY3RpZ0VzOGNvTFIwZnRQclp6R1c4U3R0V1pMZXRDTUV1YnNoR1lLbmZvQmNObm9FNzFIR1RDYVdoWll4cHNJOWRHeXMtT3dXLXhpSFg1b2loUGhEUXBJMUdxS0M5NXpJZzN6MDBaa2dQRFFMTTlkMURTVFZJNVJfYlZ2eFlkNm1ISUJRMmpJSHdHYUdzWHpXbWc?oc=5"
+   }
+  ],
+  "creado": "2026-11-23T08:53:27Z",
+  "metodo": "reglas",
+  "id": "2026-11-22_cancun-3"
  },
  {
   "d": "2026-11-21",
