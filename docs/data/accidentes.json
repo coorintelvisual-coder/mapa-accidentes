@@ -27,6 +27,37 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-05:00",
+  "t": "Choque múltiple en avenida Colosio de Playa del Carmen deja a una mujer lesionada",
+  "p": "Avenida Colosio, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONFhXY3d0QW9hcDlVMUtMbU1QTHphX1RWdjExVl9NOXotN2czY1BKZmRTRHU4QUxSNDZSdm1TX2JUSTNFUXY5QlN1aXJIdTRQeUpUcHUwVjFXZ3BVU3dmdzRtZTY5c2NWNGtMc1VkNzM2R2xiTkkwaDdjd0JuRGFqUG93dXZWZEhuRWdIZ29FNElLSk1DR1BlVklSS3MzV3AwUm1HVlI5dnZSUVhBZnBwYi1pQXdvZXZXTWhUR0M4dVE1UQ?oc=5"
+   },
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcEZzVTZkckFHOHh6NzZ5RVhLMWZRVnBITXBKWU1hRlJlQ1pjRU5fZGdlemhrVEMxQllhOG9vMGpXMGZMbjZhVm5tMUpoSVBRTFROdEgtTDV5UHZLRU41UG01YU1uYU5BalVhdXZCd3NiZ2xHRmdlMHd6aW9ZM2d1bm81N0hod2xzTng1M1lyb3J4QUhVT3I3bzdyV016emplM21FVmlVYmdVUjl3UERYQl9GNE5JVXlLTTNPcHpRYkdqUdIBxwFBVV95cUxNT01rTmhLYlk4NFl5ZnVhQkY1NkVwMnZ0akxucnRkQ0liQnJkWVRrWkllM2lYLWRSQ0s3M0RRRVVUVTVQN3N1bXUwOWZFN2RaX2dpWXhBSFhWNjBjQU5WMUtiZnF5NzRpMDh4NWNtMGV6X3RkLXR6S3NrS0hPem5KQ2x6Tm1KSy1jMGZwVXFvWklRWk9kQlNCWGFPUVlZWk42R1ZrdGxqcUU3M3pFN0NjRW8tS1g5dF9yX1U0S0hXekVCTEhhRmVv?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOVl6S0ZFY0QxSWJXbVIwU0dRek1hWS1BMHd1RFYyTEpaQ0Z2UE9pT0tMekMxb1ZycllscktxM0F6dFNSMlNBRjVTc0x5NlpSVWZiZVYtUGhlb0tlVEE1bDVtWWFjbkIwekpvM0cwZEh4NFY3SU9BRVZ3QTNpQkRIZ1FaVFYzV2xKTVBOU2JhUXV4TjVFYV9hWjRndVVXOXZ3MGRkZjRtejAxOEJJbHRlbjBUd19HM1d5NENj?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "colosio",
+  "id": "2026-11-23_avenida-colosio-playa-del-carmen",
+  "lat": 20.638419,
+  "lon": -87.064016,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-22",
   "h": "",
   "ts": "2026-11-22T12:00:00-05:00",
@@ -2015,55 +2046,5 @@
   "lon": -91.846582,
   "pr": "tramo",
   "sev": "les"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Bomberos atienden dos reportes de incendio en Cancún",
-  "p": "Región 69, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/bomberos-atienden-reportes-incendio-cancun.html"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "clave_lugar": "region 69",
-  "id": "2026-10-20_region-69-cancun",
-  "lat": 21.149141,
-  "lon": -86.881346,
-  "pr": "colonia",
-  "sev": "fatal"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Se incendia restaurante Los Tarascos en la avenida Huayacán de Cancún",
-  "p": "Avenida Huayacán, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Caribe Peninsular",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazYwQmY4Q2xTMVdRbzhiOW5YTU5RQWdZR1NLNGhIZnBrUkFJZXhGb0VGb3BmTHJsUjlfbTZabHVFeDU4cmxXOVZVcnpyQ29iYUladGotMkZWcnNvS3NtU0N4M2V3OFFZT0tEajU3N0hfN2JZMklKX0U3OGJwZXZ6Ync3SjZWX3ptejFNNjlOb2U5YndSMHlwSkpTV2wzXzQ?oc=5"
-   },
-   {
-    "n": "Quinta Fuerza",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaVA5cFpPb1R5VDJweGtnZGdLT1hCS19YekZZSExNQ3V5clRFY2wzM2JtNGRvN2NTdWwzT050SFBjQlM1VWVIQnpMTGRqWVg3QkNFWG9zbXJvRDRwN2pqb19sdUQyeWJ1NmVGN1p4VlVkZEs3MmdjWVNlaXprV2Z0bFI1d3ZYUXdDZEhLa3RzbkhRcVdtaVJmRWxNOUJIWUxrMldaTg?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "clave_lugar": "huayacan",
-  "id": "2026-10-20_avenida-huayacan-cancun",
-  "lat": 21.11475,
-  "lon": -86.849434,
-  "pr": "tramo",
-  "sev": "sd"
  }
 ]

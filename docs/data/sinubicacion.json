@@ -1,5 +1,186 @@
 [
  {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Choque en la carretera Mérida-Progreso deja tres personas lesionadas",
+  "p": "Carretera Mérida-Progreso",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHliOWdLRDNNTWRVRUVBNjlockFTak10S21oUjJ4cE5Mai12eVlIakI1TXhUUjdqMS1VTld0Y3NSR2tPTWllZGMzeGs2aFhwN1NkNlZoSnY1SElsazduTjVERFIyeHBia2NHUmR5SnZ4T0R4TThNY2ZKa29XQ09YM1RKYW9yZHhnTnZPSG9LT0ZIV1lJQTV2NjlnMV9heS1sWUlkNzF2b09sakx0RkJTc1RNblVDUdIBuwFBVV95cUxQby1TWmtKOUNLX21pQjhuTU9obDRIWDhwcGdyXzdibDhFYnVZLWJiU2x3NWNJU3R0ZWc5WWI3NmVpLUZuNndKOGJpSXFvLXlrN2pyc1puQzdVd2hNYXBqRzZPcmJwd0c5bmY5WHc3SlRZRjVZMklOZ1EtVnAyVFJweVl2bkFaNXBaWk5xZmo0cWJ2MzE2eXFGSkFUZXk4Nm9rTGUtQ1RMQVhuem95eEk4d0x0THZOTTZwMmJz?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida progreso",
+  "id": "2026-11-24_carretera-merida-progreso"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "¡Otra vez haciendo de las suyas! Un conductor fue captado derrapando en una glorieta de Las Américas, en Mérid",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQT1d5dGl5X1Y5M0habmswNDZTS3dsRFNYR2lJaWl2OWhhUW5zV19qMGxHa0RMdndBTjRsQlVKRWhsZEhsb3hta2pwNlhHcUU3bllGak9n?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_merida"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Rescatan a dos cubanos en puestos de control de Maxcanú y Halachó, Yucatán",
+  "p": "Maxcanú",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2hoNUtndmpiUDlCYl9DR01UUWJzV0xqOHgzX1VqM2dDdG9HOWpaQzN5M0JPbU55WENmc2VTN3VVT2R6OEFJNXh2bDM5OWVmNDJ2Z0F1Yi1CRjNwYmJWY1BuampheUNtdnQ2TXVOOTJWdjFtQloxLW1zUVBNZXp2dDlnQVNodUktZGtURHhvV0UxNVdySFAtVzJndjN2YnlwekZrVXJ2MF9qZ9IBrwFBVV95cUxQOXBmT2VKRU1KSG0zUzJIQWhCNkZoUThwLTVyNWVTX2E2OWd0ZGZnYk1BYWxpaVBzMzYtTU9ic0pEWi1uVjRtN0VoNVdBXzVjRXN3NkdWaHF6NnZBb1BsNUMyWHMwb2x2NkZ4RTdVVy1XalRpVUxJbURIUEpRUW8zN3F0V2VLV2JfeXliZjNndGJFZmowdUVuNVhZYlAyWlhkcFFUbkZ2alg4RVgtLVZV?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_maxcanu"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Un vertido de aceite provoca un accidente en Mérida y la policía no encuentra al responsable",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "El Periódico Extremadura",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOW5WQUJCUG8wQkp5cTFkbGR4WEFGSVJ6a0FLcGZjcWJGZmJRcVI2WTRpcnUtZHM4YXFod2psRHpBRjJHS0dOQmZmTG5zMDFmYUNQekpmbTNHTFVFN1pQblhpaTBLZXZ1aE5pNm93MW00MkdwUEhmdnV3NWExdkpEUjM0YmVmQ1h5LXZ4dVUwdk9ybGcwR1VQblRrY3BuTzZldmFKbzA1WS1femJwdWJMY9IBtgFBVV95cUxNWlJwampoZzd6U2ZBZml4d1lSbzhXLUhKWXZSOGFLZEZ0bk5zV1B0UFl2NEIySzFJdFpwV1VSeDZjbGI4SlZKRmpEOXJqUmRRZ0hPaVFlNjJXNTZ6N3NmV2owQ1dlOGJSLVhzMGlNQ3JRYlNCLXRmOTBmeGpfaUdPS2hfa1Rkb1NKVW13ajRZS0dJMFZNQlhBU0wtdzl5a28tN1BBclBqcmkxazRfaXljX0ZVNDcwZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_merida-2"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Accidentes de tránsito en Yucatán, segunda causa de muerte en mujeres de 15-24 años",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGx3SkZNVl9XaEtJaXY0Q1VKMzZwSEpqdzFEaXBwZXRhb2VmckdzcVl4ak40QTlHUGxxZXJQNmlRU09PMlhjckl1eW5MckZzcmVybERUQUEwbmJ0dVB1ZnUyQkszRDRLaEszTzV4MTRQdEp3TFZXZi10clZwb0pWUVRUUFFKV255eDU0R1JTX05IVEtpRVdQZEthdzdDX1BhYXo5NnppQWpQamhib0xQVUQ1YUFiMkI5V3Bsb3lycWx3NGJXdlI0QWNCUjU?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_accidentes-de-transito-en-yucatan-segunda-causa"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Carambola de cuatro vehículos bloquea la avenida Cuatro Carriles en Campeche",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNS1YdG1mQk52Uk5iZ0N2OUtMNVhxVUtXY0hybExNdnZodUV5OU56cy1GQ1VsY2d0aWNjRzVSTnFPeFpOWVRUdHlfTUFROVIwMHB5SkJ4TVJUS0lwMFRFQm1wNEZ0T0IxcVl1c3FUUlhtS3ZNLS1KWlJCRDR5RUpLQXl2eGs0R2VpZGpDdXpZVmE0VEU0SDR0UjVFT29tRFRBdlc3aDIxZENGT1ZtV3ctcXZYWjlsWXBWSy1wWQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_campeche"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "¡tragedia! muere la modelo natasha parra en fatal accidente vial",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzFWellUeDJZN0tKeDZCSDVXbFo1Y1oyY1VTdHhkeVgzbkZZMUkzbjBDQ2VUVUkwMjZPYXhXWGxYMml1V25UTUhtMDZzTkFrLVNZLWxIVU9WeWRoQksyeFZHZ0E0U0Q5TmdJR3pUYjRXYlRxVXBsekluNWV5ZGhjNVJURExKR19IclpfLUpjRHZEYXFXMVZKMTJjMGVMV0RxRmhVdEpMMERrdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_tragedia-muere-la-modelo-natasha-parra-en-fatal"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Choque Entre Taxi y Camioneta Deja Severos Daños en Vehículos en Chetumal - Diario CAMBIO 22 - Península Libre",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUI3RXFJdWFvQXllbFRHYmJxa2ZsVjhtdU5iSS1MSDJmWTVvSWphWEpXdFk3STFybzYtaVJ1RzR3WkYzLWI1UUdWUC1TdXBWTmdsSEVSdUduejh4QzNwNUY0R1hDYXhpR2RuQlNwd3VfMHNXby1GQmtNUHlJenprT0szR0Q4enBZcU53SDNKeFRucWR4TzJmX01TajZiUFMtZmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_chetumal"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Familia sobrevive a aparatosa volcadura en carretera de Bacalar",
+  "p": "Carretera, Bacalar",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYTk1V1NWTUNwLVpQVmN5cTIzUkJUZHFQYUlIclJfX1JOYUVzN1lhNWZOMHpVQjF5ZGZjczJYWWQxWlVzSHZBMmhJQWo3YmxJZ25hUjZsYk5TREpQUlk2VERpVVZPSlVUSzR3VlJUNmg2alkza1VnVVd5cFVzQUhYSk1zR0ZzTFRxS01TdzBKWmJIRDk50gGcAUFVX3lxTE5UTS15REFpcnV1RUduSkxpUTliVzlLc193ZmZnT3VIVi1QWlNEQ0JaNzZjTmYtc0t6cEF2MVpNYjhtdkRLYnVuaG1LejZiaWthX3lqTEY2djlwOVAtTlEtX2dwTWZLNWF5cFFIT2oxTzFqMm1fRExYUHVzWGE3Nk5UOFdwcW9laVI2bnE5dUZHX1lRZ05fQ1BudnBucQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_carretera-bacalar"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Accidente vial en Paseos del Mar enluta a una familia",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quintana Roo Hoy",
+    "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlJ6S0xHdjNQanFoSFFpcnhHRHRDYUFHS252RnBZM1BIeEs2b21NUlFWc2pac2h2OXRQRk11bHZ0RnBGcFdod2d0bDduMzhXT19WbzZkM204T1EzSE41bXJidUszX2ZxZHMwbDQ2cGxGNlNqamV0aTZDdlNPZEFLaHNpbFg5dw?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_accidente-vial-en-paseos-del-mar-enluta-a-una-fa"
+ },
+ {
   "d": "2026-11-23",
   "h": "",
   "ts": "2026-11-23T12:00:00-06:00",
@@ -207,6 +388,137 @@
  {
   "d": "2026-11-23",
   "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "Dictan Prisión Preventiva a Ricardo N por el Choque en el que Murió Natasha Parra en la MéridaProgreso",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT094WGE0Sl9GaEtiV2tiOVY5a1c1a0M2U0xnV2VlWVJPSjl6U0hGemhIQU9jdEY2TllUWHlLM1ZlUlRhRmhJd0tFSG5xTFRGa09USW9nRy1JSlNRcHVtMGs1S2ZMVjJ4eFFqQU5ZTmFTV0dERGNaelBjQlk1UGpRS0trRUk3M2xBNUhVR1dVcFVkWVdfUE40V1BmYW9Rck9RYmlwODlIc3cwWVRuSHNkcDMtV3FCMy1VUk5VVnhjdVVncS1rY1V1TC1R?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_merida-6"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "¡Choque por ALCANCE! Reportan fuerte accidente sobre carretera Tixkokob, Yucatán (Video)",
+  "p": "Carretera Tixkokob",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWhCeVc1ZTNJdVJiOTRGRU1QN3BmdFRCc0g5VG50T0dVWXFHYTFFM3dpaS1kLXVXa01zc3BOVGx1Z2NGOGgtQ01MRGQ5V2tNZXdHa09PN2RzUC1Ta3dFYUYtb2VId2tZLXlGcHdFNjh2ZGRvbE9TVnlkSkE0RFF2YVVfNC1jand5R0JNek1hSlRzQ240bFBYVThub2llX2VlLVFlRkFtaUdGckN4Uml6M21tb05kOHVHZmkxR0ZfRm1TQQ?oc=5"
+   },
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NOGRZTzRKeFpRVHpjZFdiRzFvN0hiWGpuczRxYVlnZU55N2NjSC0wMW4yUjBWZE45VkZZMXlnVzlwRzhSZ2U1QzRrUXZ3VlUzeDV3UmF3?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "clave_lugar": "tixkokob",
+  "id": "2026-11-23_carretera-tixkokob"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "¡otra carambola! registran aparatoso accidente hoy en chenkú, mérida; iba a exceso de velocidad",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDdnOVZIQWowS1NCZGptYzhhWjJVMWdUSUdlTWxGN2hsdDdGNHUya1hxM2FGc3E3UFhrU1dCMnAyQ2RpRlp3UGFNbDhhbXFIVU55YnlRb2l6R2k2SkNtLVlIYmROY1A1UWx4WEJqdUpmVDNwSUcyanZQY3hGUUNoUld3b2d4TGV2U0gxWUJDSlg0dWRGbnA1aUNzeWtiR0hVS2FRUWhEQ01IQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_merida-7"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "Conductor de fatal accidente en Mérida tenía identificación de Lomas de Angelópolis; se quedó en la cárcel",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Cinco Radio",
+    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd0lvQ3J4b0pOb0c5anc5SFVTRFlIQWNWS21UaFVBYVBGR1BMa3VBd3VZdTZKdFQ2ZUU3b0VoQmxLU2hsNlpac1NhMGpWWnpMbXBqUUpDWHFDYl94d3MySUgxUTJsUFJlSkZHOHF5SWI2VXNycG45LVRJVlp3MHpyTW9wdWpmajZ4Uldnb1ZUcWNDTnlwQUJwSVAtbTNqS2dTdzhyUXZEM2tISzNzbXVueHZPUTYteXpRZEZjdzRITVB3dUpVVVVkbHM0TDMzdDJjMFd4dnpUVU5yV1NaV0V5UFo0bkFWUHdnNEFNVlA4ZVdEMG83?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_merida-8"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "Automóvil Impacta a Motociclista Tras Presuntamente Ignorar un Alto en Tizimín - Diario CAMBIO 22 - Península ",
+  "p": "Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO22",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWRmVGhhUjd1UG01LTIxLXFpbnpZdW9MU2pRa1lMbnF1QXROQ3dNWWV0Z1BweUxranhHaVUzLXhncFBPVEI5Tk1qX2ZTd3NnZ3JvTEkwMjFVZ1N4cHdZVGNJb3B1ZGNOV3RLYWFZalJ2dG5qWU01Y3RkZTFrWVFjV1NwRGtWUWZvUmNTMUlldVV3SnlUeTBjYnVuNHc5MlpybHI1bExfaTk?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_tizimin"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "Ricardo 'N' es imputado en Mérida por muerte de joven en choque",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Milenio",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjB1bFBZRHBsUHlnUmlhZ2ppMUdVR2h5X2JaSHJQUGlGTDgyM1hOaDA5QjYya2FKOE5adnZtMWlmek5QdTMtWndoX2ZBTEN0eTZYLWJqQVpNVzJlMnRSdUtpRzlsaGVCUzR0bnViLU5ZMi15dFFILUxiU2dqYlVqRVJobUZrVHNCbENMWTc1SGt2aG5P0gGUAUFVX3lxTE1DWjNTRUdPb2QxWVdsR0RtdDRnV2xRMGtDX21EclYwRmRZeTd2Z1RGMEtHQTdlSlkwVUxMY1AydXV5SnJlczZjeWsxZ0pNTUpXcWtVejctZXczZ2hVN0xCVFhlRHZqQ293bzlGYzdxdkFsdER2dGFtQlJnZlNjRXZhMFlwLUlyUHhXN0NkcHlaVGRZeVc?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_merida-9"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-06:00",
+  "t": "Vendedor de pan termina lesionado tras ser impactado por un taxi en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeDBPZ0tMeFlsUTBSQy1sYmwtUC1CSDgtdHlCWEdMekhfTFVILUNseGc2d19CaVR3cVpaOElabGQ4a20zVzNZWkIxbDRmWjhfR1dDcjVpT0F5WENLUnl1ZjJhN1l4TUJHbHVLUHNsME5kdFNHOGczZnYtNUQ3eTJ1emhZZGhvb2Fha2Ywandqdkl5UGV1T3FKY2UyWG9BRzFSNHV0ck5mc3ZMd1VLQzZmc3VKOVZ2SHPSAbwBQVVfeXFMTzlVSHRjVGl2WlNlc24tdm80Rmx2NXVCVW44NmJlLUxxYmRlOEI3YVRpd0pwVkJUQVhfQTdXcVhFeldGWmdWX2pmUDkxTWpXZnAxQjlpSzBXRS1oMDk1WDRDcmVsYk5rQ1BLYjg1M1VEU0VFaHBCdGdOVlUtRGVOb2dDaERSdHZzek9zYU5nWjhJQ2lMQ0t2YVJ6Q1pXZmR3ZDltVG10dE04Y3dDajlrcThpMHZNMF92OVpJalc?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
   "ts": "2026-11-23T12:00:00-05:00",
   "t": "Joven campesino pierde la vida en Vallehermoso, Bacalar",
   "p": "Bacalar",
@@ -300,6 +612,28 @@
   "creado": "2026-11-23T21:12:12Z",
   "metodo": "reglas",
   "id": "2026-11-23_chetumal"
+ },
+ {
+  "d": "2026-11-23",
+  "h": "",
+  "ts": "2026-11-23T12:00:00-05:00",
+  "t": "Trabajador de la Cristal sufre ataque epiléptico al volante y choca contra una barda en Felipe Carrillo Puerto",
+  "p": "Felipe Carrillo Puerto",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOamtJSld5NzNWSTFTdmZZVHRNeG43UzJWZ2xZNEo4ZkF6Tno4UzVELWVfRHZYcnl5MHhpaXBETGZ2YTA1V3VvN2trc3ZTQkZaLS1HcmYyM0o1SkZHSVA2bFpnSWFrMVV6Y3Y2eUNIRWVLUDVqeWZwbE9TZjRCeGlmUmxrNG10a00zbUFaRzZTQmJDcVBTeDE1RnJPMlotbU1FOTZzRmFmVHY5UkZjTTI0bF9NSl8wTmhEd3dlek9zZ2wwaC1jaXFRSXVFeThlamNXMlh2dkVCY2pkZlZPdExScUVrYXZ1V1Z0Rnc?oc=5"
+   },
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ29UN1hDTlNSSE9tTGZLaUpDSjlGNTdPbWNNeTRXMVJQV0dYcDdEOWxib2ViYnhVeE5yYXpGaUM4a21xcUpPWF9YajVFUVRKN1d5MXhqUUZXcHU3bGxTbFpaM0pDbG9ZT0NBb0hJNWRYT25nQm9KTFAzUGtoRndXOWE2Z01TVmRRaGpycWlGaVFXSUlRdzg3ZUVXM2dwdTlMUTVnQjhHZkVVdFJCS0pvT3VtZVR0dE03WFA00gHDAUFVX3lxTE5XU1ptVU5XalgzbkFpcERLVUh0OGg1a1lBRUJSeXhqbHFVeGxRMEIyOHlLMk5EUzdwT0RpQ0NEMnhvZVExY19udE1XM1Q0RWNGRmFNX2VmRjVSaWowb3otMms2b3BCVEVMV2ZCa0xNWFJMX29ha0JhUUh1VjVNeXd4MVYwWE5qOXl5VGFSdTVwWENTb2RkVk1ERkdqZWZ6bm5LWk5TRUJpUVVHZDFGcGRZRzZsVVBvUGpoUi0tT0IzTmlmOA?oc=5"
+   }
+  ],
+  "creado": "2026-11-24T17:28:55Z",
+  "metodo": "reglas",
+  "id": "2026-11-23_felipe-carrillo-puerto"
  },
  {
   "d": "2026-11-22",
@@ -16297,286 +16631,5 @@
   "creado": "2026-10-21T10:00:42Z",
   "metodo": "reglas",
   "id": "2026-10-20_campeche-2"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Tráiler con doble remolque queda atorado en paso a desnivel de la Colosio en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "otro",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/trailer-doble-remolque-queda-atorado-paso-desnivel-colosio-cancun.html"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOUtxN2RGZzhwakZYVUx4cC1RWWY2SjZqbnd2cDhEWWlmTmhOcVV0b2RRT190aTVadmF3d0dHSlM5djNwOXRTM3FlTk1GRE5wbE9IZ0FSeW9tb3MyWFFtb1l5NHFLRkx3N0dLTGdyZ0tYUUZIWDlIZlNPekE4YkVjWjhrQnN4QnRy?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T19:08:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_cancun"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Abandona camioneta tras choque en la región 216",
-  "p": "Región 216",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quintana Roo Hoy",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHJYVFI5dm1lNWNnNTRFb1g3MXlSLUhidzdsMmdMNjFZeE1tSWZVek1ZSHM2d2NtVFVnbnZOLUVzWmZpWVNJZUVHT2FjcE5oeUZDOFpCdjZIYkxrRXBYLVIzRWFXSVdkblZJekVjTEpKdlBhdGJ2dnR5N2FuNXdaeFg2RF9RWTdfYjBGR093?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T19:08:46Z",
-  "metodo": "reglas",
-  "clave_lugar": "region 216",
-  "id": "2026-10-20_region-216"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Saqueo de tráiler en Lázaro Cárdenas moviliza a policías",
-  "p": "",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quintana Roo Hoy",
-    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ29LMzMwZURTYlhsa3AteGtaZnBHcy1CMFBXRkVDdzFTNjJ6WkFwaEZzVjgtUTdGbDJtS3lqbHphVGE4aFZhdUdfWHBnVWVwcm1wb0VEMzJlYVA0VWlNbWFvMXh6SGhGWGV6NGxaSFRfVzdqY2Q5cUNrRVJWZFdreVQxWHZ5b2JTczJGVmtsZGpJTVdLOUZlUHNpWU5xdw?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T19:08:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_saqueo-de-trailer-en-lazaro-cardenas-moviliza-a"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Busca a Conductora Tras Choque en Aldea Zamá en Tulum",
-  "p": "Tulum",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNFU1cWcwUjNFWHRjc1kzSWg0UlNJbnNqUmRaMmpmVm9tZWhzeG9UaGE4RkdTN0s5bGkzRnplZ0ZSRW5OaTd6WE5DWW9NOWI2VkNZdEdFcjVOb2ZrcGZGTy10aERSSUVaZmFJd1BVUE5jVlZnMFppOGIxdnNhcmRxTURrUTF6Xzg?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_tulum"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Capacitan a conductores de mototaxi en Cozumel sobre reglamento de tránsito y accidentes viales",
-  "p": "Cozumel",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "El Heraldo de México",
-    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQYnp5ekEwLWgtM2JhVDdnZW50TE5Icm1LOHlEUnpkY1E1a3lVcGtFbktOc1FQOE5vYTl1VEp6VjloVm82cTFWblQ3WjJrZ1VTRXhGOHVKOWNXRm84QUVhYWFZUmJ6U0hRb1dGZWtKemh1bUJxdHdPVk1XdUNKQzB6elJMNXFITlFkSkFISGVzZHVMd1BkVWZLRmlYSDF1MkRBTU91R1lIaWNZdDhlbWtXeks5QzlGTDItZE5ZUV9wRGthZXRqbWtJTmtKVzZCd296ajQwSVZJcWtDcHgwZFE5TWF4UlBXNFdCT1lxOExGc01oNE9tXzVlNnRR?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_cozumel"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Incendio en Los Tarascos deja daños en la cocina, en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2VxUE1iSHFQV21hODl3Z2NWWnNfV0ZfdjhvUXRoUDlmTC0wM1U2LXA5WWtCbk81STNseUM3SGtoQnhkUGJqZ2VHd1dvbTJYcWRMa2dyT0VKZ3FjTFphOXhXT0pvWGk2T1lGR1E5eXJTa0RRLXFXWkNwTnNKenBRU3BQcUNlVlRkTS1HVEg3RWJOemozTjFZMFR0SlVlLXc?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_cancun-2"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Accidente mañanero en la 234 de Cancún deja tres lesionados",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3hPOXhIQUZGTFdOSDJLam9vckR0d21lSmJscU1SYkM3WVlKSFdTZEVjalViUDV0dFBIRG81TnR6T1BlbVFsVHJibHFsdVd6YWwyR2ZxVEt3WTB3NlJhV3ptZUJkUWdDOHJnSTd1YkxFWU9oQ1R2a3p6RGFzQnBITDFyQktjM3hqeWVkMHk4NF9JYVpmVHd1cEU4V09KY1Zz?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_cancun-3"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Hallan a campesino gravemente herido en carretera",
-  "p": "Carretera Periódico Sol Quintana Roo",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOXRsUmpHUG5wWFNzX21VdnFEeU8tNEZwa3hsWDh0clFzcDlVQktzSmhCbVc0SFFuYmc1T2hhNXdpMHk5ZWlldVZycTVYMnN3SlNfQ3dSbGx1WVNMTkNDcl9xR1lPd0JtT25wQkx0Q093dGtJOHBabWVMX21yWmY5Rm930gGKAUFVX3lxTE9JUXpYanIwSUlYVEl5YnhqRU9sSHNYN3ZkdHItUjMzZXVUczNiWlh6SnlLdU5CcXk4VTVDOUV5bFByWDhjOTlMRmN1TmNxLV9iYXlHemRmTDI3VlkyZHZtVThPaW53aUpVdU9SMjZlTGVTNEk4dmFYNkdzY3JGYklPRmFaY0RFNHo5QQ?oc=5"
-   },
-   {
-    "n": "La Revista Peninsular",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS1JOaXl1M0tkRlhFRHFzUWZnaWFxVElDeXRudzN1OUkzNGhKTElQNkdTcW1mQlRYTHNTMkxIN3NBRXRKTklKbTVoWjIxcmhVM2gtWnM3MVVObDRKQkxHOGhuanVlN3Y3VFRDN0VuTlB3NUFON2VnNVo3S1dNai10RHVKbWJHSzBCd3E2aGZ0SHctVzJvSjlYUmtld1dicEswdkNIb0hwRi1ONnZqY2haUm0zNkxwNDdrM2pGMlhuQ0RsUQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "clave_lugar": "periodico sol quintana roo",
-  "id": "2026-10-20_carretera-periodico-sol-quintana-roo"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Choque entre motociclistas en avenida Nicolás Bravo",
-  "p": "Avenida Nicolás Bravo",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGFrckJ3QXpRQ1g1ZVZnR1pPam9VWmZYTU5oZWR2ZXFpTUN3OE14QXR0Y0h2OTh0OHlNbmtFVDNBUmMxV3RkUnU2RGZzdnB3UnR6MWtJU25IMmxLblphWlhpVEU1djV0U2RxeUVXS0tUTmJRc3NKQXNtd1JoZWRBcG8zdTDSAYwBQVVfeXFMT1JxcGwtUEQ5clFOSTNXNzhYaXFJVXJXNnBCbnRJajAzLUNSdVcyMzFoUjZOVm9wLVZ6dVdILVJTMzRVcHZxeEw5YjV3RTFNZW1sdEVQOEdybUVWVHZYM0UwTHRlaU5kMlhhN252ZjgyY0hCU3NQeENFMWhrME1jRGFIZEtZdC0yMkdhdDY?oc=5"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "clave_lugar": "nicolas bravo",
-  "id": "2026-10-20_avenida-nicolas-bravo"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Accidente de tránsito provoca intensa movilización policiaca y alarma en la comunidad de Buenavista en Bacalar",
-  "p": "Bacalar",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/accidente-transito-provoca-intensa-movilizacion-policiaca-alarma-comunidad-buenavista-bacalar.html"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_bacalar"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Dos automovilistas terminan lesionados tras fuerte encontronazo en Playa del Carmen",
-  "p": "Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/20/automovilistas-terminan-lesionados-fuerte-encontronazo-playa-carmen.html"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_playa-del-carmen"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Reventón de neumático provoca aparatoso accidente en la entrada de Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbml3VHVnd0Z3T0lfOHVURmpfM3JnNlVnSkVNYzJhWnZTS29hZFFxMTBWQUxIbnc1cF9xRjdZWklMdlJLaFBXNVJYRDhuYmY2b3UtSkZJaXl0OWRlajFUblFudHgyeHJNTjhfMW9MWHNYX1pZVjhaZGJvZmlVeVA2QXZZdHNsSWtoZEh3S0dnUEJPVUMtOF9MTzZBZXF2cmxGYzlNSdIBrAFBVV95cUxOa3BHM2VRQ3RKZktNemVBQy0wN25uSkxHTl9tMVlTRlNha1hSVTdoa0pFbndpeFpKNnZJWlh0LUZUUHdhYnVKSElxVlMwUEdWS0JqSVRvazFMUEZubmtUcVZNM3lsSnF5Y1poTDVSOXpyRTYzUmNyUXVTc1ZRRUZVNG9qVzg5aVRndE4xQ0U1V0w4dFA0al9KaTJjaW5ib1JtVVM2dEgxN1NLSkVx?oc=5"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_chetumal"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Tráiler arrasa con automóviles frente a colegio",
-  "p": "",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Dd2M2LXZ2aC1palBPbm4tb3pnYjN2cW1zY2pXVlQxT3FlSHpLV1RYMVQxa0hrNk1KQkRYM2tkR0lxcVlTQXFSaXlIYjB1bElaai1fRmFPOGhzbHZiQTZBc3lleWpxckFJUmtvOEx5aGNPeVFhQnh0V2s5M0hmN2_SAYcBQVVfeXFMT2JNMFRkVU14M0FlaUktVWZRaXZXZlNmU3NWUzBWQmtfTi1veGVPVjhvdFg2SUtoV2ZJRWlWa2p1MktmTFFXRjVsdjlhbXRTTnA1TE45M0duVG9SN3VLMmFiZmxlWTM0OGZTVHBJTzVMazd0dUZ3RWNydUV2NnN0RkZOZDd4alMw?oc=5"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_trailer-arrasa-con-automoviles-frente-a-colegio"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Mujer termina en el hospital tras choque de motocicletas en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmVDanNVSVF5cVRQSmVLcW1ZWGNYR0hRalRKOEdHRkxsT1lRWm9kZVN4c1NPRUx6dVhSRjhmTzdUZEc0b1hycW9JZVJ6Z0pwZ2R5Rnp3WmNuSFFFdnZ4ZEhWb2J6Y2ptYVJSRGN0S2hlR0RfTjg0LUN2TDJlQzJvZ1AxeTVYeC14Q001aXp3?oc=5"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_chetumal-2"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-05:00",
-  "t": "Tráiler choca contra vehículos estacionados frente al Conalep de Chetumal; conductor intenta huir",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ1IxRUY0ZFRQTXdwMXIzZjh1Nm52OTRTVmZDZGpwVTVVNzh3anhDbGdndFd1cjFoeDdnYWlnb01vUmFZV21oWFdvZVAxTGpaeExvNmJBdHQ3V28taVVfdnRoOVBnUi1JQUkxNDJJcmFDOEM0Y1JJdVNXQ0Joc1dCdmxqcU9ld2JWRXNfMVJGMFRXWlZLbS13blhHOURFLVFTTWUzOXd3TkE1dllQT1RmTFUyRlpsaWNBT2xIX2hR?oc=5"
-   }
-  ],
-  "creado": "2026-10-21T10:00:42Z",
-  "metodo": "reglas",
-  "id": "2026-10-20_chetumal-3"
  }
 ]
