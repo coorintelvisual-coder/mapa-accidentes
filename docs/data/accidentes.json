@@ -1,5 +1,27 @@
 [
  {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Carambola en la Av. Portillo de Cancún deja un lesionado",
+  "p": "Av, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOC1wT1FuejBTUElxeUFBN2VNcnMtTU5nQjFXZm5ZdG1lUXdwZnFjSGNDalZ1U1hwVVJrbW9SdktJT3ZHQ2M5cm9tc3JoTU1JQWxYamF6WlB2OHBWNzdUQnZ4OU1kT1hrWmVRazRNUGdfNWpNZndXVk9NRFNpNW5saW9XZzJqNDRGaGp2Q2wza2FuQk1pZ3hTb25rNA?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T22:23:43Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_av-cancun",
+  "lat": 21.148945,
+  "lon": -86.854494,
+  "pr": "tramo",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-24",
   "h": "",
   "ts": "2026-11-24T12:00:00-05:00",
@@ -1975,83 +1997,6 @@
   "id": "2026-10-22_avenida-lopez-portillo-cancun",
   "lat": 21.150418,
   "lon": -86.874437,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-21",
-  "h": "",
-  "ts": "2026-10-21T12:00:00-06:00",
-  "t": "Automovilista no logra frenar y choca contra camioneta en Campeche; daños superan los 100 mil pesos",
-  "p": "Avenida Resurgimiento, Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/21/automovilista-logra-frenar-choca-camioneta-campeche-danos-superan-mil-pesos.html"
-   }
-  ],
-  "creado": "2026-10-21T19:14:44Z",
-  "metodo": "reglas",
-  "clave_lugar": "resurgimiento",
-  "id": "2026-10-21_avenida-resurgimiento-campeche",
-  "lat": 19.835938,
-  "lon": -90.552543,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-21",
-  "h": "",
-  "ts": "2026-10-21T12:00:00-06:00",
-  "t": "Conductora intenta esquivar baches y motociclista termina chocando contra su auto en Campeche",
-  "p": "Avenida Miguel Alemán, Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/21/conductora-esquivar-baches-motociclista-termina-chocando-auto-campeche.html"
-   }
-  ],
-  "creado": "2026-10-21T19:14:44Z",
-  "metodo": "reglas",
-  "clave_lugar": "miguel aleman",
-  "id": "2026-10-21_avenida-miguel-aleman-campeche",
-  "lat": 19.855506,
-  "lon": -90.521308,
-  "pr": "tramo",
-  "sev": "sd"
- },
- {
-  "d": "2026-10-21",
-  "h": "",
-  "ts": "2026-10-21T12:00:00-05:00",
-  "t": "Bache deja a joven motociclista en un hospital de Playa del Carmen",
-  "p": "Avenida Constituyentes, Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/21/bache-provoca-caida-motociclista-termina-arbol-playa-carmen.html"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWdYZ2FaQTVLVXNwNXNmUk9vZDc4YmMzMUFTX2RRT0g3UWstX3U4WGdqUmtnYUQxbDdwbzdsbWkzSGl3QVFHT1hhWjdnNFROT1Y5ZFJXZm1EcjdaSVBZemROTUxzZkh1ZTJkdU1VSzU2WTZRMFpEUUcwS0tCbmlkcGhERDktWHRXQS1DM1FEWFhGOEdEYWJ6V1dFeWM1c20tc3g4blRCMjZxUjAtMEhNWmxJRTVEbmM?oc=5"
-   },
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUQ2ZS1sTjZHZzZKRlF5bDM4TjYxZmpkelJBQUZFWU1ScjZ6TW5UUnhoRWVYdm5XQzRRTWxtWllfMUhqLWFEUTR4cmlNN2RZOEMzX2xpZXdIVVJGZXVZYnJFUGQ1Y1dra00xS1BTd2QzdzlCY1JpZVZmNXdKTnEwamJ4c9IBiwFBVV95cUxOR0tabVdNdTFxQ1VMRUZJZ1oyN3hUZWFHOXlLZ3NlSkE1YlFuM1JvNVc5R0tobGEwLTUtZlptOFhwSXlGcmVFMG5GQW5Uc2duQUdnWWdxMXg0X2V3Y2FJdm5IS2g2SnhEX3d2VERfdTU5WF9WUlAyZ2loVnNTSXBIMWQtanhrTVB4cXNj?oc=5"
-   }
-  ],
-  "creado": "2026-10-21T23:10:55Z",
-  "metodo": "reglas",
-  "clave_lugar": "constituyentes",
-  "id": "2026-10-21_avenida-constituyentes-playa-del-carmen",
-  "lat": 20.63302,
-  "lon": -87.074699,
   "pr": "tramo",
   "sev": "les"
  }
