@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Grúa se incendia y termina calcinada sobre bulevar Kukulcán en la Zona Hotelera de Cancún",
+  "p": "Bulevar Kukulcán, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR2pjUFQ1bEJ1bUU1RVRxSnYtMDNfSG5iODhicHdlcnFjUVVaV25JdUxGN0ItZnAxSlV6Nl9JQ25jY2VsOW9jZzJfUGJka1VWa0xqWHRnYWs0UERUZzA5dzd2VklRVXB4NUlBVVp0TndvbTBLTUI3ZklsMFpJbmJCWGhsVl9LVFJvZUE4dk5DYmJWcjRJbDVmc1JybkdfMUJlS1U4V213YzFWYXJWbjFyYkc5TWV5OWY3ZUdMcjJtTWdjMEFBM1dxV9IBzgFBVV95cUxPWlBvU3R5dDFqemNaZHVGOUFyU0hzWENoUUlDMUJWeWZMRG51LUc3TVh1VUhRbXJtRTlSME9SMU1ZaFB0cFRHQV9Nak1NZFRwWlJNVXh2MW5UampFS1hZY0M4Xy1feUkwVTI3Xzg1U3V1bXhfbmp0ZjRUeVhRd3l2aXhZemotbFQ3V29xTk1YeW9vNENoeHgzR0VySzEzY2FRRUxyYlJ4SWcyNkEtdzRYZjQ1LWdHSGNYZll0dW1La2FJT2pEeFkzblQzRkpIQQ?oc=5"
+   },
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNnZfNldTQ0Y3V1lBN0xDaGtYVVM1OUlJSlQwTVZLS0t1ZXRmWldJVnRKb19mRkRzMEx5SUd3eFpPMG8xNU0xdV9JWS1qZElQMWFMYlJrcmhTbWpVTEc3dXlzSlZ4eGd0Slo1MDhiWUVrb3lnZlFTUlhGQWpPdG5QeDloRkdBZkw2Y3N5X1pJc0RzTkU?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T12:35:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "bulevar kukulcan",
+  "id": "2026-11-25_bulevar-kukulcan-cancun"
+ },
+ {
   "d": "2026-11-24",
   "h": "",
   "ts": "2026-11-24T12:00:00-06:00",
@@ -56,6 +79,10 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR2hoNUtndmpiUDlCYl9DR01UUWJzV0xqOHgzX1VqM2dDdG9HOWpaQzN5M0JPbU55WENmc2VTN3VVT2R6OEFJNXh2bDM5OWVmNDJ2Z0F1Yi1CRjNwYmJWY1BuampheUNtdnQ2TXVOOTJWdjFtQloxLW1zUVBNZXp2dDlnQVNodUktZGtURHhvV0UxNVdySFAtVzJndjN2YnlwekZrVXJ2MF9qZ9IBrwFBVV95cUxQOXBmT2VKRU1KSG0zUzJIQWhCNkZoUThwLTVyNWVTX2E2OWd0ZGZnYk1BYWxpaVBzMzYtTU9ic0pEWi1uVjRtN0VoNVdBXzVjRXN3NkdWaHF6NnZBb1BsNUMyWHMwb2x2NkZ4RTdVVy1XalRpVUxJbURIUEpRUW8zN3F0V2VLV2JfeXliZjNndGJFZmowdUVuNVhZYlAyWlhkcFFUbkZ2alg4RVgtLVZV?oc=5"
+   },
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQThWWThSdGtwNVJQRVRtd3ZDOE5jX0xuaG5RUmJncTBRcVBnZDdjOGY3ajE1YnQzeHk1MTJBTW0zQm9OV0xLLVlNVGpqTHBXaEJNUkNJZUhaVHZNSmFaMkNGQ19IenVEeG9EOGlSTVBSSXFZZEdnZkdvWHF4eDFBY0x2ejk?oc=5"
    }
   ],
   "creado": "2026-11-24T17:28:55Z",
@@ -92,6 +119,10 @@
    {
     "n": "Diario de Yucatán",
     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGx3SkZNVl9XaEtJaXY0Q1VKMzZwSEpqdzFEaXBwZXRhb2VmckdzcVl4ak40QTlHUGxxZXJQNmlRU09PMlhjckl1eW5MckZzcmVybERUQUEwbmJ0dVB1ZnUyQkszRDRLaEszTzV4MTRQdEp3TFZXZi10clZwb0pWUVRUUFFKV255eDU0R1JTX05IVEtpRVdQZEthdzdDX1BhYXo5NnppQWpQamhib0xQVUQ1YUFiMkI5V3Bsb3lycWx3NGJXdlI0QWNCUjU?oc=5"
+   },
+   {
+    "n": "Yucatán a la mano",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFZzUlhPWVVmZGN3SDJtWTg3bURjd0ktRC1DUUJCZWo3bERjWjViQi1PTkIwMUpkOHlCTjh3X3dISWthajlfQTJ0OTVEN1YxeGpFWVAwSkx2aFA5ejJjZkZNSGFXMTBjN3l5QzNoSHNMSXhPMG9WdU40OU9ScUl2WDRkb28xVGRBaUg5N3ZXZ05JazRlZ2piMGRPOUFtM21SSWtqaXowTG85clVrSERj?oc=5"
    }
   ],
   "creado": "2026-11-24T17:28:55Z",
@@ -314,6 +345,24 @@
  {
   "d": "2026-11-24",
   "h": "",
+  "ts": "2026-11-24T12:00:00-06:00",
+  "t": "Accidente en restaurante de Vietnam",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdWUzWGg2QWNFTGFmaFhHN09lem15NG82Ym9saXV5OHZDNmVhWHFfQmczNjduZjBISTRqX1ZXaTFldlo3Uk01UU1RdVJod2o2NTJrYmxueG90eS1MSDR4NDZMUTdIcTBVbzVmenBON0ZtUE5OekpSa3hWSFQzcnkxSUM1NlZlYWVCTHFtMEsxMUdJQ1NvaGhFSHotcmRrb21zQ0MzV0FWOHVzamF5?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T12:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_accidente-en-restaurante-de-vietnam"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
   "ts": "2026-11-24T12:00:00-05:00",
   "t": "¡tragedia! muere la modelo natasha parra en fatal accidente vial",
   "p": "",
@@ -477,6 +526,24 @@
   "creado": "2026-11-25T02:14:49Z",
   "metodo": "reglas",
   "id": "2026-11-24_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Se incendia Biblioteca Jurídica en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzBPM0p5dEw1VlFsUTczV2xlR0NCYk5zSlBYWnBHa0ZtS1dWbXhWUllVU0VjblA0ZGJGR0xoamEtY2dKTTNiT08xRHkwZ3ZCeUpiVUlodjdSNV9lX3R1bHVBbklTZmV5dVQ4WGRLRVhCZnlsdkduSlBpNk1FOEx3WHdBR09zLUl6TU1Qc2s3cnFibzQ5QTZEbl9JSVJKWW5iNDBMWNIBpAFBVV95cUxQVzBPM0p5dEw1VlFsUTczV2xlR0NCYk5zSlBYWnBHa0ZtS1dWbXhWUllVU0VjblA0ZGJGR0xoamEtY2dKTTNiT08xRHkwZ3ZCeUpiVUlodjdSNV9lX3R1bHVBbklTZmV5dVQ4WGRLRVhCZnlsdkduSlBpNk1FOEx3WHdBR09zLUl6TU1Qc2s3cnFibzQ5QTZEbl9JSVJKWW5iNDBMWA?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T12:35:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-24_chetumal-4"
  },
  {
   "d": "2026-11-23",
