@@ -1,5 +1,55 @@
 [
  {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Cortocircuito provoca conato de incendio en una imprenta de la Supermanzana 92 de Cancún",
+  "p": "Supermanzana 92, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVE5NlFWd1BURXFkOFIyaDNhbEphMmhHcWJDT1BLX2czMm5pcjlncGpTdFJnZjZ3VVdVcGc5RzRhNlVqY2toNjNRVzFwSjhyY3MydUVGWWNvdTNLYU1KVk5Pa1VSaWJHZXZxRF8xMUZsendDSDdNek5HcUZmX3pzSjg2emhNM05Hb1JHeldFNGtVa1VrMEdoSThrMUt1SFQxX1JibnhYaDk1V09Qd00ya1pFQVFiWlJ0dEhIX1RrTEhkWmY2Z2JzQURqd9IBywFBVV95cUxNaVE5NlFWd1BURXFkOFIyaDNhbEphMmhHcWJDT1BLX2czMm5pcjlncGpTdFJnZjZ3VVdVcGc5RzRhNlVqY2toNjNRVzFwSjhyY3MydUVGWWNvdTNLYU1KVk5Pa1VSaWJHZXZxRF8xMUZsendDSDdNek5HcUZmX3pzSjg2emhNM05Hb1JHeldFNGtVa1VrMEdoSThrMUt1SFQxX1JibnhYaDk1V09Qd00ya1pFQVFiWlJ0dEhIX1RrTEhkWmY2Z2JzQURqdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T02:14:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "supermanzana 92",
+  "id": "2026-11-24_supermanzana-92-cancun",
+  "lat": 21.1679,
+  "lon": -86.852302,
+  "pr": "colonia",
+  "sev": "sd"
+ },
+ {
+  "d": "2026-11-24",
+  "h": "",
+  "ts": "2026-11-24T12:00:00-05:00",
+  "t": "Choque contra ambulancia deja a mujer lesionada en puente de Playa del Carmen",
+  "p": "Puente, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DRV Noticias",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSUZ2TEhtUFN6bXc2Ml85LXRnVUZiV3pwLUI0RnB3SjZaLXpONnZmMGNqSF9ZeUJ1N1NXam5XYThBRjV2b1NyZDZ6b0sxdnE3LTZ4V05PYUQ3U2laVm1RemlqQTNhM1ZTczAtQ2gyZ3BvUkNPSkxWZnFxdFIyOUdPWXJOdTNfbGN1OXZ2V0p2a1NuWXNVY1Ayc3R5UEN0UUFvbUZNSg?oc=5"
+   },
+   {
+    "n": "Noticaribe",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdzFadlJmMFc5TEMtcFdJT0Q2M0I0QjVQUkViT0dKUXNaLTRsMzBzTnVVb2pKTF8zWEJjTWR0ZnVqbDFNMzBNOEVoVUNIbkgwQnVUWnptNTctbE1NMDE1NWYyaVhOMWo1dDU4cDkyY1NpZ0twNEl0UUh1MFFGeVhNMTZTUk1abURQVHZvUEhNZm1VZE9YNHdhOEdXS1dHSzdMNkIwZDFOZmU?oc=5"
+   }
+  ],
+  "creado": "2026-11-25T02:14:49Z",
+  "metodo": "reglas",
+  "clave_lugar": "puente",
+  "id": "2026-11-24_puente-playa-del-carmen",
+  "lat": 20.659246,
+  "lon": -87.076495,
+  "pr": "lugar",
+  "sev": "les"
+ },
+ {
   "d": "2026-11-23",
   "h": "",
   "ts": "2026-11-23T12:00:00-05:00",
@@ -1998,52 +2048,6 @@
   "id": "2026-10-21_avenida-constituyentes-playa-del-carmen",
   "lat": 20.63302,
   "lon": -87.074699,
-  "pr": "tramo",
-  "sev": "les"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-06:00",
-  "t": "Tráiler choca contra pipa en el malecón de Champotón y provoca derrame de químicos",
-  "p": "Avenida Carlos Sansores, Champotón",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/trailer-choca-pipa-malecon-champoton-provoca-derrame-quimicos.html"
-   }
-  ],
-  "creado": "2026-10-20T23:07:19Z",
-  "metodo": "reglas",
-  "clave_lugar": "carlos sansores",
-  "id": "2026-10-20_avenida-carlos-sansores-champoton",
-  "lat": 19.336286,
-  "lon": -90.735937,
-  "pr": "tramo",
-  "sev": "fatal"
- },
- {
-  "d": "2026-10-20",
-  "h": "",
-  "ts": "2026-10-20T12:00:00-06:00",
-  "t": "Carromoto repartidora de agua queda prensada entre dos camionetas tras choque en Ciudad del Carmen",
-  "p": "Avenida Central, Ciudad del Carmen",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/20/carromoto-repartidora-agua-queda-prensada-camionetas-choque-ciudad-carmen.html"
-   }
-  ],
-  "creado": "2026-10-21T04:29:58Z",
-  "metodo": "reglas",
-  "clave_lugar": "central",
-  "id": "2026-10-20_avenida-central-ciudad-del-carmen",
-  "lat": 18.652171,
-  "lon": -91.846582,
   "pr": "tramo",
   "sev": "les"
  }
