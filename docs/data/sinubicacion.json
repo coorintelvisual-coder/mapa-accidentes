@@ -11,6 +11,10 @@
    {
     "n": "Por Esto!",
     "u": "https://www.poresto.com/yucatan/sucesos/2026/11/26/conductor-jeep-huye-chocar-dos-vehiculos-lateral-periferico-merida-2.html"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYzBCTEJvdDZxNmxwSDE3S0FHalo0MHRNUVppRTZpTTBYMVl0X19ESWNTR3ZiTFR3Rm93bGRmTWdGWmNabkJPNnpPbGg0a2RIRE5qVkJxeDRoVklDbWhHQkxZbERFNlVSLW9WMWlHVkZVNkZBdGdEeGtQZjBxUWtjLW1xTGVDNXRoOUlCdzZTZjlSdkE0NXVVY19OLV9FcWIzZmxudldyU0RfOHVtQndOT0pob2lkYjFfM3ZKcVFWOEZEN18tcG1mM1Bn?oc=5"
    }
   ],
   "creado": "2026-11-26T14:58:15Z",
@@ -34,6 +38,83 @@
   "creado": "2026-11-26T14:58:15Z",
   "metodo": "reglas",
   "id": "2026-11-26_grupo-de-choque-contra-sector-salud"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Hombre sufre descarga eléctrica en Seybaplaya y es trasladado de urgencia a Campeche",
+  "p": "Colonia Cristo Rey, Seybaplaya",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/26/hombre-sufre-descarga-electrica-seybaplaya-es-trasladado-urgencia-campeche.html"
+   },
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV29MY3E0WGVkS2hHa3M4bFRHV1FHdnNRNUpDdWJjMk5FWF9laWQtR3hSZVVQM3N0eHdTT2w0ZGlDZnFydjJHTms0SlMyNTVaenowQXZPQUpyS1FXLW5QS2p4YlQ4UTNoMEREcW5KUm01Z3pNLVZUN1RFQkdmNXo0cGJDMzBLV2JfVWVLTXRBd1hyclhjS3Jmd2JNdXU3eEdyTkJFUmZWLXZmM0FPMnhhbjBwSzJfNU5Gb3ptcXZmN3pndw?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "clave_lugar": "cristo rey",
+  "id": "2026-11-26_colonia-cristo-rey-seybaplaya"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "¡Aparatoso accidente en el kilómetro 43 del periférico poniente de Mérida! Presuntamente por la velocidad, un ",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hWWVRblBlbHJYUVR3X2YtT0dSSF9EaW4tLVBaRVZNbmJZTDVieUp4S2xLS2prNFZOLTR0THdBOUtUU19zOW1GZ1pmdk1IbTdmZ3pqblhB?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_merida-2"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Vinculado a proceso por accidente en la Mérida-Progreso",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Quadratín Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUhwaE4yd0ZMS3ZMdEQ4RHJRQ0pNRDRTS040RVNtc2MwZDY0cTk1Y2pVRDBfV1VrN1ZBcHVPSzJjNk96TU1TblhfaV9SX3J4T05PS2MzNXQ0ak5iR05hQloxMG1STFAzUG1CNTM1eWhrV21XM3BkSDJ3WnZ4bkFkcE1sd1hxMnVwUUdKUHZGa0t5WER0dkFUMFUwQWRjSHdT?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_merida-3"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Buscan a conductor que ocasionó fuerte accidente y huyó",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1psRkNHOWQ3UjRTM3pZNTBjWmFpMzNvV1lKZEJwQkdIZ2ZKcjliUU9RQW5aWkpkN1MzVWhaeUNvd0RydmxoNnAxR1JSakRLcUVvaUM4ckttMENzdm5RMkQzTENCemV2SGRoOFBnUUEwY0VCbGxhMWxWaVJoSUh0UURzclQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_buscan-a-conductor-que-ocasiono-fuerte-accidente"
  },
  {
   "d": "2026-11-26",
@@ -125,6 +206,79 @@
   "creado": "2026-11-26T14:58:15Z",
   "metodo": "reglas",
   "id": "2026-11-26_tulum"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Fuerte colisión provoca volcadura en calles de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQjNOWE1RanZtUUFqeThnUVI3WTRJUm9jc00zZk9WNVMyLXYtYzNXNWQtWmNzU0RSR0JrOTFmZFNfcnZVOF9BSVN6UUhueVV5a0UyN0NUSGhxZXN0MVhVSEtlM0ZqOC1fWVBJdHd1dml6Rl95UnR4NG8xVDBDX0FyQlNrZGhhTTFLX2fSAZIBQVVfeXFMT0ZNMzdwUV9MSUc0dUFfRXpjRzNIN3IyaVAxTVUwemZUMGx0QTg2Qk9YaEJTaFBhRk14OTBGTjI1OEs3RERaV0xndWpwOTJHN3ZhTG1HSGdHV0c0aVhtRmRPT2JPSFpZV3lDUmxua0MwODhPWThKZUx3clRSbS1VdHN0bDRWUHBDbUJlTHJkYk05Ync?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_chetumal"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Motociclista termina policontundido tras choque en la carretera federal 307, en Tulum",
+  "p": "Carretera federal 307, Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Fátima Vázquez Digital",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2dxZDR1YVBlRVdCSmMza29EQTR0M1pOdldodnBXNUFia1BzeC1HcXp6bkFZNVFjMjhHb0xwT0NmTXBFSFVlOXJqWExaQWRRcWZzSUtTM1pEeEgyc01EUlRlT2VPb1IxeEIyUUVSeVdLTjNzNVN2QU1aNHVuSWRKRXQ0LXhVTUpwbGE2ME5NcmxlcEtJZ19TWldOZFdEUGNLMThDS3hUellxdk0zMWhWdHdUb2JTNlFhQWdIaFdOV2VOU0FGSGY4?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal 307",
+  "id": "2026-11-26_carretera-federal-307-tulum"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Denuncian abandono médico a supervisor de la Policía Estatal de Chetumal tras sufrir un accidente vehicular en",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSVBsSXBXMDhJNFVYWVVwN1llRl8yYzFGNmV3VWx5bXNWeGdsdUdhelI4enNqSGdHR2xyUEEwTWMyejM2ZWtfU2dVN2NHSjFydjFla08tQkYydlJaS1dkcnZ2dm5CYmwwdTJJOFJkakZXbDlvVXNkdzBSTkRuRkJsMWFGSHVFenVvQkUwQl9JRTFaLTRid29iN052eVlYbWh3VTFCRG9yU3hsbTV5TTR4ZVR6aWw0U3VCOUtNcm5ZeVJzSGlJbGRic1pxMkVsTDZ4YmJmeXE2SmVyaTlG0gHcAUFVX3lxTE9JUGxJcFcwOEk0VVhZVXA3WWVGXzJjMUY2ZXdVbHltc1Z4Z2x1R2F6Ujh6c2pIZ0dHbHJQQTBNYzJ6MzZla19TZ1U3Y0dKMXJ2MWVrTy1CRjJ2UlpLV2RydnZ2bkJibDB1Mkk4UmRqRldsOW9Vc2R3MFJORG5GQmwxYUZIdUV6dW9CRTBCX0lFMVotNGJ3b2I3TnZ5WVhtaHdVMUJEb3JTeGxtNXlNNHhlVHppbDRTdUI5S01ybll5UnNIaUlsZGJzWnEyRWxMNnhiYmZ5cTZKZXJpOUY?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_chetumal-2"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Incendio en Playa del Carmen deja tres vehículos afectados y moviliza a cuerpos de emergencia",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZTJDZFV4M2J5UHRDTkpJZkVnZUpQTFJtQ01pRjNobkNTT3ZodkRoQmlDdVBhWV9QTzhnT2V2UVk3eTIzb25kcjc4RGlBYmVpenlDcGRkMEdLbklkalRIRS1jNk8xYVhreW5mejJSUVNFY0JUNnljbldRVERwVlV6OTBvdmhwb2pwWWI3cE40TG43SXVnWHFHR0FwV0tJWDBfRFRaTE9fR2V1ZUp6NF9JZTJTbkFWMnhTTXAyOFdkRzZnQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T23:42:48Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_playa-del-carmen-2"
  },
  {
   "d": "2026-11-25",
@@ -16528,178 +16682,5 @@
   "creado": "2026-10-24T10:47:10Z",
   "metodo": "reglas",
   "id": "2026-10-23_cancun-4"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-06:00",
-  "t": "Automovilista embiste una motocicleta en el entronque a Chiná; hay dos heridos",
-  "p": "Periférico Pablo García, Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/22/automovilista-embiste-motocicleta-entronque-china-heridos.html"
-   },
-   {
-    "n": "La Revista Peninsular",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZVaU10cmNQOGE5b2lNNGpuQmozZkZ4Zm10RlpKc2NqV3dLaFFFX3p2Y2YwRkY5NlJSdVNqU0JuV2NNWFhDeTBHSGtoQTBqTUNyOWxienRRZ2NjVlBXUEtGdXZ5NVdJT2NSTnZNMlJ6aWhZZkxMV0lUR2FaMkhKdjdaYWdQdElLTEE1cGdqZlZfNmFlOElaWkMxQm5QVVpRdWszQUY5NjZQTGIzY3VackpJXzRhcDhjVERSWmFyU0Ezdw?oc=5"
-   }
-  ],
-  "creado": "2026-10-22T19:10:27Z",
-  "metodo": "reglas",
-  "clave_lugar": "periferico pablo garcia",
-  "id": "2026-10-22_periferico-pablo-garcia-campeche"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-06:00",
-  "t": "Aparatoso accidente en la carretera Carmen-Isla Aguada deja una moto destruida y dos heridos",
-  "p": "Carretera Carmen-Isla Aguada, Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/22/aparatoso-accidente-carretera-carmen-isla-aguada-deja-moto-destruida-heridos.html"
-   }
-  ],
-  "creado": "2026-10-22T23:14:02Z",
-  "metodo": "reglas",
-  "clave_lugar": "carmen isla aguada",
-  "id": "2026-10-22_carretera-carmen-isla-aguada-merida"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-06:00",
-  "t": "Rescatan a tres pescadores tras naufragio frente a Yucatán; uno sigue desaparecido",
-  "p": "",
-  "estado": "Yucatán",
-  "tipo": "agua",
-  "src": [
-   {
-    "n": "Golpe Político",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTV6TU1nUnFhVnI0czBqamF1VEk0VXBLTllDdDU5TEFSSFpvZEFVbW55Y1YtQ1ZlekYyY1lyV0N4LVJRVGNpNlQxNmRDc01lcUJjbG16X3JzWjhUV0d4RGhrVkRtY1ROMnRNUTFmNXdlZEZSMXdPejBxWEprbTNnQ0FrTkRXT1l5dnh4NXhITkRmbHFwR1c2UktWdV8xNVVURVRSOWlKZ2ZlNThOQ1ZjVTg1LU1qV0xBX3Ew?oc=5"
-   },
-   {
-    "n": "NOTIVER",
-    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzRKNzFIeldLbmdqWk1Rb3YtQjNyZU9oM1h2b3Fva3BnU0ZodW5TbEp4dTF5VkxkWUhEYUVoZEQ0blhwUTJPdnMwY3NMT1RaS2N3UXVDOXBoeW9mVHJBNTZRaG40QWM0ODJqQkc5U0tXeFk3bWhWZlExdnFyNktUcWx2MEVyWVlFRnFhUnlxcGlPbzJBV0tJMTRVei1MVHFXcXpJTUlBbWRWaWFISU9hSTFqZERkR0IxeU9JcU5qRldBNk11ZjBaQ3JRbENlbGYx?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T09:55:45Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_rescatan-a-tres-pescadores-tras-naufragio-frente"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Derrape deja a motociclista gravemente herida en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTJwaDFLU3NvMFpmelJTRm5odFJHM1NvSEZWbjlZNmVEczlhQ1lhd2JZS0VCSkQ3QkY3dWVKRHpoRHVuMXdLMnhnMWpuLUJmR25RUFRiRGk1TDNrNnhtd0dfeXkyWEJEcllGUjM3WUZVZTFrZ3o1VldDR0xEeWRfRHV2UWZHMXk3TTZveNIBlAFBVV95cUxNOUhEcFVFNlQ4cExaaGlBUHE3VDRzUGY4QTZTS0NPeTYtelFodEVnT0pfdlFPVjFjTm5UaWYwVkxMbUcxYlJWV2puWGpMelVPVDFMNW8wNVhRaVJ6UThmTTZ1R091RU82akxvczQyWV9HRUNXVlFTV3pNc01DU090cXYwRkx6bWdxbERreURxVzdmRlIt?oc=5"
-   }
-  ],
-  "creado": "2026-10-22T15:03:48Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_chetumal"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Chafirete a bordo de troca atropella a dos mujeres en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXpmZDd6d1N0RjFIemlveW9rNjl1U05BMzdEY3NlYVhhNVZ0aTRJXzc2T2g5RE1tLTd3YTJEd3V2ZjMwYnBiR0Nwc1lrSE1ORy1Tbl8xSW1QSmN1azFuaUlmRHdIV3g2bmlwQkZEMjFEVlZlMlJRVFBKNVJodDFPOHF4T1dFZ2VKOGlHakxQV0p1NFJaeDI1d2JnOFFVa3hVU0E?oc=5"
-   }
-  ],
-  "creado": "2026-10-22T19:10:27Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_cancun"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Conductor se distrae al volante y termina chocando contra un taxi en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0RqRU1xSFB5SGRQOExWSk5pWWtGVXFvWG1Rd0cwc3hPQzNHdTJhTjhjWmV0ZlBuNFNmekpYVUt5MWdXWFE1WGRJSEFmenltV1ZPMUZTbmgtLXpyLVR1ZWJscGdaUUNMQnRRcUpiSzNRUndCS0VBRF9xNmQ4WFVMWlBXOGhKaXBGeDZWOTJfMU95UW9URkZuQURn?oc=5"
-   }
-  ],
-  "creado": "2026-10-22T23:14:02Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_chetumal-2"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Capacitan a 200 mototaxistas en Cozumel ante aumento de accidentes",
-  "p": "Cozumel",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quadratín Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2twVEN4Y3lSa0l2eG9qbmgzOWNFOGhXcl9haUV1ZkxtQ0pHcGdiWGlmbEJvMTF3WlUyV0xDckVYTWNabWNPVk4xaEhwdTZVUXF0THZ4dmpWN3BlelcxMlZUVFVRdl94amdBVTFjRFAwUGVwSEJGWTZqeWFBOUlTeWd4NlhkSng0eHVzZm5fenU3ZjNfbHhLbkFUbzhYc0Z2U09FeVB2WQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-22T23:14:02Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_cozumel"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Impactan mototaxi y motocicleta sobre avenida La Selva en la Supermanzana 107 de Cancún",
-  "p": "Avenida La Selva, Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/22/impactan-mototaxi-motocicleta-avenida-selva-supermanzana-cancun.html"
-   }
-  ],
-  "creado": "2026-10-23T04:34:12Z",
-  "metodo": "reglas",
-  "clave_lugar": "selva",
-  "id": "2026-10-22_avenida-la-selva-cancun"
- },
- {
-  "d": "2026-10-22",
-  "h": "",
-  "ts": "2026-10-22T12:00:00-05:00",
-  "t": "Incendio en restaurante Los Tarascos de Cancún moviliza a los bomberos",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "www.salrevista.com",
-    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORUVFRUlXQ043Z19jSENocGtVWkxKd3YxZkZuZTloNWgyc2VQM1h0UXJTWUdGS2dfMkVoSUxIRFI3VXZlY2syeGlEazE3Q1Z6NzhMLUhuLWZvaTZfbnFTR2N6cDJQaTQ3dmlJb0F5NlI3eFN4VERDc1BDNUN4UVFDZUl3enJwY1gweDFoWnJXQXVaUHpJdlJkNF8yd29oOVowYXpudnFyZVRHZw?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T14:55:00Z",
-  "metodo": "reglas",
-  "id": "2026-10-22_cancun-2"
  }
 ]
