@@ -22,6 +22,29 @@
   "sev": "les"
  },
  {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Mujer motociclista sale proyectada por exceso de velocidad en avenida Kabah de Cancún",
+  "p": "Avenida Kabah, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcHIxa2dzRUNWUTM2OWtDN1lTSjFkVmJpWFczRjF6enRHUlBFSjVGT1J6elg1WXF1Y2xIUDZUS2hwUGEteDdGMm9GZWpmQUVvaWw0NnlPUXhzNTlNeTdCV0ZsRUprOFBBX2FSeGQ5WXk3QlRuYjlOVUtfdm9hOGVKRmtMc0F0b3BQaVJ5azBTcGxFZWF4eGxKNlp0NFM1RnFXcGkybHN0SEV3Tk5vcGdWV3hSN29nNHJRbHJlRVpUVFBqZV9pYWw5VkxLVDHSAdIBQVVfeXFMTmZnTE5MZ0pBNDVFanRzS2trbHVkZVNLbnRmMFFybzk4bnR1dXU5TDJ0RFR5QnZkY2ExTmhULWtOVzlEbnNKZFF1WU1wT1RQVFhBc29ISUVIdk1vTWJ0YVNOVk9pRURsODV5LWJaQzBKMTlDWjNLMUNwNzZCZEtlY3RaZmxJd3FaRXJzdWpXYzk3MnNxM1RzVWpicHFoWWhPZ2Zqa29jZGRXdVVhb3AtbkI5RFp4X0FWLXM1TWJ0UGpxdUNrOGpVOG1hUEZJZzYtdFFn?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "clave_lugar": "kabah",
+  "id": "2026-11-25_avenida-kabah-cancun",
+  "lat": 21.18728,
+  "lon": -86.86798,
+  "pr": "tramo",
+  "sev": "sd"
+ },
+ {
   "d": "2026-11-24",
   "h": "",
   "ts": "2026-11-24T12:00:00-05:00",

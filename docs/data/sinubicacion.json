@@ -33,6 +33,14 @@
    {
     "n": "Por Esto!",
     "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmV1d2Z5NlVmeklFc1RhaUlyQjE1WmUzWlhBUXpHeHR0amFzY2xTLVM2c1REYWxtRnRpMjU0Y2tiTVRiRnBXRkwzZ3ZiX0cxOUdCNDZBTlhMRzJoN29rSUxabS1iTU4zdFZmaVVpMlh6QXY2UklvQk5LSGhtUkRCWDdMZEpST2YwX1h5YjA4YXNEb0lzTHh1YVYyZUR2U2JGa0U1bnd2cUF1SkVBN2pubmhmeVdVN1E2RU9tVmgtONIBxAFBVV95cUxQRXc0TTFtdlNzWnkxdUVTYU1YdXNqU1IwSTN2WlQwYjN3R3V5Y2Jid3ZUNFRrdmNaWkdUaGJhLXZ3THhhUy1FVFJISjRTWW14VUdPOUJTQjF1VlNWZUpPYWVud1o2RFZhNGVlMWJabVRGc2NnQmhxYjJmbmJCVV9nZERDSFRnZUQxQ1ZkN1JHWVlidTNCUTdZWlpTWWJ6cjJ5VXZQTHZtYmFhbjhWdEVTTURsQS1XTFNLX1FQODhtZDJ2N3V1?oc=5"
+   },
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcUNmZUEzeVJzNHBuQ05KT0VZNV9Ta0VxTkMwRDlGRVlLT3lBU0hwVlR1eE94NlZVOW54aklJdklQemVLVmF3NFBmaUtSOEZpLW5GcXp5dE5OaTJJQUZVRzAtblJyRUhfUmg3R0YyZS1jTFhBQUZ3SXBjeVI0WmJSbQ?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQi1QQ3RldHpqalRIZ3hmaDJiUjZxSmNqaVk0akhUWkx3WllQa2plNmpLSU1kdzRUaUE3QUJndUhSOEF5SU8zNWFVNWg2cmpfdGtZNnhXTDFla0VuTGtQMXFqNXB3TGFOY09LMXNyX0IxdFExOW9lSW1ZMmdtbFpEMFRKdEttb0k4cXd3MWNpWjczejhmT3REQng5YjRCdE1RRDJ3eWFOTGVTVElVUWp6TnFB?oc=5"
    }
   ],
   "creado": "2026-11-25T22:23:43Z",
@@ -195,6 +203,80 @@
  {
   "d": "2026-11-25",
   "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Diez elementos heridos tras accidente en carretera Campeche-Mérida",
+  "p": "Carretera Campeche-Mérida",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Azteca Aguascalientes",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSThxQ1hRSENNZmoxU3BRSUxuZmg1dlBqb1R6RFFNSC1xSkVFdWRLQVhvdGZzZDB4aHFIc3RyaWxWX1NUWW1rVTcxYURYUjZtdUhDcDhXUzM3ZDNJbDBRWFl0Y1RRY0NnMTRMQ1ZsTVJtLXY5UlktTTVISnBrNWMwYUp3VHFtT3hYUTVqdlBENnp3M0NNUlA3NVFKSGJKVnRHOUtiZENlcTFuelZVMHc?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "clave_lugar": "campeche merida",
+  "id": "2026-11-25_carretera-campeche-merida"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Explosión de tanques de gas causan incendio en la India",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRXFSVG5NZnhEcTJIQnM4cFZOS1NEbnFncDlRdS1CckNYY1BmTTMwS0d1cENFaFlFS1lrbkVscUdmRHZjU1BickdoeHdyakRtV1BqWXgtbTZ6Ul9nZkFPeVQxVk03MjVkdHRBUFBiTDlQcXpxelBNTnBUUkpLT2xRRnJUWUMxRDV4dmlPUDY0RHU2TU03R3RVWDY5MDVzNm1sWndtUXIxTVNuNE1WeXRXLXEtRXhhSHVfOW1Fbk5INHY3UmRxWWFwbDNHUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_explosion-de-tanques-de-gas-causan-incendio-en-l"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Camioneta se incendia tras chocar contra poste en el Periférico de Mérida",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdEhUWGRqa3AxMTNJRFlod1VfaGl1eUJvWGFtRzhtY2NRc2w0RTNUUWIxaGU0a3B2TndITHJOcmZqaVpCZWVzVEl1bjFWdzRiU216LWo4Z0kxUEVSMmxzOVp2dGJwYXhWM1ZUNGl5Nlo3dmFabllRWDdIV2JTMUxqNjBvREpZLV9JaS1FV1pDcFhRWk1GNS10RVVBQUh1ckl2bFR6ZlJWVk5ROUHSAbABQVVfeXFMUFlOTDBUaHU0X1FhUGtkb2dPWHdqOEYwRUVkNzdVQ05hcG10MXZ1eXptRTU4ZEJlMFItaHc1VDVDYVYteDBzR2otUWNvdFRDM0Vza0MyX0l0Wjg0TTdmcFRTMDlZZTBQdGdyajhacGVCb3B0ODlkRy1FTld4QlNKMkpQVG9sZEZMaVpzbkNhcl9HVlpFNVlSQlJNdURzakh1SmsyZ2pSTE9JaENiMGprMTk?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-11-25_periferico-merida"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Instructor de parasailing cae desde 60 metros y muere; todo quedó grabado en video",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYzdBWmFROThEVnQ5QWctNnBUSWhVd0Z6Y0tmQWNhamRFbDVZa2RNMlB5REY5T3FuNTZNUlpvY2FPVEhqY2hPVFRhZURrZERqeU9lY1p0eV8wRmRVYlN0Qlh6TFJjY0NFcFNvSm9OTU03NVMwRkxuOXN0elp6R0dfWmFna0h4X1FGVDBac21Ed3JJQWNvd3p3MVdFNF94Nno4a3V0TXh1WUcyVkIxVk9ZTVkyeDhkTGNjVDFITUdLMmF1SjVUakNKRHpZUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_instructor-de-parasailing-cae-desde-60-metros-y"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
   "ts": "2026-11-25T12:00:00-05:00",
   "t": "Grúa se incendia y termina calcinada sobre bulevar Kukulcán en la Zona Hotelera de Cancún",
   "p": "Bulevar Kukulcán, Cancún",
@@ -242,6 +324,115 @@
   "id": "2026-11-25_cancun"
  },
  {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Incendio en fraccionamiento Pescadores de Playa del Carmen deja a tres niños con quemaduras",
+  "p": "Fraccionamiento Pescadores, Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1BvekFnOEc0aEg2RG9NT3ExRUthaHY5c3FSckJ0Sm53RHZyWmpBMF91bGZid1BTNEY2VjhGaXY1aFVWbU1sTXVyYl9TSjFkNjBORWtGc3lrUkdhcG0zekF1RldyTGNSenZUZGtlN0xNWFZVQjYxVHhrdFkxektjVG1iVmFvVWUxZmFKVExTQ0pOSXJ5NkhETm9pSTRhNUtnNXU4WVdWblJLTlZRcWdDRlVRTkI4blhGbHNGeXo2RlXSAcYBQVVfeXFMUGdadGFsVlhwejQ1NjdTRGxocUdTNWdQcG9FZWtjNmtTeGlxRzFZZXRzNllRdy1Ca2p6MHB0NUdYMnBVUVVGcUxnX2RZOVFwRS16UW53cnhicXVScEpDRzFjaGdTUXp6OUlMV3hzVC1iS29xMXB6NDQwLXctQnlPRm9hWTVYVlBXN3hxcnNZUU5SS09ZbmxmcWpOSkdzSFk2NWNLV2xiX3BDeUN2amF3bTFpV1JIMWZ0VnJ2OWFsR2pkMEVrR2Fn?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "clave_lugar": "pescadores",
+  "id": "2026-11-25_fraccionamiento-pescadores-playa-del-carmen"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Cortocircuito provoca incendio en la Casa de los Saberes Jurídicos de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclV1c1pXdHE2bTROdnRlZ0xQUnBETVdHbkZUTFBWVDgtNnl3dFdCd19oSVBvbWgyRENQNGJ6cWlhZGpnVDljTTc1Wm1YaV9SM0o1TjlGQzRveVoxcGZPb2ZvNjgtMEJzMjVPZG5taUhOaHRWcXBrRXhIMFEwZFpjZXZIUHN2cFR6QmRXZ3JOTzRsbVlYYnlSVENJU19TMDRaVWRZdjdsaFVLdmc?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_chetumal"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Autobús del Tren Maya y auto particular chocan en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdEpmajJBUkJ0NTlIZ1VGdGozeXVQcWJNZ2hLRGtjS01fXzg4ZVVuWUVieVl6eUN6TThWeDV1cEhwb1dvR3BfU3RfOS1QR2lYd1FkVEdzSjBaUVFUOU9nU3FXTWM2SDgycE1iYTA4TG5EOGxuWS1ncEprR21MQUVReWc2dG1talU5UVNSd2N3Mjc4bUVKYmY4a0V5S2xjLUN5Wm1RTTVtYUtSYWlqYndJ0gGvAUFVX3lxTFB0SmZqMkFSQnQ1OUhnVUZ0ajN5dVBxYk1naEtEa2NLTV9fODhlVW5ZRWJ5WXp5Q3pNOFZ4NXVwSHBvV29HcF9TdF85LVBHaVh3UWRUR3NKMFpRUVQ5T2dTcVdNYzZIODJwTWJhMDhMbkQ4bG5ZLWdwSmtHbUxBRVF5ZzZ0bW1qVTlRU1J3Y3cyNzhtRUpiZjhrRXlLbGMtQ3labVFNNW1hS1JhaWpid0k?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Motociclista se queda dormido y termina estrellado contra un auto estacionado en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmlySV9lcS16bEdUbTZBcDh0aXdjMXFvbl9FSlA1VUVmaTRmaHFDNnJTTkU4SU1rbmxvV2xPRDB5Sk02N0hVbHJSTTdOUWlEZUhIempKTHNaQV9KdGFtWW9CWE5mZ2prSXNVdlRDdzhWMXNiRzNjQVNtaFVfM0ZmM25JX25UVzUyZy1GQjBSZUJfVnpqNXdhVEZYYm44ZlNBX0lhcGVUTDlDemxrNGxiMENUS0dGN0hFTEE?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_chetumal-2"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Se incendia automóvil frente a colegio en Cancún",
+  "p": "Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUmF3NUxPWDNGVHlPRGNZWFJlWVp4di1IMlh3bi02aGRjcnNIZ0RPZEctLWJoSHB0M01YR1JXUVZ1OWMyTVZnZFRrTl9QU0dpejZ5Y19PM2Fyek00M05sbVU0c0FSd3VmMTZPZklGdTVhd1d1U2EtWHJkVVozR1laV9IBiAFBVV95cUxOOG5kYlFVdTY1cy1XRFFkUzY0ck1aaVU0VExBRWozUWQxRDFid1Vjc1F0d1ctMkVURkc5cVZPNG9JSTZGY19fNlh1M3N1dlUzREJNRG9MWkZpT2VCci1Ta3NvUUo2ZW5tSXcwQWlSa09GTUlYY2cxRFNUOWtad2E0eFVSd1BGQTNh?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_cancun-2"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Microsoft activa código rojo tras caída global de sus plataformas",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0pTMnRhODJvb2tSVGNQVkh2VEtxMWp4ZTNZc3hoVkNOcGpxbU9aWklaaDJRczlSNDV6QmpFNGdYVkREWXNxOWR2MmYwUG5Md2puYmw0b29WeTlwLUxUVW9qWmxBajNyVmNXN2JCR3lvQ1BIRGNnN25SenRNMXNVQkxBRDdVel9uLXJUaVRyRXYzLVhEUEtv0gGfAUFVX3lxTE5oemtxdXJoNXExY19tejYzNjBIamxFZXFZWWZOdmtZdlZnRGp4SVExS0oyQ0xrbTMwYmh1VmlsbGtFYWNneG5oY041ZjRwQ1VMaFFwbFYxUC1wdnNXUVgzWkUtTVlsS2hMdFVueXFWVDFUeWdESXV6R1NIZkIwR2dPNFJwVS1MTFJTY19ub0ViamF0YXpaejBYY1E1ZWJiNA?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T04:54:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_microsoft-activa-codigo-rojo-tras-caida-global-d"
+ },
+ {
   "d": "2026-11-24",
   "h": "",
   "ts": "2026-11-24T12:00:00-06:00",
@@ -261,6 +452,10 @@
    {
     "n": "La Revista Peninsular",
     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRDRlcGFsMEhoUGdESG9TaWw5X28zNFh0QVY2YkZ1N1duS3BpYkQtWkluclNkNEF0YXlyZ3drRklzRkFIV2FxTk53X1NhN0N3TjBQZVNOMVZWSWdSTTZjcFUzVkgweVpUeHJ4SVhaTTQ5b0NkY2dOUkpNUlZFcWFQOGJYb3N6SXZoMmh0R0hsbXQwMHU3UWtoNWFYQTNFdVRzV3Nvci1FNHk1R0stWFFOX2pDVWJBMU9BVGg0SmpB?oc=5"
+   },
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xUjdVMGM3LTItSjA0eGRTVk03ajdpNnhiWXBsMDhERk1sMFdOUzRoR0Z5Vmc1NFloUjd1SkQ1MVpnZGticm1GNmY2VGtsR2g4Ymsyd3l3?oc=5"
    }
   ],
   "creado": "2026-11-24T17:28:55Z",
