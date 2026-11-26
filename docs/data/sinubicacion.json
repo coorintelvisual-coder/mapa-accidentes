@@ -1,5 +1,132 @@
 [
  {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Conductor de Jeep huye tras chocar dos vehículos en la lateral del periférico de Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/26/conductor-jeep-huye-chocar-dos-vehiculos-lateral-periferico-merida-2.html"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_merida"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "¿Grupo de choque contra sector salud?",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yc09hT2hUM256N2U5WXE0TFlSOTZSN1Z5NmFtczBsYUx0Z2FkVmh4b0dTS1FJbVhMVzRVQ1RadTlJRENDdS1jb3MzVUo2NnlxNEI0SVVyMlZvd0R3RlpDS0RJSEFtTnlUTWc?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_grupo-de-choque-contra-sector-salud"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Incendio consume objetos acumulados afuera de una vivienda en el fraccionamiento Barrio Maya de Cancún",
+  "p": "Fraccionamiento Barrio Maya, Cancún",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/11/26/incendio-consume-objetos-acumulados-afuera-vivienda-barrio-maya-cancun.html"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "clave_lugar": "barrio maya",
+  "id": "2026-11-26_fraccionamiento-barrio-maya-cancun"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Hallan casquillos tras reporte de motociclistas en Playa del Carmen",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY3I5RHQtZkd1ZkdMVHRjUVNGalpCdEdrZXNuX2xGQ2QySWRIS3k5LU9IeVpobTlnQ0NOZDkweHQ5QWc3Qk52QnIwMGN6R0RKcExTMVJKaTltZ2xsVktwRXBPaTNoalk5OE5iOEJlTjdBWVJLamlZTzMxVDZTNEIwYW5YSVdHa0UxWVdEYzBsbjRBaTNOSTZKUl9n0gGiAUFVX3lxTE96WXNoTjNWWU5NYTF6VnNybDNhU2FzTVpRWk9BY1FqM1d5ejJ4UGJnVjRrbXZyRHljWk1kQmZwb1J6NDA3WXZ6clFUTmNJTlNjQ0ZIV05oN0Fld3QyMXp0cEhhTFR4ei14VzFsZGd0OTBVYXpmek50X3FGZVBwQUFxX2x0YnNJTEJyMEFVRGpFMi1mVjRESUtBQWM4ZDZKZGpzZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_playa-del-carmen"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Accidente en obra deja lesionados",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YQUJpZkVWc2o1NUlaTG8wWjhtdERQZEhYVHA2Qmd1aGEzVWZEVFlYdzJ0eE9vc2tkdzdCRmdlZnFDWWEwTDFWcGpGdWg1aGhRN1pMMkhWcDVBT0ZnemxhNWxCOVVvUGl5OF93S9IBdEFVX3lxTE5xTUh3cFNRRVFhektQb0lSQVVta05ndGp5aFJaOVJudDZaZHhTUDBEbmxmcGt2emdQQm1NTW9QVE16ek13MDFtM09wbUN1Vldsb2hKS2pHSnYzTkh5MUNGTnZtRFZHT2RfckswQVhCZmkta1lJ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_accidente-en-obra-deja-lesionados"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "ISSSTE abandona a policía lesionado",
+  "p": "",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBieVpsXzNvdmlEanNYOXUwbWQyUnZlOXRtUVRVSndVUDZjYV8yQVRyNG43U0VlTG1MdWF5Y0N4ZWtJMHFEVFFGSTNrVlJTbFFxbVl3LVduaUR1ZEJOcjBaZm5Fc1g1VC0xRGdVcTJJUdIBd0FVX3lxTE56SHJRcmVKdnItUUg4NUwwRTFUelJJdldRY3VqRmxXX2dURXhTd3RjaTFGV3diSXkwandEYVlsWHVLUWJpdFl3QXlhLUpJVmh3WEdWMnU2VTFLVkVfdEd4eUJaMTRwUWpyZUdib3Zvd1h6YW5URUFZ?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_issste-abandona-a-policia-lesionado"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Choque entre un colectivo de la Red Tulum y una moto dejó un herido grave",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario Huarpe",
+    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZEVSZE5oZVB0MW1WOFBzUndrUnFObVpmLVVTWGFWUGllNlRBWUlBZ1JKODZlMVg0NGEwZ294N3dlOUptaDYzWHh2Qm50T3RGUC1RczN2MFllOVRPUDVjSHYzYXlBVDdnc1BUTXhPc3dFcUg4NkFIa2xHM0Fnc0VVek5GbG14QW9ZejdpUE4wVnhFT2p0ZFZFR3JUVUVFZVZpRDdJMUVLU2pMdmVqUWNhUFJiRlVQRzV0cHpYWA?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_tulum"
+ },
+ {
   "d": "2026-11-25",
   "h": "",
   "ts": "2026-11-25T12:00:00-06:00",
@@ -277,6 +404,42 @@
  {
   "d": "2026-11-25",
   "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Reportan toros sueltos en la zona de Ciudad Caucel, Mérida; llaman a conductores y peatones a extremar precauc",
+  "p": "Caucel",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Instagram",
+    "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16UVVheV9pNWpZLWVzUXQyQWdxVXpKN3B0Vy1Nc0w4RmFlaWJtNHNTV2o2bHkybVRqdTQ0R2o4M1lCeGpqWUpzbHRvVnpQZXNmX1EwTWRR?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_caucel"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-06:00",
+  "t": "Choque de motociclistas deja a una mujer sin vida en Dzan, Yucatán.",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2hyMUpDcXYxeWlkSnF3X3NtZG1VS1lqVnZLaGtacklSY2RTQTZyYkxoTGpjbnEtcW9wMkNScUdyT29ucGhSZ3YyY3dtNWpMQTRPY0FsYVFzU2tsVzZBOTBKZnlzVi1mbThXeDZ0eE9kSUhidkVxSjhjeTBNN3RtWTNmNVl4ZWh4dmZUT1hTN3k5MXJ4cEZpajdGMU8xQXVsUF9YU3piNE9tdUlUV3c?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_choque-de-motociclistas-deja-a-una-mujer-sin-vid"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
   "ts": "2026-11-25T12:00:00-05:00",
   "t": "Grúa se incendia y termina calcinada sobre bulevar Kukulcán en la Zona Hotelera de Cancún",
   "p": "Bulevar Kukulcán, Cancún",
@@ -431,6 +594,24 @@
   "creado": "2026-11-26T04:54:47Z",
   "metodo": "reglas",
   "id": "2026-11-25_microsoft-activa-codigo-rojo-tras-caida-global-d"
+ },
+ {
+  "d": "2026-11-25",
+  "h": "",
+  "ts": "2026-11-25T12:00:00-05:00",
+  "t": "Sujetos en motocicleta disparan contra el bar La Ciudadela en Playa del Carmen; no se reportan lesionados",
+  "p": "Playa del Carmen",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcENiRWZPajZhLTkzbmY3dHNtQmxDbHJYcHN0VXZvLTZLVEgwd1RNVlVJSUxMSEZNczFoeGR1Q042Ync4V29yd3lacUV6RDY4VXo4ZExmamt4ZlhxdGQ1bjV0WUYzemo4dEVpa0dxbDRjVkhuenhPNi1UOVVkZDd6SXRCLWJWbzl5ZUktMTJVRUQwOEFCOU4zcDhKR2xmZG1pUWxvU01qZkJZbmwxTUs4WXV4dFI2TnRxc0JmdUZsYWcwc2gwZ196VnVlbGx6S2JCamfSAdcBQVVfeXFMT3otUENKLURkcHR5ZmktSXZBYlpxUV9ZRXNUbFpESDFIMDQ2QkJNQzFIMUFWR05KR2RMMzRnX1lmZGJDQlpvMjFvZmZHUFdkdzFxc1N1bG52NnpSbHRTM25jeFhBbmQ4bHFrdXF1dlphdE5zRzBXUHlHNVF1aGR4NXBpSTRCZ3dWa1kxRDNTZFNZSXJSLWFrMG9uNjJxcHg2c2NqaFRHQVNmNlB0WnhfcU5vVmplNFU5dFotY19rRExWM0FFMVAtY2pYVWg0V3Z6XzhhVWlEU2M?oc=5"
+   }
+  ],
+  "creado": "2026-11-26T14:58:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-25_playa-del-carmen-2"
  },
  {
   "d": "2026-11-24",
