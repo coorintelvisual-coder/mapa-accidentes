@@ -18,6 +18,61 @@
   "id": "2026-11-27_merida"
  },
  {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Intensa retención en la A-5 a la altura de Mérida tras un accidente entre una furgoneta y un camión",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Hoy",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZmVaSTBFZS1SZVBnZzRMZjA5NkszcWxRU1c2NnAwWFJFMjJYNi1sTkZjekpGRGtfLXRWbTR6WjZOMFFjOWM0Q2lraWZJQm93Y3UzX1ZRVHF2NTF4QXV3X1B0M3ZRQjhFM1NOMnlPX1dXNnYyMWtvcFNQekVfamlXQ0t2QUY2NlAtc3BLektnN1J0X2JOdTdydWhrSnFadk1NNUd6bExJaHDSAa4BQVVfeXFMUExuMlFralludEhUc0VsUG1BMjlZblVqcmd2UUdkMjFHQmcwMnpmOFBSRkRYTVBYQ2ViQnlFaDI0dENRSWRaLTlRUnQ4ZG1xSV9HOEc1RFlnUXh1aVJFNEJDbjRrUGh5bktNcXhkdTlzUGxDaWNXZm8xbm5KbWtXdEFJRTA1ZkZpMEgtY3p6Wk5BLXdCZlNQRHFIUWVyMDE0U0hISjJ6X01ldVBteVFR?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T18:07:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida-2"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Vuelca pipa de gas LP en la carretera Mérida-Peto",
+  "p": "Carretera Mérida-Peto",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vU2s1Y0hFOEszYTN3SE81RFU4ejhqQXVZdlJfNENiLWlUZGgyR1dOWVlRbmdyWDB3R3IyOFQ3X1l2YzAtcXk4bkNGcWc2dlBwMTZMbXYzby10dVVLMk5jeGw5RGUzRC1XcUV2MDd0SllCbmE1S2hzSXdscGw?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T18:07:17Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida peto",
+  "id": "2026-11-27_carretera-merida-peto"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-05:00",
+  "t": "Incendio en Aldea Tulum deja a una menor y tres mascotas afectadas por inhalación de humo",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Elpuntosobrelai.com",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTzRuU1RSekxoOFpabENnOUkzNEJEdlVwOFpBMy11bXUwRTVuVWFNUXZjSXpBZS1NUXdaeUNxYzRNZG4zdzAwR3JSTVAtaGN2cVVsQlFmWm9JSGh2VGV3S3FLUGQ2MHpvaktnbXZyZ2Y2eUlvMlpsMklqMmRYN0NhbENleURYVWtWaEViZ3RpWE1sZklfQmNKU041WDUzYWdkUWFROXRwYVRHOFZ0a2xlQkQxb0x1cHJSQWVtQm9TUQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T18:07:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_tulum"
+ },
+ {
   "d": "2026-11-26",
   "h": "",
   "ts": "2026-11-26T12:00:00-06:00",
@@ -130,6 +185,14 @@
    {
     "n": "sipse.com",
     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVBzZzVlcDdBRmJXdjdSYy1RY2MwTjJpTHVEck53ZnRUWkNzbDFvM1lrdGFtVTFzQXYxVnJpNl91Q1NaT3FTTGp5TXVwV2ZfNHNrUGdfaWxJYWRUZlJvTzJfMm1UTkR4XzhnUXJTXzhEeDdRSzctc0pLQmZ0VDE3bGRQbXlweUtwTDVLN1M0WUtDaDJleHNkT0pWQUUxbWVobUxlRlhQYmZmcnYySDRreHJXeWRZYVVCVGQw0gHAAUFVX3lxTFBJdm0zOURSaTZaUHhYTXBKendQNUJQOG9LWEV1c1U1TU1IczF5ODJnTzktb1FKM3gzclB2Ml9Gd1hBdU4xRWlNeGVQZExLVERHbU1qVFhOX0l0V0FNVDJPSTF3MHZoQUZ1Z2lRZEdKNDBXWGs3c3dlbUpsTldPZENYMFVSaEI5UUI3cDdaU1N3aFd0X1RwS2M3SFhHRzNWUEIyNXRYNlVkTk1qbFFZZmt4QzdoWjhRYWEzb2pTNjdONQ?oc=5"
+   },
+   {
+    "n": "El Momento Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZWZXOHRnZVczNWZTZDJCOTByRGdwMlpPQ2I0QkZESVFRTVBtcG16YVhrWU5KMzY2alFkRURfZ3JmdzdQWS1pMkZFUEIwd3k1dE5ZSnpwN1lDcUREQUEtbHNYdGx5d3UwTjE1MTJ0Nm8tMWVfSGlpajJmR0c2RmE3cS1n?oc=5"
+   },
+   {
+    "n": "El Congresista",
+    "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSnRoOFhCTElCdTJKWnBmUXUzQ1pnck1KX0ppSGpsV180MmtNeXpfQmpJQmdRS2xqUHlmNkZ2Tk1aQWFQU2pyTnBfcEc2N2YwX251YmJOVDZDRjlpX1BJOTVhUm45a0hGZ3dpLTZPV3M3RE5xRkJ0cWw3U2NWc0lvN2l1VEdOUVRqNUdLYmhTWQ?oc=5"
    }
   ],
   "creado": "2026-11-26T23:42:48Z",
@@ -208,6 +271,24 @@
   "creado": "2026-11-27T08:05:47Z",
   "metodo": "reglas",
   "id": "2026-11-26_ricardo-n-en-prision-tras-el-accidente-donde-per"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Ciclista se estrella contra una portezuela en Seyé, Yucatán.",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzFiRHp0NnM5eDZhX3hvRloxSmxmOWc3LVZDb1FMT2lFVzlMRzYtTDQtUmgzMVctcU91UC1ZMV9GZzNSd0ZfQVdMbE41V0NfNGkxc3FCYmxWNFJWTE1GZU5lLXRveFgwem81R3BSZGNvVDRNWVRFNm12bldVYUMxZUdTT1YxcTZVTnFBYl8yX2RIaGpSYlh6UTNXSHZRVEMwNk5QSg?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T18:07:17Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_ciclista-se-estrella-contra-una-portezuela-en-se"
  },
  {
   "d": "2026-11-26",
@@ -16308,508 +16389,5 @@
   "creado": "2026-10-25T16:00:11Z",
   "metodo": "reglas",
   "id": "2026-10-24_incendio-obliga-a-evacuar-plaza-comercial"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "En el Centro de Tizimín, Motociclista Ebrio Embiste a Una Pareja y Acaba Arrestado",
-  "p": "Tizimín",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSkwwUFBMbHlWOUxud2RuZHIzYW50WjA4Zkg2SDJlYlZKOTVrOXdEaUNCdEczOG1XNU1SSkgwUUtoUmNhRnVMWjhBSTR4N3c1M2RSVHM0bmhicV9OR3h2MnFtMHZMX1B5VzREaWtJa0toOU4ydjlCcGdRV09iRlI2Zk9MYnlXN1h6VmZGcEpOTW5BWERrOV96bjlSai1TYjBYR2V0Y0V6NHB3bTd3?oc=5"
-   },
-   {
-    "n": "Quadratín Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQUZodERWMHBiaVBhZlQ5NU44WTBBM3pCTmMzaGxmdjB1MEVWU3R1UFZpMUVaSm1kSUVjV2xaMnFKTUxMT2VMUndlMkVWREpIbkl3dG01ZHUwR0xRZFU5QXZ3X3ZNdXBSUHkwV21WZzR6M1FQVFkxdEpOVERqWm1DUGxZcW0yQTFxNEEwbw?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T19:04:49Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_tizimin"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Patrulla de la Guardia Nacional se estrella en la carretera Campeche-Mérida; reportan varios heridos",
-  "p": "Carretera Campeche-Mérida",
-  "estado": "Campeche",
-  "tipo": "otro",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/campeche/sucesos/2026/10/23/patrulla-guardia-nacional-estrella-carretera-campeche-merida-reportan-heridos.html"
-   },
-   {
-    "n": "Tribuna Campeche",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckVTSVZfX0VKUG5vZlFxbjhPS3Q0UGJtek9VdnkxVTNOY3JqM0hYakh0ekRhem1NZzBhRFI0czREYjFQTzF3VmpEZWcwaGdPYlB3UG1qTGprNW9wMkJJRzJEY0paUGdoUENKckRJSDViYnlRSGFkZ3BPTnRVRndjMzhLUG9mVjVJbjRMRVVVbHcyaXZWUElISTBCWXVTM09FRVFn?oc=5"
-   },
-   {
-    "n": "El Congresista",
-    "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZTNvc05GNklkT1dreTFFMVRwSFI4N0hINW5nSjNFd3ZCNHdkWThBdUJKc1pKSkE3VHdXX29YcVotWk15Wl83d0NURDVFOHcyWFNyTkhSMThBRTBVT3pNZmhNV3RMU2hXSHhCZ3ZZTE1UV3IyR0ZybWNLRFhfY0E?oc=5"
-   },
-   {
-    "n": "El Universal",
-    "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUZjMzlDSXJJdGlfcUhJdFFpZzhfTFhma2xINkhUTDBCQktDNElLd01VR1hHd0hjLUIyeDhyZllPYlMyM2duUlRqUmVfN3RJUVNPWldOek81UE5NZ05WRFhpelhtZ3FpRkVtX051UHBDMkFEQndEcTZyNTlJZ2x0enMwSnIwQXktSWdDRGhCNFpOWDBqZ1BaajhDZXBobjNBbTVHUVdBa1JPSlZnTG00QUlTdHJUY3IzMlBYUVpoVTJSMVpuejZmZ1RCekhtZ0F6NVk4QjZLS1pvd3RzandDaWhLSVZ3a1Jkc2FKSVQ2WdIB7wFBVV95cUxPNUZjMzlDSXJJdGlfcUhJdFFpZzhfTFhma2xINkhUTDBCQktDNElLd01VR1hHd0hjLUIyeDhyZllPYlMyM2duUlRqUmVfN3RJUVNPWldOek81UE5NZ05WRFhpelhtZ3FpRkVtX051UHBDMkFEQndEcTZyNTlJZ2x0enMwSnIwQXktSWdDRGhCNFpOWDBqZ1BaajhDZXBobjNBbTVHUVdBa1JPSlZnTG00QUlTdHJUY3IzMlBYUVpoVTJSMVpuejZmZ1RCekhtZ0F6NVk4QjZLS1pvd3RzandDaWhLSVZ3a1Jkc2FKSVQ2WQ?oc=5"
-   },
-   {
-    "n": "La Jornada",
-    "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZDNaazRQYU1SX0JtNnNGb20wUjlyUm5xR0lxWm5VN0ViNXp3TFplVTY4UXpwNlIzaUdxS0YxbXZUUi1JMGtuSTVTaDE2MzBVdkkySkN2Rk50WGVCVmxoQlFIcC10UEotYzFqcG5zeDREenpFa0xmUXBrUVc4UUplSGNMMi1UZmlNQ0ZFc3F4Q2d1a2xyTGFpX3RHVVdxajZoRTdlRWhQRkNyam5OSXE4eEp4dWZjNm04c2diZQ?oc=5"
-   },
-   {
-    "n": "Quadratín Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnRmUVhndUhvTng5aXZtTjhDRkM1UGd2M09OYk5PekxhdjB2bjVXaDMwSmRoazgtLTdJWEdwRFVwREsyQ2JoeHVMOGxtdXQ0R2xNQm45YjBINzRaeHZlc1JBX1VkamtNWnVydjFGeC0xZnFHU1BQZUZpMno1ZjNHb0xIRU0zQTduZ25zbUpaNlpoTWRkQXNjOGZId0JsRVpvV1VBbTN5Yw?oc=5"
-   },
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNDI0MHZhMGd2LTRhcndWSlRNMU5aM0pHX3pSdTZaTW0xLTZaNWVuTkxTYmNvVVlpUVJ6VnFBWk0tN2JrTXExa21lS2FZVkx1djVIX2JfSGE3VS1hTVJYNE1GR0VzX1hLYmtfNWJLdHNsVUdfbGwtRDNEN2lXY1RsajdnQ2xqMVVESE1kQWdReXBram8?oc=5"
-   },
-   {
-    "n": "Gobernantes.com",
-    "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40M2FGWDFVVkJZWUxILWlXdjdnMHRMMmNLc0VUb2dvSlJ2QTdfSGl1UUdjMktvX0QzXy1SQXlTWEFMdm9VUFk0bS1aemg5UlhOaGVKMm8tUHNRdllBOXc?oc=5"
-   },
-   {
-    "n": "LatinUS",
-    "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ0F4a2pVTl9yWjF5MmVpcGlOb1lfdjdlV2U0NUFpSkw2VXlIV2JDZG1kWG5ESnJmaGNZWmdqT2ViSmlkVFQ3VFJHY3JGOWp0cU9QSDVuTnJtVlRDNklNMkhDYk5QYjktNEZ4RU1Oa3ZQZnRKLW9KOHNEODFLN01CVi1vV0kzV1FLQzVQTENxRjUxZk9TT3ZIcXRxUVVTam5oOGw2ai14TjE2RkRxdEtnV0YtQUJkTExNaTAyajl4WEtfY0p2cXpMeUo5Vi00OW14bml0SE0xZ094QTFJb3VNQUJR?oc=5"
-   },
-   {
-    "n": "Sopitas.com",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWNJSDc3Q0h3XzVrWE96ZDh6MFFrU2RxRGdfdlRyeDI5bkxpdkxGMjNNczlCVDI3ZDNVTHJyY0ZVVUNmMTd6ZjlpWmZCM3N6WkdzZmEwWHJobENMQnc3TWVZR3FVbURmSTdZT0ItWHBXUVVBcE80SFVWRTNtVUtYSkdDODdIUndLRExrQXNaYWtaVHEwR3c?oc=5"
-   },
-   {
-    "n": "Canal 13 Mexico",
-    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRzFiQ3cxWG1zbGgzNFZUUXNVSC1mcG9iTHREMG5PZFZscTQzNzZhMVU2S3hPdV9kOTJZMk8weFI0akxGMGhxMThIdmZDMmlQTmowZ0pMXzhCbmpaUmNTdzdWN1VVVjNxclMzOVBuSDlmNWlIWFMxdUFJbzVhOUxUM0puWWR4Z05MSkVBUTkwb1BIMDlrMmZ0UEpIcVJJRmdveklXTTQwR2t0d2gxMU1KWWYyT3RUaFZEZ3l1T1cweUVhbzhYYV95UHhjRGZrQzRy?oc=5"
-   },
-   {
-    "n": "Página Central",
-    "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaEhSVlZ2R2tZaEQzTGRCWlNTX3UwVnZZajlocFAtRVR6QkkzOEFCRGdDZEpiVFo1bTJjRmlfVkszTUJ1WUd2b2JfTDU4WURtYVllYk5WLWhna0dFTFphdUZzenFBbUFhVnNyZl9KVTlVN0l3Y2VUMlB6WGVRN0xEY1hiUXJhVTZZUmdzTklpQ1FSendLUngzNHFVenhVM3M2dTAwOV8xOE5HZDI3UU04Y1JyYVE5emNBbnhmX3VFdGd0aFVoU2ZwamNicXpxa3RBeElnQnV1RnlhMGxaMGVLQ0NxZHVEVHk2bUY4bNIB7AFBVV95cUxOaEhSVlZ2R2tZaEQzTGRCWlNTX3UwVnZZajlocFAtRVR6QkkzOEFCRGdDZEpiVFo1bTJjRmlfVkszTUJ1WUd2b2JfTDU4WURtYVllYk5WLWhna0dFTFphdUZzenFBbUFhVnNyZl9KVTlVN0l3Y2VUMlB6WGVRN0xEY1hiUXJhVTZZUmdzTklpQ1FSendLUngzNHFVenhVM3M2dTAwOV8xOE5HZDI3UU04Y1JyYVE5emNBbnhmX3VFdGd0aFVoU2ZwamNicXpxa3RBeElnQnV1RnlhMGxaMGVLQ0NxZHVEVHk2bUY4bA?oc=5"
-   },
-   {
-    "n": "gamavisión",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd290MExtRjljSmRSVVV6bXE1MDJGc1R0U0NtcTJfdTRwdXR5THIzQ0R6TFI5WGhPM213NkFSQnFmNXhxbFQyLU1MMV9YNHZOZUpuUmR2V1pxVG1iby1DbVdmVVJOdVNVVVMwWUNJM2pzV3V1SHNsTGFzQTFLcTVyeDM1c1phZmZSU0JFaDNCLThrMnl4aXlsYWN2ODlDb1N1eVVPaXBtVQ?oc=5"
-   },
-   {
-    "n": "ContraRéplica",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkpXODJJUTdQZUhOZ0VYRHhGWktvVnZQVXJSdzV6YnNPTUxoaUlhN2llUnAybkhqekRwYzcwOFQwcWh4dGJkd09PYmRTbnVmaDJidkx5QjM2NHp3dDZORHJqaEpCSlNDQWVuLUFoRnJHOVBjamlwZ3dDcE9ZS2d4bFJ5R0xzTGpZWXg4RDJwWmYwbTNlb2lYZ2poUEJLYkJRcHpkU3dnNm5wQnc?oc=5"
-   },
-   {
-    "n": "XEVT",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUt6LXhWcFZEZUU5Q1ZsQ0ZqYjlULThITlRhMVlrMXZnSmFmNlRpZVRnMXFreXBxcTNtLW81T2M1WTlWUjFIYmlZMThsTzE0TF9EUllfNDUzbl9KVkpObS1ISlM1LWFGWlZSWGdoU3M2dno5bVhUb3JXbGQ4SnRWN1czdFNoMjlWdWxicXJmRFkyd011enNsb250SHE?oc=5"
-   },
-   {
-    "n": "Vanguardia de Veracruz",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3RfemVySC01U3kxWGJKUTJUYkI3VEhaaGx5R0xzcmtuSkcyTkFOY0pFTV85VEFQTC1EcU1KQjRxUVQ5NURVVjVTTlk0THhEUFNvOFNiQ0p6OUxyYUhGUS1pTldhWmdZRTFnVGdFMExrZHdjTlZTM3lRUXlfTk1WRnR3dWlBR2hiT0Fta1lWNV9SZGh1R0VVRzRMNjQyRFNLYlY0?oc=5"
-   },
-   {
-    "n": "Potosinoticias.com",
-    "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zZkFVZnpDY3JVS3BqVHJJWkgwNVJaNDU3S1ZnbWtudW1BUzh0M1RXdTVaN1FibFM1WjVpbGY5blc5M2QxNVp2Y3Bhb1U?oc=5"
-   },
-   {
-    "n": "Debate",
-    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQkt4YW9mWkxzNGRjVlNndXI0V0dFY1N1WXgtZU5UZVhRaTZLdXRsVE1fMDFsRVpZaWREZ3VwaEVaSHU5em4wa2tYNTZGZUpqWlJwbURJNjhma2pmdy14a0tOdTFubFBfWWJ6UFU3OHBTVk1KLWZBMzlReFRtejlQTUNMQTk2aXFhUUlwSXpTTmFpc0ZsdVF1cUJrTS05QjZpWFB6bUlKSWNUcXNJdTFZZFBQNnBXdEdONmhNTHFGWTNUXzR4T19PTzRsOTI0UQ?oc=5"
-   },
-   {
-    "n": "Infobae",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOWJXUW0yUG14WGhXZUE3WEpBTmxTT25VRTF2OWtxZHRDd1RCUFRsLXhwVlk0M25Td2lGQjJLZk9fSFVCSVpwazVILVhBeEsxcm0wYTV2MTF6cDgzQ1BwcDlvdHNpSGdiN3hkSDdNOHFUd0xodWhVZWVsRFk5UG5zWXRXRk9sSDJRQzhpNWhTeVVzYmdfYWRXQUJVV1N1SG5lMGJsOWRYb3R6bWxCTkx6TXVyR3plclBVX3hoNV9lb19laU5wUGlHQmRJODYtUEJtSUhaNUE0aUlHUzjSAfYBQVVfeXFMT29sV3V5ek9nVHhRZ2ZaaFRwRUJUYWdYWjIzRVdENFBVeGV1WlhpRElLRmp1VHIyZU9MSDZMclphRXVzX0hEVTQ1Ry1OYWNxeklIRDB1UHNmVXItX3FCNmdibk9FQkQxSjJjeThKYnhJclRyc2ZaZ2lQZkxiSDdPejlvOGRaNnRZcFJCWFVMQ1IwYzItWGZXQTFQaFZ5ZUdKTEdkdTlYVC1kTGZEc0NVVkdFajdWSjRTSWozbEpBRWkzaU1UN0lfMDhCbGtCREV0VVZDdmtQWVpPaGZ1SUxXQlc0QzdrX1RfQWlOS21mVE9NcllxRXVn?oc=5"
-   },
-   {
-    "n": "Ahora Tabasco Noticias",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkJCclZUUEJNd01wMFZXYXRzNHJKeFc3VUpPdWR4cnVkdFUza2tpbE9JN1RiMzJpcG5wRlhkLU95V2ZVcHE5S3ZyaVNiX1RsY09PazBHVW40QkFmeTJUaV9vZnM4QUFrMUFQcnBLWjBDTmVmWmhzRVJIZEM5SU9mV25FeE1feTN6aXVvMHhLUFoxTkI5WXhVTDlVb2VKNkNkMXJzT21BV0x0N0VWaU9v?oc=5"
-   },
-   {
-    "n": "Unomasuno",
-    "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZUgxMEpsalpBSWxoR21xRVBPVVRoZERqOFE2MEJzNzlwbzAxYTM2aXlvNXNHbklLUS1iVGV2aFZTbGZ1cjdkbWhHVGQzZkVuMk03Tl84UjFVZTVXd1FfRlZFaGVxRDRSbnk5TUFaenZaV2hxRjFoQUtRVUtIQ18yVld1MENxT2QwM3Ywa3RSSXB0VXk4djlodThkSWktMzR2YUk5QXRMVW05a1k?oc=5"
-   },
-   {
-    "n": "TV Azteca Aguascalientes",
-    "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWUFhUkhCVXhxcHVkTGNEbmtuRGNITUNEbDRGa0VRTzZMNWJjNlFkNk9mRXdNNzFSNFlzdE02SUNDRy1YRTRKanVFVVZ3UnI1eWZiRVhNRzVMMHZ3Z2ZocGtFdjJuS0pvTWNESjd1VVhCUDlXUG0xU3Jlb21oaE5WTUlSQ1NwTVFaaG9XQU5FdUs0MExocmZHS2FfT2QtNm9mcVZqaXJwVUk4bmhBOTdpRUQ4NVVTWmRkN1ZLT25DbEp6REpk?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "clave_lugar": "campeche merida",
-  "id": "2026-10-23_carretera-campeche-merida"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Se Registra Fuerte Choque Entre Motocicletas en el Fraccionamiento Vergel 3, Mérida",
-  "p": "Fraccionamiento Vergel 3, Mérida",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlVldnY5SFhKRjd2bzNkQkZJUURMN1R0VEZCVFhrakU3SG5XNEVaSmlRbHFNVE9JR0NYMTh2S2lmb05pZ3Z1Z0tLRk4wQkk2cjZrUGh2MVNYOThTc0FKcFNmN1dkTllHSEI5TEVzazJJM0xNYi03Tmx2QVRLOXNMdWxRc2NVRlpPYWYtQWdQbEpWWkY5LUVLZVVsNG9ZV2RiVDMyenJ2SGVWNkhSVkE?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "clave_lugar": "vergel 3",
-  "id": "2026-10-23_fraccionamiento-vergel-3-merida"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Vuelca contenedor con cristales en la carretera Mérida-Progreso",
-  "p": "Carretera Mérida-Progreso",
-  "estado": "Yucatán",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "yucatanalamano.com",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmV2MzVKTGV4bDBkaWNyaEpjNmw2bTFuLUNhbUstM2RVVXRheWtqWWw4cldUTmNHRFh6U2RqZkx1ZnNyYkNRZVVhLWp2aFJtQnRZazRpTTA4LUV2V1Zma2toVGEwZ1ZxQVdiV2RIRXVRM05fQnpzeWVzMG5JWWVKT3U0UWlsdi1QTmh6ck14MGJoZW5faXc?oc=5"
-   },
-   {
-    "n": "Sol Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYzluZjlkQlRDRWdSWndST0lINjdKYnd2dGRzUnV2Zk9XNnNkVUVxMDZReFRNWXYwaXZ5UEpTcTAwMFhoT1h2Ukd6a3VtTG9id2FjN0E1OFF6N29ybnl1NGhQQV9vNWE4QW80eFFKTGlBNDViY1BxRnVqdkc2dmQ1WEJyaw?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "clave_lugar": "merida progreso",
-  "id": "2026-10-23_carretera-merida-progreso"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Volcadura de camión en Campeche de la GN deja 10 elementos lesionados - 24-horas",
-  "p": "Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "24-horas",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdkNMcHVsbkV0emRWRTdOcm5FMGdlS2U5Sm11WUxPSFdIUHh6THlpaVUxeVYtRFhSY19oNHI3bmVGYkpjYmF0bGlmUXh3Y2pBdTdETml1TUVVUzRsSzdWYzJ0ajRraVFtX1VHeHZwSm1waTlPQk40blMwbVptUjZLbDRXSjhSS2JRQkpuMVJHYUR2THk3aVlqRmFZZmIwYnc?oc=5"
-   },
-   {
-    "n": "N+",
-    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlkwdDl0Mmc5elJvcHVfcHdjVDhUUTVuS2h1YXNGVzJ2ZkFBTERrQnk5VVZGbGVOb3dtWnJmN3hzaTV4ZGZjV2J1Y0ZTR19QckhMeVBsNnU1V2U4a2p2YmxRMGNEdWR6Ymd5UGdFSElONG9GalhaZ0VZX1IzWHE0NzRYcndVaV96OTU4dEpsSDRYaDRGd3lnbWtLUXFHLVAtMEV0anBibF9DeUJPV2FYNjI3M0RNeHFUZHZHdUQ2Tng5dkNUcDNIaVUyUTBmTURyX2lF?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T05:40:23Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_campeche"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Al menos 10 agentes de la GN resultan heridos tras sufrir una volcadura en Campeche",
-  "p": "Campeche",
-  "estado": "Campeche",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Sin Embargo",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUDRCdVlEMkx4UVBpWkxtR2wzTzFBZld6Zi1UbGZLUHRhYUlSV2dPSktsbjFyUlNLLTRST3VmdHR5OFM5NHdWQWMwMVhTNjhEbnk1WW9Pekp0akxfdmt6OGVWTWl3RXdxWS1iVXhuS1ZrQzcybEFENVVVbjBEQk1kcEdMMThkUHRXMktVTlZtaGhqa1FrNzM3ZlBDUkdRMEpTWkRLbmtVNUZvR2xnVEp0MjRMVEJPUzgtZkE?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T05:40:23Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_campeche-2"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-06:00",
-  "t": "Reportan INCENDIO de automóvil en Prolongación Montejo hoy, 23 de octubre",
-  "p": "",
-  "estado": "Yucatán",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "TV Azteca Yucatán",
-    "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXlyb0txaUZCQ0t0Q0pIN0NuYkZkc3MyQVhublZfTDBBX2t2aDlSbk9kdzduMEtrODVhMzdJVldxZUF1ZUtDaUlQSzdXRzExVVpnQnZEY04xeFp4ZTdLcGlRY24zY3owejZxZXM3ZWRzT2tDenV4YVNHSzVIZUE2bjROLWMyVE5KTkhzZDhacnlGdFQ5VXNCSjVvVTZwSUdRNkpNQmI1dEJ5cnBVSVQ5T0hmeUU?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T10:47:10Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_reportan-incendio-de-automovil-en-prolongacion-m"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Aparatoso acc1d3nt3: Conductor que viajaba con su perro se estr3ll4 contra tráiler en la carretera federal 307",
-  "p": "Carretera federal 307, Felipe Carrillo Puerto",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "TV Azteca Quintana Roo",
-    "u": "https://www.aztecaquintanaroo.com/trafico/aparatoso-accidente-conductor-que-viajaba-con-su-perro-se-estrella-contra-trailer-en-la-carretera-federal-307/"
-   }
-  ],
-  "creado": "2026-10-23T14:55:00Z",
-  "metodo": "reglas",
-  "clave_lugar": "federal 307",
-  "id": "2026-10-23_carretera-federal-307-felipe-carrillo-puerto"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Persecución policiaca terminó en un accidente y con personas detenidas en el Puente Nichupté",
-  "p": "Puente Nichupté",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://www.poresto.com/quintana-roo/sucesos/2026/10/23/persecucion-policiaca-accidente-tres-detenidos-puente-nichupte.html"
-   },
-   {
-    "n": "El Congresista",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTREbGpJYjVRQ3JQVFdrUDgtbnBJMHJqTzdCbmZwSXd0TGdyYWpJQWdVN3VDOE53VEljMUtmZXhiaGdzZktnd0EzLVU4a3I0MDc0NU1odWlCNUlVN1Zoa3VPMktFcmVJLWt5LWpaZ3hFa1lsSFpyV0ltdExyTmZzeE9tTFcxcG5yR3ZWX3hEWFppM3VVX3gySw?oc=5"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVJMRGlCcFNYRGNucHZoSE5fRHFZYWtqTEd2dkV1Wk1tUERuSHJLdE5OMFFnNGxQdXBuU3N4TjZBUG1taXhXUmp0ajVBX2NHeXJ3MFRxSWRYNS1PWEdHM25vbTZCTTRCdWtRRlJISWVPeWU0bENOSDJlcVd6ZjA2dFpZWndMNE9YSUw3dzA5aFM0OTZMOEF4cnN0bzBnUWdyQ09r?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T14:55:00Z",
-  "metodo": "reglas",
-  "clave_lugar": "puente nichupte",
-  "id": "2026-10-23_puente-nichupte"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Caída mortal en juego mecánico",
-  "p": "",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MlJpWm9JMDBwdmlZYS1neGVCemNtSHVDamEyekhBRG9RZHU2ZU5leTNkMkRlY3FtQnpVMDgtS195X1VWMUtIX0JORlk3R0ZRYzM3bWRuUEdhMVVGSVFvYTVvLVBzalN60gFwQVVfeXFMUGpGSFB5TUUyb2g1dVdVVXRBRDBOb1RoRTR4c3hkVVNTMFBxZ0xnZDlKUERGZWxKaWZvbHpRSGF4UmF1a3pyaUFiSUNoZDBWcTkzYlpBSVlvWUNDRVdpSUEyTHNtUDVQN3BWTlFzOElJRw?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T14:55:00Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_caida-mortal-en-juego-mecanico"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Camioneta se pasa el alto y embiste a motorista en Playa del Carmen",
-  "p": "Playa del Carmen",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Noticaribe",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaFlZaFpVZHhUMU9uQ21rZ19YaHRGeWdjd1NnMzVhY2JWbHRDUXNQcWRvY0UyTGVLYS12U0p4YXdzQVIzcFhmbVh4eVNqVXlYRndIQ2NCUGNkdl90R1NJaXk1ZGZwU2wya2ZHYkEzclB3M3VYU295U3FyS2RDQWx6ak80eVpHcnE3aXRyZDFOMEswTXdCbGNoNmdhYU9YbFNJTEV3REpYTjM?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_playa-del-carmen"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Joven pierde el control y derriba palmera en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMEdEbzlqbVBnWjZmT1NWSzJQblYxQjYyU0wyNGY0QTNfbHVvY3dibzl4MElqaVhHQlJaakxYcHJyMTJFLXQwZlQ5TFFwaEpmaUd2djN5MDBaVUtGVmJ4OUVNWmdleTB5SFViS040a1pPemIzUkliNnNrenY3OFBWbFhpWHZBcms2eHc?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_chetumal"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Aprehenden a hombre tras presuntamente quemar a su pareja e iniciar incendio en una cuartería de Cozumel",
-  "p": "Cozumel",
-  "estado": "Quintana Roo",
-  "tipo": "incendio",
-  "src": [
-   {
-    "n": "Turquesa News",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLUJJQjQydkttR3hJTHBDTnhnYmlHeHo5aGlvNC1Oc001WFVsV0diMHZibVRDWWFrUVRpU0VFYkpILWRDTFc4NWZLU2NWV1AyYlZrQlBfWHJkTC15eW83OVdjM3ZISnBXYUNrbHJWamtzTTdoeTg3UEZHWnVrNXpFMldEVWZzOHlMWHN1M1ZWUDlVREV5WXFJQ0t2dEtrdW1UZXptSk9DTnhfWGdvUXZOTnpIcFRTTUo2Q2tmREktS3JLTWpMMHdNd2hYNzJ4Yy1fTFp5YXVTRGrSAdgBQVVfeXFMUC1CSUI0MnZLbUd4SUxwQ054Z2JpR3h6OWhpbzQtTnNNNVhVbFdHYjB2Ym1UQ1lha1FUaVNFRWJKSC1kQ0xXODVmS1NjVldQMmJWa0JQX1hyZEwteXlvNzlXYzN2SEpwV2FDa2xyVmprc003aHk4N1BGR1p1azV6RTJXRFVmczh5TFhzdTNWVlA5VURFeVlxSUNLdnRLa3VtVGV6bUpPQ054X1hnb1F2Tk56SHBUU01KNkNrZkRJLUtyS01qTDB3TXdoWDcyeGMtX0xaeWF1U0Rq?oc=5"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1lPcm45MV83S3ZfVS1EOUFxSkpwYm5VQXd4dk9ORGNSUzFrRGhqM1VBZ1BxZzdabzBRRWd2YVh6Z0lNbjBnbGQxMjRBWENvQnVGTkFjVEg5bTBCVlIyS3FMWGtjRHJsRXFWcXdWN01NejFEdGtyMS1IUnE4ZThfbjNQUzdadHFiSVlzVFZnYkp5RDNFTGRQNmhYbS1NQ1NIdW5wSGVB?oc=5"
-   },
-   {
-    "n": "Quinta Fuerza",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmE2M1RQLXpkc2xXNmNFN3ZiTkRIQ2VrSDVWaFBmX0Q2YWpGcUVLSnFiVDExMEZOSEt2bXpia3czcEFwd1EwRW8taHNNRFh6OFBJY2hUc1ZjbWRVUVVPRTN6YzVwVlhYUC10M1ljaDZnUUJkVjU1NTBvVDNUVEpxMW1lckMwWWpBY3NSR0VUWnlnRHNvVThua0lmTQ?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_cozumel"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Doctor vuelca su camioneta cerca del Mercado 28 de Cancún; iba ebrio",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmNtZDlGMS10a1EwQk5KcGExSDQya0x5aXZsdTdLbWF3emJOOGMwMHZCM1J1amVsTGNKZ1FnMzNVM1BiUTRIWWZ3QVRXTkNqa3VQdnBzMjBQSVZJWWcxN1RZS0t6bGgtNTNiRmRHaF95UzNkbUhNdm52cVlnV1FNUnIzeUJKRUsxdVpLQXJLX2ViTDdkS2dv?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_cancun"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Llegan fin de semana con accidentes de motos en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quadratín Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVd2cE82RXNUcElhcFplMFlqV1ZQc3UwbHlPdWZpMEpFdUlNLVpnZkRzNklwQjZCeXZxZ29lZjdpdkkwbk1iNWhpV1hmTlJHaUEyYzJDZng0VlVQMFBTMjFNLWhUR0RzS0xnTm90UzBGOUxCUHVDWnFFNHVrYzFjVWQtMXZ3ZjdkRm5ROUt2cnZOQmVXajJIdk93?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_chetumal-2"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Camioneta Vuelca tras Cruzar el Camellón del Boulevard Bahía en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Diario CAMBIO 22",
-    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQmoxQ1dKWTRNeTlQQWo3STJrZnFZekhBR21ILXJpRkVFck5IR1lNTGN5RFpUdnphWXpJQzNONTJPODYzZ3BOMEhGbndRd2MzNlo3clEzOF9BNTJ2TmtveElvRkxIcEoza1ptQ0otZUFidldlcmZBVVZ0SHRjSnpqdXpaMi1SdXNTRXVUbDNSaHFVTDV6WXFnZkQxa0d1VFFY?oc=5"
-   },
-   {
-    "n": "DRV Noticias",
-    "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZXFzdVRyQVJFLTVHRFRCVzZjaVNkMEFUeHRpbVhNcnk3MGhmeUpTNGVuc2U3UnU4Z1l2cllNYVVLbkQ5U3loMnRYVXM3bDdOVEJLZXYtRkpIOXp2bU1VQ2E2ZUxkQ1ItUGNwWDVmYnJ3aVJKSGM3VXJkRDMydks1eWU0SXBvdjhibU5CbzFMcWZHV19obFF3OXZMYmpxcWdEd3ZLZXlR?oc=5"
-   },
-   {
-    "n": "Periódico Sol Quintana Roo",
-    "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCU01ZcF9IQmlRX0hKRUEzUmt1VEtTTXRKZmdtZWZTSS1XelgyQklVNkNsUzV1WnliYlRNNmF4ZU1OUVBrOHRMeHJ3MG10TWpwVkkyRW5SUUsza2FDd0NVZ3NUUVg1NkhRMzZPYjc3SkJBbTTSAXtBVV95cUxNcnotV3hPN0I3VE9qODZKQlpLSENWWktvMVhkYVNET09sOERYYkJCZlh5MFhxWXNrRWdYU0xHdUxTTnVyTENxREQ3Y0hzUDE2dUMyNmxta0puX05jb1R6R056N2tJZWMtcEFtd1ZUNVZELUlETTl6dWF6RHM?oc=5"
-   }
-  ],
-  "creado": "2026-10-23T22:02:46Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_chetumal-3"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Denuncian demora de peritaje tras atropellamiento en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Quintana Roo Hoy",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXkwSHNqd3pISzJzaGloRF93QksxWHAxb0doZTl1V3RqdHo2bkV1akNSWUFXdkFyWmdmeDl0QWlocUhsWHU4VFNWa0lFQzI2a1dGRVlOMW80dmRPX3huR0F2aFZNLTI3dktNM1lkMVFVQnp1aHgtNlpiY0gxOTZJcThPMjZZcnJrb2dR?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T00:30:26Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_cancun-2"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Conductor se pasa el alto y provoca fuerte choque en calles de Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREJDckFscklPeEZ5TExvci1sTDZjaE1BSGRuNzd1Skh1Y3pEZGptYjhmdGdYZjFmano1WFNLZE5RZndJcmhJRm44cWJfTktGalQwQktiejJnempkeVQtdkNZanlFbDV1dy1PSURKVFVQM2M2UDhlbHVhaUNGaGVjU0U0MFI3U1IxU2IzS2ZrQU5PX0M0N2Q4?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T00:30:26Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_chetumal-4"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Chocan dos vehículos en estacionamiento de Oxxo en Chetumal",
-  "p": "Chetumal",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "DePeso",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazIwWmVncTBOVlFBc2lyXzJJTWUxak5FM1I3dmtYMUs3eXdGaWVkbm5ZejNXZTUteXd0dGxra0RDMGhPTVh3RFlOWXB6ZkJESHo1S1d1ejBpZ3hpcUhuWGNvbUY4djYyNjRBaWJ6eGhVcHA4Y0hscjBuODgwM3FtSkJzVExrdnMxMk05M0wtaF9QMHpjZEY0?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T00:30:26Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_chetumal-5"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Médico vuelca su vehículo frente al Mercado 28 de Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Caribe Peninsular",
-    "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemZHTGZmemEwRFZuYl83UDJ1eE1BMzNUcHpLNzZaVE13RFBPWEwzbzNQRG9nTTRIaktXVHJzYXRiUkhuMnZwMU1wU0RZN2RRY1VoRjMwVzQ2QTlrY29zbHJSYVExblJyTmJaalpXWU81NXl5LUdJX0E2c3B0ZU1GQU5vbk1CUzloYW5DNWF3?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T00:30:26Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_cancun-3"
- },
- {
-  "d": "2026-10-23",
-  "h": "",
-  "ts": "2026-10-23T12:00:00-05:00",
-  "t": "Camioneta embiste a elemento motorizado de la Dirección de Tránsito Municipal en Cancún",
-  "p": "Cancún",
-  "estado": "Quintana Roo",
-  "tipo": "vial",
-  "src": [
-   {
-    "n": "Por Esto!",
-    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORk1yX1R4YktiNV95V1RMSmliLS1hTzIyZ0lDNHJjVk1jM1NRclRaRWxOalFMcUY2UnVNSFlpVXRvZXR2U1paVUx2TXAxYUVSaVc1aDlMRko4MF81SDFlX0ktd0J4SENFMmY5QmVwWEdGUFRJQjF2TjdRM1RNSmdLaXpzTWxUMk5NeGliNkVCZzNLNGFVSC1vRGpodFc3X2IxRlh4WWo3X0JETS1IaEhMTXZiWkxjQ3lGeGN1WEJLeVpvUjV3QU1sbXhvUW5uZ9IB0wFBVV95cUxPVUZQOVpvRU1DZW5JNVZkNkwxWlViRlR0VUtRck11NFRsZTVBeVFfczBzeVRacWEycUVLVXlTOXRQRWU5N21zUjlDdENhdnYzTnFqYjFvVEkzeXc4UVdUNTkyU2d1Zzl4SWRrandiVm96c1UzcERQWEdoTTMzMS1DU1Q2TDMzNDkzRWRuRjZRS21yXzJ4Q2JRemJmRkJKYzNHRDFXVXdHSlVFbFpsSkw1RC1wc2RyZXhoUjdON0VfU09oNE9VWFg3NmRRa3ZkU3ZHeFZV?oc=5"
-   }
-  ],
-  "creado": "2026-10-24T10:47:10Z",
-  "metodo": "reglas",
-  "id": "2026-10-23_cancun-4"
  }
 ]
