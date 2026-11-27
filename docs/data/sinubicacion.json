@@ -1,5 +1,23 @@
 [
  {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Carambola mortal en Mérida causa la muerte de Natasha Parra",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Segundo a Segundo",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa0paQWt4akRYN1pZTlpWZjZ5aXQwdDgydWlHRERpajViNnhEdkR0d1FWZ01uT0szaVRGRVF0U2NwTzRRS0tabXFNQU9ueWdVODYwZXBZNEJKYm51T20tM1ZsVXY5dUZ2NGZrdkhrYVdWN2NQcUVITzVPSmQtX0M2UGhlQkNFRVJtRGlFUV82UndkQQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida"
+ },
+ {
   "d": "2026-11-26",
   "h": "",
   "ts": "2026-11-26T12:00:00-06:00",
@@ -55,6 +73,10 @@
    {
     "n": "Tribuna Campeche",
     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV29MY3E0WGVkS2hHa3M4bFRHV1FHdnNRNUpDdWJjMk5FWF9laWQtR3hSZVVQM3N0eHdTT2w0ZGlDZnFydjJHTms0SlMyNTVaenowQXZPQUpyS1FXLW5QS2p4YlQ4UTNoMEREcW5KUm01Z3pNLVZUN1RFQkdmNXo0cGJDMzBLV2JfVWVLTXRBd1hyclhjS3Jmd2JNdXU3eEdyTkJFUmZWLXZmM0FPMnhhbjBwSzJfNU5Gb3ptcXZmN3pndw?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejNjSE9SRjRhR1IwYWJXT3dnRm95ZlB6WTRmMHBWZU1jTm9oWVdrREV3dHBXSXpnR0xLbnhmb0JBRGJhTFpQS3JBYkd4RWttNTJyYnBWVnc2aW5CWGpncFozMDBPdHU3N01SZkJfZVp5OTl1U0FfamI5akZRNHYtV2NBVE9yV3dtQndMU2JIaGZNSllPenByckQteEI3UWFCeHpieWxzdzB5bWI5ckQ4NnVPSFN5RFk?oc=5"
    }
   ],
   "creado": "2026-11-26T23:42:48Z",
@@ -92,6 +114,22 @@
    {
     "n": "Quadratín Yucatán",
     "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOUhwaE4yd0ZMS3ZMdEQ4RHJRQ0pNRDRTS040RVNtc2MwZDY0cTk1Y2pVRDBfV1VrN1ZBcHVPSzJjNk96TU1TblhfaV9SX3J4T05PS2MzNXQ0ak5iR05hQloxMG1STFAzUG1CNTM1eWhrV21XM3BkSDJ3WnZ4bkFkcE1sd1hxMnVwUUdKUHZGa0t5WER0dkFUMFUwQWRjSHdT?oc=5"
+   },
+   {
+    "n": "La Chispa",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeGkzVXJwMnlYcHJGZkVsMms2aF8wd1hDejAyUzMyRHVZa0lQejk2VUpscWo3OXZ4bVNYa2JDYWZVbmItRHM2ZnotaFhJNlo3eUd0azRIb1NPOUJzNmthazRQY0hBN1JJdUFGQjFfWUxDOWtiZ3lLR2lfSWNmMF8wMHNSSWxZRUdETkU2QnhJVFBQaG11MVFLXzVkeVdUT2RpeHo2VkJ2a01vbGNUcHc?oc=5"
+   },
+   {
+    "n": "Diario de Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVUpia0llRXRDMWJZeDNnQ2VibEFTOWFaQ3VXSGJ0ZXRaczhDeWRHbEZ3LXM2LWpSNlVMamZVZjBSWGZ1QkNEb01XOHBldnN5cGhmSlltQVNrai1kYVl6bXVIcVhIMS03cUZNWkJCRzkwZ29yX2xoMlE3QzluNTBXLUNCYWFFQjFtOG9HaWJTMjZlMnlCeEJtN01mazhENjdqZ29aNlo0S3p6QmxwaXhNd0xCeUNoWXRPRW9PX0xJRQ?oc=5"
+   },
+   {
+    "n": "PostaMx",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWtuQS1HZW1NOEdPRy0wT2gtS0k4bkR3Z09CYXktWDRqbS1WbHh2ZTRsSF9PSnJGWlptRTRaQXZKQTJ4dWJnSVFmT1g1LWNXUE12WHZjakRqN0VDRnlrTmFoVWZvN2d6N2ptMjhVTGVyUXR4aTd4NWJISjVBZ25mcjFLdUZqWHRVa3hyak9LclpZblFraUZnSVVsRTQyQmplSDktMXBiblZBVVlPUHJjb0VkSmlQX1p0WldGZ19SVFA4elhRYUE00gHMAUFVX3lxTFBPUnR0bVVjRl9WejBwcVJpbHZmN3VBX3Fyb3dQMGRreG9aejVsaFAxRndnMEpxQ3NoQl9NYUxJYm9QX21RU3V0cXdlNmhldEF5SmpKOWlpMEEwOW1XVm44NGd4SnBsVmhzbXlMbUMzSkMxODVZUlJTeHJiY1c4WThhWUEtZEVyN3RJQm9yYzEzNXlNUnFJampPUFVxNFZJbTFGNzNFZFhKcVFPX3gxY0tWem5rbS1kY1pvQnJWdE9ocEw1ZDFhQ2FaNzRCVw?oc=5"
+   },
+   {
+    "n": "sipse.com",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVBzZzVlcDdBRmJXdjdSYy1RY2MwTjJpTHVEck53ZnRUWkNzbDFvM1lrdGFtVTFzQXYxVnJpNl91Q1NaT3FTTGp5TXVwV2ZfNHNrUGdfaWxJYWRUZlJvTzJfMm1UTkR4XzhnUXJTXzhEeDdRSzctc0pLQmZ0VDE3bGRQbXlweUtwTDVLN1M0WUtDaDJleHNkT0pWQUUxbWVobUxlRlhQYmZmcnYySDRreHJXeWRZYVVCVGQw0gHAAUFVX3lxTFBJdm0zOURSaTZaUHhYTXBKendQNUJQOG9LWEV1c1U1TU1IczF5ODJnTzktb1FKM3gzclB2Ml9Gd1hBdU4xRWlNeGVQZExLVERHbU1qVFhOX0l0V0FNVDJPSTF3MHZoQUZ1Z2lRZEdKNDBXWGs3c3dlbUpsTldPZENYMFVSaEI5UUI3cDdaU1N3aFd0X1RwS2M3SFhHRzNWUEIyNXRYNlVkTk1qbFFZZmt4QzdoWjhRYWEzb2pTNjdONQ?oc=5"
    }
   ],
   "creado": "2026-11-26T23:42:48Z",
@@ -115,6 +153,61 @@
   "creado": "2026-11-26T23:42:48Z",
   "metodo": "reglas",
   "id": "2026-11-26_buscan-a-conductor-que-ocasiono-fuerte-accidente"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Va y Ven casi vuelca en Periférico por maniobra prohibida",
+  "p": "Periférico por maniobra prohibida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZDIwc2tlMnNGYzFIRk0xc2dKZjFIbHhaOTFubG9jc2I0QzI3RE9hXzM5ZDBHUkVnTUw4cWs4MnNHeG5ncW5vTVk0RkdpcDlNYVVGZGRIc1poNU1qcXA0QlpmOTNtX3p3dlY0Unp1QmNRR1d6RVBDanh6OVJIM2dmRHlKd0Vrc00?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico por maniobra prohibida",
+  "id": "2026-11-26_periferico-por-maniobra-prohibida"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Accidente de Va y Ven hoy jueves 26 de noviembre del 2026",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS2RZWk1Wc2p1ZUN5MjhRcmtHR3ZndE8xNmxCQWpvNUZESEhNNjBKeUY2cjgxNWE0Ml9MVUVrRmpXai1rSWplaF9xbTVoMEtEUkpQWWJVYnZRT1NHQkRkYUVGUzJMbzJHQnVaT1VGT245V1RkN2VDNl9UYVVBNTk1RUt6SlR1NGFVZzZQMVhyRENaM1I1TGl2bXNPTTZ6ZkI1TjhiWGgtTk52cm1PWER6OVlRMFlhajlnV1k1UUdjN184cVQ2bXhYdnBuSjd2TTBo?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_accidente-de-va-y-ven-hoy-jueves-26-de-noviembre"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-06:00",
+  "t": "Ricardo N en prisión tras el accidente donde perdió la vida Natasha Parra",
+  "p": "",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObFZZanliLTB0SXU2VUg1Wl9fcVJZVGFQSXBYTWJLTGJHemxmS0UtbWFLR0dQYmZaR3czVXhZNWttV0RCRjFBdDFMV1ZrOEkzeDNCY2VERWp1dzBXbDlaNE9pcFBIVXE2dUY2T3lyb1dobExueUhXaDFfRlR1VmJnRlZMRjhGRWN6UFU1NFQ0Rlp5cVBKeTIyOUJWbWVHU0ZoMEpmMXY5dTNuR1lYV29DaFdhQ0Z0eEgweUU5QkJ4SXBicEgxUjNNa2NucEx0enFVOFdhSHBZNnU3d1FjV3U0U1FKTXlDdw?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_ricardo-n-en-prision-tras-el-accidente-donde-per"
  },
  {
   "d": "2026-11-26",
@@ -279,6 +372,42 @@
   "creado": "2026-11-26T23:42:48Z",
   "metodo": "reglas",
   "id": "2026-11-26_playa-del-carmen-2"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Vuelca Automóvil tras Choque en Pleno Centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGVEZGhTcEVQM0FEcEpfYUVXRjN3OUdLUC16Z2s0RG9BNWhNcDZTcG5zMnVOUEc1ZVg0TGNWb29TOTYyLVpCdUMtNGZKSTcxcURrSXAtSGFfVVRlQmlaa2VIeE9Sejc5VHJ3T1FhTUpZYkt2ZG83UzI2SkFYTUdKeG43RkpEUWtPSVZ3?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_chetumal-3"
+ },
+ {
+  "d": "2026-11-26",
+  "h": "",
+  "ts": "2026-11-26T12:00:00-05:00",
+  "t": "Motociclista Resulta Lesionado tras Chocar Contra Automóvil en Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Diario CAMBIO 22",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU3pqZUNGV1FiYzVQN296THZzWXVSaVFqbXhzMDJCbVhSR2o0eldpcmN2V1JyY2R6MkhaWDN4LUNXQjN6RmhSWno1aHRlalU1dnlROEFGV2FVclFKM2RxOGZMdXVHWGs1aUNHUUVvWU5aZEdRZnYyT19sLWQwdXUycjNyM3JlUDNKcW9xQUtBWnp5eVBpUXRZOEYxTQ?oc=5"
+   }
+  ],
+  "creado": "2026-11-27T08:05:47Z",
+  "metodo": "reglas",
+  "id": "2026-11-26_tulum-2"
  },
  {
   "d": "2026-11-25",
