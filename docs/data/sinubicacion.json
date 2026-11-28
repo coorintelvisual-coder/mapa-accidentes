@@ -47,12 +47,182 @@
    {
     "n": "Sol Yucatán",
     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vU2s1Y0hFOEszYTN3SE81RFU4ejhqQXVZdlJfNENiLWlUZGgyR1dOWVlRbmdyWDB3R3IyOFQ3X1l2YzAtcXk4bkNGcWc2dlBwMTZMbXYzby10dVVLMk5jeGw5RGUzRC1XcUV2MDd0SllCbmE1S2hzSXdscGw?oc=5"
+   },
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2djMW0zUFF4UlhFWW9YMjA2MVFmMmFiOWpoNWhycndRcklYLTJEZjN0TV9qM2czMzZfbG8zVExLZzJ0MHdWWXpENUpsR3pvblk1SjNfRnp5SUx3VnJGaTlWTHZNcjdJLVBOaEZlZ0V4MVhRalR6QzVOWkZDejJHVDNOVWYxaWF5ZFhOYktocG4tbGp1bGFBZ1VjWk0tRjlfRnpnSVhCR3VhNDdWcXc?oc=5"
    }
   ],
   "creado": "2026-11-27T18:07:17Z",
   "metodo": "reglas",
   "clave_lugar": "merida peto",
   "id": "2026-11-27_carretera-merida-peto"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Detienen a conductor tras fuerte choque que dejó a mujer lesionada en Ciudad del Carmen",
+  "p": "Colonia Manigua, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/27/detienen-conductor-fuerte-choque-dejo-mujer-lesionada-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "manigua",
+  "id": "2026-11-27_colonia-manigua-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Camioneta de la CFE le cierra el paso a motociclista y provoca accidente en Ciudad del Carmen",
+  "p": "Colonia Caracol, Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/campeche/sucesos/2026/11/27/camioneta-cfe-cierra-paso-motociclista-provoca-accidente-ciudad-carmen.html"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "caracol",
+  "id": "2026-11-27_colonia-caracol-ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Vuelca pipa de gas y cierran carretera Tixméhuac-Tekax, en Yucatán",
+  "p": "Carretera federal Mérida-Peto, Tekax",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/27/vuelca-pipa-gas-cierran-carretera-tixmehuac-tekax-yucatan-2.html"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "federal merida peto",
+  "id": "2026-11-27_carretera-federal-merida-peto-tekax"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Incendio de automóvil en estacionamiento del INPI en Hopelchén deja una persona lesionada",
+  "p": "Hopelchén",
+  "estado": "Campeche",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbXF2Z0s1S2JNU0J4elVpckRDWE11S0JnY3dzdk1UQWg5YUcteDhpaTZmOWlxRzdXa3FlX0s5dFNscFllT3hBT3BGZnRUN3h4YWZ1MmticnhDdngwMGljNWphZGJFWEROaXI3eGFjMG0xYm5TUzhUNlk4VHVyeG5VWVZmVVBjN0x2NmZOa1k0aFp5ZF9WckxCRGdjQWt6al80Xzd5c2ltMm51ZlFfV21razZaZG5xR2x3OFotNHNldk9nZ1JYbjVxVF9ZUlE4d9IBzgFBVV95cUxQbXF2Z0s1S2JNU0J4elVpckRDWE11S0JnY3dzdk1UQWg5YUcteDhpaTZmOWlxRzdXa3FlX0s5dFNscFllT3hBT3BGZnRUN3h4YWZ1MmticnhDdngwMGljNWphZGJFWEROaXI3eGFjMG0xYm5TUzhUNlk4VHVyeG5VWVZmVVBjN0x2NmZOa1k0aFp5ZF9WckxCRGdjQWt6al80Xzd5c2ltMm51ZlFfV21razZaZG5xR2x3OFotNHNldk9nZ1JYbjVxVF9ZUlE4dw?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_hopelchen"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Se incendia y queda calcinado un Nissan Tsuru en el periférico de Mérida",
+  "p": "Periférico, Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNkpjZ1cxT3hUcWNtQnowYU4xMFp0bC04S2RTeVBWNk01SHlfY2Eya2FDX0lRLW5VNXc5RTVLbjhneDQ2LTlFb3RUVTZiWU5xaWxMY19lZVBuM3lFcWNHX205ZzB4aWZDS0JmUF81RllpNnBzelFuZmZZNFRoTzN6Vkt3QTVPM0p6dGtmZzZkN1ZienVqYjNjWWRRUDMyQkp3dXZpUEpjaThGb3NQ0gGyAUFVX3lxTE9EeS0tX01hUUl3cnBXT3dobi1YSEZmcXI5VmtNMzR5TTBvYUNMQUJWd3RLdXpnSlFzWDdjQUVCcllTLVc1QzZkcmpQOFFWcXp0Tl9rcElUTmVaT1Fub1NGOGJVellGc1F6MVl2c24wa25MVlZERW5kczBYNGh0SkJwb1o0Wjd4XzZFM3ZnYTJkVlhtanVwYnVsRTZNRlppTndUeF9CT2JScHYweE95ZlFlSlE?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "periferico",
+  "id": "2026-11-27_periferico-merida"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Motociclista resulta lesionada tras choque en Cinco Colonias, Mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2t3QjN0VEkxWC1jYmhPbFZodVJNbmNOTWNYT0lUVDVWVG5aMkM1OG5kY1Z1dk1kUlplSld6ZmpRS2d3dC05UjhTd3J4TVh3MFJ2Z1pFSFBaTkFDb2tUOGdBc0taVnZSQ1lBbTRCU3pXUXlGNWVjUHlvSEJCMUtDNGxNUkN1eFRaN2dBSFEweFBuWlhSZ001cjlGZ3kzbGJScW5uTWJuS1lDZ1pnZ1HSAbMBQVVfeXFMT3VOOV95RktWM0NBSkRhdWxPYkhkNjAwSW1DNGQwZW5NcElRV2N0XzFMbkdXSGhPY0lEN1E0bFNKaHI2d3NDYnV0RUt4cXUyMHBTQU5qUjN2TUU4bmUtVUVHRmxUeU9qdVZJcjF6b3EtX3FWdEtJMW1oMlM4Nm9PbHc2T0NHTExhdjFTaTRTM25KMUhDWm1GTDg2WUJBWG9DU2RoYWlMQmhDdTFDTUthaC1pLXc?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida-3"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Tractocamión queda atorado en paso peatonal y causa caos vial en Ciudad del Carmen",
+  "p": "Ciudad del Carmen",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV3cteDRrZnU1bTBHV05tREN6cEhYU0I0NS1GX2tNT1VxdzdwcktySkZCOHNPYXRUMHRWOEhuOXV1RzI1b25iYkNJRkFScldNeFZEQmtzbGh1OW5FUm0zV3dpQXA3SjJjcFNzTmlfeXJJUGVxQlNmdWE3SklxUUFxdzJYb25pWHhDX0ZtV1FzdTUwRkhLOFdfLXRGc2E2N0VjdW0wN3pMMWxISFdXa1c0Y3Z6YXY0bE9KaWtIWmd3VHRwbHFZZ2fSAcsBQVVfeXFMT25JZkYtUnU2RkVHaVJ3b2lRT0RXZDdTLXZvUlNlOHhNcXNjaTdKbGdiQjNhQS1mMWtzWktDSmJobVZqY1ZEa05rM1dRa3ZKcTEzNDJTQ0YwcXRuanFZUHFwaF85UTJSRENtYWhmbmNVaFJWU3JWNms2bWx5MXBmVzJQaTRKTUJ2am5IMG93c0M4dGpXN2N1S2RkTlJiWTJROWV4TTVsYU9OaXp3cmxVNlMxRDlna3NyOF9SWkt1Sk54Qy01aE1MS0VfUEU?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_ciudad-del-carmen"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Conductora pierde el control de su vehículo y termina sobre el camellón en ah kim pech",
+  "p": "Campeche",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Tribuna Campeche",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDR4dVdzVkpucndVRFF6NzU5SHIxZVllbVVNRGszN01YeUlmZEtZZklnSE5BRGQweXE2dHE1ejNyeXA3dTFKR3RPRjdPSUplUi1fSUlNd2ZLd1BOTzdtaUxfVndmMDVlNG5MSUdXVEdrd05XOWxITUFnVGJLcjlhRWFESDBtV0FYUWd3RENtYk1TcVZ5U044UmxpWGFuQXBFU2ZmVnFMZnhaWG15YUQyVVJiREIyYWxoX09BRm9sOHFQMFE?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_campeche"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Por constantes accidentes, vecinos exigen reubicar anuncio y colocar semáforo en Calkiní",
+  "p": "Calkiní",
+  "estado": "Campeche",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOGRFS1hlZE5zX044aXBVMEdjZlowa0UtQ1MxNHJPXzhhbmlKazVEaUxLdWFkUmowQzlnVDl3TzBlb3dIYXlzb2Z6dWVtWGdxbFV1QVFnQ0dRNGxRX2RQWF9rZXhHUTMtVXYwZ1hLTVBoOFAzeWJMTTJrTjZkN2ljTFNsblVmRE1fUmctV1BXd0hWVVNGdlRkTkVtR3pvbHJQcWFPQlFITzB3dXc5MzJ3SEM4M3FhRzNUVzhuMVhnWXJSNHF6UVHSAcsBQVVfeXFMUHJMV25CZDZRN2daVUIzallaWHRDSVJRdTdLRTRvSkZkZmF2aFg5UTd0VjlXUkROX1MtSkZIQ3c0elN2c1ZjNXFVNFJULXg2RGg1bVk4d3RYWFJUQ2wwdk1yTzE3TGlWczI3N1RfY3h6Vll1NTdEcllQRjJNQjRvS1dnb3BxR0w1UmNXd1lBRUw5VXEtZzM5VHZ1ekZTdnhvTmt2Q2FHTjNveDc1elM5Ukx4dnNCRlRzemozaWVVZ3ItX0ZKVFdqSzI4U1k?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_calkini"
  },
  {
   "d": "2026-11-27",
@@ -71,6 +241,78 @@
   "creado": "2026-11-27T18:07:17Z",
   "metodo": "reglas",
   "id": "2026-11-27_tulum"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-05:00",
+  "t": "Mujer de 79 años resulta lesionada en choque entre tres vehículos en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNU1UakZ1WDRUSGl0amZPcVEweDltV1JfMV9UdG1BNnZ3SC1Ba0Z2YWREcUdBZDhWLThmM1NwRG9RREtUVGduWHRzWmx6N09WY1I2eV92NWxUa2lMME5DWnR6TjN3N0VMcUNGLWpFNzZPX3JSSFF3b0RiYU9DeFdQaDZTbXpqS3Vsb1lKUU9UTHEyci05bDN1SGdwazZjc3laVmw2a1l6OENoZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_chetumal"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-05:00",
+  "t": "Conductor ebrio se estrella contra barda del Tren Maya en Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "otro",
+  "src": [
+   {
+    "n": "DePeso",
+    "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc0lZVWF3NmhUMmtnSmdjSV8zSUpQSWhlZlJUWGk2WEhjNUR0M0E2T3FOQzNEVko0OHFBSmhoWGZHMjVVNEYwb0ZZa21RbE15YnRCbVJ5ZnN5T2E5Y3hWR1JfdXNrcUdPbjhuSnBmeHRROHdvekZsRTZRdXdLSFJmWWtJSVFzNTQ2eDctMzZIcFVXeXB2SUxuQ20zVHhhY1BS?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_chetumal-2"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-05:00",
+  "t": "Camión y motocicleta protagonizan choque en el centro de Chetumal",
+  "p": "Chetumal",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Periódico Sol Quintana Roo",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzdRUnBQQzVvME94RE5SX2hjVmtpRGxVRlQ5RHhYbUI0TkVyUlRxc0pYWURNd1RBNnppdy1vUVVYNGRxM2RiN193QWlUbXRlU29KaWhtUmVNekpXWXhWcG5pbnNMLVA0cVhvSGZpY083dnlCS19iZGx3d0NwNzBtZFdTSE5wd1dwcnYza0cyRWRzbGM2azVj0gGfAUFVX3lxTE1UVHhhTDdtdkpMUTUxMFBwOGd1enY2Wm5IeVVfNTVrTWlBZ214OXdhaUQzZ3YzX1FUck1JQ2lCSFJaYlEwTGhyNEpxcXhVSTlCM2Q0RDlpZ0dkemZsWEpnNGZxc0d4SXdQWlZJekROZnNpY185Q1h1UnNrM0dUblhRdzFjSG5Md3FPcWprNk12dTYtZW1hT3hOQ2E4elVNaw?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_chetumal-3"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-05:00",
+  "t": "Motocicleta se impacta con camioneta y una familia termina lesionada en el centro de Tulum",
+  "p": "Tulum",
+  "estado": "Quintana Roo",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSFBkRDdPeWRUNnBrMXVkMmFkbkpGSFpDQmx0TElmUWZNQ3c3RkptWlZqYm5FcC12YXF6Zl9SeUh0VkxCclAySXpKZFpRSkY3WFp3ZHdfZXhubExaNVdqNURXZlJzQjNVdDhnbEl6VkNoT0pRUTFDNl9hYUNBOTJPVXVXUG9yclhSdVB5SjJaTFYzNTFUUU9WZ1FBM3J1RExxSGRuUzU5a3ZpS3dyWURRaklsYkY1R1RPNk1vWFI3VVdOYXpZLXdj0gHHAUFVX3lxTFBIUGREN095ZFQ2cGsxdWQyYWRuSkZIWkNCbHRMSWZRZk1DdzdGSm1aVmpibkVwLXZhcXpmX1J5SHRWTEJyUDJJekpkWlFKRjdYWndkd19leG5sTFo1V2o1RFdmUnNCM1V0OGdsSXpWQ2hPSlFRMUM2X2FhQ0E5Mk9VdVdQb3JyWFJ1UHlKMlpMVjM1MVRRT1ZnUUEzcnVETHFIZG5TNTlrdmlLd3JZRFFqSWxiRjVHVE82TW9YUjdVV05helktd2M?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_tulum-2"
  },
  {
   "d": "2026-11-26",

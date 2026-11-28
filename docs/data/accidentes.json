@@ -1,5 +1,28 @@
 [
  {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Muere hombre dentro de un motel en Tizimín; investigan el caso",
+  "p": "Calle 79, Tizimín",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "Por Esto!",
+    "u": "https://www.poresto.com/yucatan/sucesos/2026/11/27/muere-hombre-dentro-motel-tizimin-investigan-caso-2.html"
+   }
+  ],
+  "creado": "2026-11-28T01:52:08Z",
+  "metodo": "reglas",
+  "clave_lugar": "79",
+  "id": "2026-11-27_calle-79-tizimin",
+  "lat": 21.12905,
+  "lon": -88.161511,
+  "pr": "tramo",
+  "sev": "fatal"
+ },
+ {
   "d": "2026-11-26",
   "h": "",
   "ts": "2026-11-26T12:00:00-05:00",
