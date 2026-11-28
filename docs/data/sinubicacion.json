@@ -227,6 +227,79 @@
  {
   "d": "2026-11-27",
   "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Tragedia laboral en la carretera Mérida-Umán: muere empleado de paquetería JT tras caerle encima un pesado por",
+  "p": "Carretera Mérida-Umán",
+  "estado": "Yucatán",
+  "tipo": "laboral",
+  "src": [
+   {
+    "n": "Sol Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2djLW5CT1R0RzlnOW1xSE1MTURYejR1VUlOZlIyVV9jR3ladzJvVkZUVXZwbFRESEk5QlRyMFBtYXNMM1lmT2dlVEkxS1l6VlRnOG9zMkU1cnNRdHZJczRNd2RVdjVkYzJ6Z1l4dEhTXzd1cnlmQVhtLTBLY0tHSmJGS194OE1pbUFhUzhINDV2ekpMWXROMTE3dEx6TUZ1TnNrTUl0RUlZSUU2aHJlanpLVW1DWFktcnN5YXYxbEN2Zk1uVEtxVjByNzJzME1Z?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T10:11:15Z",
+  "metodo": "reglas",
+  "clave_lugar": "merida uman",
+  "id": "2026-11-27_carretera-merida-uman"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "¡era su herramienta de trabajo! incendio consume auto de herrero en mérida",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "incendio",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNV9UQTl1NXNmZUhfVHFmZFZZZVdsTE9GR3RNdVRpNjhvdDRvOXlZTnpLSWNPdnFEMXBKendaNkVXNGIwa0huYUZnRU1BMzlqQ0lvT1RyMldIaWhLY2dXSk1mNW03a3VsY1dIWEVYekxnMG1ySDEyOEV1bU9IT3RfMUJ1N3doLVZORHU1SG5sc3ZYV0pvbmhHVWVqTEowV2h2OTJwUFkwTHMtQTZMMlJaS1ln?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T10:11:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida-4"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Mujer pierde la vida en la Mérida-Umán",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "TV Azteca Yucatán",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT256SjFRekNfbm1rRmE5eHI5X2JLWUlUMHhQY25BVkJocURGVzBzWjl6VTZLaWc3eEU5ZmQta2RQbFYwNHZqellfeUJzaWFLdDMtN2JvVFAxUkhtaEprVGQ5VTVKUHF3VmRIaktBQ3pFM2lNY2VmcWt3UE5rQmhfMzhzT2t1c1hnX3BrdXFjamdKeUFkV2RFcGdMV0hxQW50QXBldTdsNHRLVEduWUFyMkFyUVVPQy05MlgyeE1henVXZw?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T10:11:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida-5"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
+  "ts": "2026-11-27T12:00:00-06:00",
+  "t": "Señora de la tercera edad sufre accidente en el centro de Mérida.",
+  "p": "Mérida",
+  "estado": "Yucatán",
+  "tipo": "vial",
+  "src": [
+   {
+    "n": "La Revista Peninsular",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzNvTXViWHdSWEJfYk4wSXRySnpiVnpLQm0yRWt3S1VLZTZ1Y0xwRDBOZDdJdlZ1YW02ZkFZbjhQWDV5NHVrdkVrRDl1eVY5d01tYVNaTjBUZDVRbUhzZGtNcmZwWjNJWHRSZUtXX2lhVG9sQ2lfSnQzMEVxU0gwejR3clRMaDk0Zk9VNnhvRjhWMllIdTRxSlA0R180eW1ENnN6SmU4cHlKQTY1?oc=5"
+   }
+  ],
+  "creado": "2026-11-28T10:11:15Z",
+  "metodo": "reglas",
+  "id": "2026-11-27_merida-6"
+ },
+ {
+  "d": "2026-11-27",
+  "h": "",
   "ts": "2026-11-27T12:00:00-05:00",
   "t": "Incendio en Aldea Tulum deja a una menor y tres mascotas afectadas por inhalación de humo",
   "p": "Tulum",
